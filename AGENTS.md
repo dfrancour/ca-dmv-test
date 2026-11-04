@@ -11,7 +11,6 @@ A study site for the California DMV knowledge test: a reader for the California 
 | `docs/design.md` | How the site looks and behaves, and why |
 | `docs/evaluation.md` | How content quality is measured, with baselines to compare against |
 | `README.md` | Layout, local development, deployment |
-| `docs/launch.md` | What's left to do once the site is live (domain, search consoles) |
 
 ## Commands
 

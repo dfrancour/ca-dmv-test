@@ -62,8 +62,7 @@ Vercel deploys each push to `main`, by `vercel.json`: the build runs the checks 
 - **Trailing slashes are required.** `trailingSlash: true` sends `/handbook/x` to `/handbook/x/`; without the slash, each page's relative `<base href>` would point one level too high.
 - **Only the site's own files load.** The Content-Security-Policy in `vercel.json` allows nothing from elsewhere, so a script, style, font or image from another address needs adding to it. It also blocks Vercel's toolbar on preview addresses.
 - **Analytics.** `js/analytics.js`, on every page, loads Vercel Web Analytics and Speed Insights: anonymous visit counts and real visitors' page speed, without cookies. A browser sending Global Privacy Control or Do Not Track loads neither. Locally, `serve.py` answers `_vercel/` with empty scripts.
-
-One-time setup (Add New → Project → import the repo; turn on Analytics and Speed Insights) and the rest of launch are in [docs/launch.md](docs/launch.md).
+- **The domain.** `ca-dmv-test.dfrancour.dev` is a CNAME in Cloudflare, which holds `dfrancour.dev`'s DNS, with the proxy off so Vercel issues the certificate. The project's own address, `ca-dmv-test-eight.vercel.app`, redirects to it: progress is kept per domain, so a visitor must only ever see one.
 
 ## Licence
 
