@@ -1,0 +1,20 @@
+{
+ "section": 14,
+ "questions": [
+  {
+   "id": "q-three-second-count",
+   "facts": [
+    "three-second-rule-how"
+   ],
+   "prompt": "The car ahead passes a sign. You reach the same sign before you finish counting three seconds. What does this mean?",
+   "choices": [
+    "You are following too closely.",
+    "You are at a safe following distance.",
+    "You should speed up to keep pace."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Count three seconds after the vehicle ahead passes a fixed point. If you reach that point before you finish, you are following too closely."
+  }
+ ]
+}

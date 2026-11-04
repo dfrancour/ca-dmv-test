@@ -1,0 +1,486 @@
+{
+ "section": 3,
+ "facts": [
+  {
+   "id": "vision-test-all-applicants",
+   "kind": "process",
+   "text": "The DMV gives a vision test to all applicants to make sure they can see well enough to drive safely.",
+   "cites": [
+    {
+     "block": "xt8y5p",
+     "quote": "DMV tests all applicants to ensure they can see well enough to drive safely."
+    }
+   ]
+  },
+  {
+   "id": "vision-corrective-lenses-restriction",
+   "kind": "process",
+   "text": "If you take the vision test wearing corrective or contact lenses, your driver's license will have a corrective lenses restriction.",
+   "cites": [
+    {
+     "block": "xt8y5p",
+     "quote": "If you take your vision test with corrective or contact lenses, your driver’s license will have a corrective lenses restriction."
+    }
+   ]
+  },
+  {
+   "id": "vision-test-fail-dl62",
+   "kind": "process",
+   "text": "If you do not pass the DMV vision test, you will be asked to have your eye doctor complete a Report of Vision Examination (DL 62) form.",
+   "cites": [
+    {
+     "block": "xt8y5p",
+     "quote": "If you do not pass your vision test, you will be asked to have your eye doctor complete a Report of Vision Examination (DL 62) form."
+    }
+   ]
+  },
+  {
+   "id": "knowledge-test-multiple-choice",
+   "kind": "process",
+   "text": "For an original driver's license, you must pass a multiple-choice knowledge test.",
+   "cites": [
+    {
+     "block": "grsh5g",
+     "quote": "When you apply for an original driver’s license, you must pass a knowledge test with multiple choice questions."
+    }
+   ]
+  },
+  {
+   "id": "knowledge-test-three-attempts",
+   "kind": "process",
+   "quantities": [
+    "three attempts"
+   ],
+   "text": "You get three attempts to pass the knowledge test before you must reapply.",
+   "cites": [
+    {
+     "block": "grsh5g",
+     "quote": "You are allowed three attempts to pass before you must reapply.",
+     "marks": [
+      "three attempts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "knowledge-test-minor-retake-wait",
+   "kind": "process",
+   "quantities": [
+    "seven days"
+   ],
+   "text": "A minor who fails the knowledge test must wait seven days to retake it, not counting the day of the failure.",
+   "cites": [
+    {
+     "block": "grsh5g",
+     "quote": "Minors must wait seven days to retake a failed knowledge test, not including the day of the failure.",
+     "marks": [
+      "seven days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "knowledge-test-elearning-renewal",
+   "kind": "process",
+   "text": "When renewing a driver's license, eLearning (a no-fail, self-paced course with quizzes after each module) may be an alternative to the knowledge test.",
+   "cites": [
+    {
+     "block": "grsh5g",
+     "quote": "When renewing your driver’s license, eLearning may be an alternative testing option. This is a no-fail, self-paced interactive modulated course with quizzes after each module."
+    }
+   ]
+  },
+  {
+   "id": "knowledge-test-no-aids",
+   "kind": "process",
+   "text": "You may not use any testing aids, such as the California Driver's Handbook or a cell phone, during a knowledge test.",
+   "cites": [
+    {
+     "block": "grsh5g",
+     "quote": "You are not allowed to use any testing aids during knowledge tests, such as a California Driver’s Handbook or cell phone."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-original-license",
+   "kind": "process",
+   "text": "When you apply for an original driver's license, you are tested on your ability to drive a vehicle safely in a behind-the-wheel drive test.",
+   "cites": [
+    {
+     "block": "mumkjj",
+     "quote": "When you apply for an original driver’s license, you will be tested on your ability to safely drive a vehicle."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-renewal-medical",
+   "kind": "process",
+   "text": "When renewing, drivers with a vision or medical condition may be required to take a behind-the-wheel test.",
+   "cites": [
+    {
+     "block": "mumkjj",
+     "quote": "Upon renewal, drivers with a vision or medical condition may be required to take a behind-the-wheel test."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-multiple-instructions",
+   "kind": "process",
+   "quantities": [
+    "two or more instructions"
+   ],
+   "text": "During the drive test, the examiner may give two or more instructions at once to see whether you can understand and follow both.",
+   "cites": [
+    {
+     "block": "mumkjj",
+     "quote": "The examiner may give two or more instructions at one time to determine whether you can understand and properly follow both directions.",
+     "marks": [
+      "two or more instructions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drive-test-bring-permit",
+   "kind": "process",
+   "text": "On the day of your behind-the-wheel test, you must bring your instruction permit or driver's license, if you have one.",
+   "cites": [
+    {
+     "block": "pp4d8z",
+     "quote": "On the day of your behind-the-wheel test, you must bring:"
+    },
+    {
+     "block": "fa6px3",
+     "quote": "Your instruction permit or driver’s license (if you have one)."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-bring-licensed-driver",
+   "kind": "process",
+   "quantities": [
+    "18 years old",
+    "25"
+   ],
+   "text": "Unless you are already licensed, you must bring another California-licensed driver at least 18 years old (25 for minors) to your behind-the-wheel test.",
+   "cites": [
+    {
+     "block": "pp4d8z",
+     "quote": "On the day of your behind-the-wheel test, you must bring:"
+    },
+    {
+     "block": "d2jxzh",
+     "quote": "Another California-licensed driver who is at least 18 years old (25 for minors), unless you are already licensed to drive.",
+     "marks": [
+      "18 years old",
+      "25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drive-test-bring-safe-vehicle",
+   "kind": "process",
+   "text": "You must bring a vehicle that is safe to drive to your behind-the-wheel test.",
+   "cites": [
+    {
+     "block": "pp4d8z",
+     "quote": "On the day of your behind-the-wheel test, you must bring:"
+    },
+    {
+     "block": "993rps",
+     "quote": "A vehicle that is safe to drive for your test."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-bring-insurance-registration",
+   "kind": "process",
+   "text": "You must bring valid proof of insurance and vehicle registration to your behind-the-wheel test.",
+   "cites": [
+    {
+     "block": "pp4d8z",
+     "quote": "On the day of your behind-the-wheel test, you must bring:"
+    },
+    {
+     "block": "7afjat",
+     "quote": "Valid proof of insurance and vehicle registration."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-rental-vehicle",
+   "kind": "process",
+   "text": "If you use a rental vehicle for your drive test, your name must be on the rental contract and the contract must not exclude behind-the-wheel drive tests.",
+   "cites": [
+    {
+     "block": "xycpup",
+     "quote": "If you plan to use a rental vehicle for your drive test, your name must be listed on the rental contract. The contract must not exclude behind-the-wheel drive tests."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-minor-retake-wait",
+   "kind": "process",
+   "quantities": [
+    "14 days"
+   ],
+   "text": "A minor who fails the behind-the-wheel drive test must wait 14 days to retake it, not counting the day of the failure.",
+   "cites": [
+    {
+     "block": "wwk8ct",
+     "quote": "Minors must wait 14 days to retake a failed behind-the-wheel drive test, not including the day of the failure.",
+     "marks": [
+      "14 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drive-test-driver-window",
+   "kind": "process",
+   "text": "For the drive test, the window on the driver's side of your vehicle must open.",
+   "cites": [
+    {
+     "block": "3m5m2s",
+     "quote": "Before you begin, the DMV examiner will ask you to locate and demonstrate the following:"
+    },
+    {
+     "block": "t7f7ay",
+     "quote": "The window on the driver side must open."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-windshield",
+   "kind": "process",
+   "text": "For the drive test, the windshield must give you and the examiner a full, clear, unblocked view; windshield cracks may postpone your test.",
+   "cites": [
+    {
+     "block": "5tjxx2",
+     "quote": "The windshield must allow a full, clear, unblocked view for you and the DMV examiner. Windshield cracks may postpone your test."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-mirrors",
+   "kind": "process",
+   "quantities": [
+    "two rearview mirrors"
+   ],
+   "text": "For the drive test, your vehicle must have at least two rearview mirrors, one of them on the left side.",
+   "cites": [
+    {
+     "block": "d3p692",
+     "quote": "At least two rearview mirrors. One of them must be on the left side of your vehicle.",
+     "marks": [
+      "two rearview mirrors"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drive-test-brake-lights",
+   "kind": "process",
+   "text": "For the drive test, both the right and left brake lights must work.",
+   "cites": [
+    {
+     "block": "szgak3",
+     "quote": "The right and left brake lights must be operational."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-tire-tread",
+   "kind": "process",
+   "quantities": [
+    "1/32-inch"
+   ],
+   "text": "For the drive test, your tires must have at least 1/32-inch of uniform tread depth.",
+   "cites": [
+    {
+     "block": "qrksm6",
+     "quote": "The tires must have at least 1/32-inch of uniformed tread depth.",
+     "marks": [
+      "1/32-inch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drive-test-no-donut-tire",
+   "kind": "process",
+   "text": "A donut (spare) tire may not be used during a drive test.",
+   "cites": [
+    {
+     "block": "qrksm6",
+     "quote": "The use of a donut tire is not allowed during a drive test."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-foot-brake-clearance",
+   "kind": "process",
+   "quantities": [
+    "one inch"
+   ],
+   "text": "For the drive test, there must be at least one inch of clearance between the bottom of the pressed brake pedal and the floorboard.",
+   "cites": [
+    {
+     "block": "9veubq",
+     "quote": "There must be at least one inch of clearance between the bottom of the brake pedal and the floorboard when depressed.",
+     "marks": [
+      "one inch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drive-test-horn",
+   "kind": "process",
+   "quantities": [
+    "200 feet"
+   ],
+   "text": "For the drive test, the horn must be designed for the vehicle, work properly, and be loud enough to be heard from at least 200 feet.",
+   "cites": [
+    {
+     "block": "np8j5v",
+     "quote": "Designed for the vehicle, in proper working condition, and loud enough to be heard from a distance of at least 200 feet.",
+     "marks": [
+      "200 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drive-test-parking-brake",
+   "kind": "process",
+   "text": "Before the drive test, the examiner will ask you to show how to set and release the parking brake.",
+   "cites": [
+    {
+     "block": "3m5m2s",
+     "quote": "Before you begin, the DMV examiner will ask you to locate and demonstrate the following:"
+    },
+    {
+     "block": "czjctc",
+     "quote": "How to set and release the parking brake."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-arm-signals",
+   "kind": "process",
+   "text": "Before the drive test, the examiner will ask you to demonstrate the turn/arm signals for a left turn, a right turn, and slowing down or stopping.",
+   "cites": [
+    {
+     "block": "3m5m2s",
+     "quote": "Before you begin, the DMV examiner will ask you to locate and demonstrate the following:"
+    },
+    {
+     "block": "rfpnjb",
+     "quote": "Left turn."
+    },
+    {
+     "block": "hhgprh",
+     "quote": "Right turn."
+    },
+    {
+     "block": "ehv5fy",
+     "quote": "Slowing down or stopping."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-wipers",
+   "kind": "process",
+   "text": "Before the drive test, you may be required to show that your windshield wipers work.",
+   "cites": [
+    {
+     "block": "g427bd",
+     "quote": "You may be required to show they function."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-seat-belts",
+   "kind": "process",
+   "text": "For the drive test, all seat belts must work properly and be used by everyone in the vehicle.",
+   "cites": [
+    {
+     "block": "7jzswn",
+     "quote": "All seat belts must work properly and be used by the individual(s) in the vehicle."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-vehicle-rescheduled",
+   "kind": "process",
+   "text": "If your vehicle does not meet the drive test requirements, your drive test will be rescheduled.",
+   "cites": [
+    {
+     "block": "vvs53k",
+     "quote": "If your vehicle does not meet the requirements, your drive test will be rescheduled."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-interpreters",
+   "kind": "process",
+   "text": "Interpreters may help during the pre-drive inspection but may not ride with you during the drive test.",
+   "cites": [
+    {
+     "block": "xvxwub",
+     "quote": "Interpreters may be used during the pre-drive inspection for the identification and use of certain controls in the vehicle but may not accompany you during the drive test."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-only-examiner",
+   "kind": "process",
+   "text": "Only the examiner may accompany you during the drive test, except for training, service animals, and certain law enforcement situations.",
+   "cites": [
+    {
+     "block": "uyu458",
+     "quote": "Only the examiner is allowed to accompany you during the drive test. Exceptions are made for training, service animals, and certain law enforcement situations."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-no-recording",
+   "kind": "process",
+   "text": "Using a recording device (video or audio) during a behind-the-wheel drive test is prohibited; if it cannot be turned off, you must block it.",
+   "cites": [
+    {
+     "block": "k9nw6j",
+     "quote": "The use of a recording device, including a video/audio recorder, is prohibited during a behind-the-wheel drive test."
+    },
+    {
+     "block": "k9nw6j",
+     "quote": "If the recording device cannot be powered off or disabled, the applicant must block it"
+    }
+   ]
+  },
+  {
+   "id": "drive-test-no-driver-assistance",
+   "kind": "process",
+   "text": "Advanced driver assistance systems such as automated parallel parking, lane departure, and adaptive cruise control are not permitted during the drive test.",
+   "cites": [
+    {
+     "block": "3sjmnd",
+     "quote": "advanced driver assistance systems technologies, such as automated parallel parking, lane departure, and adaptive cruise control, are not permitted during the drive test."
+    }
+   ]
+  },
+  {
+   "id": "drive-test-backup-camera-allowed",
+   "kind": "process",
+   "text": "Backup cameras and blind spot monitors may be used on the drive test, but they do not replace visually checking your mirrors and blind spots.",
+   "cites": [
+    {
+     "block": "3sjmnd",
+     "quote": "Vehicle safety technology, such as backup cameras and blind spot monitors, may be used on the drive test, but are not a replacement for an actual visual check of your mirrors and blind spots."
+    }
+   ]
+  }
+ ]
+}

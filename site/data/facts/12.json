@@ -1,0 +1,198 @@
+{
+ "section": 12,
+ "facts": [
+  {
+   "id": "driving-observer",
+   "kind": "practice",
+   "text": "If you are concerned about your driving, ask a trusted licensed driver to ride in the passenger seat, observe your driving, and suggest improvements; professional lessons or classes are an alternative.",
+   "cites": [
+    {
+     "block": "xfmfyw",
+     "quote": "If you are concerned about your driving, ask a trusted driver with a valid driver’s license to sit in the passenger seat and observe your driving. Your observer should note any dangerous driving behaviors and give suggestions for improvement."
+    },
+    {
+     "block": "xfmfyw",
+     "quote": "Consider professional driving lessons or driving classes as an alternative."
+    }
+   ]
+  },
+  {
+   "id": "reexamination-authority",
+   "kind": "process",
+   "text": "The Vehicle Code allows the DMV to investigate and reexamine any driver's ability to drive safely.",
+   "cites": [
+    {
+     "block": "88bfan",
+     "quote": "The Vehicle Code allows DMV to investigate and reexamine every driver’s ability to operate a motor vehicle safely."
+    }
+   ]
+  },
+  {
+   "id": "reexamination-not-age",
+   "kind": "process",
+   "text": "A physical or mental condition or a poor driving record, not a driver's age, can be the basis for reexamination.",
+   "cites": [
+    {
+     "block": "88bfan",
+     "quote": "A physical or mental condition or poor driver’s record can be the basis for a reexamination, not a driver’s age."
+    }
+   ]
+  },
+  {
+   "id": "reexamination-referral",
+   "kind": "process",
+   "text": "A physician, law enforcement, or a family member can refer a driver with a physical or mental condition to the DMV using a Request for Driver Reexamination (DS 699).",
+   "cites": [
+    {
+     "block": "88bfan",
+     "quote": "Drivers with a physical or mental condition can be referred to DMV by a physician, law enforcement, or family member by submitting a completed Request for Driver Reexamination (DS 699) form."
+    }
+   ]
+  },
+  {
+   "id": "cognitive-disorders",
+   "kind": "practice",
+   "text": "Cognitive disorders such as dementia, seizure disorder, brain tumor, Parkinson's disease, stroke, or vertigo present a significant challenge to safe driving.",
+   "cites": [
+    {
+     "block": "xp8fmb",
+     "quote": "Cognitive disorders, such as dementia, seizure disorder, brain tumor, Parkinson’s disease, stroke, or vertigo, present a significant challenge to safe driving."
+    }
+   ]
+  },
+  {
+   "id": "mild-cognitive-impairment-reexam",
+   "kind": "process",
+   "text": "When the DMV receives a referral or diagnosis of mild cognitive impairment, the Driver Safety team will schedule a reexamination.",
+   "cites": [
+    {
+     "block": "ghxywd",
+     "quote": "When a referral or diagnosis for a driver with a mild cognitive impairment is received by DMV, the Driver Safety team will schedule a reexamination."
+    }
+   ]
+  },
+  {
+   "id": "reexamination-actions",
+   "kind": "process",
+   "text": "In a reexamination, the DMV may request medical information, reexamine you in person or by phone, require knowledge, vision, or driving tests, issue a limited-term license, or take no action.",
+   "cites": [
+    {
+     "block": "q7jrmp",
+     "quote": "DMV may do the following:"
+    },
+    {
+     "block": "y9ncf3",
+     "quote": "Request medical information from you or your physician."
+    },
+    {
+     "block": "56be3w",
+     "quote": "Conduct an in-person or over the telephone reexamination."
+    },
+    {
+     "block": "zy7ukk",
+     "quote": "Require you to take a knowledge, vision, or driving test(s)."
+    },
+    {
+     "block": "h9yqa7",
+     "quote": "Issue you a limited term driver’s license."
+    },
+    {
+     "block": "f65yda",
+     "quote": "Take no action against your driving privilege."
+    }
+   ]
+  },
+  {
+   "id": "reexamination-immediate-suspension",
+   "kind": "process",
+   "text": "The DMV may immediately suspend or revoke your driving privilege if your physical or mental condition is an immediate threat to public safety.",
+   "cites": [
+    {
+     "block": "cguevv",
+     "quote": "Immediately suspend or revoke your driving privilege if your physical or mental condition presents an immediate threat to public safety."
+    }
+   ]
+  },
+  {
+   "id": "priority-reexamination-five-days",
+   "kind": "rule",
+   "quantities": [
+    "five working days"
+   ],
+   "text": "If you receive a Notice of Priority Reexamination of Driver with the top box checked, you have five working days to contact the DMV or your driving privilege will be automatically suspended.",
+   "cites": [
+    {
+     "block": "53tame",
+     "quote": "If you come in contact with law enforcement and receive a Notice of Priority Reexamination of Driver with a check mark in the top box"
+    },
+    {
+     "block": "53tame",
+     "quote": "You have five working days to contact DMV to initiate the process or your driving privilege will be automatically suspended.",
+     "marks": [
+      "five working days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "license-restrictions-purpose",
+   "kind": "process",
+   "text": "The DMV places restrictions on a license so a driver operates within their ability; restrictions may be imposed by the DMV or required by law.",
+   "cites": [
+    {
+     "block": "d38j8p",
+     "quote": "DMV places restrictions on a driver’s license to ensure a driver is operating a vehicle within their ability. Restrictions may be imposed by DMV or required by law."
+    }
+   ]
+  },
+  {
+   "id": "license-restrictions-examples",
+   "kind": "process",
+   "text": "License restrictions may include special devices such as hand controls, limits on when and where you drive (such as no night or freeway driving), requiring glasses or corrective contacts, or requiring extra devices such as outside mirrors.",
+   "cites": [
+    {
+     "block": "d38j8p",
+     "quote": "Restrictions and conditions may include:"
+    },
+    {
+     "block": "fqcjcm",
+     "quote": "Requiring a driver to place special mechanical devices on their vehicle, such as hand controls."
+    },
+    {
+     "block": "q54yuk",
+     "quote": "Limiting when and where a person may drive, such as no night or freeway driving."
+    },
+    {
+     "block": "7zd8y2",
+     "quote": "Requiring eyeglasses or corrective contact lenses."
+    },
+    {
+     "block": "majnjw",
+     "quote": "Requiring additional devices, such as outside mirrors."
+    }
+   ]
+  },
+  {
+   "id": "no-senior-restrictions",
+   "kind": "process",
+   "text": "There are no specific license restrictions for seniors; all restrictions are based on conditions, not age.",
+   "cites": [
+    {
+     "block": "28xfme",
+     "quote": "There are no specific restrictions for seniors. All restrictions are based on conditions, not age."
+    }
+   ]
+  },
+  {
+   "id": "restrictions-examiner-findings",
+   "kind": "process",
+   "text": "Any restriction on your driver's license is based on the examiner's findings and recommendations.",
+   "cites": [
+    {
+     "block": "qmkx7y",
+     "quote": "Any restriction placed on your driver’s license is based on the examiner’s findings and recommendations."
+    }
+   ]
+  }
+ ]
+}

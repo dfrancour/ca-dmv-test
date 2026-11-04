@@ -1,0 +1,386 @@
+{
+ "number": 5,
+ "title": "An Introduction to Driving",
+ "pages": [
+  "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/introduction-to-driving/"
+ ],
+ "blocks": [
+  {
+   "id": "dwugtq",
+   "type": "paragraph",
+   "html": "Your health may affect your driving."
+  },
+  {
+   "id": "633y4v",
+   "type": "paragraph",
+   "html": "<strong>Vision</strong> – You must be able to notice hazards in different types of lighting, judge distances, adjust to traffic speed, and read road signs."
+  },
+  {
+   "id": "8hm25g",
+   "type": "paragraph",
+   "html": "<strong>Hearing</strong> – You must be able to hear horns, sirens, motorcycles, or screeching tires that may alert you of hazards. It is illegal to wear a headset or earplugs in both ears while driving."
+  },
+  {
+   "id": "7ubqum",
+   "type": "paragraph",
+   "html": "<strong>Fatigue and Drowsiness</strong> – Can affect your vision and increase reaction time to hazards."
+  },
+  {
+   "id": "mmb3a8",
+   "type": "paragraph",
+   "html": "<strong>Physical and Mental</strong> – You must be alert to quickly decide the correct course of action in any type of traffic situation, including unexpected ones."
+  },
+  {
+   "id": "pkcw37",
+   "type": "paragraph",
+   "html": "<strong>Medications</strong> – Prescription and over-the-counter medications can make you an unsafe driver. Some medicines can make you sleepy. It is your responsibility to know the effects of the medications you take."
+  },
+  {
+   "id": "x3cyqn",
+   "type": "paragraph",
+   "html": "<strong>Health</strong> – Physicians are required to report patients, who are at least 14 years old, to DMV for medical conditions that may affect your ability to drive safely, such as lapse of consciousness."
+  },
+  {
+   "id": "m6uxbc",
+   "type": "heading",
+   "level": 2,
+   "html": "Controlling the Vehicle"
+  },
+  {
+   "id": "vjxp3c",
+   "type": "paragraph",
+   "html": "To control your vehicle, it is critical to keep both hands on the wheel whenever possible."
+  },
+  {
+   "id": "ht4q8w",
+   "type": "heading",
+   "level": 3,
+   "html": "Hand-to-Hand Steering (Push/Pull)"
+  },
+  {
+   "id": "8kuzfn",
+   "type": "paragraph",
+   "html": "To use this steering wheel method:"
+  },
+  {
+   "id": "xrjfru",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "mq86ej",
+     "html": "Start with your hands at 9 and 3 o’clock or 8 and 4 o’clock."
+    },
+    {
+     "id": "6nu28x",
+     "html": "Do not cross your hands over the middle of the steering wheel."
+    },
+    {
+     "id": "d55wfg",
+     "html": "Keep your hands in these positions, even when making turns."
+    }
+   ]
+  },
+  {
+   "id": "zkutv3",
+   "type": "heading",
+   "level": 3,
+   "html": "Hand-Over-Hand Steering"
+  },
+  {
+   "id": "kw4xa8",
+   "type": "paragraph",
+   "html": "Use this steering wheel method when you turn at low speeds, park, or need to recover from a skid. To use this method:"
+  },
+  {
+   "id": "8nnu8x",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "hs9qdv",
+     "html": "Start with your hands at 8 and 4 o’clock."
+    },
+    {
+     "id": "4q4wub",
+     "html": "Reach across the steering wheel to grasp the opposite side."
+    },
+    {
+     "id": "rtq3z3",
+     "html": "Let go of the steering wheel with your other hand."
+    },
+    {
+     "id": "46zt7d",
+     "html": "Reach across the arm still holding the wheel, grip the wheel, and pull up."
+    }
+   ]
+  },
+  {
+   "id": "ybtsb2",
+   "type": "heading",
+   "level": 3,
+   "html": "One-Hand Steering"
+  },
+  {
+   "id": "vy7mm4",
+   "type": "paragraph",
+   "html": "There are only two situations that may require steering with one hand:"
+  },
+  {
+   "id": "5q56f3",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "p8njdq",
+     "html": "When you are turning while backing up to see where you are going behind you. Place your hand at the 12 o’clock position on the steering wheel."
+    },
+    {
+     "id": "cqpupd",
+     "html": "When you are operating vehicle controls that require you to remove a hand from the steering wheel."
+    }
+   ]
+  },
+  {
+   "id": "kqus2z",
+   "type": "heading",
+   "level": 2,
+   "html": "Signals, Horns, And Headlights"
+  },
+  {
+   "id": "qr67rf",
+   "type": "paragraph",
+   "html": "Your signals, horn, and headlights are important for communicating with other drivers, pedestrians, and bicyclists."
+  },
+  {
+   "id": "ve95ef",
+   "type": "heading",
+   "level": 3,
+   "html": "Signaling"
+  },
+  {
+   "id": "qffcsg",
+   "type": "paragraph",
+   "html": "Always signal when you turn, change lanes, slow down, or stop."
+  },
+  {
+   "id": "u8uqwz",
+   "type": "paragraph",
+   "html": "You can signal using your vehicle’s signal lights or using hand-and-arm positions. If your signal lights are not functioning, or bright sunlight makes your signal lights hard to see, use the hand-and-arm signals shown in the image below."
+  },
+  {
+   "id": "aduuh6",
+   "type": "figure",
+   "src": "https://www.dmv.ca.gov/portal/uploads/2020/05/Left_Turn-1.png",
+   "alt": "",
+   "caption": "LEFT TURN",
+   "file": "figures/Left_Turn-1.webp",
+   "width": 168,
+   "height": 97
+  },
+  {
+   "id": "rzkq67",
+   "type": "figure",
+   "src": "https://www.dmv.ca.gov/portal/uploads/2020/05/Right_Turn.png",
+   "alt": "",
+   "caption": "RIGHT TURN",
+   "file": "figures/Right_Turn.webp",
+   "width": 148,
+   "height": 92
+  },
+  {
+   "id": "mwcg6p",
+   "type": "figure",
+   "src": "https://www.dmv.ca.gov/portal/uploads/2020/05/Stop.png",
+   "alt": "",
+   "caption": "SLOW OR STOP",
+   "file": "figures/Stop.webp",
+   "width": 148,
+   "height": 89
+  },
+  {
+   "id": "yer86e",
+   "type": "paragraph",
+   "html": "Bicyclists may signal a turn with their arm held straight out, pointing in the direction they plan to turn."
+  },
+  {
+   "id": "u3c3q6",
+   "type": "paragraph",
+   "html": "You should signal:"
+  },
+  {
+   "id": "vne8rt",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "d5aqyu",
+     "html": "At least 100 feet before you turn."
+    },
+    {
+     "id": "d2zgzh",
+     "html": "Before every lane change."
+    },
+    {
+     "id": "y33f3t",
+     "html": "At least five seconds before you change lanes on a freeway."
+    },
+    {
+     "id": "hacdmx",
+     "html": "Before pulling next to the curb or away from the curb."
+    },
+    {
+     "id": "pxkpbt",
+     "html": "Even when you do not see other vehicles around you."
+    },
+    {
+     "id": "9euuju",
+     "html": "When you are almost through the intersection if you plan to turn shortly after crossing the intersection."
+    }
+   ]
+  },
+  {
+   "id": "wzge89",
+   "type": "paragraph",
+   "html": "Remember to turn off your signal when you no longer need it."
+  },
+  {
+   "id": "uknhed",
+   "type": "heading",
+   "level": 3,
+   "html": "Using Your Horn"
+  },
+  {
+   "id": "k5hvt3",
+   "type": "paragraph",
+   "html": "Use your vehicle’s horn to let other drivers know you are there or warn others of a hazard. Use your horn to:"
+  },
+  {
+   "id": "nnu6g9",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "qkrbkq",
+     "html": "Avoid collisions."
+    },
+    {
+     "id": "4xnrae",
+     "html": "Alert oncoming traffic on narrow mountain roads where you cannot see at least 200 feet ahead."
+    }
+   ]
+  },
+  {
+   "id": "mekpcv",
+   "type": "heading",
+   "level": 3,
+   "html": "Using Your Headlights"
+  },
+  {
+   "id": "ub3e57",
+   "type": "paragraph",
+   "html": "Your vehicle’s headlights help you see what is in front of you. They also make it easier for other drivers to see your vehicle. Dim your high-beam headlights to low beams within 500 feet of a vehicle coming toward you or within 300 feet of a vehicle you are following. It is illegal to drive using only parking lights. Use your headlights:"
+  },
+  {
+   "id": "x6prhm",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "j9cswh",
+     "html": "When it is too dark to see from 1,000 feet away."
+    },
+    {
+     "id": "akny2e",
+     "html": "Beginning 30 minutes after sunset."
+    },
+    {
+     "id": "sdz6en",
+     "html": "Until 30 minutes before sunrise."
+    },
+    {
+     "id": "x9j75e",
+     "html": "In adverse weather. If you need to use your windshield wipers due to fog, rain, or snow, you must turn on your low-beam headlights."
+    },
+    {
+     "id": "2ygurg",
+     "html": "When conditions (such as clouds, dust, smoke, or fog) prevent you from seeing other vehicles."
+    },
+    {
+     "id": "4pdwnj",
+     "html": "On mountain roads and tunnels (even on sunny days)."
+    },
+    {
+     "id": "328cg2",
+     "html": "When a road sign states that headlights must be on."
+    },
+    {
+     "id": "cpt78f",
+     "html": "To help other drivers see your vehicle, especially when the sun is low on the horizon."
+    }
+   ]
+  },
+  {
+   "id": "9jppdt",
+   "type": "heading",
+   "level": 3,
+   "html": "Using Your Emergency Flashers"
+  },
+  {
+   "id": "2ah2n4",
+   "type": "paragraph",
+   "html": "If you can see a collision or hazard ahead, warn drivers behind you using these methods:"
+  },
+  {
+   "id": "f7qzhh",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "jez94q",
+     "html": "Turn on your emergency flashers."
+    },
+    {
+     "id": "87h8zn",
+     "html": "Lightly tap your brake pedal three or four times."
+    },
+    {
+     "id": "cmcjt6",
+     "html": "Use a hand signal when slowing and stopping."
+    }
+   ]
+  },
+  {
+   "id": "yttfcv",
+   "type": "paragraph",
+   "html": "If you need to stop because of vehicle trouble:"
+  },
+  {
+   "id": "2ta3n8",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "bzfuqj",
+     "html": "Turn on your emergency flashers. If your vehicle does not have emergency flashers, use your turn signals."
+    },
+    {
+     "id": "r7fufj",
+     "html": "If possible, pull off the road away from all traffic."
+    },
+    {
+     "id": "ndbf4b",
+     "html": "If you cannot get completely off the road, stop where people can see you and your vehicle from behind."
+    },
+    {
+     "id": "ujqk7b",
+     "html": "Do not stop just over a hill or just around a curve. Other drivers may not see your vehicle in time to avoid a collision."
+    },
+    {
+     "id": "rdhugd",
+     "html": "Call for emergency roadside assistance and stay in your vehicle until help arrives."
+    }
+   ]
+  }
+ ]
+}

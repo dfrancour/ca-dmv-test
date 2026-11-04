@@ -1,0 +1,731 @@
+/* Palette from dfrancour.dev: cool neutrals, purple accent. */
+:root {
+  --bg: oklch(98% 0.005 220);
+  --raised: oklch(99.6% 0.002 220);
+  --ink: oklch(18% 0.008 220);
+  --muted: oklch(45% 0.018 220);
+  --faint: oklch(52% 0.02 220);
+  --edge: oklch(90% 0.01 220);
+  --hover: oklch(95% 0.008 220);
+  --accent: oklch(45% 0.18 310);
+  --accent-hover: oklch(50% 0.2 310);
+  --accent-ink: oklch(99% 0.004 310);
+  --right: oklch(46% 0.12 155);
+  --wrong: oklch(54% 0.19 25);
+
+  --plate: #ffffff;
+  --plate-rim: oklch(80% 0.01 220);
+  --plate-ink: oklch(32% 0.13 265);
+  --plate-script: oklch(52% 0.2 25);
+  --sticker: oklch(86% 0.15 92);
+
+  --font-ui: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace;
+  --font-plate: "DIN Condensed", "Roboto Condensed", "Arial Narrow", var(--font-ui);
+  --radius: 8px;
+  color-scheme: light;
+}
+
+/* Type sizes, and nothing between: 11 (uppercase labels), 12, 14, 16, 17 (the reader), 20, 24, 28, 48.
+   Spacing is in fours: 4, 8, 12, 16, 24, 32, 48. */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: oklch(18% 0.008 220);
+    --raised: oklch(22% 0.01 220);
+    --ink: oklch(95% 0.008 220);
+    --muted: oklch(74% 0.016 220);
+    --faint: oklch(64% 0.018 220);
+    --edge: oklch(29% 0.014 220);
+    --hover: oklch(24% 0.012 220);
+    --accent: oklch(72% 0.15 310);
+    --accent-hover: oklch(78% 0.14 310);
+    --accent-ink: oklch(15% 0.01 310);
+    --right: oklch(78% 0.15 155);
+    --wrong: oklch(68% 0.17 25);
+
+    --plate: oklch(93% 0.006 220);
+    --plate-rim: oklch(70% 0.012 220);
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.5 var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, p { margin: 0; }
+h1:focus { outline: none; }
+a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+button { font: inherit; color: inherit; }
+button:not(:disabled) { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+
+.icon {
+  width: 18px; height: 18px; flex: none;
+  fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+}
+.figure { font-family: var(--font-mono); font-variant-numeric: tabular-nums; font-weight: 600; }
+.eyebrow { color: var(--faint); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; }
+
+/* The page is one column, padded clear of the notch and home indicator. */
+main {
+  min-height: 100dvh;
+  max-width: 34rem;
+  margin: 0 auto;
+  padding:
+    env(safe-area-inset-top)
+    max(20px, env(safe-area-inset-right))
+    env(safe-area-inset-bottom)
+    max(20px, env(safe-area-inset-left));
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-height: 40px; padding: 8px 16px;
+  border: 1px solid var(--edge); border-radius: var(--radius);
+  background: var(--raised); color: var(--ink);
+  font-weight: 500; text-decoration: none; white-space: nowrap;
+  transition: background-color 150ms, border-color 150ms;
+}
+.btn:active { background: var(--hover); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); font-weight: 600; }
+.btn.primary:active { background: var(--accent-hover); border-color: var(--accent-hover); }
+.btn.quiet { background: transparent; border-color: transparent; color: var(--muted); }
+.btn.quiet:active { background: var(--hover); color: var(--ink); }
+.btn.big { min-height: 48px; padding: 12px 24px; font-size: 1.0625rem; }
+
+/* ---------- home ---------- */
+
+.home {
+  flex: 1;
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  gap: 24px;
+  padding-block: 48px;
+  text-align: center;
+}
+
+/* The wordmark is a California plate (drawn in home.js). */
+.plate { width: min(80vw, 340px); margin-bottom: 8px; }
+.plate svg { display: block; width: 100%; height: auto; overflow: visible; filter: drop-shadow(0 6px 12px oklch(18% 0.008 220 / 0.14)); }
+/* A shadow on a dark page only shows as a smudge. */
+@media (prefers-color-scheme: dark) { .plate svg { filter: none; } }
+.plate-body { fill: var(--plate); stroke: var(--plate-rim); stroke-width: 1.5; }
+.plate-emboss { fill: none; stroke: var(--plate-rim); stroke-width: 1; opacity: 0.6; }
+.plate-sticker { fill: var(--sticker); }
+.plate-state { fill: var(--plate-script); font: italic 700 25px ui-serif, Georgia, "Times New Roman", serif; }
+.plate-text { fill: var(--plate-ink); font: 600 84px var(--font-plate); }
+
+.tagline { color: var(--muted); max-width: 36ch; text-wrap: balance; }
+.fine { padding-block: 16px 8px; color: var(--faint); font-size: 0.75rem; text-align: center; }
+/* Home and source, quiet as the disclaimer: the favicon and the GitHub mark at text size. */
+.fine-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 0 12px; margin-top: 4px; }
+.fine-links a {
+  display: inline-flex; align-items: center; gap: 6px;
+  min-height: 36px; padding-inline: 4px;
+  color: inherit; text-decoration: none; transition: color 150ms;
+}
+.fine-links a:active { color: var(--muted); }
+.fine-links img { border-radius: 3px; }
+.mark { width: 14px; height: 14px; flex: none; fill: currentColor; }
+
+/* ---------- quiz and results ---------- */
+
+.bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 56px;
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+/* The handbook's own pages (contents, a section, its questions) keep their path in view, frosted
+   as in the reader. Its edge shows once something has scrolled under it. */
+.bar.is-pinned {
+  position: sticky;
+  top: env(safe-area-inset-top);
+  z-index: 10;
+  margin-inline: calc(50% - 50vw);
+  padding-inline: max(20px, calc(50vw - 50%));
+  background: color-mix(in oklch, var(--bg) 80%, transparent);
+  -webkit-backdrop-filter: blur(16px) saturate(1.4);
+  backdrop-filter: blur(16px) saturate(1.4);
+  border-bottom: 1px solid transparent;
+}
+@supports (animation-timeline: scroll()) {
+  .bar.is-pinned { animation: bar-edge linear both; animation-timeline: scroll(root); animation-range: 0 24px; }
+}
+@keyframes bar-edge { to { border-bottom-color: color-mix(in oklch, var(--edge) 70%, transparent); } }
+.back {
+  display: grid; place-items: center;
+  width: 36px; height: 36px; margin-left: -9px;
+  border-radius: var(--radius);
+  color: var(--muted);
+}
+.back:active { background: var(--hover); color: var(--ink); }
+
+/* The contents page's "% read", and in its place, asking to start over. */
+.bar-end, .bar-ask { display: flex; align-items: center; gap: 4px; }
+.bar-end .btn { min-height: 36px; padding: 6px 12px; }
+.bar-end > .btn.quiet { gap: 0.3em; margin-right: -12px; font-weight: inherit; }
+.bar-end [hidden] { display: none; }
+
+.progress {
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: 2px;
+  margin: 0 0 32px;
+  border: 0;
+  background: var(--edge);
+}
+.progress::-webkit-progress-bar { background: var(--edge); }
+.progress::-webkit-progress-value { background: var(--accent); transition: width 200ms; }
+.progress::-moz-progress-bar { background: var(--accent); }
+
+.prompt {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  text-wrap: pretty;
+}
+
+.choices { list-style: none; margin: 24px 0 0; padding: 0; border-block: 1px solid var(--edge); }
+.choices li + li { border-top: 1px solid var(--edge); }
+.choice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: calc(100% + 24px);
+  min-height: 56px;
+  margin-inline: -12px;
+  padding: 12px;
+  border: 0;
+  border-radius: var(--radius);
+  background: transparent;
+  text-align: start;
+  transition: background-color 150ms, color 150ms;
+}
+.choice:not(:disabled):active { background: var(--hover); }
+.choice:disabled { cursor: default; }
+.choice .icon { width: 20px; height: 20px; }
+.choice.is-right { color: var(--right); font-weight: 600; }
+.choice.is-wrong { color: var(--wrong); }
+.choice.is-other { color: var(--faint); }
+
+/* Brought into view after an answer: clear of Next, stuck along the foot. */
+.why { margin-top: 24px; color: var(--muted); scroll-margin-bottom: 104px; }
+
+/* The handbook text an answer rests on, and where it is. */
+.source { margin: 16px 0 0; }
+.source blockquote {
+  margin: 0;
+  padding-left: 14px;
+  border-left: 2px solid var(--edge);
+  color: var(--ink);
+}
+.source > figcaption { margin-top: 4px; padding-left: 16px; font-size: 0.875rem; }
+/* The figure a quote points at ("the table below"), in line with the quote. */
+.source .hb-figure, .source .hb-figure.is-small { float: none; margin: 8px 0 0 16px; }
+.source a { color: var(--accent); text-decoration: none; }
+/* Small links, tall enough to tap: the padding reaches past the line without moving it. */
+:is(.source, .credit, .qa-from) a { display: inline-block; padding-block: 9px; margin-block: -9px; }
+.source a:active { text-decoration: underline; }
+.source .figure { font-size: 0.75rem; }
+.rows .source { margin-top: 8px; }
+.why strong { font-weight: 600; }
+.why .is-right { color: var(--right); }
+.why .is-wrong { color: var(--wrong); }
+
+/* Next sits at the foot of the screen, within reach of a thumb. */
+.next {
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: auto;
+  padding: 24px 0 max(16px, env(safe-area-inset-bottom));
+  background: linear-gradient(transparent, var(--bg) 24px);
+}
+.next { gap: 8px; }
+.next .btn { min-width: 9rem; }
+
+.score { display: flex; align-items: baseline; gap: 16px; font-size: 1rem; font-weight: normal; }
+.score .figure { font-size: 3rem; line-height: 1; letter-spacing: -0.04em; }
+.score .of { color: var(--faint); }
+.verdict { font-weight: 600; }
+.verdict.is-right { color: var(--right); }
+.verdict.is-wrong { color: var(--wrong); }
+.score-note { margin-top: 8px; color: var(--muted); font-size: 0.875rem; }
+
+.missed { margin-top: 48px; }
+.missed .eyebrow { margin-bottom: 8px; }
+.rows { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--edge); }
+.rows > li { display: grid; gap: 4px; padding-block: 16px; border-bottom: 1px solid var(--edge); }
+.rows .q { font-weight: 500; }
+.rows .a { display: flex; align-items: flex-start; gap: 8px; }
+/* On the first line of an answer that wraps: (24px line - 16px icon) / 2. */
+.rows .a .icon { width: 16px; height: 16px; margin-top: 4px; }
+.rows .a.is-wrong { color: var(--wrong); }
+.rows .a.is-right { color: var(--right); }
+.rows .note { color: var(--muted); }
+
+/* The sign or signal a question asks about: its own line, never floated beside the text. */
+.q-figure { margin-top: 16px; }
+.q-figure .hb-figure { margin: 0; float: none; }
+.rows .q-figure, .qa-part .q-figure { margin-block: 4px; }
+
+/* ---------- toast ---------- */
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: max(16px, env(safe-area-inset-bottom));
+  translate: -50% 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 6px 6px 6px 16px;
+  border-radius: calc(var(--radius) + 6px);
+  background: var(--ink);
+  color: var(--bg);
+  font-size: 0.875rem;
+  width: max-content;
+  max-width: calc(100% - 32px);
+  box-shadow: 0 8px 16px oklch(18% 0.008 220 / 0.2);
+}
+@media (prefers-color-scheme: dark) { .toast { box-shadow: none; } }
+.toast .btn { flex: none; min-height: 32px; padding: 4px 12px; background: var(--bg); border-color: var(--bg); color: var(--ink); }
+/* Dismiss: as quiet as the toast allows, beside its action. */
+.toast-close { flex: none; display: grid; place-items: center; width: 32px; height: 32px; margin-left: -4px; padding: 0; border: 0; border-radius: var(--radius); background: none; color: inherit; opacity: 0.7; }
+.toast-close .icon { width: 18px; height: 18px; }
+.toast-close:active { opacity: 1; }
+
+/* ---------- home: the two modes ---------- */
+
+.modes { display: grid; gap: 8px; width: min(100%, 20rem); }
+.modes .btn { width: 100%; }
+
+/* ---------- practice tests: the kinds of test, as rows ---------- */
+
+.tests [data-start] {
+  display: grid;
+  gap: 2px;
+  width: 100%;
+  padding: 16px 0;
+  border: 0;
+  background: none;
+  text-align: left;
+}
+.tests .toc-title { font-weight: 500; }
+.tests [data-start]:active .toc-title { color: var(--accent); }
+.tests-note { color: var(--muted); }
+.tests-last { color: var(--faint); font-size: 0.875rem; }
+/* Tapped, while the test is made: it stays pressed. */
+.tests [data-start]:disabled .toc-title { color: var(--accent); }
+/* With a test under way, a row asks before replacing it. */
+.tests-ask { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin-top: -4px; padding-bottom: 16px; }
+.tests-ask > span:first-child { color: var(--muted); font-size: 0.875rem; }
+/* The buttons keep together, to the right, wrapped under the words or not. */
+.tests-ask-do { display: flex; gap: 8px; margin-left: auto; }
+.tests-ask .btn { padding-inline: 12px; }
+/* Under the full test, once your age is known: changing it, quietly. */
+.tests-age { display: inline-block; margin: -20px 0 6px; padding: 10px 0; border: 0; background: none; color: var(--faint); font-size: 0.875rem; }
+.tests-age:active { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+
+/* Keeping your progress: a link to carry it elsewhere, folded away at the foot of the page. */
+.keep { margin-top: 32px; }
+.keep summary { display: inline-flex; align-items: center; min-height: 36px; color: var(--faint); font-size: 0.875rem; cursor: pointer; touch-action: manipulation; }
+.keep summary:active { color: var(--muted); }
+.keep[open] summary { color: var(--muted); }
+.keep p { margin: 12px 0 0; color: var(--muted); }
+.keep-add { display: grid; gap: 4px; margin-top: 24px; }
+.keep-add label { color: var(--muted); }
+.keep-field { display: flex; gap: 8px; }
+.keep-field input {
+  flex: 1;
+  min-width: 0;
+  min-height: 40px;
+  padding: 8px 12px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius);
+  background: var(--raised);
+  color: var(--ink);
+  font: inherit; /* 16px: smaller, and Safari zooms in on a tap */
+}
+.keep-note { color: var(--muted); font-size: 0.875rem; }
+.keep-note:empty { display: none; }
+
+/* ---------- breadcrumb ---------- */
+
+.crumbs { flex: 1; min-width: 0; }
+.crumbs ol { display: flex; align-items: center; min-width: 0; margin: 0; padding: 0; list-style: none; }
+.crumbs li { display: flex; align-items: center; flex: none; min-width: 0; }
+.crumbs li:last-child { flex: 0 1 auto; }
+.crumbs li + li::before { content: "/"; padding: 0 2px; color: var(--edge); font-size: 1rem; }
+.crumbs a {
+  display: block;
+  min-height: 36px;
+  padding: 8px 6px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 0.875rem;
+  line-height: 20px;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.crumbs a:active { background: var(--hover); color: var(--ink); }
+.crumbs .crumb-home { display: grid; place-items: center; width: 36px; margin-left: -9px; padding: 0; }
+.crumbs .crumb-home .icon { width: 19px; height: 19px; }
+
+/* ---------- handbook contents ---------- */
+
+/* Installed as an app, the status bar is translucent: cover what scrolls under it. */
+main::before {
+  content: "";
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 20;
+  height: env(safe-area-inset-top);
+  background: var(--bg);
+}
+body { overflow-x: clip; }
+
+.page-title { font-size: 1.5rem; font-weight: 650; line-height: 1.2; letter-spacing: -0.015em; text-wrap: balance; }
+.bar + .page-title { margin: 8px 0 24px; }
+.progress + .page-title { margin-bottom: 24px; }
+
+.resume {
+  display: grid;
+  gap: 2px;
+  margin-bottom: 24px;
+  color: inherit;
+  font-weight: 500;
+  text-decoration: none;
+}
+.resume:active span:last-child { color: var(--accent); }
+
+.toc { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--edge); }
+.toc li { border-bottom: 1px solid var(--edge); }
+.toc a {
+  display: grid;
+  grid-template-columns: 1.75rem minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: baseline;
+  padding: 16px 0;
+  color: inherit;
+  text-decoration: none;
+}
+.toc a:active .toc-title { color: var(--accent); }
+.toc-num { color: var(--faint); font-size: 0.875rem; }
+.toc-state { color: var(--faint); font-size: 0.875rem; }
+.toc-state .icon { width: 16px; height: 16px; color: var(--right); vertical-align: -3px; }
+
+.credit { margin: 32px 0 24px; color: var(--faint); font-size: 0.75rem; }
+.credit a { color: inherit; }
+
+/* ---------- handbook reader ---------- */
+
+/* The bar stays at the top, full width, frosted; a line along its foot is how far through the section you are. */
+.hb-bar {
+  position: sticky;
+  top: env(safe-area-inset-top);
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 56px;
+  margin-inline: calc(50% - 50vw);
+  padding-inline: max(20px, calc(50vw - 50%));
+  background: color-mix(in oklch, var(--bg) 80%, transparent);
+  -webkit-backdrop-filter: blur(16px) saturate(1.4);
+  backdrop-filter: blur(16px) saturate(1.4);
+  border-bottom: 1px solid color-mix(in oklch, var(--edge) 70%, transparent);
+}
+.hb-overall { flex: none; padding-left: 8px; color: var(--faint); font-size: 0.875rem; }
+/* Looked up from a test or its results: the way back, in the percentage's place. */
+.hb-return {
+  flex: none;
+  min-height: 36px;
+  margin-right: -8px;
+  padding: 8px;
+  border-radius: var(--radius);
+  color: var(--accent);
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 20px;
+  text-decoration: none;
+}
+.hb-return:active { background: var(--hover); }
+
+/* The bar shows the path to the part; scrolled past the title, it shows the part. */
+.hb-lead { position: relative; flex: 1; align-self: stretch; min-width: 0; }
+.hb-lead > .crumbs, .hb-heading {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  transition: opacity 160ms, transform 160ms;
+}
+.hb-heading {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 1px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: start;
+  opacity: 0;
+  transform: translateY(6px);
+  visibility: hidden;
+}
+.hb-heading > span { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hb-heading-section { color: var(--faint); font-size: 0.75rem; line-height: 16px; }
+.hb-heading-title { font-size: 1rem; font-weight: 600; line-height: 20px; }
+/* Scrolling back up brings the path back. */
+.hb-bar[data-scrolled]:not([data-up]) .hb-heading { opacity: 1; transform: none; visibility: visible; }
+.hb-bar[data-scrolled]:not([data-up]) .hb-lead > .crumbs { opacity: 0; transform: translateY(-6px); visibility: hidden; }
+/* The section along the bar's foot: a segment per part, filled once read; the current one fills as you scroll. */
+.hb-segs {
+  position: absolute;
+  /* Lined up with the text column (34rem wide, 20px padding), not the full-width bar. */
+  inset: auto calc((100vw - min(100vw, 34rem)) / 2 + 20px) -1px;
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 4px;
+}
+.hb-segs i { flex: 1; height: 2px; overflow: hidden; border-radius: 1px; background: var(--edge); }
+.hb-segs i.is-read { background: color-mix(in oklch, var(--accent) 40%, var(--edge)); }
+/* The part on screen, read before or not: taller, and filling as you scroll. */
+.hb-segs i.is-current { height: 4px; background: color-mix(in oklch, var(--accent) 20%, var(--edge)); }
+.hb-segs b {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+  transform-origin: left;
+  animation: hb-fill linear both;
+  animation-timeline: scroll(root);
+}
+@keyframes hb-fill { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@supports not (animation-timeline: scroll()) {
+  .hb-segs b { display: none; }
+  .hb-segs i.is-current { background: var(--accent); }
+}
+
+.hb { padding-bottom: 32px; font-size: 1.0625rem; line-height: 1.65; }
+.hb-title { margin: 24px 0 16px; font-size: 1.75rem; }
+/* "Skim", beside a part's title wherever the title is shown. */
+.hb-skim {
+  margin-left: 0.35em;
+  color: var(--accent);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+/* In the bar, a long title is cut short before the label is. */
+.hb-heading-title { display: flex; align-items: baseline; }
+.hb-heading-title > span:first-child { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+.hb-heading-title .hb-skim { flex: none; }
+
+.toc-title.is-skim { color: var(--muted); }
+/* In a list the label is faint: it shouldn't draw the eye to the parts that matter least. */
+.toc .hb-skim { color: var(--faint); }
+
+/* "Hard", in the quiz bar during a hard-mode test. */
+.mode-tag {
+  margin-right: 8px;
+  color: var(--accent);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.hb-title + .hb-h3, .hb-title + .hb-h2 { margin-top: 0; }
+
+[data-block] { scroll-margin-top: calc(72px + env(safe-area-inset-top)); }
+
+.hb p { margin: 0 0 0.85em; }
+.hb strong { font-weight: 650; }
+
+/* A number to remember: tabular figures on a faint chip, so "15 mph" reads as a value, not as prose. */
+.qty {
+  padding: 0.05em 0.3em;
+  border-radius: 4px;
+  background: color-mix(in oklch, var(--accent) 9%, transparent);
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.hb a:not([class]) { color: var(--accent); text-underline-offset: 2px; }
+.hb-h2, .hb-h3, .hb-h4 { clear: both; text-wrap: balance; }
+.hb-h2 { margin: 32px 0 12px; font-size: 1.5rem; font-weight: 650; line-height: 1.25; letter-spacing: -0.015em; }
+.hb-h3 { margin: 24px 0 8px; font-size: 1.25rem; font-weight: 650; line-height: 1.3; letter-spacing: -0.01em; }
+.hb-h4 { margin: 24px 0 4px; font-size: 1em; font-weight: 650; line-height: 1.4; }
+
+.hb-list { margin: 0 0 1em; padding-left: 1.25em; }
+.hb-list li { margin: 0.35em 0; padding-left: 0.15em; }
+.hb-list li::marker { color: var(--faint); }
+.hb-list li > p { margin: 0 0 0.4em; }
+.hb-list ul { margin: 0.35em 0 0; padding-left: 1.1em; }
+
+.hb-note { margin: 16px 0; padding: 2px 0 2px 14px; border-left: 2px solid var(--accent); }
+.hb-note .eyebrow { display: block; margin-bottom: 2px; color: var(--accent); }
+.hb-note p { margin: 0; }
+
+.hb-figure { position: relative; margin: 16px 0; }
+/* Drawn smaller than it is: a tap opens it full size. */
+.hb-figure.is-shrunk img { cursor: zoom-in; }
+.hb-zoom {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius);
+  background: color-mix(in oklch, var(--raised) 85%, transparent);
+  color: var(--muted);
+}
+.hb-zoom:active { background: var(--hover); color: var(--ink); }
+.hb-zoom .icon { width: 16px; height: 16px; }
+.zoom {
+  width: 100vw;
+  height: 100dvh;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: auto;
+  overscroll-behavior: contain;
+  background: var(--bg);
+}
+.zoom::backdrop { background: var(--bg); }
+.zoom-figure { display: grid; place-items: center; width: max-content; min-width: 100%; min-height: 100%; padding: 56px 16px 16px; }
+.zoom img { display: block; border-radius: 4px; background: #fff; }
+@media (prefers-color-scheme: dark) { .zoom img { filter: brightness(0.92); } }
+.zoom-close { position: fixed; top: max(8px, env(safe-area-inset-top)); right: max(8px, env(safe-area-inset-right)); }
+html:has(.zoom[open]) { overflow: hidden; }
+/* The handbook's drawings assume a white page: on ours, multiplied, their white is the page's.
+   In the dark they keep a white ground, a little dimmed. */
+.hb-figure img { display: block; max-width: 100%; height: auto; border-radius: 4px; background: #fff; mix-blend-mode: multiply; }
+@media (prefers-color-scheme: dark) { .hb-figure img { filter: brightness(0.92); mix-blend-mode: normal; } }
+/* A sign sits beside the text that explains it, which keeps to its own column rather than wrapping under it. */
+.hb-figure.is-small { float: left; margin: 4px 16px 8px 0; }
+.hb-figure.is-small + :is(p, ul, ol) { display: flow-root; }
+.hb-figure figcaption { margin-top: 4px; color: var(--faint); font-size: 0.875rem; line-height: 1.4; }
+.hb-figures { clear: both; display: flex; flex-wrap: wrap; align-items: flex-end; gap: 16px; margin: 16px 0; }
+.hb-figures .hb-figure { flex: 0 1 auto; min-width: 0; margin: 0; float: none; }
+
+.hb-terms { margin: 0; }
+.hb-terms dt { margin-top: 16px; font-weight: 650; }
+.hb-terms dd { margin: 2px 0 0; color: var(--muted); }
+
+/* Arriving from a link: the block is marked, then the mark fades. */
+.hb-flash { animation: hb-flash 2s ease-out; border-radius: 4px; }
+@keyframes hb-flash {
+  from { background: color-mix(in oklch, var(--sticker) 45%, transparent); box-shadow: 0 0 0 6px color-mix(in oklch, var(--sticker) 45%, transparent); }
+  to { background: transparent; box-shadow: 0 0 0 6px transparent; }
+}
+
+.section-title { margin: 4px 0 24px; }
+/* Under the parts, faint and small: there for whoever looks, not asking to be followed. The padding makes it a tap target without moving the text. */
+.section-questions { display: inline-block; margin-top: 24px; padding-block: 10px; color: var(--faint); font-size: 0.875rem; text-decoration: none; }
+.section-questions:active { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+
+/* A section's questions (views/questions.js): rows by part, the answer folded away. */
+.qa-part { margin-top: 32px; }
+.qa-part h2 { margin-bottom: 8px; font-size: 1.0625rem; font-weight: 600; }
+.qa-part h2 a { color: inherit; text-decoration: none; }
+.qa-part h2 a:active { color: var(--accent); }
+.qa-choices { margin: 0; padding-left: 20px; color: var(--muted); }
+.qa-answer summary {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  color: var(--accent);
+  font-size: 0.875rem;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.qa-answer[open] { display: grid; gap: 4px; }
+.qa-from { color: var(--faint); font-size: 0.75rem; }
+.qa-from a { color: inherit; }
+
+/* Below anything floated (a sign at the end of a part), always on its own. */
+.hb-end { clear: both; padding-top: 40px; }
+.hb-practice { margin-bottom: 24px; }
+.hb-next {
+  display: grid;
+  gap: 2px;
+  margin-top: 48px;
+  padding: 16px 0;
+  border-block: 1px solid var(--edge);
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+}
+.hb-next:active span:last-child { color: var(--accent); }
+.hb-end .hb-next { margin-top: 0; padding-block: 20px; font-size: 1.25rem; }
+/* The part before, under the way on: small, since reading goes forward. */
+.hb-prev { display: inline-block; margin-top: 8px; padding-block: 10px; color: var(--faint); font-size: 0.875rem; text-decoration: none; }
+.hb-prev:active { color: var(--muted); }
+/* Under the practice button, no rule as well: one edge is enough. */
+.hb-practice + .hb-next { border-top: 0; padding-top: 8px; }
+/* A section's link to the next: unruled and larger, so it reads as the way on rather than one more part. */
+.section-next { margin-top: 32px; padding: 0; border: 0; font-size: 1.25rem; line-height: 1.3; }
+.section-questions + .section-next { margin-top: 24px; }
+
+/* Hover, for a pointer that hovers: after a tap, a hover style would stay on until the next tap elsewhere.
+   Every control has the same look pressed (:active, beside its rules above). */
+@media (hover: hover) {
+  .btn:hover { background: var(--hover); }
+  .btn.primary:hover { background: var(--accent-hover); border-color: var(--accent-hover); }
+  .btn.quiet:hover { background: var(--hover); color: var(--ink); }
+  .fine-links a:hover { color: var(--muted); }
+  .back:hover { background: var(--hover); color: var(--ink); }
+  .choice:not(:disabled):hover { background: var(--hover); }
+  .source a:hover { text-decoration: underline; }
+  .tests [data-start]:hover .toc-title { color: var(--accent); }
+  .tests-age:hover, .keep summary:hover { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+  .toast-close:hover { opacity: 1; }
+  .crumbs a:hover { background: var(--hover); color: var(--ink); }
+  .resume:hover span:last-child { color: var(--accent); }
+  .toc a:hover .toc-title { color: var(--accent); }
+  .section-questions:hover { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+  .qa-part h2 a:hover { color: var(--accent); }
+  .hb-next:hover span:last-child { color: var(--accent); }
+  .hb-return:hover { background: var(--hover); }
+  .hb-zoom:hover { background: var(--hover); color: var(--ink); }
+  .hb-prev:hover { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hb-flash { animation: none; }
+}

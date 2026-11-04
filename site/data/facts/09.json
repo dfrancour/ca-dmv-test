@@ -1,0 +1,769 @@
+{
+ "section": 9,
+ "facts": [
+  {
+   "id": "dui-alcohol-and-drugs",
+   "kind": "rule",
+   "text": "California's DUI laws apply to both alcohol and drugs; it is illegal to drive under the influence of alcohol or any drug that affects your ability to drive safely.",
+   "cites": [
+    {
+     "block": "4he6vg",
+     "quote": "California’s driving under the influence (DUI) laws apply to both alcohol and drugs. It is illegal to drive while under the influence of alcohol or any drug that affects your ability to drive safely."
+    }
+   ]
+  },
+  {
+   "id": "alcohol-tolerance-age",
+   "kind": "practice",
+   "text": "As you age, your tolerance to alcohol decreases, increasing the risk of alcohol-related driving problems.",
+   "cites": [
+    {
+     "block": "4he6vg",
+     "quote": "As you age, your tolerance to alcohol decreases, which increases the risk of alcohol-related driving problems."
+    }
+   ]
+  },
+  {
+   "id": "dui-prescription-same-as-illegal",
+   "kind": "rule",
+   "text": "The DUI law makes no distinction between illegal drugs and medications from a doctor or pharmacy; all can affect your ability to drive safely.",
+   "cites": [
+    {
+     "block": "4he6vg",
+     "quote": "The law does not see a difference between illegal drugs and medications you get from a doctor or pharmacy. They can all affect your ability to drive safely and react to what you see and hear."
+    }
+   ]
+  },
+  {
+   "id": "dui-excessive-alcohol-any-form",
+   "kind": "rule",
+   "text": "At any age, it is illegal to drive after drinking excessive amounts of alcohol in any form, including medications like cough syrup.",
+   "cites": [
+    {
+     "block": "92utyh",
+     "quote": "No matter what age you are, it is illegal to drive after:"
+    },
+    {
+     "block": "rh7bbe",
+     "quote": "Drinking excessive amounts of alcohol in any form. This includes medications like cough syrup."
+    }
+   ]
+  },
+  {
+   "id": "dui-any-impairing-drug",
+   "kind": "rule",
+   "text": "At any age, it is illegal to drive after taking any drug, including prescription or over-the-counter medication, that affects your ability to drive.",
+   "cites": [
+    {
+     "block": "92utyh",
+     "quote": "No matter what age you are, it is illegal to drive after:"
+    },
+    {
+     "block": "dzkub9",
+     "quote": "Taking any drug that affects your ability to drive. This includes prescriptions or over-the-counter medications."
+    }
+   ]
+  },
+  {
+   "id": "dui-combination",
+   "kind": "rule",
+   "text": "At any age, it is illegal to drive after using any combination of alcohol or drugs that decreases your ability to drive safely.",
+   "cites": [
+    {
+     "block": "92utyh",
+     "quote": "No matter what age you are, it is illegal to drive after:"
+    },
+    {
+     "block": "e4nuhg",
+     "quote": "Using any combination of alcohol or drugs that decreases your ability to drive safely."
+    }
+   ]
+  },
+  {
+   "id": "read-medication-labels",
+   "kind": "practice",
+   "text": "Read medication labels and know the effects of any drug you use.",
+   "cites": [
+    {
+     "block": "ntdwjn",
+     "quote": "Make sure you read medication labels and know the effects of any drug you use."
+    }
+   ]
+  },
+  {
+   "id": "dui-test-refusal-one-year",
+   "kind": "consequence",
+   "quantities": [
+    "one year"
+   ],
+   "text": "If an officer thinks you are driving under the influence, they may ask you to take a blood or urine test; if you refuse, the DMV will suspend or revoke your driving privilege for one year.",
+   "cites": [
+    {
+     "block": "ntdwjn",
+     "quote": "If a law enforcement officer thinks you are driving while under the influence of drugs or alcohol, they have the right to ask you to take a blood or urine test. If you refuse to take one, DMV will suspend or revoke your driving privilege for one year.",
+     "marks": [
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bicycle-dui-minor",
+   "kind": "consequence",
+   "quantities": [
+    "13 to 20 years old",
+    "one year"
+   ],
+   "text": "If you are 13 to 20 years old and convicted of riding a bicycle under the influence of alcohol or drugs, your driving privilege may be suspended or delayed for one year once you are eligible to drive.",
+   "cites": [
+    {
+     "block": "4jve7g",
+     "quote": "If you are 13 to 20 years old and convicted of operating a bicycle while under the influence of alcohol or drugs, your driving privilege may be suspended or delayed for one year once you are eligible to drive.",
+     "marks": [
+      "13 to 20 years old",
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "no-drinking-cannabis-in-vehicle",
+   "kind": "rule",
+   "text": "It is illegal to drink any alcohol or smoke or eat a cannabis product while driving or riding as a passenger in a vehicle.",
+   "cites": [
+    {
+     "block": "pe4uuw",
+     "quote": "It is illegal to drink any alcohol, to smoke or eat a cannabis product while you are driving or riding as a passenger in a vehicle."
+    }
+   ]
+  },
+  {
+   "id": "open-container-sealed",
+   "kind": "rule",
+   "text": "Any alcohol or cannabis carried in a vehicle must be in a sealed, unopened container; an open container must be kept in the trunk or where passengers do not sit.",
+   "cites": [
+    {
+     "block": "pe4uuw",
+     "quote": "If you are carrying any alcohol or cannabis in your vehicle, the container must be sealed and unopened. If it is open, you must keep the container in the trunk or place where passengers do not sit."
+    }
+   ]
+  },
+  {
+   "id": "open-container-glove-box",
+   "kind": "rule",
+   "text": "It is illegal to keep an open container of alcohol in your glove box.",
+   "cites": [
+    {
+     "block": "pe4uuw",
+     "quote": "It is also illegal to keep an open container of alcohol in your glove box."
+    }
+   ]
+  },
+  {
+   "id": "open-container-exemption",
+   "kind": "rule",
+   "text": "The open-container rules do not apply to passengers in a bus, taxi, camper, or motorhome.",
+   "cites": [
+    {
+     "block": "pe4uuw",
+     "quote": "This law does not apply if you are a passenger in a bus, taxi, camper, or motorhome."
+    }
+   ]
+  },
+  {
+   "id": "bac-definition",
+   "kind": "definition",
+   "text": "Blood alcohol concentration (BAC) measures how much alcohol is in your bloodstream.",
+   "cites": [
+    {
+     "block": "fs5ap3",
+     "quote": "Your BAC measures how much alcohol is present in your bloodstream."
+    }
+   ]
+  },
+  {
+   "id": "bac-limit-21-and-over",
+   "kind": "rule",
+   "quantities": [
+    "0.08%",
+    "21"
+   ],
+   "text": "It is illegal to drive with a BAC of 0.08% or higher if you are over 21.",
+   "cites": [
+    {
+     "block": "d5zj9v",
+     "quote": "It is illegal for you to drive if you have a BAC of:"
+    },
+    {
+     "block": "prdncv",
+     "quote": "0.08% or higher if you are over 21 years old.",
+     "marks": [
+      "0.08%",
+      "21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bac-limit-under-21",
+   "kind": "rule",
+   "quantities": [
+    "0.01%",
+    "21"
+   ],
+   "text": "It is illegal to drive with a BAC of 0.01% or higher if you are under 21.",
+   "cites": [
+    {
+     "block": "d5zj9v",
+     "quote": "It is illegal for you to drive if you have a BAC of:"
+    },
+    {
+     "block": "g77zwc",
+     "quote": "0.01% or higher if you are under 21 years old.",
+     "marks": [
+      "0.01%",
+      "21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bac-limit-dui-probation",
+   "kind": "rule",
+   "quantities": [
+    "0.01%"
+   ],
+   "text": "It is illegal to drive with a BAC of 0.01% or higher at any age if you are on DUI probation.",
+   "cites": [
+    {
+     "block": "d5zj9v",
+     "quote": "It is illegal for you to drive if you have a BAC of:"
+    },
+    {
+     "block": "q27v7s",
+     "quote": "0.01% or higher at any age if you are on DUI probation.",
+     "marks": [
+      "0.01%"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bac-limit-commercial",
+   "kind": "rule",
+   "quantities": [
+    "0.04%"
+   ],
+   "text": "It is illegal to drive with a BAC of 0.04% or higher in a vehicle that requires a commercial driver's license.",
+   "cites": [
+    {
+     "block": "d5zj9v",
+     "quote": "It is illegal for you to drive if you have a BAC of:"
+    },
+    {
+     "block": "wwt95v",
+     "quote": "0.04% or higher if you drive a vehicle that requires a commercial driver’s license.",
+     "marks": [
+      "0.04%"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bac-limit-passenger-for-hire",
+   "kind": "rule",
+   "quantities": [
+    "0.04%"
+   ],
+   "text": "It is illegal to drive with a BAC of 0.04% or higher when driving a passenger for hire.",
+   "cites": [
+    {
+     "block": "d5zj9v",
+     "quote": "It is illegal for you to drive if you have a BAC of:"
+    },
+    {
+     "block": "2vdcdr",
+     "quote": "0.04% or higher if you are driving a passenger for hire.",
+     "marks": [
+      "0.04%"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "illegal-bac-dui-charge",
+   "kind": "consequence",
+   "text": "If you drive with an illegal BAC, an officer can charge you with DUI.",
+   "cites": [
+    {
+     "block": "rndk2a",
+     "quote": "If you drive with an illegal BAC, a law enforcement officer can charge you with DUI."
+    }
+   ]
+  },
+  {
+   "id": "below-limit-not-safe",
+   "kind": "practice",
+   "text": "A BAC below the legal limit does not mean it is safe to drive; almost everyone feels negative effects of alcohol even below the limit.",
+   "cites": [
+    {
+     "block": "rndk2a",
+     "quote": "Even if your BAC is below legal limits, that does not mean it is safe for you to drive. Almost everyone feels negative effects of alcohol, even at levels lower than the legal limit."
+    }
+   ]
+  },
+  {
+   "id": "dui-without-bac",
+   "kind": "rule",
+   "text": "Depending on how impaired you are, you can be arrested and convicted of DUI even without a BAC measurement.",
+   "cites": [
+    {
+     "block": "rndk2a",
+     "quote": "Depending on how badly you are impaired, you may be arrested and convicted of a DUI even without a BAC measurement."
+    }
+   ]
+  },
+  {
+   "id": "bac-factors",
+   "kind": "practice",
+   "quantities": [
+    "one drink"
+   ],
+   "text": "BAC estimates depend on how many drinks are consumed, gender, and body weight, and even one drink can affect your ability to drive safely.",
+   "cites": [
+    {
+     "block": "7u4bxe",
+     "quote": "The table below shows BAC estimates based on how many drinks are consumed, gender, and body weight. Remember, even one drink can affect your ability to drive safely.",
+     "marks": [
+      "one drink"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boating-under-influence",
+   "kind": "rule",
+   "text": "It is illegal to drink alcohol or take drugs while operating a boat, jet ski, water skis, aquaplane, or similar vessel.",
+   "cites": [
+    {
+     "block": "z2ac4a",
+     "quote": "It is illegal to drink alcohol or take drugs when you are operating a boat, jet ski, water skis, aquaplane, or similar vessels."
+    }
+   ]
+  },
+  {
+   "id": "implied-consent",
+   "kind": "rule",
+   "text": "By driving in California, you consent to a breath, blood, or urine test if an officer suspects you of DUI.",
+   "cites": [
+    {
+     "block": "afxx6s",
+     "quote": "When you drive in California, you consent to a breath, blood, or urine test if a law enforcement officer suspects you of DUI."
+    }
+   ]
+  },
+  {
+   "id": "pas-then-blood-urine",
+   "kind": "rule",
+   "text": "Even after taking a preliminary alcohol screening (PAS) or breath test, you may still be required to take a blood or urine test to detect drugs.",
+   "cites": [
+    {
+     "block": "afxx6s",
+     "quote": "If you agreed to take a preliminary alcohol screening (PAS) or breath test, you may still be required to take a blood or urine test to detect the presence of drugs."
+    }
+   ]
+  },
+  {
+   "id": "chemical-test-refusal",
+   "kind": "consequence",
+   "text": "If you refuse a required chemical test, the DMV will suspend or revoke your driving privilege.",
+   "cites": [
+    {
+     "block": "afxx6s",
+     "quote": "If you refuse, DMV will suspend or revoke your driving privilege."
+    }
+   ]
+  },
+  {
+   "id": "admin-per-se",
+   "kind": "consequence",
+   "text": "If you are arrested for DUI, California's Administrative Per Se law requires the DMV to suspend your driving privilege.",
+   "cites": [
+    {
+     "block": "afxx6s",
+     "quote": "If you are arrested for DUI:"
+    },
+    {
+     "block": "497ydd",
+     "quote": "California’s Administrative Per Se law requires DMV to suspend your driving privilege."
+    }
+   ]
+  },
+  {
+   "id": "dui-arrest-temporary-license",
+   "kind": "consequence",
+   "quantities": [
+    "30-day"
+   ],
+   "text": "If you are arrested for DUI, the officer may take your license and give you a 30-day temporary driver's license.",
+   "cites": [
+    {
+     "block": "afxx6s",
+     "quote": "If you are arrested for DUI:"
+    },
+    {
+     "block": "axpyj2",
+     "quote": "The law enforcement officer may take your driver’s license and give you a temporary driver’s license for 30 days.",
+     "marks": [
+      "30 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dui-arrest-hearing-10-days",
+   "kind": "process",
+   "quantities": [
+    "10 days"
+   ],
+   "text": "After a DUI arrest, you may request a DMV administrative hearing within 10 days from the date of your arrest.",
+   "cites": [
+    {
+     "block": "afxx6s",
+     "quote": "If you are arrested for DUI:"
+    },
+    {
+     "block": "z2nqkd",
+     "quote": "You may request a DMV administrative hearing within 10 days from the date of your arrest.",
+     "marks": [
+      "10 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dui-conviction-suspension",
+   "kind": "consequence",
+   "text": "If you are convicted of DUI, the DMV will suspend or revoke your driving privilege.",
+   "cites": [
+    {
+     "block": "n253zn",
+     "quote": "If you are convicted of a DUI, DMV will suspend or revoke your driving privilege"
+    }
+   ]
+  },
+  {
+   "id": "dui-conviction-program",
+   "kind": "consequence",
+   "text": "If you are convicted of DUI, you must complete a DUI program.",
+   "cites": [
+    {
+     "block": "n253zn",
+     "quote": "If you are convicted of a DUI, DMV will suspend or revoke your driving privilege and you:"
+    },
+    {
+     "block": "92xuye",
+     "quote": "Must complete a DUI program."
+    }
+   ]
+  },
+  {
+   "id": "dui-conviction-sr22",
+   "kind": "consequence",
+   "text": "If you are convicted of DUI, you must file a California Insurance Proof Certificate (SR 22/SR 1P).",
+   "cites": [
+    {
+     "block": "n253zn",
+     "quote": "If you are convicted of a DUI, DMV will suspend or revoke your driving privilege and you:"
+    },
+    {
+     "block": "zgkwbe",
+     "quote": "Must file a California Insurance Proof Certificate (SR 22/SR 1P)."
+    }
+   ]
+  },
+  {
+   "id": "dui-conviction-fees",
+   "kind": "consequence",
+   "text": "If you are convicted of DUI, you must pay any applicable license reissue or restriction fees.",
+   "cites": [
+    {
+     "block": "n253zn",
+     "quote": "If you are convicted of a DUI, DMV will suspend or revoke your driving privilege and you:"
+    },
+    {
+     "block": "y6jz8x",
+     "quote": "Must pay any applicable license reissue or restriction fees."
+    }
+   ]
+  },
+  {
+   "id": "dui-conviction-iid",
+   "kind": "consequence",
+   "text": "If you are convicted of DUI, you may be required to install an ignition interlock device (IID) on your vehicle.",
+   "cites": [
+    {
+     "block": "n253zn",
+     "quote": "If you are convicted of a DUI, DMV will suspend or revoke your driving privilege and you:"
+    },
+    {
+     "block": "cxve8g",
+     "quote": "May be required to install an ignition interlock device (IID) on your vehicle."
+    }
+   ]
+  },
+  {
+   "id": "dui-jail-six-months",
+   "kind": "consequence",
+   "quantities": [
+    "six months"
+   ],
+   "text": "A DUI conviction can bring a sentence of up to six months in jail.",
+   "cites": [
+    {
+     "block": "n3k8w5",
+     "quote": "Here are some additional penalties if you are convicted of DUI:"
+    },
+    {
+     "block": "uakfue",
+     "quote": "You may be sentenced to up to six months in jail.",
+     "marks": [
+      "six months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dui-fine",
+   "kind": "consequence",
+   "text": "A DUI conviction may require you to pay a fine.",
+   "cites": [
+    {
+     "block": "n3k8w5",
+     "quote": "Here are some additional penalties if you are convicted of DUI:"
+    },
+    {
+     "block": "7sxm4y",
+     "quote": "You may have to pay a fine."
+    }
+   ]
+  },
+  {
+   "id": "dui-impound",
+   "kind": "consequence",
+   "text": "After a DUI conviction, law enforcement may impound your vehicle and you may have to pay a storage fee.",
+   "cites": [
+    {
+     "block": "n3k8w5",
+     "quote": "Here are some additional penalties if you are convicted of DUI:"
+    },
+    {
+     "block": "mp52bf",
+     "quote": "Law enforcement may impound your vehicle and you may have to pay a storage fee."
+    }
+   ]
+  },
+  {
+   "id": "dui-civil-lawsuits",
+   "kind": "consequence",
+   "text": "If you cause serious injury or death while driving under the influence, you may face civil lawsuits.",
+   "cites": [
+    {
+     "block": "hd2dnc",
+     "quote": "If you cause serious injury or death while driving under the influence of drugs or alcohol, you may face civil lawsuits."
+    }
+   ]
+  },
+  {
+   "id": "dui-record-10-years",
+   "kind": "consequence",
+   "quantities": [
+    "10 years"
+   ],
+   "text": "All DUI convictions stay on your driver's record for 10 years, and further DUIs in that time may bring additional penalties.",
+   "cites": [
+    {
+     "block": "epq2ny",
+     "quote": "All DUI convictions remain on your driver’s record for 10 years. If you get any other DUIs during that time, the court or DMV may give you an additional penalty.",
+     "marks": [
+      "10 years"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-21-carry-alcohol",
+   "kind": "rule",
+   "quantities": [
+    "21",
+    "21 or older"
+   ],
+   "text": "If you are under 21, you may not carry alcohol in a vehicle unless someone 21 or older is with you, and it must be full, sealed, and unopened, or kept in the trunk or where passengers do not sit if opened.",
+   "cites": [
+    {
+     "block": "9tybu8",
+     "quote": "Possessing alcohol:"
+    },
+    {
+     "block": "ju6r5n",
+     "quote": "You may not carry any alcohol beverage inside a vehicle unless an individual who is 21 years old or older is with you. The container must be full, sealed, and unopened. If opened, the alcohol must be kept in the trunk or place where passengers do not sit.",
+     "marks": [
+      "21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-21-alcohol-work-exception",
+   "kind": "rule",
+   "quantities": [
+    "21"
+   ],
+   "text": "A driver under 21 working for someone with an off-site liquor sales license may carry alcoholic beverages in closed containers.",
+   "cites": [
+    {
+     "block": "ju6r5n",
+     "quote": "If you are working for someone with an off-site liquor sales license, you may carry alcoholic beverages in closed containers."
+    }
+   ]
+  },
+  {
+   "id": "under-21-alcohol-impound",
+   "kind": "consequence",
+   "quantities": [
+    "21",
+    "30 days"
+   ],
+   "text": "If a driver under 21 is caught with alcohol in the vehicle, law enforcement can impound the vehicle for up to 30 days.",
+   "cites": [
+    {
+     "block": "ju6r5n",
+     "quote": "You may not carry any alcohol beverage inside a vehicle unless an individual who is 21 years old or older is with you.",
+     "marks": [
+      "21"
+     ]
+    },
+    {
+     "block": "2wr2xs",
+     "quote": "If you are caught with alcohol in your vehicle, law enforcement can impound your vehicle for up to 30 days.",
+     "marks": [
+      "30 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-21-alcohol-suspension",
+   "kind": "consequence",
+   "quantities": [
+    "21",
+    "one year"
+   ],
+   "text": "If a driver under 21 is caught with alcohol in the vehicle, the court may fine them and suspend their license for one year, or delay a first license by up to one year.",
+   "cites": [
+    {
+     "block": "2wr2xs",
+     "quote": "The court may fine you and suspend your driver’s license for one year. If you do not already have a driver’s license, the court may ask DMV to delay giving you your first driver’s license for up to one year.",
+     "marks": [
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-21-breath-test",
+   "kind": "rule",
+   "quantities": [
+    "21"
+   ],
+   "text": "If an officer suspects a driver under 21 of consuming alcohol, they can require a hand-held breath test, PAS, or another chemical test.",
+   "cites": [
+    {
+     "block": "gkgm8f",
+     "quote": "Consuming alcohol:"
+    },
+    {
+     "block": "tn9ak9",
+     "quote": "If a law enforcement officer suspects you of consuming alcohol, they can require you to take a hand-held breath test, PAS, or another chemical test."
+    }
+   ]
+  },
+  {
+   "id": "under-21-dui-001-revocation",
+   "kind": "consequence",
+   "quantities": [
+    "21",
+    "0.01%",
+    "one year"
+   ],
+   "text": "If you are under 21 and convicted of DUI with a BAC of 0.01% or higher, the DMV may revoke your driving privilege for one year, and you must complete a licensed DUI program.",
+   "cites": [
+    {
+     "block": "zgyj6q",
+     "quote": "If you are under 21 years old",
+     "marks": [
+      "21"
+     ]
+    },
+    {
+     "block": "aszrkt",
+     "quote": "If you are convicted of a DUI with a BAC of 0.01% or higher, DMV may revoke your driving privilege for one year. You must also complete a licensed DUI program.",
+     "marks": [
+      "0.01%",
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-21-pas-005",
+   "kind": "rule",
+   "quantities": [
+    "21",
+    "0.05%"
+   ],
+   "text": "If a driver under 21 has a PAS result of 0.05% or higher, the officer may require a breath or blood test.",
+   "cites": [
+    {
+     "block": "zgyj6q",
+     "quote": "If you are under 21 years old",
+     "marks": [
+      "21"
+     ]
+    },
+    {
+     "block": "8bget8",
+     "quote": "If your PAS shows a BAC of 0.05% or higher, the officer may require you to take a breath or blood test.",
+     "marks": [
+      "0.05%"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "under-21-005-dui-arrest",
+   "kind": "consequence",
+   "quantities": [
+    "21",
+    "0.05%"
+   ],
+   "text": "If a later test shows a driver under 21 has a BAC of 0.05% or higher, they may be arrested for DUI and their driving privilege may be suspended.",
+   "cites": [
+    {
+     "block": "zgyj6q",
+     "quote": "If you are under 21 years old",
+     "marks": [
+      "21"
+     ]
+    },
+    {
+     "block": "t8mthk",
+     "quote": "If a later test shows you have a BAC of 0.05% or higher, you may be arrested for a DUI and your driving privilege may be suspended.",
+     "marks": [
+      "0.05%"
+     ]
+    }
+   ]
+  }
+ ]
+}

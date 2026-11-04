@@ -1,0 +1,35 @@
+{
+ "section": 4,
+ "questions": [
+  {
+   "id": "q-address-change",
+   "facts": [
+    "address-change-ten-days"
+   ],
+   "prompt": "You move to a new apartment. What is the deadline for telling the DMV your new address?",
+   "choices": [
+    "5 days.",
+    "10 days.",
+    "30 days."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "You must notify the DMV of a new address within ten days, online or by mail."
+  },
+  {
+   "id": "q-expired-license",
+   "facts": [
+    "expired-license-illegal"
+   ],
+   "prompt": "Your driver's license expired last week. Which is true about driving on it?",
+   "choices": [
+    "You may not drive on it until you renew.",
+    "You may drive on it for 30 more days.",
+    "You may drive on it only to the DMV."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "It is against the law to drive with an expired license. There is no grace period, and no exception for a trip to the DMV."
+  }
+ ]
+}

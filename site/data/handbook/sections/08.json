@@ -1,0 +1,1607 @@
+{
+ "number": 8,
+ "title": "Safe Driving",
+ "pages": [
+  "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving/",
+  "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont1/",
+  "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont2/"
+ ],
+ "blocks": [
+  {
+   "id": "zgj3ch",
+   "type": "heading",
+   "level": 2,
+   "html": "Be Aware of Your Surroundings"
+  },
+  {
+   "id": "2a62q2",
+   "type": "paragraph",
+   "html": "To drive safely, you need to know what is around you. This helps you make good decisions and react to hazards on the road. This image shows the areas around your vehicle."
+  },
+  {
+   "id": "g3p44n",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "mcnqhe",
+     "html": "Green: Ahead of you."
+    },
+    {
+     "id": "e2f5rr",
+     "html": "Blue: Next to you."
+    },
+    {
+     "id": "6e9m9x",
+     "html": "Yellow: Blind spots."
+    },
+    {
+     "id": "fxg5ht",
+     "html": "Red: Behind you."
+    }
+   ]
+  },
+  {
+   "id": "rsb9pu",
+   "type": "figure",
+   "src": "https://www.dmv.ca.gov/portal/uploads/2023/02/Be-Aware-of-Your-Surroundings.png",
+   "alt": "Image showing a driver's field of vision.",
+   "width": 263,
+   "height": 255,
+   "file": "figures/Be-Aware-of-Your-Surroundings.webp"
+  },
+  {
+   "id": "zxs9c7",
+   "type": "heading",
+   "level": 3,
+   "html": "Scan Your Surroundings"
+  },
+  {
+   "id": "3zyxmd",
+   "type": "paragraph",
+   "html": "To give yourself time to react, avoid last minute moves and hazards, always keep your eyes moving and scan the road at least 10 seconds ahead of your vehicle."
+  },
+  {
+   "id": "m8pf5g",
+   "type": "heading",
+   "level": 3,
+   "html": "Tailgating (Following Too Closely)"
+  },
+  {
+   "id": "favtgj",
+   "type": "paragraph",
+   "html": "Tailgating makes it harder for you to see the road ahead because the vehicle in front of you blocks your view. You will not have enough time to react if the driver in front of you brakes suddenly. Use the three-second rule to ensure a safe following distance and avoid a collision. Following other vehicles at a safe distance gives you enough time to react if another driver makes a mistake."
+  },
+  {
+   "id": "8sedr5",
+   "type": "paragraph",
+   "html": "If a vehicle merges in front of you too closely, take your foot off the accelerator. This creates space between you and the vehicle ahead."
+  },
+  {
+   "id": "cvmvr8",
+   "type": "paragraph",
+   "html": "Create more space in front of your vehicle when:"
+  },
+  {
+   "id": "k4zdzr",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "ddw8pu",
+     "html": "A tailgater is behind you. Maintain your course and speed. Then, when safe to do so, merge right to change into another lane and allow the tailgater to pass."
+    },
+    {
+     "id": "mxxdkr",
+     "html": "Following motorcyclists on metal surfaces (bridge gratings, railroad tracks, etc.), and gravel."
+    }
+   ]
+  },
+  {
+   "id": "vb8znk",
+   "type": "heading",
+   "level": 3,
+   "html": "Know What is At Your Side"
+  },
+  {
+   "id": "2vcbyu",
+   "type": "paragraph",
+   "html": "Be aware of what is on each side of you. To maintain enough space to<br>maneuver safely and react to other drivers:"
+  },
+  {
+   "id": "xhyz8j",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "3tp93p",
+     "html": "Do not stay in another driver’s blind spot."
+    },
+    {
+     "id": "6rrytd",
+     "html": "Avoid driving directly alongside other vehicles."
+    },
+    {
+     "id": "dbspvp",
+     "html": "Make space for vehicles entering freeways, even if you have the right-of-way. Be ready for rapid changes and watch for signals from other drivers."
+    },
+    {
+     "id": "9p6deq",
+     "html": "Keep space between your vehicle and parked vehicles."
+    },
+    {
+     "id": "ahc5ur",
+     "html": "Look both ways, even at intersections where traffic has a red light or stop sign."
+    }
+   ]
+  },
+  {
+   "id": "b9n47a",
+   "type": "heading",
+   "level": 3,
+   "html": "Blind Spots"
+  },
+  {
+   "id": "4zm7qv",
+   "type": "paragraph",
+   "html": "Every vehicle has blind spots. These are areas around the vehicle that a driver cannot see when looking straight ahead or using the mirrors. For most vehicles, the blinds spots are at the sides, slightly behind the driver."
+  },
+  {
+   "id": "289cxv",
+   "type": "paragraph",
+   "html": "To check your blind spots, look over your right and left shoulders out of your side windows. Only turn your head when you look. Do not turn your whole body or steering wheel. Check your blind spots before you:"
+  },
+  {
+   "id": "g2pxb4",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "q557kh",
+     "html": "Change lanes."
+    },
+    {
+     "id": "jja6e5",
+     "html": "Turn at an intersection."
+    },
+    {
+     "id": "7a2vyt",
+     "html": "Merge with traffic."
+    },
+    {
+     "id": "4jefm3",
+     "html": "Back up."
+    },
+    {
+     "id": "fbejys",
+     "html": "Leave a parking space."
+    },
+    {
+     "id": "87brw6",
+     "html": "Parallel park."
+    },
+    {
+     "id": "yrkst6",
+     "html": "Pull out from the curb."
+    },
+    {
+     "id": "8y5uww",
+     "html": "Open your car door."
+    }
+   ]
+  },
+  {
+   "id": "98yfdq",
+   "type": "figure",
+   "src": "https://www.dmv.ca.gov/portal/uploads/2023/02/Blind-Spots.png",
+   "alt": "Image depicting a driver's blind spots.",
+   "caption": "<strong>The shaded areas are your blind spots</strong>",
+   "width": 481,
+   "height": 242,
+   "file": "figures/Blind-Spots.webp"
+  },
+  {
+   "id": "zfvcgx",
+   "type": "heading",
+   "level": 3,
+   "html": "Know What is Behind You"
+  },
+  {
+   "id": "yyg94y",
+   "type": "paragraph",
+   "html": "Knowing what is behind you can help you avoid rear-end collisions. Check traffic behind you often by using your rearview mirror, side mirrors, and turning your head when you:"
+  },
+  {
+   "id": "gwgrcc",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "vs46mw",
+     "html": "Change lanes."
+    },
+    {
+     "id": "6d6zdb",
+     "html": "Check your blind spots."
+    },
+    {
+     "id": "d83vcc",
+     "html": "Reduce your speed."
+    },
+    {
+     "id": "8xcmha",
+     "html": "Turn into a side road or driveway."
+    },
+    {
+     "id": "288nq2",
+     "html": "Stop to pull into a parking space."
+    },
+    {
+     "id": "x2jmnm",
+     "html": "Pull up to and away from the curb."
+    },
+    {
+     "id": "m76fq9",
+     "html": "Back up."
+    }
+   ]
+  },
+  {
+   "id": "x3777p",
+   "type": "heading",
+   "level": 2,
+   "html": "Understand the Road Conditions"
+  },
+  {
+   "id": "dm62ef",
+   "type": "heading",
+   "level": 3,
+   "html": "Darkness"
+  },
+  {
+   "id": "3q76mn",
+   "type": "paragraph",
+   "html": "When driving at night, use your high-beam headlights on open country roads or dark city streets. Make sure you can stop in the distance lit by your headlights. Do not use high-beam headlights in areas where they are illegal. Dim your high-beam headlights to avoid blinding the driver of an oncoming vehicle. If another vehicle’s lights are too bright:"
+  },
+  {
+   "id": "e286yb",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "9792sz",
+     "html": "Do not look directly into the oncoming headlights."
+    },
+    {
+     "id": "zckfmb",
+     "html": "Look toward the right edge of your lane."
+    },
+    {
+     "id": "hha9zf",
+     "html": "Watch the oncoming vehicle out of the corner of your eye."
+    },
+    {
+     "id": "yrtjny",
+     "html": "Do not react to the other driver by keeping your high-beam headlights on. This only makes it harder for both of you to see."
+    }
+   ]
+  },
+  {
+   "id": "fqqn3y",
+   "type": "paragraph",
+   "html": "When it is raining, use your low-beam headlights. Do not drive using only your parking lights. When you drive at night, remember:"
+  },
+  {
+   "id": "bv8x5t",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "zwfy2c",
+     "html": "Motorcycles, pedestrians, and bicyclists are much harder to see."
+    },
+    {
+     "id": "3rjksn",
+     "html": "Highway construction can take place at night. Reduce your speed in highway construction zones."
+    },
+    {
+     "id": "zynnsu",
+     "html": "When you leave a brightly lit place, drive slowly until your eyes adjust to the darkness."
+    },
+    {
+     "id": "5s6t79",
+     "html": "When a vehicle with one light drives toward you, drive as far to the right as possible. It could be a bicyclist, motorcyclist, or vehicle with a missing headlight."
+    }
+   ]
+  },
+  {
+   "id": "gthtdx",
+   "type": "heading",
+   "level": 3,
+   "html": "Sun Glare"
+  },
+  {
+   "id": "6uszea",
+   "type": "paragraph",
+   "html": "To help manage sun glare:"
+  },
+  {
+   "id": "q489mp",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "2wbd68",
+     "html": "Keep the inside and outside of your windshield clean."
+    },
+    {
+     "id": "dxufd2",
+     "html": "Wear polarized sunglasses."
+    },
+    {
+     "id": "7vd29j",
+     "html": "Maintain enough space between your vehicle and the vehicles around you."
+    },
+    {
+     "id": "bgyrmf",
+     "html": "Make sure your car visor works and is free of anything that would restrict use."
+    },
+    {
+     "id": "6kjahb",
+     "html": "Be aware of pedestrians. You may have difficulty seeing them."
+    },
+    {
+     "id": "6cn24w",
+     "html": "Try to avoid driving during sunrise and sunset."
+    }
+   ]
+  },
+  {
+   "id": "zc3tuw",
+   "type": "heading",
+   "level": 3,
+   "html": "Skids"
+  },
+  {
+   "id": "w2hhye",
+   "type": "paragraph",
+   "html": "A skid is when one or more of the tires lose traction with the road and the vehicle starts to slip. You may not be able to control your vehicle. There are a few different types of skids."
+  },
+  {
+   "id": "zk8hmj",
+   "type": "heading",
+   "level": 4,
+   "html": "Slippery Surface Skids"
+  },
+  {
+   "id": "hck4bv",
+   "type": "paragraph",
+   "html": "Ice and packed snow on the road can cause your vehicle to skid. This is even more likely if you are driving too fast or going downhill. Drive slowly and leave space between your vehicle and the vehicle ahead of you. To prevent skidding on slippery surfaces:"
+  },
+  {
+   "id": "rxdgft",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "9fzska",
+     "html": "Slow down as you approach intersections and curves. For sharp curves, slow down as you approach and move through."
+    },
+    {
+     "id": "zfqdwv",
+     "html": "Avoid fast turns and quick stops."
+    },
+    {
+     "id": "ua5gjy",
+     "html": "Shift to low gear before going down a steep hill."
+    },
+    {
+     "id": "r8yttj",
+     "html": "Avoid areas like ice patches, wet leaves, oil, or standing water."
+    }
+   ]
+  },
+  {
+   "id": "5nm5e6",
+   "type": "paragraph",
+   "html": "If you start to skid, follow these steps:"
+  },
+  {
+   "id": "phe6zb",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "t4qbng",
+     "html": "Slowly remove your foot from the accelerator"
+    },
+    {
+     "id": "fmrhh7",
+     "html": "Do not use the brakes."
+    },
+    {
+     "id": "tw7ufb",
+     "html": "Turn the steering wheel in the direction of the skid."
+    },
+    {
+     "id": "gt2cs7",
+     "html": "Try to get a wheel on dry pavement."
+    }
+   ]
+  },
+  {
+   "id": "5f844n",
+   "type": "heading",
+   "level": 4,
+   "html": "Locked Wheel Skids"
+  },
+  {
+   "id": "w4u9xh",
+   "type": "paragraph",
+   "html": "A locked wheel skid is usually caused by braking too hard when you are going too fast. If this happens, your vehicle will skid no matter which way the steering wheel is turned. To get out of a locked wheel skid if your vehicle is equipped with:"
+  },
+  {
+   "id": "gh7f45",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "hs54mn",
+     "html": "Four-wheel antilock braking system (ABS), apply firm pressure on the brake pedal."
+    },
+    {
+     "id": "7b648e",
+     "html": "Rear-wheel ABS (common in light trucks):",
+     "items": [
+      {
+       "id": "c8s3vz",
+       "html": "Ease up on the brake pedal while maintaining just enough pressure to allow the front wheels to roll again so you can steer."
+      },
+      {
+       "id": "ztaw66",
+       "html": "Stop braking and turn the steering wheel into the direction of the skid."
+      }
+     ]
+    },
+    {
+     "id": "d7pnjz",
+     "html": "Front-wheel ABS, remove your foot from the brake pedal to unlock the wheels. Steer in the direction you want to go and straighten the front wheels as the vehicle begins to straighten out."
+    }
+   ]
+  },
+  {
+   "id": "jmpbkb",
+   "type": "note",
+   "kind": "note",
+   "html": "To determine if your vehicle has ABS, refer to the vehicle owner’s manual."
+  },
+  {
+   "id": "skjvc3",
+   "type": "paragraph",
+   "html": "If your vehicle is not equipped with ABS and begins to skid, quickly pump your brakes until you are at a safe speed. If you:"
+  },
+  {
+   "id": "p69chx",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "7t329a",
+     "html": "Press the brake pedal and it sinks to the floor, quickly pump the brakes by gently applying and releasing pressure on your brake pedal."
+    },
+    {
+     "id": "ghpn9u",
+     "html": "Pump the brakes, down shift your vehicle into a lower or neutral gear to slow down. Then try using your emergency brake to stop."
+    }
+   ]
+  },
+  {
+   "id": "4md4xb",
+   "type": "paragraph",
+   "html": "If your brakes get wet, you can dry them by lightly pressing the accelerator and brake pedals at the same time. Only do this until the brakes dry."
+  },
+  {
+   "id": "k6gaas",
+   "type": "heading",
+   "level": 3,
+   "html": "Slippery Roads"
+  },
+  {
+   "id": "vaq3qf",
+   "type": "paragraph",
+   "html": "Rain, snow, or mud can make the roads slippery. Drive more slowly than you would on a dry road and allow for more space between your vehicle and the vehicle ahead of you."
+  },
+  {
+   "id": "35puvv",
+   "type": "paragraph",
+   "html": "Adjust your speed for different conditions:"
+  },
+  {
+   "id": "veb5z8",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "7j4nrw",
+     "html": "<strong>Wet road:</strong> Reduce your speed by 5 to 10 mph."
+    },
+    {
+     "id": "cnsy48",
+     "html": "<strong>Packed snow:</strong> Reduce your speed by half."
+    },
+    {
+     "id": "fsgkbp",
+     "html": "<strong>Ice:</strong> Reduce your speed to no more than 5 mph."
+    }
+   ]
+  },
+  {
+   "id": "umzwss",
+   "type": "paragraph",
+   "html": "Some road surfaces are more slippery than others when wet. These usually have warning signs posted. Here are situations where the road may be more slippery:"
+  },
+  {
+   "id": "pbf6gs",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "quqek5",
+     "html": "Shade from trees or buildings can hide icy spots on cold, wet days. These areas freeze first and dry out last."
+    },
+    {
+     "id": "yt5xty",
+     "html": "Bridges and overpasses tend to freeze before the rest of the road. They can have icy spots."
+    },
+    {
+     "id": "25xw2x",
+     "html": "When it starts to rain, the pavement can be very slippery."
+    }
+   ]
+  },
+  {
+   "id": "y8hrpm",
+   "type": "paragraph",
+   "html": "Slow down at the first sign of rain, drizzle, or snow on the road. This is especially true if it has been dry and hot for some time, because oil and dust on the road’s surface have not been washed away."
+  },
+  {
+   "id": "a65gq9",
+   "type": "paragraph",
+   "html": "Turn on your windshield wipers, low-beam headlights, and defroster. In a heavy rainstorm or snowstorm, you may not be able to see more than 100 feet in front of your vehicle. If you cannot see farther than 100 feet, it is not safe to drive faster than 30 mph. You may have to stop from time to time to wipe mud or snow off your windshield, headlights, and taillights. If you drive in snowy areas, carry snow chains for your tires. Snow chains give your tires more traction. Carry the correct number and type of chains for your vehicle."
+  },
+  {
+   "id": "yc57s9",
+   "type": "heading",
+   "level": 3,
+   "html": "Hydroplaning"
+  },
+  {
+   "id": "4ajzwt",
+   "type": "paragraph",
+   "html": "Hydroplaning occurs when driving in wet or rainy conditions. Hydroplaning is a vehicle riding on water because the tires lose all contact with the road. A slight change of direction, applying the brakes, or a gust of wind could throw the vehicle into a skid. To avoid hydroplaning:"
+  },
+  {
+   "id": "v3bs3w",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "mb6s2p",
+     "html": "Drive slowly."
+    },
+    {
+     "id": "zacy6r",
+     "html": "Steer around standing water, if possible."
+    },
+    {
+     "id": "h5p8m8",
+     "html": "Slow down if you hear sloshing sounds from the tires."
+    },
+    {
+     "id": "sr2w68",
+     "html": "Slow down when changing lanes or direction."
+    }
+   ]
+  },
+  {
+   "id": "w5dj66",
+   "type": "paragraph",
+   "html": "If your vehicle starts to hydroplane:"
+  },
+  {
+   "id": "4r298v",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "weszbb",
+     "html": "Slow down gradually."
+    },
+    {
+     "id": "nt8uk2",
+     "html": "Do not use the brakes. Sudden braking may cause you to lose control of your vehicle."
+    }
+   ]
+  },
+  {
+   "id": "h3bt9a",
+   "type": "heading",
+   "level": 3,
+   "html": "Stuck in Snow or Mud"
+  },
+  {
+   "id": "ytj3mk",
+   "type": "paragraph",
+   "html": "If stuck in the snow or mud, follow these steps:"
+  },
+  {
+   "id": "6vhq4d",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "jusc7r",
+     "html": "Shift into a low gear and keep the front wheels straight."
+    },
+    {
+     "id": "78wj7j",
+     "html": "Gently step on the accelerator. Avoid spinning the wheels."
+    },
+    {
+     "id": "2284bn",
+     "html": "Drive slowly forward as far as possible."
+    },
+    {
+     "id": "2zsvsw",
+     "html": "Shift into reverse and slowly back up as far as possible. Do not spin the wheels."
+    },
+    {
+     "id": "uwcpa3",
+     "html": "Shift into a low gear again and drive forward."
+    },
+    {
+     "id": "u7zhjk",
+     "html": "Repeat a forward-backward motion until the vehicle rolls free."
+    },
+    {
+     "id": "mfvs2u",
+     "html": "In deep mud or snow, put boards, tree branches, etc., under the tires. Only take this action when the vehicle is stopped."
+    }
+   ]
+  },
+  {
+   "id": "gca5sh",
+   "type": "heading",
+   "level": 3,
+   "html": "Flooded Roads"
+  },
+  {
+   "id": "t9te9y",
+   "type": "paragraph",
+   "html": "Excessive water on a road may cause flooding. This can happen gradually or suddenly. It is important to understand the dangers of water on the road, including:"
+  },
+  {
+   "id": "5az69m",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "zcwtke",
+     "html": "Being swept off the road."
+    },
+    {
+     "id": "ge9f69",
+     "html": "Floating debris and unseen hazards."
+    },
+    {
+     "id": "dhzf8w",
+     "html": "The road collapsing."
+    },
+    {
+     "id": "dfqe9e",
+     "html": "Vehicle malfunction."
+    },
+    {
+     "id": "ct3uf3",
+     "html": "Electrocution if there are fallen power lines."
+    }
+   ]
+  },
+  {
+   "id": "wmrrs7",
+   "type": "paragraph",
+   "html": "It may not be possible to determine the depth of the flood by looking. If the water is deep, the road may be too dangerous to cross. It is best to find another route. If you have no other option but to drive through a flooded road, drive slowly. After you make it through the water, test your brakes to make sure they work correctly."
+  },
+  {
+   "id": "fdhx7f",
+   "type": "heading",
+   "level": 3,
+   "html": "High Winds"
+  },
+  {
+   "id": "h3ep43",
+   "type": "paragraph",
+   "html": "High winds can be a hazard while driving. This is especially true for larger vehicles such as trucks, campers, and vehicles with trailers. When driving in high winds:"
+  },
+  {
+   "id": "yhf4mj",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "bgcpjw",
+     "html": "Reduce your speed. This gives you better control over your vehicle. You will have more time to react if your vehicle gets hit by a strong gust of wind."
+    },
+    {
+     "id": "vfzw8z",
+     "html": "Maintain a firm hand position on the steering wheel. Strong wind gusts are unpredictable. If you are not holding the wheel properly and a gust hits, you can lose control of the vehicle."
+    },
+    {
+     "id": "7akhpr",
+     "html": "Be alert. Look ahead and watch for any debris on the road. Give yourself enough time to react to road hazards."
+    },
+    {
+     "id": "5aw95w",
+     "html": "Do not use cruise control. Maintain maximum control of the accelerator if a gust occurs."
+    },
+    {
+     "id": "tr7wr2",
+     "html": "Be proactive. It may be safer to pull over and wait for the storm to pass."
+    }
+   ]
+  },
+  {
+   "id": "dkpsum",
+   "type": "heading",
+   "level": 3,
+   "html": "Fog or Heavy Smoke"
+  },
+  {
+   "id": "brtr7a",
+   "type": "paragraph",
+   "html": "It is best to avoid driving in heavy fog or smoke. Consider postponing your trip until the fog clears. If you must drive in heavy fog or smoke:"
+  },
+  {
+   "id": "de5qrc",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "qghzur",
+     "html": "Drive slowly."
+    },
+    {
+     "id": "j7mbfc",
+     "html": "Use your low-beam headlights. High-beam headlights will reflect back and cause glare."
+    },
+    {
+     "id": "wubx3d",
+     "html": "Never drive using only your parking or fog lights."
+    },
+    {
+     "id": "6p2f4x",
+     "html": "Make sure you can stop within the space you can see ahead."
+    },
+    {
+     "id": "dn4ydj",
+     "html": "Increase your following distance."
+    },
+    {
+     "id": "z3u5g7",
+     "html": "Use your windshield wipers and defroster as necessary."
+    },
+    {
+     "id": "63nreq",
+     "html": "Avoid crossing lanes or passing traffic unless absolutely necessary."
+    },
+    {
+     "id": "4e7hp7",
+     "html": "Listen for traffic you cannot see."
+    }
+   ]
+  },
+  {
+   "id": "sgd96v",
+   "type": "paragraph",
+   "html": "If the fog becomes too thick to drive safely, consider pulling off the road. Activate your emergency flashers and wait for conditions to improve."
+  },
+  {
+   "id": "7bhme3",
+   "type": "heading",
+   "level": 3,
+   "html": "Law Enforcement Traffic Breaks"
+  },
+  {
+   "id": "vv7g9h",
+   "type": "paragraph",
+   "html": "During a traffic break, the officer turns on their emergency lights and slowly weaves across lanes. Law enforcement uses traffic breaks to:"
+  },
+  {
+   "id": "8w6sa8",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "xh7vtf",
+     "html": "Slow or stop traffic to remove hazards from the road."
+    },
+    {
+     "id": "qn83qz",
+     "html": "Slow or stop traffic during heavy fog or unusual traffic conditions."
+    },
+    {
+     "id": "cqxygh",
+     "html": "Prevent collisions during unusual conditions."
+    }
+   ]
+  },
+  {
+   "id": "b45rpb",
+   "type": "paragraph",
+   "html": "You should:"
+  },
+  {
+   "id": "ngvxue",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "f2tvc5",
+     "html": "Turn on your emergency flashers to warn other drivers."
+    },
+    {
+     "id": "8m9atf",
+     "html": "Slowly decrease your speed to the same speed as the officer. Do not brake suddenly unless necessary to avoid a collision. Keep a safe distance from the patrol vehicle ahead of you."
+    },
+    {
+     "id": "5vnwds",
+     "html": "Not drive past the patrol vehicle. Do not speed up until the officer turns off their emergency lights and traffic conditions allow you to return to your normal speed."
+    }
+   ]
+  },
+  {
+   "id": "yb5bxu",
+   "type": "heading",
+   "level": 2,
+   "html": "Protect Yourself and Your Passengers"
+  },
+  {
+   "id": "xsnhqx",
+   "type": "heading",
+   "level": 3,
+   "html": "Seat Belts"
+  },
+  {
+   "id": "4eew2u",
+   "type": "paragraph",
+   "html": "You and your passengers must wear seat belts. You can get a ticket if you do not. If your passenger is under 16 years old, you can also get a ticket if they are not wearing their seat belt."
+  },
+  {
+   "id": "uj52t8",
+   "type": "paragraph",
+   "html": "Wearing the lap belt and shoulder harness of a seat belt will increase your chance of survival in most types of collisions. This image shows what can happen in a collision."
+  },
+  {
+   "id": "5zcdqj",
+   "type": "paragraph",
+   "html": "When you are in a collision, your vehicle stops. But you keep moving at the same speed you were traveling. You only stop when you hit the dashboard or windshield. If you are struck from the side, the impact could push you back and forth across the seat. Seat and shoulder belts keep you in a better position to control the vehicle. They may also minimize serious injuries."
+  },
+  {
+   "id": "5a5mh6",
+   "type": "paragraph",
+   "html": "It is important to wear the seat belt correctly to avoid injury or death:"
+  },
+  {
+   "id": "gv9c2t",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "74xnkq",
+     "html": "Wear the shoulder harness across your shoulder and chest. There should be little to no slack. Do not wear the shoulder belt under your arm or behind your back."
+    },
+    {
+     "id": "kccktq",
+     "html": "Adjust the lap belt so that it is snug and lies low across your hips. Otherwise you might slide out of the belt in a crash."
+    },
+    {
+     "id": "zqhke6",
+     "html": "If you are pregnant, wear the lap belt as low as possible under your abdomen. Place the shoulder strap between your breasts and to the side of your abdomen’s bulge."
+    }
+   ]
+  },
+  {
+   "id": "fvurta",
+   "type": "figure",
+   "src": "https://www.dmv.ca.gov/portal/uploads/2023/02/Impact.png",
+   "alt": "Image showing how your body would be thrown during an traffic collision.",
+   "width": 341,
+   "height": 347,
+   "file": "figures/Impact.webp"
+  },
+  {
+   "id": "en6gyz",
+   "type": "paragraph",
+   "html": "<strong>IMPACT –</strong> If the red arrow were another car hitting your car on the driver’s side:"
+  },
+  {
+   "id": "x9drey",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "3zascs",
+     "html": "You would first be thrown against the driver’s side door,"
+    },
+    {
+     "id": "9efbj5",
+     "html": "Then you would “rebound” and be thrown toward the passenger’s side door."
+    }
+   ]
+  },
+  {
+   "id": "zef8c8",
+   "type": "heading",
+   "level": 3,
+   "html": "Child Restraint System and Safety Seats"
+  },
+  {
+   "id": "cmqs4t",
+   "type": "paragraph",
+   "html": "You must secure children with a federally-approved child passenger restraint system or safety belt. The requirements depend on the child’s height and age."
+  },
+  {
+   "id": "ddv5aq",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "7th4f2",
+     "html": "<strong>Children who are under 2 years old, under 40 pounds, and under 3 feet 4 inches tall:</strong> Secure in a rear-facing child passenger restraint system."
+    }
+   ]
+  },
+  {
+   "id": "q28ggz",
+   "type": "note",
+   "kind": "note",
+   "html": "A child in a rear-facing child passenger restraint system may not ride in the front seat of an airbag-equipped vehicle."
+  },
+  {
+   "id": "5svbcn",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "2jkrdx",
+     "html": "<strong>Children who are under 8 years old, or who are less than 4 feet 9 inches tall:</strong> Secure in a child passenger restraint system in a rear seat. In some cases, children under 8 years old may ride in the front seat of a vehicle in a federally-approved child passenger restraint system. They may ride in the front seat if:",
+     "items": [
+      {
+       "id": "7zexky",
+       "html": "There is no rear seat."
+      },
+      {
+       "id": "jgxswr",
+       "html": "The rear seats are side-facing jump seats."
+      },
+      {
+       "id": "7z4d6x",
+       "html": "The rear seats are rear-facing seats."
+      },
+      {
+       "id": "c3b2r9",
+       "html": "The child passenger restraint system cannot be installed properly in the rear seat."
+      },
+      {
+       "id": "5wgzes",
+       "html": "All rear seats are already occupied by children 7 years old or younger."
+      },
+      {
+       "id": "68ybh2",
+       "html": "Medical reasons prevent the child from riding in the back seat."
+      }
+     ]
+    },
+    {
+     "id": "bjc4nu",
+     "html": "<strong>Children who are 8 years old or older, or at least 4 feet 9 inches tall:</strong> May use a properly secured safety belt that meets federal standards."
+    }
+   ]
+  },
+  {
+   "id": "8pnanz",
+   "type": "paragraph",
+   "html": "Your local law enforcement agency or fire department can check the installation of your child passenger restraint system. As your child grows, check that the child passenger restraint system is the right size."
+  },
+  {
+   "id": "fbrdtv",
+   "type": "heading",
+   "level": 3,
+   "html": "Air Bags"
+  },
+  {
+   "id": "gg7k5m",
+   "type": "paragraph",
+   "html": "Air bags are a valuable safety feature on many vehicles. They can help keep you safer than a seat belt alone."
+  },
+  {
+   "id": "uyqede",
+   "type": "paragraph",
+   "html": "Ride at least 10 inches from the airbag cover, as long as you can maintain full control of your vehicle. Measure from the center of the steering wheel to your breastbone. Contact your vehicle dealer or manufacturer if you cannot safely sit 10 inches away from the air bag. They may have advice about additional ways to move back from your air bag. Passengers should also sit at least 10 inches away from the passenger-side air bag."
+  },
+  {
+   "id": "m4r628",
+   "type": "note",
+   "kind": "note",
+   "html": "Children seated next to a side air bag may be at risk of serious or fatal injury."
+  },
+  {
+   "id": "q332y5",
+   "type": "heading",
+   "level": 3,
+   "html": "Unattended Children and Pets"
+  },
+  {
+   "id": "5wq6qw",
+   "type": "paragraph",
+   "html": "It is illegal to leave a child who is six years old or younger unattended in a vehicle. A child may be left under the supervision of a person who is at least 12 years old."
+  },
+  {
+   "id": "nnhrqa",
+   "type": "paragraph",
+   "html": "It is dangerous and illegal to leave children or animals in a hot vehicle. The temperature inside a parked vehicle can rise rapidly when it is sitting in the sun. This is true even if a window is left slightly open. Too much exposure to heat can lead to dehydration, heat stroke, and death."
+  },
+  {
+   "id": "pwxy9v",
+   "type": "heading",
+   "level": 2,
+   "html": "Manage Your Speed"
+  },
+  {
+   "id": "3h5zva",
+   "type": "paragraph",
+   "html": "In California, you may never drive faster than is safe for the current road conditions. This is known as the Basic Speed Law."
+  },
+  {
+   "id": "45cd7n",
+   "type": "paragraph",
+   "html": "Make sure you manage your speed and slow down when conditions call for it. Regardless of the posted speed limit, your speed should depend on:"
+  },
+  {
+   "id": "gf9hvm",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "z27jw7",
+     "html": "The number of vehicles on the road."
+    },
+    {
+     "id": "pzwv9u",
+     "html": "The speed of other vehicles on the road."
+    },
+    {
+     "id": "37utaa",
+     "html": "The road surface: smooth, rough, graveled, wet, dry, wide, or narrow."
+    },
+    {
+     "id": "d96qgg",
+     "html": "Bicyclists or pedestrians on or crossing the road."
+    },
+    {
+     "id": "rmpj2n",
+     "html": "Weather: rain, fog, snow, wind, or dust."
+    },
+    {
+     "id": "xaq9gh",
+     "html": "Traffic congestion: small changes in your driving habits can help reduce congestion. Avoid weaving in and out of freeway lanes."
+    }
+   ]
+  },
+  {
+   "id": "gpu8f6",
+   "type": "paragraph",
+   "html": "There are also situations with specific speed limit laws and conditions where you should reduce your speed. Unless otherwise posted, the ideal maximum speed limit on most California highways is 65 mph. It is 55 mph on a two-lane undivided highway and for vehicles towing trailers."
+  },
+  {
+   "id": "qwevfn",
+   "type": "heading",
+   "level": 2,
+   "html": "Choose Between Hazards"
+  },
+  {
+   "id": "qftwvc",
+   "type": "paragraph",
+   "html": "Sometimes dangers will be on both sides of the road at the same time. For example, parked cars to the right and oncoming cars to the left."
+  },
+  {
+   "id": "pr6d9g",
+   "type": "paragraph",
+   "html": "If one danger is greater than the other, give more space to the most dangerous situation. Suppose you are on a two-lane road with an oncoming vehicle to the left and a bicyclist ahead to your right. Instead of driving between the vehicle and the bicyclist, take one danger at a time. Slow down and let the oncoming vehicle pass. When the vehicle has passed, move to the left to allow plenty of space (at least three feet) to pass the bicyclist. If there is a steady flow of oncoming vehicles, use as much of the left lane as you safely can to pass the bicyclist."
+  },
+  {
+   "id": "5hw6yx",
+   "type": "heading",
+   "level": 2,
+   "html": "Know How to Handle Emergencies"
+  },
+  {
+   "id": "3sceux",
+   "type": "paragraph",
+   "html": "There are many types of emergencies you may encounter when you drive. Knowing how to handle emergencies can help keep you safe."
+  },
+  {
+   "id": "s3z4ym",
+   "type": "heading",
+   "level": 3,
+   "html": "Tire Blowout"
+  },
+  {
+   "id": "pydp4b",
+   "type": "paragraph",
+   "html": "If you have a tire blowout, do not panic or overreact. Suddenly braking or abruptly removing your foot from the accelerator can result in a loss of control over the vehicle. Instead, you should take the following steps recommended by the National Highway Traffic Safety Administration:"
+  },
+  {
+   "id": "pmghu6",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "szakb3",
+     "html": "Hold the steering wheel with both hands."
+    },
+    {
+     "id": "4zxeuq",
+     "html": "Maintain your vehicle speed if possible and safe."
+    },
+    {
+     "id": "xg9h49",
+     "html": "Gradually release the accelerator."
+    },
+    {
+     "id": "ydgjww",
+     "html": "Correct the steering as necessary to stabilize your vehicle and regain control."
+    },
+    {
+     "id": "9yru9m",
+     "html": "Look and steer in the direction you want your vehicle to go."
+    },
+    {
+     "id": "ey367s",
+     "html": "Once your vehicle has stabilized, continue to slow down and pull off the road where and when it’s safe."
+    }
+   ]
+  },
+  {
+   "id": "4whrpr",
+   "type": "heading",
+   "level": 3,
+   "html": "Driving Off the Pavement"
+  },
+  {
+   "id": "yh383b",
+   "type": "paragraph",
+   "html": "If your wheels drift off the pavement:"
+  },
+  {
+   "id": "4ryz8y",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "r2wcs2",
+     "html": "Grip the steering wheel firmly."
+    },
+    {
+     "id": "9ejf57",
+     "html": "Remove your foot from the accelerator."
+    },
+    {
+     "id": "ep23r7",
+     "html": "Brake gently."
+    },
+    {
+     "id": "yum743",
+     "html": "Check for traffic behind you."
+    },
+    {
+     "id": "mqdm3y",
+     "html": "Carefully steer back onto the pavement."
+    }
+   ]
+  },
+  {
+   "id": "y2y2a8",
+   "type": "paragraph",
+   "html": "Do not pull or turn your steering wheel with too much force. This may cause you to drive into oncoming traffic."
+  },
+  {
+   "id": "htxhvn",
+   "type": "heading",
+   "level": 3,
+   "html": "Overheating Conditions"
+  },
+  {
+   "id": "d64wc2",
+   "type": "paragraph",
+   "html": "In extreme heat, you should:"
+  },
+  {
+   "id": "92gvq8",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "enyxe5",
+     "html": "Watch the temperature gauge."
+    },
+    {
+     "id": "zje8ft",
+     "html": "Avoid driving at high speeds for long periods."
+    },
+    {
+     "id": "ewa7a3",
+     "html": "Turn off the air conditioner."
+    }
+   ]
+  },
+  {
+   "id": "ehjzuv",
+   "type": "paragraph",
+   "html": "In extreme cold, you should:"
+  },
+  {
+   "id": "27zjpx",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "hfen87",
+     "html": "Watch the temperature gauge. The engine may not have the correct level of antifreeze."
+    },
+    {
+     "id": "vjdyc2",
+     "html": "Use the defroster or slightly open your windows to keep them from fogging up."
+    }
+   ]
+  },
+  {
+   "id": "fkg873",
+   "type": "note",
+   "kind": "note",
+   "html": "See the vehicle owner’s manual for more information."
+  },
+  {
+   "id": "axa9km",
+   "type": "heading",
+   "level": 3,
+   "html": "If Your Vehicle Becomes Disabled on the Freeway"
+  },
+  {
+   "id": "pcs5ka",
+   "type": "paragraph",
+   "html": "If your vehicle stops working on the freeway:"
+  },
+  {
+   "id": "44ukc5",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "7hhvq2",
+     "html": "Safely pull over to the right shoulder."
+    },
+    {
+     "id": "nbbz26",
+     "html": "Exit on the right side so you are away from traffic if you must get out of the vehicle."
+    },
+    {
+     "id": "34t4s8",
+     "html": "Dial 511 from your cell phone or locate call box for assistance.."
+    },
+    {
+     "id": "xd59de",
+     "html": "Return to your vehicle as soon as you can. Get back into the vehicle from the right side (away from traffic)."
+    },
+    {
+     "id": "y5xpjf",
+     "html": "Stay inside your vehicle with your seat belt on until help arrives."
+    },
+    {
+     "id": "2fq5gu",
+     "html": "Use your emergency flashers at your discretion. They can help other vehicles see you at night and in different weather conditions."
+    }
+   ]
+  },
+  {
+   "id": "mqsh9w",
+   "type": "paragraph",
+   "html": "There are certain circumstances where it is safer to get out of your vehicle and stay away. These include situations where there is:"
+  },
+  {
+   "id": "n3myvc",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "n3rqdn",
+     "html": "Not enough space on the shoulder."
+    },
+    {
+     "id": "9t666h",
+     "html": "A guardrail."
+    },
+    {
+     "id": "4hmqe9",
+     "html": "An area for you to safely stay away from freeway lanes."
+    }
+   ]
+  },
+  {
+   "id": "k22nq8",
+   "type": "heading",
+   "level": 4,
+   "html": "California Highway Patrol (CHP) Freeway Service Patrol (FSP)"
+  },
+  {
+   "id": "tjc5k5",
+   "type": "paragraph",
+   "html": "During commute times, the CHP FSP provides free emergency roadside services in certain areas. If you get stuck on the freeway because your vehicle stops running, FSP will:"
+  },
+  {
+   "id": "zgw3q4",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "zynfbx",
+     "html": "Provide a gallon of gas if you run out."
+    },
+    {
+     "id": "jnspcc",
+     "html": "Jump start your vehicle if the battery is dead."
+    },
+    {
+     "id": "e7ut2w",
+     "html": "Refill your radiator and tape hoses."
+    },
+    {
+     "id": "zvaf8j",
+     "html": "Change a flat tire."
+    },
+    {
+     "id": "t87k57",
+     "html": "Report a collision to CHP."
+    }
+   ]
+  },
+  {
+   "id": "44semt",
+   "type": "paragraph",
+   "html": "If FSP cannot start your vehicle, they will have it towed (free of charge) to a CHP-approved location. CHP will notify an auto club or towing service."
+  },
+  {
+   "id": "k2ckw7",
+   "type": "paragraph",
+   "html": "FSP will not:"
+  },
+  {
+   "id": "4nqgpb",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "x3tgsj",
+     "html": "Tow your vehicle to a private repair service or residence."
+    },
+    {
+     "id": "4aktce",
+     "html": "Recommend tow service companies or repair and body shops."
+    },
+    {
+     "id": "x2346m",
+     "html": "Tow motorcycles."
+    },
+    {
+     "id": "4e9f7s",
+     "html": "Help vehicles which have been involved in a collision, unless they are directed to by CHP."
+    }
+   ]
+  },
+  {
+   "id": "df8qpb",
+   "type": "paragraph",
+   "html": "Call 511 for FSP information and assistance."
+  },
+  {
+   "id": "mqsd8c",
+   "type": "heading",
+   "level": 3,
+   "html": "Disabled Vehicles on Railroad Tracks"
+  },
+  {
+   "id": "g7tstz",
+   "type": "paragraph",
+   "html": "If your vehicle stalls or stops while blocking part of a train track with a train approaching and warning lights flashing:"
+  },
+  {
+   "id": "wf3uzy",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "agpb5t",
+     "html": "Immediately exit your vehicle. Run away from the tracks diagonally in the direction the train is coming from. Then call 911."
+    }
+   ]
+  },
+  {
+   "id": "ukkxn3",
+   "type": "paragraph",
+   "html": "If you do not see a train approaching and warning lights are not flashing:"
+  },
+  {
+   "id": "96ht4n",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "ccr5y3",
+     "html": "Exit your vehicle. Dial the number located on the railroad crossing posts or metal control box near the tracks. Provide the crossing number (if posted). Tell them a vehicle is on the tracks. Then call 911."
+    }
+   ]
+  },
+  {
+   "id": "uaf7qh",
+   "type": "figure",
+   "src": "https://www.dmv.ca.gov/portal/uploads/2020/05/disabled_vehicle_railroad.png",
+   "alt": "A car is stalled on railroad tracks with an oncoming train. The image includes overlaid text reading “Crash area” marking the hazardous zone in front of the train in the direction it is traveling.",
+   "width": 510,
+   "height": 402,
+   "file": "figures/disabled_vehicle_railroad.webp"
+  },
+  {
+   "id": "b9arek",
+   "type": "heading",
+   "level": 2,
+   "html": "Do Not Drive Distracted"
+  },
+  {
+   "id": "9eq6up",
+   "type": "paragraph",
+   "html": "Avoid distractions while you drive. Some common distractions are:"
+  },
+  {
+   "id": "vmabar",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "87wtat",
+     "html": "Looking at a phone, navigation system, children, and pets."
+    },
+    {
+     "id": "4a5y5g",
+     "html": "Changing music or volume."
+    },
+    {
+     "id": "bsgfen",
+     "html": "Applying makeup or shaving."
+    }
+   ]
+  },
+  {
+   "id": "bwkmjm",
+   "type": "heading",
+   "level": 2,
+   "html": "Cell Phones and Texting"
+  },
+  {
+   "id": "79cjs2",
+   "type": "paragraph",
+   "html": "Cell phones are the main source of distracted driving. Driving while using a handheld cell phone is unsafe and illegal."
+  },
+  {
+   "id": "cgz2ry",
+   "type": "paragraph",
+   "html": "Adult drivers should only use a cell phone in hands-free mode when necessary."
+  },
+  {
+   "id": "j487aa",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "j4pt4t",
+     "html": "Do not answer your cell phone if it rings. Let the call go to voicemail. If you must return or make a call, pull safely off the road."
+    },
+    {
+     "id": "djcfdc",
+     "html": "Do not send or read text messages or emails while driving."
+    },
+    {
+     "id": "hqfrz2",
+     "html": "Mount your cell phone on the windshield, dashboard, or center console. It cannot block your view of the road."
+    },
+    {
+     "id": "6x6fne",
+     "html": "Use the single swipe or touch feature on the mounted cell phone."
+    }
+   ]
+  },
+  {
+   "id": "emk9wd",
+   "type": "heading",
+   "level": 2,
+   "html": "Minors And Cell Phones"
+  },
+  {
+   "id": "ukzqb2",
+   "type": "paragraph",
+   "html": "It is against the law for a minor to use a cell phone or electronic wireless device to answer calls and send or respond to text messages while driving."
+  },
+  {
+   "id": "jarysq",
+   "type": "paragraph",
+   "html": "<strong>EXCEPTION</strong>: Minors may use a cell phone to make a call for emergency assistance."
+  },
+  {
+   "id": "zvs4hz",
+   "type": "heading",
+   "level": 2,
+   "html": "Be Familiar with New Technology"
+  },
+  {
+   "id": "6utheg",
+   "type": "paragraph",
+   "html": "The technology in vehicles is always advancing. We will see more self-driving vehicles and vehicles with advanced driver assistance systems (ADAS) on the road. Vehicles with these systems may respond to road situations differently than a human driver would."
+  },
+  {
+   "id": "9yexnk",
+   "type": "heading",
+   "level": 2,
+   "html": "Be Aware of Carbon Monoxide"
+  },
+  {
+   "id": "rkajdb",
+   "type": "paragraph",
+   "html": "All gas-powered vehicles produce carbon monoxide. Carbon monoxide is a deadly odorless gas released from a vehicle’s exhaust pipe. Never start your vehicle inside the garage with the door closed. Symptoms of carbon monoxide poisoning include:"
+  },
+  {
+   "id": "9zzyye",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "uc7jvd",
+     "html": "Tiredness"
+    },
+    {
+     "id": "ezqahh",
+     "html": "Yawning"
+    },
+    {
+     "id": "wtpyvc",
+     "html": "Dizziness"
+    },
+    {
+     "id": "vhcxfs",
+     "html": "Nausea"
+    },
+    {
+     "id": "vte8yf",
+     "html": "Headache"
+    },
+    {
+     "id": "f2b38h",
+     "html": "Ringing in the ears"
+    }
+   ]
+  },
+  {
+   "id": "wbhahq",
+   "type": "paragraph",
+   "html": "If you are experiencing any of these symptoms, have your exhaust system checked."
+  }
+ ]
+}

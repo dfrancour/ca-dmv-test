@@ -1,0 +1,249 @@
+{
+ "section": 10,
+ "questions": [
+  {
+   "id": "q-insurance-proof",
+   "facts": [
+    "insurance-proof-when-driving"
+   ],
+   "prompt": "When must you have proof of insurance with you?",
+   "choices": [
+    "Whenever you drive.",
+    "Only after you have been in a collision.",
+    "When you renew registration, not day to day."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "You must carry proof of financial responsibility (insurance) whenever you drive, including for a drive test."
+  },
+  {
+   "id": "q-collision-show",
+   "facts": [
+    "insurance-show-after-collision",
+    "collision-exchange-info"
+   ],
+   "prompt": "After a collision, what must you show the other driver?",
+   "choices": [
+    "Only your name and phone number, nothing else.",
+    "Nothing, unless the police come to the scene.",
+    "License, registration, insurance, and address."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Show your license, registration card, insurance information and current address to the other driver, police and anyone else involved."
+  },
+  {
+   "id": "q-insurance-one-person",
+   "facts": [
+    "insurance-minimum-single-injury"
+   ],
+   "prompt": "What is the least your insurance may cover for the death or injury of one person?",
+   "choices": [
+    "$15,000.",
+    "$60,000.",
+    "$30,000."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Minimum coverage is $30,000 for one person's death or injury, $60,000 for more than one person, and $15,000 for property damage."
+  },
+  {
+   "id": "q-insurance-several-people",
+   "facts": [
+    "insurance-minimum-multiple-injury"
+   ],
+   "prompt": "What is the least your insurance may cover for the death or injury of more than one person?",
+   "choices": [
+    "$60,000.",
+    "$30,000.",
+    "$100,000."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Minimum coverage is $60,000 for death or injury to more than one person."
+  },
+  {
+   "id": "q-insurance-property",
+   "facts": [
+    "insurance-minimum-property"
+   ],
+   "prompt": "What is the least your insurance may cover for property damage?",
+   "choices": [
+    "$15,000.",
+    "$5,000.",
+    "$30,000."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Minimum coverage for property damage is $15,000."
+  },
+  {
+   "id": "q-insurance-agent",
+   "facts": [
+    "insurance-agent-licensed"
+   ],
+   "prompt": "Before buying car insurance, what should you check?",
+   "choices": [
+    "The agent has been approved by the DMV.",
+    "The agent has an office in your own city.",
+    "The agent is licensed by the Department of Insurance."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Make sure the agent, broker or provider is licensed by the California Department of Insurance."
+  },
+  {
+   "id": "q-uninsured-collision",
+   "facts": [
+    "uninsured-collision-suspension"
+   ],
+   "prompt": "You are in a collision without insurance, and it was not your fault. What can happen?",
+   "choices": [
+    "A suspension of up to four years.",
+    "Nothing, since you weren't at fault.",
+    "A fine, with no license suspension."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Without proper insurance, your driving privilege will be suspended for up to four years no matter who was at fault."
+  },
+  {
+   "id": "q-flashers-ahead",
+   "facts": [
+    "flashers-ahead-slow-down"
+   ],
+   "prompt": "You see a car's emergency flashers on the road ahead. What should you do?",
+   "choices": [
+    "Keep your speed and change lanes fast.",
+    "Stop behind it until it moves.",
+    "Slow down and pass with care."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Flashers may mean a collision or other emergency ahead. Slow down and pass carefully."
+  },
+  {
+   "id": "q-must-stop",
+   "facts": [
+    "collision-must-stop",
+    "hit-and-run-definition"
+   ],
+   "prompt": "You bump another car in slow traffic and see no damage. What must you do?",
+   "choices": [
+    "Keep going, since nothing was damaged.",
+    "Stop; driving off would be a hit-and-run.",
+    "Wave, and drive on if the driver waves back."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "If you are in a collision you must stop. Leaving the scene is a hit-and-run, which is punished severely."
+  },
+  {
+   "id": "q-minor-collision",
+   "facts": [
+    "collision-move-out-of-traffic",
+    "collision-call-911-injured"
+   ],
+   "prompt": "After a minor collision, no one is hurt and both cars still run. What should you do?",
+   "choices": [
+    "Move out of traffic, then call 911.",
+    "Leave the cars where they are for police.",
+    "Drive home and call the other driver later."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "If no one is hurt, move your vehicle out of traffic and then call 911. If anyone is hurt, call 911 right away."
+  },
+  {
+   "id": "q-police-report-24",
+   "facts": [
+    "collision-report-police-24-hours"
+   ],
+   "prompt": "Someone was injured in your collision. How soon must it be reported to law enforcement?",
+   "choices": [
+    "Within 24 hours.",
+    "Within 10 days.",
+    "Within 72 hours."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Report injury or fatal collisions to law enforcement within 24 hours. The 10-day deadline is for the DMV report."
+  },
+  {
+   "id": "q-parked-car",
+   "facts": [
+    "hit-parked-car"
+   ],
+   "prompt": "You hit a parked car and can't find the owner. What must you do?",
+   "choices": [
+    "Leave a note and report it to police.",
+    "Leave, since you tried to find them.",
+    "Leave a note, with no need to report it."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Securely attach a note with your name, phone number and address, and report the collision to law enforcement."
+  },
+  {
+   "id": "q-hit-animal",
+   "facts": [
+    "hit-animal"
+   ],
+   "prompt": "You hit a deer and it is injured. What should you do?",
+   "choices": [
+    "Call the humane society or police.",
+    "Move it off the road yourself.",
+    "Drive on; animals aren't reportable."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Call the nearest humane society or law enforcement, and don't try to move an injured animal."
+  },
+  {
+   "id": "q-dmv-report-deadline",
+   "facts": [
+    "dmv-report-10-days-injury",
+    "dmv-report-10-days-1000"
+   ],
+   "prompt": "Someone had a minor injury in your collision. What is the deadline for reporting it to the DMV?",
+   "choices": [
+    "10 days.",
+    "24 hours.",
+    "30 days."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Report to the DMV within 10 days if anyone was hurt, even slightly, or if damage was over $1,000. Police must be told within 24 hours of an injury."
+  },
+  {
+   "id": "q-sr1-not-at-fault",
+   "facts": [
+    "sr1-each-driver"
+   ],
+   "prompt": "Your collision caused $2,000 in damage, and the other driver was at fault. Who must file an SR 1 with the DMV?",
+   "choices": [
+    "Each driver, at fault or not.",
+    "Only the driver at fault.",
+    "The officer at the scene."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Each driver must file an SR 1, whether or not they caused the collision. Law enforcement will not make the report for you."
+  },
+  {
+   "id": "q-sr1-not-filed",
+   "facts": [
+    "sr1-failure-suspension"
+   ],
+   "prompt": "What happens if you don't file a required SR 1 collision report?",
+   "choices": [
+    "The police will file it for you.",
+    "Your license will be suspended.",
+    "Your insurer files it for a fee."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Your driving privilege will be suspended if you fail to file a required report, and law enforcement will not file it for you."
+  }
+ ]
+}

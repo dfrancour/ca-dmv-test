@@ -1,0 +1,3619 @@
+{
+ "section": 7,
+ "facts": [
+  {
+   "id": "signals-yield-right-of-way",
+   "kind": "rule",
+   "text": "At or approaching traffic signals or signs, yield to pedestrians, bicyclists, and other nearby vehicles that may have the right-of-way.",
+   "cites": [
+    {
+     "block": "j3uzxr",
+     "quote": "When at or approaching traffic signals or signs, yield to pedestrians, bicyclists, and other nearby vehicles that may have the right-of-way."
+    }
+   ]
+  },
+  {
+   "id": "solid-red-light",
+   "kind": "meaning",
+   "text": "A solid red traffic light means stop.",
+   "cites": [
+    {
+     "block": "yd5ug7",
+     "quote": "A red traffic signal light means STOP."
+    }
+   ]
+  },
+  {
+   "id": "red-light-right-turn-conditions",
+   "kind": "rule",
+   "text": "You may turn right at a red light if no NO TURN ON RED sign is posted, you stop at the stop or limit line, yield to pedestrians, and turn when it is safe.",
+   "cites": [
+    {
+     "block": "yd5ug7",
+     "quote": "You can turn right at a red light, if:"
+    },
+    {
+     "block": "mxgwq2",
+     "quote": "There is not a NO TURN ON RED sign posted."
+    },
+    {
+     "block": "ydyk52",
+     "quote": "You stop at the stop or limit line, yield for pedestrians, and turn when it is safe."
+    }
+   ]
+  },
+  {
+   "id": "red-arrow",
+   "kind": "meaning",
+   "text": "A red arrow means stop; do not turn, and stay stopped until a green light or green arrow appears.",
+   "cites": [
+    {
+     "block": "btu3zw",
+     "quote": "A red arrow means STOP. Do not turn at a red arrow. Remain stopped until a green traffic signal light or green arrow appears."
+    }
+   ]
+  },
+  {
+   "id": "flashing-red-light",
+   "kind": "meaning",
+   "text": "A flashing red traffic light means stop; after stopping, you may go when it is safe.",
+   "cites": [
+    {
+     "block": "xy69c5",
+     "quote": "A flashing red signal light means STOP. After stopping, you may go when it is safe."
+    }
+   ]
+  },
+  {
+   "id": "solid-yellow-light",
+   "kind": "meaning",
+   "text": "A solid yellow light means caution because the light is about to turn red; stop if you can do so safely, otherwise cross the intersection cautiously.",
+   "cites": [
+    {
+     "block": "zsky86",
+     "quote": "A yellow traffic signal light means CAUTION. The light is about to turn red. When you see a yellow traffic signal light, stop, if you can do so safely. If you cannot stop safely, cautiously cross the intersection."
+    }
+   ]
+  },
+  {
+   "id": "yellow-arrow",
+   "kind": "meaning",
+   "text": "A yellow arrow means the protected turning time is ending; if you cannot stop safely or are already in the intersection, cautiously complete your turn.",
+   "cites": [
+    {
+     "block": "8trpzb",
+     "quote": "A yellow arrow means the protected turning time is ending. The signal will change soon. If you cannot stop safely or you are already in the intersection, cautiously complete your turn."
+    }
+   ]
+  },
+  {
+   "id": "yellow-arrow-next-signal",
+   "kind": "meaning",
+   "text": "After a yellow arrow, the next signal could be a green or red light or a red arrow.",
+   "cites": [
+    {
+     "block": "8trpzb",
+     "quote": "Pay attention to the next signal. It could be a:"
+    },
+    {
+     "block": "q3sx5k",
+     "quote": "Green or red traffic signal light."
+    },
+    {
+     "block": "rcv5u5",
+     "quote": "Red Arrow."
+    }
+   ]
+  },
+  {
+   "id": "flashing-yellow-light",
+   "kind": "meaning",
+   "text": "A flashing yellow light is a warning to proceed with caution: slow down and be alert, but you do not need to stop.",
+   "cites": [
+    {
+     "block": "e9994m",
+     "quote": "A flashing yellow traffic signal light is a warning to PROCEED WITH CAUTION. Slow down and be alert. You do not need to stop."
+    }
+   ]
+  },
+  {
+   "id": "flashing-yellow-arrow",
+   "kind": "meaning",
+   "text": "A flashing yellow arrow means you may turn, but the turn is not protected; yield to oncoming traffic before turning left and proceed with caution.",
+   "cites": [
+    {
+     "block": "qs83as",
+     "quote": "You can turn, but your turn is not protected from other traffic. Proceed to turn left after yielding to oncoming traffic and proceed with caution."
+    }
+   ]
+  },
+  {
+   "id": "solid-green-light",
+   "kind": "meaning",
+   "text": "A green light means go, but you must still stop for any vehicle, bicyclist, or pedestrian in the intersection.",
+   "cites": [
+    {
+     "block": "5jse8x",
+     "quote": "A green traffic signal light means GO. You should still stop for any vehicle, bicyclist, or pedestrian in the intersection."
+    }
+   ]
+  },
+  {
+   "id": "green-light-enough-space",
+   "kind": "practice",
+   "text": "On a green light, proceed only if you have enough space without endangering any oncoming vehicle, bicyclist, or pedestrian.",
+   "cites": [
+    {
+     "block": "5jse8x",
+     "quote": "Only proceed if you have enough space without creating a danger to any oncoming vehicle, bicyclist, or pedestrian."
+    }
+   ]
+  },
+  {
+   "id": "green-light-do-not-block",
+   "kind": "rule",
+   "text": "Do not enter an intersection on a green light if you cannot get completely across before the light turns red.",
+   "cites": [
+    {
+     "block": "5jse8x",
+     "quote": "Do not enter the intersection if you cannot get completely across before the traffic signal light turns red."
+    }
+   ]
+  },
+  {
+   "id": "green-arrow",
+   "kind": "meaning",
+   "text": "A green arrow means go in the direction of the arrow; it gives you a protected turn because oncoming vehicles are stopped by a red light.",
+   "cites": [
+    {
+     "block": "xshpty",
+     "quote": "A green arrow means GO in the direction the arrow is pointing. The green arrow allows you to make a protected turn. Oncoming vehicles are stopped by a red traffic signal light."
+    }
+   ]
+  },
+  {
+   "id": "traffic-light-not-working",
+   "kind": "rule",
+   "text": "When a traffic light is not working, stop as if the intersection had STOP signs in all directions, then proceed cautiously when safe.",
+   "cites": [
+    {
+     "block": "96u2z8",
+     "quote": "When a traffic light is not working, stop as if the intersection is controlled by STOP signs in all directions. Then proceed cautiously when it is safe to do so."
+    }
+   ]
+  },
+  {
+   "id": "walk-signal",
+   "kind": "meaning",
+   "text": "A WALK or walking person signal means pedestrians may cross the street.",
+   "cites": [
+    {
+     "block": "7b8b62",
+     "quote": "WALK or Walking Person"
+    },
+    {
+     "block": "r3eqhf",
+     "quote": "You may cross the street."
+    }
+   ]
+  },
+  {
+   "id": "dont-walk-signal",
+   "kind": "meaning",
+   "text": "A Don't Walk or raised hand signal means pedestrians may not cross the street.",
+   "cites": [
+    {
+     "block": "ft3qcu",
+     "quote": "Don’t Walk or Raised Hand"
+    },
+    {
+     "block": "7c8xsd",
+     "quote": "You may not cross the street."
+    }
+   ]
+  },
+  {
+   "id": "flashing-dont-walk",
+   "kind": "meaning",
+   "text": "A flashing Don't Walk or flashing raised hand means pedestrians should not start crossing because the light is about to change.",
+   "cites": [
+    {
+     "block": "wascw5",
+     "quote": "Flashing Don’t Walk or Flashing Raised Hand"
+    },
+    {
+     "block": "xvknrn",
+     "quote": "Do not start crossing the street. The traffic signal light is about to change."
+    }
+   ]
+  },
+  {
+   "id": "flashing-dont-walk-drivers-yield",
+   "kind": "rule",
+   "text": "Drivers must yield to pedestrians even if the Don't Walk light is flashing.",
+   "cites": [
+    {
+     "block": "xvknrn",
+     "quote": "Drivers must yield to pedestrians, even if the Don’t Walk light is flashing."
+    }
+   ]
+  },
+  {
+   "id": "pedestrian-countdown",
+   "kind": "meaning",
+   "text": "Numbers on a pedestrian signal count down the seconds left to cross the street.",
+   "cites": [
+    {
+     "block": "ctcere",
+     "quote": "The numbers count down the seconds left for crossing the street."
+    }
+   ]
+  },
+  {
+   "id": "diagonal-crossing",
+   "kind": "meaning",
+   "text": "Crisscross and diagonal crosswalks let pedestrians cross an intersection in any direction at the same time, only when the walk signal allows.",
+   "cites": [
+    {
+     "block": "bbwe8x",
+     "quote": "These are crisscross and diagonal crosswalks that allow pedestrians to cross the intersection in any direction at the same time. Cross only when the walk signal allows it."
+    }
+   ]
+  },
+  {
+   "id": "pedestrian-signal-sounds",
+   "kind": "meaning",
+   "text": "Beeping, chirping, or verbal messages at crossings help blind or visually impaired pedestrians cross the street.",
+   "cites": [
+    {
+     "block": "5hcx2d",
+     "quote": "Sounds such as beeping, chirping, or verbal messages help blind or visually impaired pedestrians cross the street."
+    }
+   ]
+  },
+  {
+   "id": "pedestrian-push-button",
+   "kind": "meaning",
+   "text": "A pedestrian push button activates the WALK or walking person signal.",
+   "cites": [
+    {
+     "block": "9aggsr",
+     "quote": "This is used to activate the WALK or Walking Person signal."
+    }
+   ]
+  },
+  {
+   "id": "no-pedestrian-signals",
+   "kind": "rule",
+   "text": "If there are no pedestrian signals, pedestrians obey the vehicle traffic signals.",
+   "cites": [
+    {
+     "block": "m5r2rj",
+     "quote": "If there are no pedestrian signals, obey the vehicle traffic signals."
+    }
+   ]
+  },
+  {
+   "id": "obey-warning-signs",
+   "kind": "rule",
+   "text": "Obey all warning signs regardless of their shape or color.",
+   "cites": [
+    {
+     "block": "sqaafu",
+     "quote": "Obey all warning signs regardless of their shape or color."
+    }
+   ]
+  },
+  {
+   "id": "stop-sign",
+   "kind": "rule",
+   "text": "At a STOP sign, make a full stop at the limit line or before the crosswalk (or before the intersection if neither exists), and check traffic in all directions before proceeding.",
+   "cites": [
+    {
+     "block": "kqqtwf",
+     "quote": "Make a full stop before entering the crosswalk or at the limit line. If there is no limit line or crosswalk, stop before entering the intersection. Check traffic in all directions before proceeding."
+    }
+   ]
+  },
+  {
+   "id": "yield-sign",
+   "kind": "meaning",
+   "text": "At a red YIELD sign, slow down and be ready to stop to let any vehicle, bicyclist, or pedestrian pass before you proceed.",
+   "cites": [
+    {
+     "block": "sr65cq",
+     "quote": "Slow down and be ready to stop to let any vehicle, bicyclist, or pedestrian pass before you proceed."
+    }
+   ]
+  },
+  {
+   "id": "red-white-regulatory-sign",
+   "kind": "meaning",
+   "text": "Follow the instruction on a red and white regulatory sign; for example, DO NOT ENTER means do not enter the road or ramp where it is posted.",
+   "cites": [
+    {
+     "block": "5zzccq",
+     "quote": "Follow the sign’s instruction. For example, DO NOT ENTER means do not enter the road or ramp where the sign is posted."
+    }
+   ]
+  },
+  {
+   "id": "wrong-way-sign",
+   "kind": "meaning",
+   "text": "If you enter a roadway against traffic, DO NOT ENTER and WRONG WAY signs may be posted; when safe, back out or turn around.",
+   "cites": [
+    {
+     "block": "yrgx6q",
+     "quote": "If you enter a roadway against traffic, DO NOT ENTER and WRONG WAY signs may be posted. When it is safe, back out or turn around."
+    }
+   ]
+  },
+  {
+   "id": "wrong-way-red-reflectors",
+   "kind": "meaning",
+   "text": "At night, road reflectors shining red in your headlights mean you are going the wrong way.",
+   "cites": [
+    {
+     "block": "yrgx6q",
+     "quote": "If you are driving at night, you will know you are going the wrong way if the road reflectors shine red in your headlights."
+    }
+   ]
+  },
+  {
+   "id": "red-circle-line-sign",
+   "kind": "meaning",
+   "text": "A red circle with a red line through it means you cannot do what the picture inside shows.",
+   "cites": [
+    {
+     "block": "8cujaw",
+     "quote": "Red Circle with a Red Line Through It"
+    },
+    {
+     "block": "3vfn9r",
+     "quote": "The picture inside the circle shows what you cannot do"
+    }
+   ]
+  },
+  {
+   "id": "railroad-crossing-sign",
+   "kind": "meaning",
+   "text": "A yellow and black circular sign or X-shaped sign means a railroad crossing is ahead: look, listen, slow down, prepare to stop, and let any trains pass before proceeding.",
+   "cites": [
+    {
+     "block": "c7rmqh",
+     "quote": "Yellow and Black Circular Sign or X-shaped Sign"
+    },
+    {
+     "block": "xsd3ez",
+     "quote": "You are approaching a railroad crossing. Look, listen, slow down, and prepare to stop. Let any trains pass before you proceed."
+    }
+   ]
+  },
+  {
+   "id": "railroad-blue-emergency-sign",
+   "kind": "meaning",
+   "text": "Many railroad crossings have a blue and white sign telling you what to do if there is an emergency on or near the tracks or your vehicle stalls on the tracks.",
+   "cites": [
+    {
+     "block": "hka886",
+     "quote": "Many railroad crossings also have a blue and white sign to tell you what to do if there is an emergency on or near the tracks or if your vehicle has stalled on the tracks."
+    }
+   ]
+  },
+  {
+   "id": "five-sided-school-sign",
+   "kind": "meaning",
+   "quantities": [
+    "five-sided"
+   ],
+   "text": "A five-sided sign means you are near a school: drive slowly and stop for children in the crosswalk.",
+   "cites": [
+    {
+     "block": "fycbxk",
+     "quote": "5-sided Sign",
+     "marks": [
+      "5-sided"
+     ]
+    },
+    {
+     "block": "e5vz55",
+     "quote": "You are near a school. Drive slowly and stop for children in the crosswalk."
+    }
+   ]
+  },
+  {
+   "id": "diamond-sign",
+   "kind": "meaning",
+   "text": "A diamond-shaped sign warns of specific road conditions and dangers ahead.",
+   "cites": [
+    {
+     "block": "xwe6g6",
+     "quote": "Diamond-shaped Sign"
+    },
+    {
+     "block": "anuqg3",
+     "quote": "Warns you of specific road conditions and dangers ahead."
+    }
+   ]
+  },
+  {
+   "id": "white-rectangular-sign",
+   "kind": "meaning",
+   "text": "A white rectangular sign communicates important rules you must obey.",
+   "cites": [
+    {
+     "block": "xb3nqw",
+     "quote": "White Rectangular Sign"
+    },
+    {
+     "block": "a4fkbs",
+     "quote": "Communicates many important rules you must obey."
+    }
+   ]
+  },
+  {
+   "id": "warning-signs-pedestrians-schools",
+   "kind": "meaning",
+   "text": "Warning signs warn of conditions related to pedestrians, bicyclists, schools, playgrounds, school buses, and school passenger loading zones.",
+   "cites": [
+    {
+     "block": "sn24aw",
+     "quote": "Warns of conditions related to pedestrians, bicyclists, schools, playgrounds, school buses, and school passenger loading zones."
+    }
+   ]
+  },
+  {
+   "id": "right-of-way-first-arrival",
+   "kind": "rule",
+   "text": "The vehicle that arrives at an intersection first has the right-of-way, and others must wait for it.",
+   "cites": [
+    {
+     "block": "m3h4uy",
+     "quote": "The vehicle that arrives to the intersection first has the right-of-way. Other vehicles, bicyclists, and pedestrians must wait for the person who has the right-of-way."
+    }
+   ]
+  },
+  {
+   "id": "right-of-way-never-assume",
+   "kind": "practice",
+   "text": "Never assume other drivers will give you the right-of-way; give up your right-of-way when it will help prevent collisions.",
+   "cites": [
+    {
+     "block": "m3h4uy",
+     "quote": "Never assume that other drivers will give you the right-of-way. Give up your right-of-way when it will help prevent collisions."
+    }
+   ]
+  },
+  {
+   "id": "intersection-definition",
+   "kind": "definition",
+   "text": "An intersection is any place where one road meets another.",
+   "cites": [
+    {
+     "block": "xvptnn",
+     "quote": "An intersection is any place where one road meets another road."
+    }
+   ]
+  },
+  {
+   "id": "controlled-uncontrolled-intersections",
+   "kind": "definition",
+   "text": "Controlled intersections have signs or traffic lights; uncontrolled and blind intersections do not.",
+   "cites": [
+    {
+     "block": "xvptnn",
+     "quote": "Controlled intersections have signs or traffic signal lights. Uncontrolled and blind intersections do not."
+    }
+   ]
+  },
+  {
+   "id": "intersection-look-left-right-ahead",
+   "kind": "practice",
+   "text": "Before entering an intersection, look left, right, and ahead for vehicles, bicyclists, and pedestrians, and be prepared to slow down and stop.",
+   "cites": [
+    {
+     "block": "xvptnn",
+     "quote": "Before entering an intersection, look left, right, and ahead to check for vehicles, bicyclists, and pedestrians. Be prepared to slow down and stop if necessary."
+    }
+   ]
+  },
+  {
+   "id": "pedestrians-always-right-of-way",
+   "kind": "rule",
+   "text": "Pedestrians always have the right-of-way at intersections.",
+   "cites": [
+    {
+     "block": "xvptnn",
+     "quote": "Pedestrians always have the right-of-way."
+    }
+   ]
+  },
+  {
+   "id": "uncontrolled-intersection-yield-right",
+   "kind": "rule",
+   "text": "At an intersection without STOP or YIELD signs, if another vehicle, pedestrian, or bicyclist arrives at the same time as you, give the right-of-way to the one on your right.",
+   "cites": [
+    {
+     "block": "jxwc45",
+     "quote": "However, if a vehicle, pedestrian, or bicyclist gets to the intersection at the same time as you, give the right-of-way to the vehicle, pedestrian, or bicyclist on your right."
+    }
+   ]
+  },
+  {
+   "id": "four-way-stop",
+   "kind": "rule",
+   "text": "At an intersection with stop signs on all four corners, stop first, then the first to arrive goes first, yielding to the one on your right if you arrive at the same time.",
+   "cites": [
+    {
+     "block": "jxwc45",
+     "quote": "If you approach a stop sign and there is a stop sign on all four corners, stop first and proceed as above."
+    },
+    {
+     "block": "jxwc45",
+     "quote": "The vehicle that arrives to the intersection first has the right-of-way."
+    }
+   ]
+  },
+  {
+   "id": "t-intersection-through-road",
+   "kind": "rule",
+   "text": "At a T intersection without STOP or YIELD signs, vehicles, bicyclists, and pedestrians on the through road have the right-of-way.",
+   "cites": [
+    {
+     "block": "7vnkpn",
+     "quote": "T intersections without STOP or YIELD signs: Vehicles, bicyclists, and pedestrians on the through road (continuing to go straight) have the right-of-way."
+    }
+   ]
+  },
+  {
+   "id": "left-turn-yield",
+   "kind": "rule",
+   "text": "When turning left, check for pedestrians and give the right-of-way to any pedestrian or approaching vehicle close enough to be dangerous.",
+   "cites": [
+    {
+     "block": "xmzcfs",
+     "quote": "Turning left: Check for pedestrians. Give the right-of-way to any pedestrian or approaching vehicle that is close enough to be dangerous."
+    }
+   ]
+  },
+  {
+   "id": "right-turn-check-pedestrians-bikes",
+   "kind": "practice",
+   "text": "When turning right, always check for pedestrians crossing the street and for motorcycles and bicycles riding next to you.",
+   "cites": [
+    {
+     "block": "ypejzx",
+     "quote": "Turning right: Always check for pedestrians crossing the street, and motorcycles and bicycles riding next to you."
+    }
+   ]
+  },
+  {
+   "id": "green-light-pedestrians-right-of-way",
+   "kind": "rule",
+   "text": "At a green light, proceed with caution; pedestrians have the right-of-way.",
+   "cites": [
+    {
+     "block": "fbcacp",
+     "quote": "Green traffic signal light: Proceed with caution. Pedestrians have the right-of-way."
+    }
+   ]
+  },
+  {
+   "id": "entering-traffic-yield",
+   "kind": "rule",
+   "text": "When entering traffic, proceed with caution and yield to traffic already in the lanes.",
+   "cites": [
+    {
+     "block": "rwhphj",
+     "quote": "When entering traffic, you must proceed with caution and yield to the traffic already occupying the lanes."
+    }
+   ]
+  },
+  {
+   "id": "blocking-intersection-illegal",
+   "kind": "rule",
+   "text": "It is against the law to stop in or block an intersection when there is not enough space to cross completely before the light turns red.",
+   "cites": [
+    {
+     "block": "rwhphj",
+     "quote": "It is against the law to stop or block an intersection where there is not enough space to completely cross before the traffic signal light turns red."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-one-direction",
+   "kind": "definition",
+   "text": "In a roundabout, traffic travels in one direction around a central island.",
+   "cites": [
+    {
+     "block": "njc999",
+     "quote": "In a roundabout, traffic travels in one direction around a central island."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-slow-yield",
+   "kind": "rule",
+   "text": "When approaching a roundabout, slow down and yield to all traffic already in it.",
+   "cites": [
+    {
+     "block": "seb5yb",
+     "quote": "How to use a roundabout:"
+    },
+    {
+     "block": "nheajj",
+     "quote": "Slow down as you approach."
+    },
+    {
+     "block": "jc9567",
+     "quote": "Yield to all traffic already in the roundabout."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-enter-right",
+   "kind": "rule",
+   "text": "Enter a roundabout heading to the right when there is a big enough gap to merge safely.",
+   "cites": [
+    {
+     "block": "q67kwe",
+     "quote": "Enter heading to the right when there is a big enough gap in traffic to merge safely."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-signs-markings",
+   "kind": "practice",
+   "text": "In a roundabout, watch for signs and lane markings that guide you.",
+   "cites": [
+    {
+     "block": "vqcunj",
+     "quote": "Watch for signs and lane markings that guide you."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-counter-clockwise",
+   "kind": "rule",
+   "text": "Travel counter-clockwise in a roundabout, and do not stop or pass.",
+   "cites": [
+    {
+     "block": "ednxh4",
+     "quote": "Travel in a counter-clockwise direction. Do not stop or pass."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-signal",
+   "kind": "practice",
+   "text": "Signal when you change lanes or exit a roundabout.",
+   "cites": [
+    {
+     "block": "xmwkyb",
+     "quote": "Signal when you change lanes or exit."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-missed-exit",
+   "kind": "practice",
+   "text": "If you miss your exit in a roundabout, continue around until you return to it.",
+   "cites": [
+    {
+     "block": "hprky3",
+     "quote": "If you miss your exit, continue around until you return to your exit."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-multilane-choose-lane",
+   "kind": "practice",
+   "text": "In a multilane roundabout, choose your entry and exit lane based on your destination.",
+   "cites": [
+    {
+     "block": "mfws7n",
+     "quote": "If the roundabout has multiple lanes, choose your entry or exit lane based on your destination."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-turn-right",
+   "kind": "rule",
+   "text": "To turn right in a multilane roundabout, choose the right lane and exit in the right lane.",
+   "cites": [
+    {
+     "block": "mfws7n",
+     "quote": "If the roundabout has multiple lanes"
+    },
+    {
+     "block": "nt9y6h",
+     "quote": "Choose the right lane and exit in the right lane."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-go-straight",
+   "kind": "rule",
+   "text": "To go straight in a multilane roundabout, choose either lane and exit in the lane you entered.",
+   "cites": [
+    {
+     "block": "mfws7n",
+     "quote": "If the roundabout has multiple lanes"
+    },
+    {
+     "block": "qnjbvm",
+     "quote": "Go straight (red car): Choose either lane. Exit in the lane you entered."
+    }
+   ]
+  },
+  {
+   "id": "roundabout-turn-left",
+   "kind": "practice",
+   "text": "To turn left in a multilane roundabout, enter and continue driving until you reach the exit in the direction you want.",
+   "cites": [
+    {
+     "block": "mfws7n",
+     "quote": "If the roundabout has multiple lanes"
+    },
+    {
+     "block": "txvtew",
+     "quote": "Turn left: Enter and continue driving until you reach the exit in the direction you choose"
+    }
+   ]
+  },
+  {
+   "id": "pedestrian-definition",
+   "kind": "definition",
+   "text": "Pedestrians (vulnerable road users) include a person walking, a person on something other than a vehicle or bicycle such as roller skates or a skateboard, and a person with a disability using a tricycle, quadricycle, or wheelchair.",
+   "cites": [
+    {
+     "block": "rxehba",
+     "quote": "These are considered pedestrians or vulnerable road users:"
+    },
+    {
+     "block": "zrd5zk",
+     "quote": "A person walking."
+    },
+    {
+     "block": "4n77ct",
+     "quote": "A person traveling on something other than a vehicle or bicycle. This includes roller skates, a skateboard, etc."
+    },
+    {
+     "block": "ytzreu",
+     "quote": "A person with a disability using a tricycle, quadricycle, or wheelchair for transportation."
+    }
+   ]
+  },
+  {
+   "id": "pedestrians-follow-rules",
+   "kind": "rule",
+   "text": "Although pedestrians have the right-of-way, they must also follow the rules of the road.",
+   "cites": [
+    {
+     "block": "h8hcge",
+     "quote": "Although pedestrians have the right-of-way, they also must follow the rules of the road."
+    }
+   ]
+  },
+  {
+   "id": "pedestrian-crossing-slow-stop",
+   "kind": "rule",
+   "text": "When a pedestrian is crossing a road, with or without a crosswalk, you must use caution, reduce speed, or stop so they can finish crossing safely.",
+   "cites": [
+    {
+     "block": "mmps6g",
+     "quote": "When there is a pedestrian crossing a roadway with or without a crosswalk, you must use caution, reduce your speed, or stop to allow the pedestrian to safely finish crossing."
+    }
+   ]
+  },
+  {
+   "id": "no-passing-stopped-at-crosswalk",
+   "kind": "rule",
+   "text": "Do not pass a vehicle stopped at a crosswalk, because you may not be able to see a pedestrian crossing.",
+   "cites": [
+    {
+     "block": "hnhc6d",
+     "quote": "Do not pass a vehicle stopped at a crosswalk. You may not be able to see a pedestrian crossing the street."
+    }
+   ]
+  },
+  {
+   "id": "pedestrian-eye-contact",
+   "kind": "practice",
+   "text": "If a pedestrian makes eye contact with you, they are ready to cross; yield to them.",
+   "cites": [
+    {
+     "block": "5zdzeq",
+     "quote": "If a pedestrian makes eye contact with you, they are ready to cross the street. Yield to the pedestrian."
+    }
+   ]
+  },
+  {
+   "id": "pedestrians-extra-time",
+   "kind": "practice",
+   "text": "Always give pedestrians enough time to cross; seniors, people with small children, and people with disabilities may need extra time.",
+   "cites": [
+    {
+     "block": "k5ca8n",
+     "quote": "Always allow pedestrians enough time to safely cross a street as some groups such as seniors, people with small children, and people with disabilities may require extra time."
+    }
+   ]
+  },
+  {
+   "id": "crosswalk-definition",
+   "kind": "definition",
+   "text": "A crosswalk is the part of the road set aside for pedestrians to cross; crosswalks are often marked with white lines, school crossings may have yellow lines, and not all crosswalks are marked.",
+   "cites": [
+    {
+     "block": "bek56v",
+     "quote": "A crosswalk is the part of the road set aside for pedestrians to safely cross the road. They are often marked with white lines. School crossings may have yellow crosswalk lines. Not all crosswalks are marked."
+    }
+   ]
+  },
+  {
+   "id": "crosswalk-right-of-way",
+   "kind": "rule",
+   "text": "Pedestrians have the right-of-way in marked and unmarked crosswalks.",
+   "cites": [
+    {
+     "block": "nj4434",
+     "quote": "Pedestrians have the right-of-way in marked or unmarked crosswalks."
+    }
+   ]
+  },
+  {
+   "id": "crosswalk-limit-line",
+   "kind": "rule",
+   "text": "If there is a limit line before a crosswalk, stop at the limit line and let pedestrians cross.",
+   "cites": [
+    {
+     "block": "nj4434",
+     "quote": "If there is a limit line before the crosswalk, stop at the limit line and allow pedestrians to cross the street."
+    }
+   ]
+  },
+  {
+   "id": "crosswalk-flashing-lights",
+   "kind": "practice",
+   "text": "At crosswalks with flashing lights, look for pedestrians and be prepared to stop whether or not the lights are flashing.",
+   "cites": [
+    {
+     "block": "nchnxq",
+     "quote": "Some crosswalks have flashing lights. Whether or not the lights are flashing, look for pedestrians and be prepared to stop."
+    }
+   ]
+  },
+  {
+   "id": "blind-pedestrian-right-of-way",
+   "kind": "rule",
+   "text": "Pedestrians using guide dogs or white canes are partially or totally blind and have the right-of-way at all times.",
+   "cites": [
+    {
+     "block": "2s4tdm",
+     "quote": "Pedestrians using guide dogs or white canes have the right-of-way at all times. These pedestrians are partially or totally blind."
+    }
+   ]
+  },
+  {
+   "id": "blind-pedestrian-quiet-vehicles",
+   "kind": "practice",
+   "text": "Be careful turning or backing near blind pedestrians, especially in a hybrid or electric vehicle, because they rely on sound to know a vehicle is near.",
+   "cites": [
+    {
+     "block": "2s4tdm",
+     "quote": "Be careful when you are turning or backing up. This is particularly important if you are driving a hybrid or electric vehicle because blind pedestrians rely on sound to know there is a vehicle nearby."
+    }
+   ]
+  },
+  {
+   "id": "blind-pedestrian-crosswalk-stop",
+   "kind": "practice",
+   "text": "Do not stop in the middle of a crosswalk; it could force a blind pedestrian to walk into traffic outside the crosswalk.",
+   "cites": [
+    {
+     "block": "pjz8yx",
+     "quote": "Do not stop in the middle of a crosswalk. This could force a blind pedestrian to walk into traffic outside of the crosswalk."
+    }
+   ]
+  },
+  {
+   "id": "blind-pedestrian-no-horn",
+   "kind": "practice",
+   "text": "Do not honk your horn at a blind person.",
+   "cites": [
+    {
+     "block": "7vuw3s",
+     "quote": "Do not honk your horn at a blind person."
+    }
+   ]
+  },
+  {
+   "id": "blind-pedestrian-cane-pulled-in",
+   "kind": "meaning",
+   "text": "When a blind person pulls in their cane and steps away from the intersection, it usually means you may go.",
+   "cites": [
+    {
+     "block": "7yjzag",
+     "quote": "When a blind person pulls in their cane and steps away from the intersection, this gesture usually means you may go."
+    }
+   ]
+  },
+  {
+   "id": "mountain-road-uphill-right-of-way",
+   "kind": "rule",
+   "text": "When two vehicles meet on a steep narrow road and neither can pass, the vehicle facing uphill has the right-of-way, and the vehicle facing downhill should back up until the uphill vehicle can pass.",
+   "cites": [
+    {
+     "block": "etayw3",
+     "quote": "If two vehicles meet on a steep narrow road and neither vehicle can pass, the vehicle facing uphill has the right-of-way."
+    },
+    {
+     "block": "etayw3",
+     "quote": "The vehicle facing downhill should back up until the vehicle going uphill can pass."
+    }
+   ]
+  },
+  {
+   "id": "mountain-road-downhill-control",
+   "kind": "practice",
+   "text": "On a steep narrow road, the vehicle facing downhill has more control when backing up the hill.",
+   "cites": [
+    {
+     "block": "etayw3",
+     "quote": "The vehicle facing downhill has more control when backing up the hill."
+    }
+   ]
+  },
+  {
+   "id": "truck-no-zones",
+   "kind": "definition",
+   "text": "Large vehicles and trucks have large blind spots, called No Zones, where your vehicle can disappear from the driver's view.",
+   "cites": [
+    {
+     "block": "vbu6kx",
+     "quote": "But they also have large blind spots, also called No Zones. In these areas, your vehicle can disappear from a large vehicle or truck driver’s view."
+    }
+   ]
+  },
+  {
+   "id": "truck-side-mirrors",
+   "kind": "practice",
+   "text": "If you cannot see a truck's side mirrors, the truck driver cannot see you.",
+   "cites": [
+    {
+     "block": "vbu6kx",
+     "quote": "If you cannot see the truck’s side mirrors, the truck driver cannot see you."
+    }
+   ]
+  },
+  {
+   "id": "trucks-longer-stopping",
+   "kind": "practice",
+   "text": "Large vehicles and commercial trucks take longer to stop than passenger vehicles at the same speed.",
+   "cites": [
+    {
+     "block": "5wzrf4",
+     "quote": "Large vehicles and commercial trucks take longer to stop than passenger vehicles traveling at the same speed."
+    }
+   ]
+  },
+  {
+   "id": "stopping-distance-55-mph",
+   "kind": "practice",
+   "quantities": [
+    "55 mph",
+    "300 feet",
+    "400 feet"
+   ],
+   "text": "At 55 mph, an average passenger vehicle can stop within 300 feet, while a large vehicle can take up to 400 feet.",
+   "cites": [
+    {
+     "block": "5wzrf4",
+     "quote": "The average passenger vehicle traveling at 55 mph can stop within 300 feet. A large vehicle traveling at the same speed can take up to 400 feet to stop.",
+     "marks": [
+      "55 mph",
+      "300 feet",
+      "400 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "truck-heavier-faster-longer-stop",
+   "kind": "practice",
+   "text": "The heavier a vehicle and the faster it moves, the longer it takes to stop, so a loaded truck takes longer to stop than an empty one.",
+   "cites": [
+    {
+     "block": "5wzrf4",
+     "quote": "The heavier the vehicle and the faster it is moving, the longer it takes to safely stop, so a loaded truck will take longer to stop than an empty truck."
+    }
+   ]
+  },
+  {
+   "id": "truck-do-not-cut-in",
+   "kind": "practice",
+   "text": "Do not move in front of a large vehicle and then suddenly slow down or stop; it will not be able to stop fast enough to avoid hitting you.",
+   "cites": [
+    {
+     "block": "5wzrf4",
+     "quote": "Do not move in front of a large vehicle and suddenly slow down or stop. The large vehicle will not be able to stop fast enough to avoid crashing into you."
+    }
+   ]
+  },
+  {
+   "id": "truck-wide-turns",
+   "kind": "practice",
+   "text": "When a vehicle turns, its rear wheels follow a shorter path than its front wheels, so large vehicles often must swing wide to complete a turn.",
+   "cites": [
+    {
+     "block": "xuu7kr",
+     "quote": "When a vehicle turns, the rear wheels follow a shorter path than the front wheels. The longer the vehicle, the greater the difference in the length of the turning path. This is why large vehicles and truck drivers must often swing wide to complete a turn."
+    }
+   ]
+  },
+  {
+   "id": "truck-check-turn-signals",
+   "kind": "practice",
+   "text": "When following a large vehicle, look at its turn signals before you pass, because it may swing wide in the opposite direction to turn.",
+   "cites": [
+    {
+     "block": "xuu7kr",
+     "quote": "When you follow a large vehicle, look at its turn signals before you start to pass. It may appear to be turning one direction but instead is swinging wide in the opposite direction in order to turn."
+    }
+   ]
+  },
+  {
+   "id": "trucks-right-two-lanes",
+   "kind": "rule",
+   "quantities": [
+    "four or more lanes",
+    "two lanes"
+   ],
+   "text": "On a divided highway with four or more lanes in one direction, large vehicles and trucks may be driven in the two lanes farthest to the right.",
+   "cites": [
+    {
+     "block": "4tu6y4",
+     "quote": "On a divided highway with four or more traffic lanes in one direction, they may be driven in the two lanes farthest to the right.",
+     "marks": [
+      "two lanes",
+      "four or more traffic lanes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "truck-no-lane-change-in-front",
+   "kind": "practice",
+   "text": "Do not change lanes directly in front of a large vehicle to reach an exit or turn.",
+   "cites": [
+    {
+     "block": "4tu6y4",
+     "quote": "When driving near large vehicles and trucks, do not:"
+    },
+    {
+     "block": "74r5ck",
+     "quote": "Change lanes directly in front of them to reach an exit or turn."
+    }
+   ]
+  },
+  {
+   "id": "truck-pass-on-left",
+   "kind": "practice",
+   "text": "Do not drive next to a large vehicle longer than needed; always pass it on the left and move ahead of it after passing.",
+   "cites": [
+    {
+     "block": "4tu6y4",
+     "quote": "When driving near large vehicles and trucks, do not:"
+    },
+    {
+     "block": "mwfgd7",
+     "quote": "Drive next to them longer than you need to. Always pass a large vehicle on the left side. After you pass the large vehicle or truck, move ahead of it."
+    }
+   ]
+  },
+  {
+   "id": "truck-no-tailgating",
+   "kind": "practice",
+   "text": "Do not follow large vehicles too closely; tailgating decreases a vehicle's safety distance.",
+   "cites": [
+    {
+     "block": "4tu6y4",
+     "quote": "When driving near large vehicles and trucks, do not:"
+    },
+    {
+     "block": "uv8qjg",
+     "quote": "Follow too closely. Tailgating decreases a vehicle’s safety distance."
+    }
+   ]
+  },
+  {
+   "id": "truck-size-speed",
+   "kind": "practice",
+   "text": "Do not underestimate the size and speed of large vehicles; they often appear to be traveling slower than they are.",
+   "cites": [
+    {
+     "block": "4tu6y4",
+     "quote": "When driving near large vehicles and trucks, do not:"
+    },
+    {
+     "block": "bjqrag",
+     "quote": "Underestimate their size and speed as they often appear to be traveling slower."
+    }
+   ]
+  },
+  {
+   "id": "safety-zone-definition",
+   "kind": "definition",
+   "text": "Safety zones are spaces for pedestrians waiting for buses, streetcars, and trolleys, marked by raised buttons or markers on the road.",
+   "cites": [
+    {
+     "block": "b4e7n9",
+     "quote": "Safety zones are spaces set aside for pedestrians waiting for buses, streetcars, and trolleys. Safety zones are marked by raised buttons or markers on a road."
+    }
+   ]
+  },
+  {
+   "id": "safety-zone-no-driving",
+   "kind": "rule",
+   "text": "Never drive through a safety zone under any condition.",
+   "cites": [
+    {
+     "block": "b4e7n9",
+     "quote": "Do not drive through a safety zone under any condition."
+    }
+   ]
+  },
+  {
+   "id": "pass-stopped-bus-10-mph",
+   "kind": "rule",
+   "quantities": [
+    "10 mph"
+   ],
+   "text": "When a bus, streetcar, or trolley is stopped at a safety zone or traffic light, you may pass it at no more than 10 mph.",
+   "cites": [
+    {
+     "block": "wunjfa",
+     "quote": "When a bus, streetcar, or trolley is stopped at a safety zone or traffic light, you may pass at no more than 10 mph.",
+     "marks": [
+      "10 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "streetcar-no-passing-left",
+   "kind": "rule",
+   "text": "Do not pass a light rail vehicle or streetcar on the left, moving or standing, unless the tracks are too close to the right side to pass there, you are on a one-way street, or a traffic officer directs you to.",
+   "cites": [
+    {
+     "block": "rrwe2b",
+     "quote": "Do not overtake and pass a light rail vehicle or streetcar on the left side, whether it is moving or standing, unless:"
+    },
+    {
+     "block": "sjavr7",
+     "quote": "When the tracks are so close to the right side that the passenger vehicle cannot pass on the right."
+    },
+    {
+     "block": "2tmeqm",
+     "quote": "You are on a one-way street."
+    },
+    {
+     "block": "fpvf64",
+     "quote": "A traffic officer directs you to pass on the left."
+    }
+   ]
+  },
+  {
+   "id": "light-rail-same-rights",
+   "kind": "rule",
+   "text": "On public roads, light rail vehicles have the same rights and responsibilities as other vehicles.",
+   "cites": [
+    {
+     "block": "zdm67q",
+     "quote": "On public roads, light rail vehicles have the same rights and responsibilities as other vehicles."
+    }
+   ]
+  },
+  {
+   "id": "light-rail-operator-blind-spots",
+   "kind": "practice",
+   "text": "Buildings, trees, and other objects can cause blind spots for a light rail operator.",
+   "cites": [
+    {
+     "block": "vpzugs",
+     "quote": "Buildings, trees, and other items can cause blind spots for the operator."
+    }
+   ]
+  },
+  {
+   "id": "light-rail-no-turn-in-front",
+   "kind": "practice",
+   "text": "Never turn in front of an approaching light rail vehicle.",
+   "cites": [
+    {
+     "block": "gccg56",
+     "quote": "Never turn in front of an approaching light rail vehicle."
+    }
+   ]
+  },
+  {
+   "id": "light-rail-safe-distance",
+   "kind": "practice",
+   "text": "Maintain a safe distance from light rail vehicles.",
+   "cites": [
+    {
+     "block": "zdm67q",
+     "quote": "To safely share the road with light rail vehicles:"
+    },
+    {
+     "block": "vu98jy",
+     "quote": "Maintain a safe distance."
+    }
+   ]
+  },
+  {
+   "id": "light-rail-turn-across-tracks",
+   "kind": "practice",
+   "text": "Check for approaching light rail vehicles before turning across the tracks, and complete the turn only when the traffic light says you may; light rail vehicles can interrupt traffic lights.",
+   "cites": [
+    {
+     "block": "qb9wzb",
+     "quote": "Check for approaching light rail vehicles before you turn across the tracks. Complete your turn only when the traffic light indicates you may proceed. Be aware they can interrupt traffic lights."
+    }
+   ]
+  },
+  {
+   "id": "motorcyclists-same-rights",
+   "kind": "rule",
+   "text": "Motorcyclists have the same rights and responsibilities as other drivers.",
+   "cites": [
+    {
+     "block": "3cj9bp",
+     "quote": "Motorcyclists have the same rights and responsibilities as other vehicle drivers."
+    }
+   ]
+  },
+  {
+   "id": "motorcycle-check-mirrors",
+   "kind": "practice",
+   "text": "Check for motorcycles and use your mirrors when changing lanes or entering a road, because motorcycles are small and easily disappear in blind spots.",
+   "cites": [
+    {
+     "block": "5nj2nz",
+     "quote": "Check for motorcycles and use your mirrors when you change lanes or enter a road. Motorcycles are smaller in size and harder to see so they easily disappear in vehicle blind spots."
+    }
+   ]
+  },
+  {
+   "id": "motorcycle-three-second-following",
+   "kind": "practice",
+   "quantities": [
+    "three-second"
+   ],
+   "text": "Allow a three-second following distance behind a motorcycle so you can avoid hitting the rider if they brake suddenly or fall.",
+   "cites": [
+    {
+     "block": "3fnr66",
+     "quote": "Allow a safe three-second following distance. This space will help you avoid hitting a motorcyclist if they brake suddenly or fall.",
+     "marks": [
+      "three-second"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "motorcycle-full-lane",
+   "kind": "practice",
+   "text": "Whenever possible, give a motorcycle the full lane.",
+   "cites": [
+    {
+     "block": "ky6m4b",
+     "quote": "Whenever possible, give a motorcycle the full lane."
+    }
+   ]
+  },
+  {
+   "id": "lane-splitting-legal",
+   "kind": "rule",
+   "text": "It is legal for motorcycles to share lanes with other vehicles; this is called lane splitting.",
+   "cites": [
+    {
+     "block": "ky6m4b",
+     "quote": "It is legal to share lanes with motorcycles, this is known as lane splitting."
+    }
+   ]
+  },
+  {
+   "id": "motorcycle-no-same-lane-pass",
+   "kind": "practice",
+   "text": "Never try to pass a motorcycle in the same lane as you.",
+   "cites": [
+    {
+     "block": "xk5xpv",
+     "quote": "Never try to pass a motorcycle in the same lane as you."
+    }
+   ]
+  },
+  {
+   "id": "motorcycle-door-check",
+   "kind": "practice",
+   "text": "Check for motorcyclists before you open your door next to traffic.",
+   "cites": [
+    {
+     "block": "zx9egk",
+     "quote": "Check for motorcyclists before you open your door next to traffic."
+    }
+   ]
+  },
+  {
+   "id": "motorcycle-move-aside",
+   "kind": "practice",
+   "text": "When possible, move to one side of your lane to give motorcyclists more room to pass.",
+   "cites": [
+    {
+     "block": "qurmda",
+     "quote": "When possible, move to one side of your lane to give motorcyclists more room to pass."
+    }
+   ]
+  },
+  {
+   "id": "motorcycle-sudden-changes",
+   "kind": "practice",
+   "text": "Road conditions can cause motorcyclists to suddenly change speed or direction.",
+   "cites": [
+    {
+     "block": "7bks2b",
+     "quote": "Road conditions can cause motorcyclists to suddenly change speed or direction."
+    }
+   ]
+  },
+  {
+   "id": "emergency-vehicle-yield",
+   "kind": "rule",
+   "text": "Give the right-of-way to any law enforcement vehicle, fire engine, ambulance, or other emergency vehicle using a siren and red lights by driving to the right edge of the road and stopping until it passes.",
+   "cites": [
+    {
+     "block": "cp4abb",
+     "quote": "Give the right-of-way to any law enforcement vehicle, fire engine, ambulance, or other emergency vehicle using a siren and red lights."
+    },
+    {
+     "block": "cp4abb",
+     "quote": "Drive to the right edge of the road and stop until the emergency vehicle(s) have passed."
+    }
+   ]
+  },
+  {
+   "id": "emergency-vehicle-ticket",
+   "kind": "consequence",
+   "text": "Failing to pull over for an emergency vehicle may result in a ticket.",
+   "cites": [
+    {
+     "block": "cp4abb",
+     "quote": "Failure to pull over may result in a ticket."
+    }
+   ]
+  },
+  {
+   "id": "stationary-emergency-move-over",
+   "kind": "rule",
+   "text": "When approaching a stationary emergency vehicle with flashing emergency lights, move over and slow down.",
+   "cites": [
+    {
+     "block": "fwc3kv",
+     "quote": "When approaching a stationary emergency vehicle with flashing emergency signal lights (hazard lights), move over and slow down."
+    }
+   ]
+  },
+  {
+   "id": "emergency-vehicle-in-intersection",
+   "kind": "rule",
+   "text": "If you are in an intersection when you see an emergency vehicle, continue through the intersection, then drive to the right as soon as safe and stop.",
+   "cites": [
+    {
+     "block": "eugnex",
+     "quote": "If you are in an intersection when you see an emergency vehicle, continue through the intersection. Drive to the right as soon as it is safe and stop."
+    }
+   ]
+  },
+  {
+   "id": "obey-officer-firefighter",
+   "kind": "rule",
+   "text": "Obey any direction, order, or signal from a law enforcement officer or firefighter, even if it conflicts with existing signs, signals, or laws.",
+   "cites": [
+    {
+     "block": "wc9a49",
+     "quote": "Obey any direction, order, or signal given by a law enforcement officer, or firefighter. Follow their orders even if they conflict with existing signs, signals, or laws."
+    }
+   ]
+  },
+  {
+   "id": "emergency-vehicle-300-feet",
+   "kind": "rule",
+   "quantities": [
+    "300 feet"
+   ],
+   "text": "It is against the law to follow within 300 feet of a fire engine, law enforcement vehicle, ambulance, or other emergency vehicle that has its siren or flashing lights on.",
+   "cites": [
+    {
+     "block": "rapcba",
+     "quote": "It is against the law to follow within 300 feet of any fire engine, law enforcement vehicle, ambulance, or other emergency vehicle when their siren or flashing lights are on.",
+     "marks": [
+      "300 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "disaster-scene-arrest",
+   "kind": "consequence",
+   "text": "You can be arrested for driving to the scene of a fire, collision, or other disaster, because you get in the way of rescue and emergency personnel.",
+   "cites": [
+    {
+     "block": "yunxx7",
+     "quote": "You can be arrested if you drive to the scene of a fire, collision, or other disaster. When you do this, you are getting in the way of firefighters, ambulance crews, or other rescue and emergency personnel."
+    }
+   ]
+  },
+  {
+   "id": "slow-vehicles-hills",
+   "kind": "practice",
+   "text": "Large trucks, bicycles, and some cars lose speed on long or steep hills, and slow-moving vehicles can take longer to get up to speed when entering traffic.",
+   "cites": [
+    {
+     "block": "7fefz5",
+     "quote": "They can take longer to get up to speed when entering traffic. Large trucks, bicycles, and some cars lose speed on long or steep hills."
+    }
+   ]
+  },
+  {
+   "id": "slow-moving-vehicle-triangle",
+   "kind": "meaning",
+   "quantities": [
+    "25 mph"
+   ],
+   "text": "Some slow-moving vehicles, such as road maintenance vehicles, display an orange and red triangle on the back and usually travel at 25 mph or less.",
+   "cites": [
+    {
+     "block": "7fefz5",
+     "quote": "Some slow-moving vehicles have an orange and red triangle on their back, such as road maintenance vehicles, which usually travel at 25 mph or less.",
+     "marks": [
+      "25 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "slow-motorized-vehicles-types",
+   "kind": "practice",
+   "text": "Scooters, neighborhood electric vehicles, and golf carts are slow-moving motorized vehicles that may operate on public roads; adjust your speed to share the road with them.",
+   "cites": [
+    {
+     "block": "s7un29",
+     "quote": "Other types of slow-moving motorized vehicles that may operate on public roads include:"
+    },
+    {
+     "block": "wmcrrj",
+     "quote": "Scooters"
+    },
+    {
+     "block": "uf8uq5",
+     "quote": "Neighborhood electric vehicles"
+    },
+    {
+     "block": "kgvx56",
+     "quote": "Golf carts"
+    },
+    {
+     "block": "pfu4fz",
+     "quote": "Adjust your speed to share the road with these vehicles."
+    }
+   ]
+  },
+  {
+   "id": "nev-signs",
+   "kind": "meaning",
+   "text": "Watch for slow-moving vehicles when you see NEV USE ONLY or NEV ROUTE signs or markings.",
+   "cites": [
+    {
+     "block": "97qajv",
+     "quote": "Watch for slow-moving vehicles when you see these signs or markings:"
+    },
+    {
+     "block": "v3yxqg",
+     "quote": "NEV USE ONLY"
+    },
+    {
+     "block": "v84j65",
+     "quote": "NEV ROUTE"
+    }
+   ]
+  },
+  {
+   "id": "nev-lsv-speed",
+   "kind": "rule",
+   "quantities": [
+    "25 mph",
+    "35 mph"
+   ],
+   "text": "Neighborhood electric vehicles (NEVs) and low-speed vehicles (LSVs) reach a maximum speed of 25 mph and are restricted from roads with speed limits over 35 mph.",
+   "cites": [
+    {
+     "block": "jcqyj8",
+     "quote": "NEVs and LSVs reach a maximum speed of 25 mph. They are restricted from roads where the speed limit is greater than 35 mph.",
+     "marks": [
+      "25 mph",
+      "35 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "horses-share-road",
+   "kind": "rule",
+   "text": "Horse-drawn vehicles and people riding horses or other animals are allowed to share the road with motor vehicles.",
+   "cites": [
+    {
+     "block": "damb7q",
+     "quote": "Horse-drawn vehicles and people riding horses or other animals are allowed to share the road with motor vehicles."
+    }
+   ]
+  },
+  {
+   "id": "scaring-horses-illegal",
+   "kind": "rule",
+   "text": "It is against the law to intentionally scare horses or livestock.",
+   "cites": [
+    {
+     "block": "damb7q",
+     "quote": "It is against the law to intentionally scare horses or livestock."
+    }
+   ]
+  },
+  {
+   "id": "animal-crossing-sign",
+   "kind": "meaning",
+   "text": "If you see a sign with a picture of an animal, watch for animals on or near the road.",
+   "cites": [
+    {
+     "block": "q7m7c5",
+     "quote": "If you see a sign with a picture of an animal, watch for animals on or near the road."
+    }
+   ]
+  },
+  {
+   "id": "animals-near-road",
+   "kind": "practice",
+   "text": "If you see animals or livestock near the road, slow down or stop, proceed when safe, and follow directions from the person in charge of the animals.",
+   "cites": [
+    {
+     "block": "q7m7c5",
+     "quote": "If you see animals or livestock near the road, slow down or stop and proceed when it is safe. Be sure to follow directions from the person in charge of the animals."
+    }
+   ]
+  },
+  {
+   "id": "bicyclists-same-rights",
+   "kind": "rule",
+   "text": "Bicyclists have the same rights and responsibilities as other drivers.",
+   "cites": [
+    {
+     "block": "xwmq7e",
+     "quote": "Bicyclists have the same rights and responsibilities as other drivers."
+    }
+   ]
+  },
+  {
+   "id": "bicyclists-freeways",
+   "kind": "rule",
+   "text": "Bicyclists may legally ride on certain sections of freeway where there is no alternate route and bicycling is not forbidden by law.",
+   "cites": [
+    {
+     "block": "v9kuqg",
+     "quote": "Bicyclists may:"
+    },
+    {
+     "block": "4bgtkc",
+     "quote": "Legally ride on certain sections of freeways where there is no alternate route and bicycling is not forbidden by law."
+    }
+   ]
+  },
+  {
+   "id": "bicyclists-move-left-hazards",
+   "kind": "rule",
+   "text": "Bicyclists may move left to avoid hazards such as parked or moving vehicles, bicycles, animals, or trash.",
+   "cites": [
+    {
+     "block": "v9kuqg",
+     "quote": "Bicyclists may:"
+    },
+    {
+     "block": "pv8dnr",
+     "quote": "Move left to avoid hazards. These may include parked or moving vehicles, bicycles, animals, or trash."
+    }
+   ]
+  },
+  {
+   "id": "bicyclists-left-curb-one-way",
+   "kind": "rule",
+   "text": "Bicyclists may choose to ride near the left curb or edge of a one-way street.",
+   "cites": [
+    {
+     "block": "v9kuqg",
+     "quote": "Bicyclists may:"
+    },
+    {
+     "block": "3yh35c",
+     "quote": "Choose to ride near the left curb or edge of a one-way street."
+    }
+   ]
+  },
+  {
+   "id": "bicyclists-use-crosswalks",
+   "kind": "rule",
+   "text": "Bicyclists may choose to use crosswalks by stopping and crossing as a pedestrian.",
+   "cites": [
+    {
+     "block": "v9kuqg",
+     "quote": "Bicyclists may:"
+    },
+    {
+     "block": "w7vv7g",
+     "quote": "Choose to use crosswalks by stopping and crossing as a pedestrian."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-obey-signs",
+   "kind": "rule",
+   "text": "Bicyclists must obey all traffic signs, signal lights, and basic right-of-way rules.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "6hwvdc",
+     "quote": "Obey all traffic signs, signal lights, and basic right-of-way rules."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-ride-with-traffic",
+   "kind": "rule",
+   "text": "Bicyclists must ride in the same direction as traffic.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "spn9tf",
+     "quote": "Ride in the same direction as traffic."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-look-over-shoulder",
+   "kind": "rule",
+   "text": "Bicyclists must always look over their shoulder to make sure the lane is clear before turning or changing lanes.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "n465yu",
+     "quote": "Always look over your shoulder to make sure the lane is clear before turning or changing lanes."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-yield-pedestrians",
+   "kind": "rule",
+   "text": "Bicyclists must yield to pedestrians.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "3w69ry",
+     "quote": "Yield to pedestrians."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-helmet-under-18",
+   "kind": "rule",
+   "quantities": [
+    "18 years old"
+   ],
+   "text": "Bicyclists under 18 years old must wear a helmet.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "vnunxx",
+     "quote": "Wear a helmet (if under 18 years old).",
+     "marks": [
+      "18 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-stay-visible",
+   "kind": "rule",
+   "text": "Bicyclists must stay visible, for example by never weaving between parked vehicles.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "znwud2",
+     "quote": "Stay visible (for example, never weave between parked vehicles)."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-ride-near-right",
+   "kind": "rule",
+   "text": "Bicyclists must ride as near to the right curb or edge of the roadway as possible.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "gzf9ta",
+     "quote": "Ride as near to the right curb or edge of the roadway as possible."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-no-sidewalk",
+   "kind": "rule",
+   "text": "Bicyclists must not ride on the sidewalk unless the city allows it.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "mxyrzf",
+     "quote": "Not ride on the sidewalk (unless allowed by the city)."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-turns-like-drivers",
+   "kind": "rule",
+   "text": "Bicyclists must make left and right turns the same way drivers do, using hand signals and turn lanes.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "s3sap2",
+     "quote": "Make left and right turns in the same way drivers do, using hand signals and turn lanes."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-use-bike-lane",
+   "kind": "rule",
+   "text": "Bicyclists must use a bike lane whenever possible, or else a through traffic lane.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "v99pxw",
+     "quote": "Use a bike lane, whenever possible, or use a through traffic lane."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-brakes",
+   "kind": "rule",
+   "text": "A bicycle must have fully functional brakes.",
+   "cites": [
+    {
+     "block": "jwgqdh",
+     "quote": "As a bicyclist, you must:"
+    },
+    {
+     "block": "qzqtys",
+     "quote": "Have fully functional brakes."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-night-clothing",
+   "kind": "practice",
+   "text": "When it is dark, bicyclists should avoid wearing dark clothing.",
+   "cites": [
+    {
+     "block": "6zsdqj",
+     "quote": "When it is dark out, bicyclists should avoid wearing dark clothing."
+    }
+   ]
+  },
+  {
+   "id": "bicycle-night-front-lamp",
+   "kind": "rule",
+   "quantities": [
+    "300 feet"
+   ],
+   "text": "At night, a bicycle must have a front lamp with a white light visible from 300 feet.",
+   "cites": [
+    {
+     "block": "6zsdqj",
+     "quote": "Your bicycle must have the following equipment:"
+    },
+    {
+     "block": "z7sset",
+     "quote": "A front lamp with a white light visible from 300 feet.",
+     "marks": [
+      "300 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bicycle-night-rear-red",
+   "kind": "rule",
+   "quantities": [
+    "500 feet"
+   ],
+   "text": "At night, a bicycle must have a built-in rear red reflector, solid red light, or flashing red light visible from 500 feet.",
+   "cites": [
+    {
+     "block": "6zsdqj",
+     "quote": "Your bicycle must have the following equipment:"
+    },
+    {
+     "block": "6jfvxw",
+     "quote": "A built-in rear red reflector, solid red light, or flashing red light. This must be visible from 500 feet.",
+     "marks": [
+      "500 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bicycle-night-pedal-reflectors",
+   "kind": "rule",
+   "quantities": [
+    "200 feet"
+   ],
+   "text": "At night, a bicyclist must have a white or yellow reflector on each pedal, shoe, or ankle, visible from 200 feet.",
+   "cites": [
+    {
+     "block": "6zsdqj",
+     "quote": "Your bicycle must have the following equipment:"
+    },
+    {
+     "block": "de3mj6",
+     "quote": "A white or yellow reflector on each pedal, the bicyclist’s shoes, or their ankles. These must be visible from 200 feet.",
+     "marks": [
+      "200 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bicycle-night-wheel-reflectors",
+   "kind": "rule",
+   "text": "At night, a bicycle must have a white or yellow reflector on the front wheel and a white or red reflector on the rear wheel, or reflectorized tires.",
+   "cites": [
+    {
+     "block": "6zsdqj",
+     "quote": "Your bicycle must have the following equipment:"
+    },
+    {
+     "block": "dwa3fh",
+     "quote": "A white or yellow reflector on the front wheel, a white or red reflector on the rear wheel, or reflectorized tires."
+    }
+   ]
+  },
+  {
+   "id": "slow-bicyclist-ride-right",
+   "kind": "rule",
+   "text": "Bicyclists traveling slower than traffic must ride as close as possible to the right curb or edge of the road, with certain exceptions.",
+   "cites": [
+    {
+     "block": "2zw9v7",
+     "quote": "Bicyclists traveling slower than the flow of traffic must ride as close as possible to the right curb or edge of the road"
+    }
+   ]
+  },
+  {
+   "id": "slow-bicyclist-exception-passing",
+   "kind": "rule",
+   "text": "A bicyclist traveling slower than traffic need not ride at the right edge when passing a vehicle or another bicycle going the same direction.",
+   "cites": [
+    {
+     "block": "2zw9v7",
+     "quote": "Bicyclists traveling slower than the flow of traffic must ride as close as possible to the right curb or edge of the road, unless :"
+    },
+    {
+     "block": "3t3db8",
+     "quote": "Passing a vehicle or another bicycle in the same direction."
+    }
+   ]
+  },
+  {
+   "id": "slow-bicyclist-exception-left-turn",
+   "kind": "rule",
+   "text": "A bicyclist traveling slower than traffic need not ride at the right edge when preparing to make a left turn.",
+   "cites": [
+    {
+     "block": "2zw9v7",
+     "quote": "Bicyclists traveling slower than the flow of traffic must ride as close as possible to the right curb or edge of the road, unless :"
+    },
+    {
+     "block": "syvjvp",
+     "quote": "Preparing to make a left turn."
+    }
+   ]
+  },
+  {
+   "id": "slow-bicyclist-exception-hazard",
+   "kind": "rule",
+   "text": "A bicyclist traveling slower than traffic need not ride at the right edge when avoiding a hazard or road condition.",
+   "cites": [
+    {
+     "block": "2zw9v7",
+     "quote": "Bicyclists traveling slower than the flow of traffic must ride as close as possible to the right curb or edge of the road, unless :"
+    },
+    {
+     "block": "64w6zd",
+     "quote": "Avoiding a hazard or road condition."
+    }
+   ]
+  },
+  {
+   "id": "slow-bicyclist-exception-narrow-lane",
+   "kind": "rule",
+   "text": "A bicyclist traveling slower than traffic need not ride at the right edge when the lane is too narrow for a bicycle and a vehicle to travel safely side by side.",
+   "cites": [
+    {
+     "block": "2zw9v7",
+     "quote": "Bicyclists traveling slower than the flow of traffic must ride as close as possible to the right curb or edge of the road, unless :"
+    },
+    {
+     "block": "ahgf3k",
+     "quote": "A lane is too narrow for a bicycle and a vehicle to safely travel side-by-side in the lane."
+    }
+   ]
+  },
+  {
+   "id": "slow-bicyclist-exception-right-turn",
+   "kind": "rule",
+   "text": "A bicyclist traveling slower than traffic need not ride at the right edge when approaching a right turn.",
+   "cites": [
+    {
+     "block": "2zw9v7",
+     "quote": "Bicyclists traveling slower than the flow of traffic must ride as close as possible to the right curb or edge of the road, unless :"
+    },
+    {
+     "block": "2m9cdx",
+     "quote": "Approaching a right turn."
+    }
+   ]
+  },
+  {
+   "id": "slow-bicyclist-exception-one-way",
+   "kind": "rule",
+   "quantities": [
+    "two or more lanes"
+   ],
+   "text": "On a one-way road with two or more lanes, a bicyclist may ride near the left curb or edge of the road.",
+   "cites": [
+    {
+     "block": "9h8uu6",
+     "quote": "On a one-way road with two or more lanes. In this case, a bicyclist may ride near the left curb or edge of the road.",
+     "marks": [
+      "two or more lanes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "follow-bicyclist-safe-distance",
+   "kind": "practice",
+   "text": "Drivers should follow bicyclists at a safe distance, and when safe the bicyclist should move to let vehicles pass.",
+   "cites": [
+    {
+     "block": "33yz22",
+     "quote": "Drivers should follow at a safe distance. When it is safe, the bicyclist should move to a position that allows vehicles to pass."
+    }
+   ]
+  },
+  {
+   "id": "passing-bicyclist-change-lanes",
+   "kind": "practice",
+   "text": "To pass a bicyclist in the travel lane, you may need to change lanes; pass safely, return to your lane, and leave space between your vehicle and the bicyclist.",
+   "cites": [
+    {
+     "block": "xyajsg",
+     "quote": "To safely pass a bicyclist that is in the travel lane, you may need to change to another lane. In this case, pass safely, then return to your original lane. Leave space between your vehicle and the bicyclist."
+    }
+   ]
+  },
+  {
+   "id": "passing-bicyclist-three-feet",
+   "kind": "rule",
+   "quantities": [
+    "three feet"
+   ],
+   "text": "When you cannot change lanes to pass a bicyclist, allow at least three feet between your vehicle and the bicyclist; if you cannot, do not pass until you can.",
+   "cites": [
+    {
+     "block": "dzqz35",
+     "quote": "When you cannot change lanes to pass a bicyclist, allow at least three feet between your vehicle and the bicyclist. If you cannot give three feet of space, do not pass the cyclist until three feet of clearance can be given.",
+     "marks": [
+      "three feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-door-zone-space",
+   "kind": "practice",
+   "text": "Give bicyclists enough space so they are not forced into parked vehicles or open vehicle doors.",
+   "cites": [
+    {
+     "block": "a38aeg",
+     "quote": "Give bicyclists enough space so they are not forced into parked vehicles or open vehicle doors."
+    }
+   ]
+  },
+  {
+   "id": "merge-toward-curb-safely",
+   "kind": "practice",
+   "text": "Only merge toward the curb or into a bike lane when it is safe.",
+   "cites": [
+    {
+     "block": "u2hfnc",
+     "quote": "Only merge toward the curb or into the bike lane when it is safe."
+    }
+   ]
+  },
+  {
+   "id": "merge-behind-bicyclist-turn",
+   "kind": "practice",
+   "text": "When preparing to turn, merge safely behind a bicyclist.",
+   "cites": [
+    {
+     "block": "3bvmws",
+     "quote": "Merge safely behind a bicyclist when preparing to make a turn."
+    }
+   ]
+  },
+  {
+   "id": "bike-lane-enter-200-feet-before-turn",
+   "kind": "rule",
+   "quantities": [
+    "200 feet"
+   ],
+   "text": "Enter a bike lane no more than 200 feet before starting a turn.",
+   "cites": [
+    {
+     "block": "jdzm3d",
+     "quote": "Enter a bike lane no more than 200 feet before starting a turn.",
+     "marks": [
+      "200 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bicyclists-blind-spots",
+   "kind": "practice",
+   "text": "Check for bicyclists when changing lanes or entering traffic, because they may be hidden in your blind spots.",
+   "cites": [
+    {
+     "block": "g63tcj",
+     "quote": "Check for bicyclists when changing lanes or entering traffic. They may be hidden in a vehicle’s blind spots."
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-two-lane-road",
+   "kind": "practice",
+   "text": "Be careful when approaching or passing a bicyclist on a two-lane road.",
+   "cites": [
+    {
+     "block": "fbb783",
+     "quote": "Be careful when approaching or passing a bicyclist on a two-lane road."
+    }
+   ]
+  },
+  {
+   "id": "work-zone-warning-signs",
+   "kind": "meaning",
+   "text": "Warning signs and message boards alert you to workers, slow-moving equipment, and closed lanes ahead.",
+   "cites": [
+    {
+     "block": "kddgey",
+     "quote": "You will see warning signs and message boards when there are workers, slow-moving equipment, and closed lanes ahead."
+    }
+   ]
+  },
+  {
+   "id": "work-zone-how-to-drive",
+   "kind": "practice",
+   "text": "Go through a work zone carefully by slowing down, allowing extra space between vehicles, expecting sudden slowing or stopping, watching for drivers changing lanes, and avoiding distractions.",
+   "cites": [
+    {
+     "block": "fxbjb5",
+     "quote": "Go through the work zone carefully by:"
+    },
+    {
+     "block": "fe2u6d",
+     "quote": "Slowing down."
+    },
+    {
+     "block": "hhecvw",
+     "quote": "Allowing extra space between vehicles."
+    },
+    {
+     "block": "c5tm9g",
+     "quote": "Expecting sudden slowing or stopping."
+    },
+    {
+     "block": "v8q6n2",
+     "quote": "Watching for drivers changing lanes."
+    },
+    {
+     "block": "arzw8u",
+     "quote": "Avoiding distractions."
+    }
+   ]
+  },
+  {
+   "id": "work-zone-cones",
+   "kind": "practice",
+   "text": "In a work zone, cones, drums, or other barriers guide you; merge as soon as safe without crossing the cones or drums, and prepare to slow or stop for highway equipment.",
+   "cites": [
+    {
+     "block": "heraym",
+     "quote": "Cones, drums, or other barriers will guide you through the work zone. Prepare to slow down or stop for highway equipment. Merge as soon as it is safe without crossing the cones or drums."
+    }
+   ]
+  },
+  {
+   "id": "work-zone-bicycles",
+   "kind": "practice",
+   "text": "In a work zone, watch for bicycles if lanes are narrow or the shoulder is closed.",
+   "cites": [
+    {
+     "block": "heraym",
+     "quote": "Watch for bicycles if lanes are narrow or the shoulder is closed."
+    }
+   ]
+  },
+  {
+   "id": "work-zone-flaggers",
+   "kind": "rule",
+   "text": "In a work zone, obey special signs or instructions from workers such as flaggers.",
+   "cites": [
+    {
+     "block": "heraym",
+     "quote": "Obey special signs or instructions from workers such as flaggers."
+    }
+   ]
+  },
+  {
+   "id": "work-zone-fines",
+   "kind": "consequence",
+   "quantities": [
+    "$1,000"
+   ],
+   "text": "Fines for traffic violations in a work zone can be $1,000 or more.",
+   "cites": [
+    {
+     "block": "m4cb9t",
+     "quote": "Fines for traffic violations in a work zone can be $1,000 or more.",
+     "marks": [
+      "$1,000"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "assault-highway-worker",
+   "kind": "consequence",
+   "quantities": [
+    "$2,000",
+    "one year"
+   ],
+   "text": "Anyone convicted of assaulting a highway worker faces fines of up to $2,000 and up to one year of imprisonment.",
+   "cites": [
+    {
+     "block": "m4cb9t",
+     "quote": "Anyone convicted of assaulting a highway worker faces fines of up to $2,000 and imprisonment for up to one year.",
+     "marks": [
+      "$2,000",
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "double-fine-zones",
+   "kind": "consequence",
+   "text": "Fines are doubled in Safety Enhanced-Double Fine Zones, which are roads chosen because of increased collision-related injuries and fatalities.",
+   "cites": [
+    {
+     "block": "c9jeye",
+     "quote": "Certain roads are chosen as Safety Enhanced-Double Fine Zones. This is due to increased collision-related injuries and fatalities. Fines are doubled in these zones."
+    }
+   ]
+  },
+  {
+   "id": "construction-zone-double-fines",
+   "kind": "consequence",
+   "text": "Fines are doubled in highway construction or maintenance zones when workers are present.",
+   "cites": [
+    {
+     "block": "du8yy9",
+     "quote": "Fines are also doubled in highway construction or maintenance zones when workers are present."
+    }
+   ]
+  },
+  {
+   "id": "move-over-emergency-tow",
+   "kind": "rule",
+   "text": "Drivers must move over and slow down for stationary emergency vehicles or tow trucks displaying flashing amber warning lights.",
+   "cites": [
+    {
+     "block": "43xwys",
+     "quote": "Drivers must move over and slow down for emergency and road work vehicles."
+    },
+    {
+     "block": "fjadb2",
+     "quote": "Stationary emergency vehicles or tow trucks displaying flashing amber warning lights."
+    }
+   ]
+  },
+  {
+   "id": "move-over-road-work",
+   "kind": "rule",
+   "text": "Drivers must move over and slow down for stopped road work vehicles displaying emergency flashing or amber warning lights.",
+   "cites": [
+    {
+     "block": "43xwys",
+     "quote": "Drivers must move over and slow down for emergency and road work vehicles."
+    },
+    {
+     "block": "4r8n7u",
+     "quote": "Stopped road work vehicles displaying emergency flashing or amber warning lights."
+    }
+   ]
+  },
+  {
+   "id": "hazardous-load-placard",
+   "kind": "meaning",
+   "text": "A diamond-shaped sign on a truck means its load may be dangerous (gas, explosives, etc.), and such vehicles must stop before crossing railroad tracks.",
+   "cites": [
+    {
+     "block": "8pmxed",
+     "quote": "A diamond-shaped sign on a truck means that the truck’s load may be dangerous (gas, explosives, etc.). Vehicles with these signs must stop before crossing railroad tracks."
+    }
+   ]
+  },
+  {
+   "id": "heavy-traffic-bad-weather-slower",
+   "kind": "rule",
+   "text": "You must drive slower in heavy traffic or bad weather, but you should not block normal and reasonable traffic flow by driving too slowly.",
+   "cites": [
+    {
+     "block": "83ntda",
+     "quote": "You must drive slower when there is heavy traffic or bad weather. At the same time, you should not block normal and reasonable traffic flow by driving too slowly."
+    }
+   ]
+  },
+  {
+   "id": "cited-faster-or-slower",
+   "kind": "consequence",
+   "text": "You may be cited for driving faster or slower than the speed limit.",
+   "cites": [
+    {
+     "block": "83ntda",
+     "quote": "If you drive faster or slower than the speed limit, you may be cited."
+    }
+   ]
+  },
+  {
+   "id": "tailgater-move-right",
+   "kind": "practice",
+   "text": "When another driver is close behind you and wants to go faster, move to the right.",
+   "cites": [
+    {
+     "block": "83ntda",
+     "quote": "When another driver is close behind you and wishes to drive faster, move to the right."
+    }
+   ]
+  },
+  {
+   "id": "slower-drive-right-lane",
+   "kind": "rule",
+   "text": "If you choose to drive slower than other traffic, drive in the right lane.",
+   "cites": [
+    {
+     "block": "83ntda",
+     "quote": "If you choose to drive slower than other traffic, drive in the right lane."
+    }
+   ]
+  },
+  {
+   "id": "towing-right-lane",
+   "kind": "rule",
+   "quantities": [
+    "three or more axles"
+   ],
+   "text": "When towing a vehicle or trailer, or driving a truck with three or more axles, you must drive in the far-right lane or a lane marked for slower vehicles.",
+   "cites": [
+    {
+     "block": "gc2vee",
+     "quote": "You must drive in the far-right lane or a lane marked for slower vehicles when you:"
+    },
+    {
+     "block": "p6ezww",
+     "quote": "Tow a vehicle or trailer."
+    },
+    {
+     "block": "affn5j",
+     "quote": "Drive a truck with three or more axles.",
+     "marks": [
+      "three or more axles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "towing-two-right-lanes",
+   "kind": "rule",
+   "quantities": [
+    "three or more axles",
+    "four or more lanes",
+    "two lanes"
+   ],
+   "text": "When towing or driving a truck with three or more axles, if no lanes are marked and there are four or more lanes in your direction, you may drive only in the two lanes closest to the right edge.",
+   "cites": [
+    {
+     "block": "j5t3t7",
+     "quote": "If no lanes are marked and there are four or more lanes in your direction, you may only drive in the two lanes closest to the right edge of the road.",
+     "marks": [
+      "four or more lanes",
+      "two lanes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-buses-all-stop",
+   "kind": "rule",
+   "text": "All vehicles must stop for school buses.",
+   "cites": [
+    {
+     "block": "y4p4bk",
+     "quote": "All vehicles must stop for school buses."
+    }
+   ]
+  },
+  {
+   "id": "school-zone-25-mph",
+   "kind": "rule",
+   "quantities": [
+    "25 mph",
+    "500 feet"
+   ],
+   "text": "The speed limit is 25 mph within 500 feet of a school while children are outside or crossing the street.",
+   "cites": [
+    {
+     "block": "aymtkv",
+     "quote": "The speed limit is 25 mph within 500 feet of a school while children are outside or crossing the street.",
+     "marks": [
+      "25 mph",
+      "500 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-zone-15-mph",
+   "kind": "rule",
+   "quantities": [
+    "15 mph"
+   ],
+   "text": "Some school zones may have speed limits as low as 15 mph.",
+   "cites": [
+    {
+     "block": "aymtkv",
+     "quote": "Some school zones may have speed limits as low as 15 mph.",
+     "marks": [
+      "15 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-zone-look-for-bikes-pedestrians",
+   "kind": "practice",
+   "text": "Near schools, look for bicyclists and pedestrians.",
+   "cites": [
+    {
+     "block": "aymtkv",
+     "quote": "When near schools, look for:"
+    },
+    {
+     "block": "b3j2u8",
+     "quote": "Bicyclists and pedestrians."
+    }
+   ]
+  },
+  {
+   "id": "crossing-guards-obey",
+   "kind": "rule",
+   "text": "Near schools, always obey the directions of school safety patrols or crossing guards.",
+   "cites": [
+    {
+     "block": "4e25qm",
+     "quote": "School safety patrols or crossing guards. Be sure to obey their directions at all times."
+    }
+   ]
+  },
+  {
+   "id": "school-bus-flashing-yellow",
+   "kind": "meaning",
+   "text": "A school bus flashing yellow lights is preparing to stop to let children off; slow down and prepare to stop.",
+   "cites": [
+    {
+     "block": "8aa5hj",
+     "quote": "Some school buses flash yellow lights when preparing to stop to let children off the bus. The yellow flashing lights warn you to slow down and prepare to stop."
+    }
+   ]
+  },
+  {
+   "id": "school-bus-flashing-red",
+   "kind": "rule",
+   "text": "When a school bus flashes its red lights, you must stop from either direction and remain stopped until the children are safely across and the lights stop flashing.",
+   "cites": [
+    {
+     "block": "fcce72",
+     "quote": "When the bus flashes red lights (located at the top, front, and back of the bus), you must stop from either direction until the children are safely across the street and the lights stop flashing. Remain stopped while the red lights are flashing."
+    }
+   ]
+  },
+  {
+   "id": "school-bus-penalty",
+   "kind": "consequence",
+   "quantities": [
+    "$1,000",
+    "one-year"
+   ],
+   "text": "Failing to stop for a school bus with flashing red lights can bring a fine of up to $1,000 and a one-year suspension of your driving privilege.",
+   "cites": [
+    {
+     "block": "fcce72",
+     "quote": "If you fail to stop, you may be fined up to $1,000 and your driving privilege could be suspended for one year.",
+     "marks": [
+      "$1,000",
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-bus-divided-highway",
+   "kind": "rule",
+   "quantities": [
+    "two or more lanes"
+   ],
+   "text": "You do not need to stop for a school bus on the other side of a divided or multilane highway (two or more lanes in each direction).",
+   "cites": [
+    {
+     "block": "e25jaf",
+     "quote": "If the school bus is on the other side of a divided or multilane highway (two or more lanes in each direction), you do not need to stop.",
+     "marks": [
+      "two or more lanes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "blind-intersection-definition",
+   "kind": "definition",
+   "text": "An intersection is considered blind if it has no stop signs at any corner.",
+   "cites": [
+    {
+     "block": "dpxf45",
+     "quote": "An intersection is considered blind if it has no stop signs at any corner."
+    }
+   ]
+  },
+  {
+   "id": "blind-intersection-15-mph",
+   "kind": "rule",
+   "quantities": [
+    "15 mph"
+   ],
+   "text": "The speed limit for a blind intersection is 15 mph; if your view is blocked, move slowly forward until you can see.",
+   "cites": [
+    {
+     "block": "39deq7",
+     "quote": "If your view is blocked, move slowly forward until you can see. The speed limit for a blind intersection is 15 mph.",
+     "marks": [
+      "15 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alley-definition",
+   "kind": "definition",
+   "quantities": [
+    "25 feet"
+   ],
+   "text": "An alley is any road no wider than 25 feet used to reach the rear or side entrances of buildings or properties.",
+   "cites": [
+    {
+     "block": "2gwhc8",
+     "quote": "An alley is any road no wider than 25 feet that is used to access the rear or side entrances of buildings or properties.",
+     "marks": [
+      "25 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sidewalk-crossing-driveway",
+   "kind": "rule",
+   "text": "You may drive on or cross a sidewalk to enter or exit a driveway or alley.",
+   "cites": [
+    {
+     "block": "2gwhc8",
+     "quote": "You may drive on or cross a sidewalk to enter or exit a driveway or alley."
+    }
+   ]
+  },
+  {
+   "id": "alley-15-mph",
+   "kind": "rule",
+   "quantities": [
+    "15 mph"
+   ],
+   "text": "The speed limit in an alley is 15 mph.",
+   "cites": [
+    {
+     "block": "2gwhc8",
+     "quote": "The speed limit in an alley is 15 mph.",
+     "marks": [
+      "15 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "railroad-15-mph",
+   "kind": "rule",
+   "quantities": [
+    "15 mph",
+    "100 feet",
+    "400 feet"
+   ],
+   "text": "The speed limit is 15 mph within 100 feet of a railroad crossing where you cannot see the tracks for 400 feet in both directions.",
+   "cites": [
+    {
+     "block": "h3nx6m",
+     "quote": "The speed limit is 15 mph within 100 feet of a railroad crossing and you cannot see the tracks for 400 feet in both directions.",
+     "marks": [
+      "15 mph",
+      "100 feet",
+      "400 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "railroad-controlled-faster",
+   "kind": "rule",
+   "quantities": [
+    "15 mph"
+   ],
+   "text": "You may drive faster than 15 mph near a railroad crossing if it is controlled by gates, a warning signal, or a flagman.",
+   "cites": [
+    {
+     "block": "h3nx6m",
+     "quote": "You may drive faster than 15 mph if the crossing is controlled by gates, a warning signal, or a flagman.",
+     "marks": [
+      "15 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "railroad-flashing-red",
+   "kind": "meaning",
+   "text": "At a railroad crossing, flashing red lights mean stop and wait; do not cross until the lights stop flashing, even if the gate rises.",
+   "cites": [
+    {
+     "block": "tqtdz3",
+     "quote": "Flashing red warning lights indicate you must stop and wait. Do not proceed over the railroad tracks until the red lights stop flashing, even if the gate rises."
+    }
+   ]
+  },
+  {
+   "id": "railroad-stop-15-feet",
+   "kind": "rule",
+   "quantities": [
+    "15 feet"
+   ],
+   "text": "When crossing devices or a person warn that a train is coming, stop at least 15 feet from the nearest track.",
+   "cites": [
+    {
+     "block": "7e7x5k",
+     "quote": "When the crossing devices or a person warns you a train is coming, stop at least 15 feet from the nearest track.",
+     "marks": [
+      "15 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "railroad-gates",
+   "kind": "rule",
+   "text": "Do not go under lowering gates or around lowered gates at a railroad crossing.",
+   "cites": [
+    {
+     "block": "v4x294",
+     "quote": "Do not go under lowering gates or around lowered gates."
+    }
+   ]
+  },
+  {
+   "id": "railroad-gates-no-train",
+   "kind": "practice",
+   "text": "If railroad gates are lowered and you see no train approaching, call the posted railroad emergency toll-free number or 911.",
+   "cites": [
+    {
+     "block": "v4x294",
+     "quote": "If the gates are lowered and you do not see a train approaching, call the posted railroad emergency toll-free number or 911."
+    }
+   ]
+  },
+  {
+   "id": "railroad-stop-look-listen",
+   "kind": "practice",
+   "text": "At a railroad crossing, stop, look, and listen; if you see a train or hear a horn or bell, do not cross, and on multiple tracks look both ways and cross only when safe.",
+   "cites": [
+    {
+     "block": "xtn8r4",
+     "quote": "Stop, look, and listen. If you see a train coming or hear a horn or bell, do not cross. Many crossings have multiple tracks. Look in both directions and only cross when it is safe."
+    }
+   ]
+  },
+  {
+   "id": "railroad-expect-train",
+   "kind": "practice",
+   "text": "Expect a train on any track, at any time, traveling in either direction.",
+   "cites": [
+    {
+     "block": "nh62u8",
+     "quote": "Expect a train on any track, at any time, traveling in either direction."
+    }
+   ]
+  },
+  {
+   "id": "railroad-never-stop-on-tracks",
+   "kind": "rule",
+   "text": "Never stop on railroad tracks; do not start across unless you have enough room to completely cross the tracks.",
+   "cites": [
+    {
+     "block": "27xequ",
+     "quote": "Never stop on the railroad tracks. Wait and do not begin proceeding if you do not have enough room to completely cross the tracks."
+    }
+   ]
+  },
+  {
+   "id": "railroad-vehicles-must-stop",
+   "kind": "practice",
+   "text": "Watch for vehicles that must stop before crossing train tracks, including buses, school buses, and vehicles with hazardous materials placards.",
+   "cites": [
+    {
+     "block": "edunn7",
+     "quote": "Watch for vehicles that must stop before they cross train tracks. These vehicles include buses, school buses, and vehicles marked with a hazardous materials placard."
+    }
+   ]
+  },
+  {
+   "id": "business-residential-25-mph",
+   "kind": "rule",
+   "quantities": [
+    "25 mph"
+   ],
+   "text": "The speed limit in business or residential districts is 25 mph unless otherwise posted.",
+   "cites": [
+    {
+     "block": "wu9pts",
+     "quote": "Business or Residential Districts"
+    },
+    {
+     "block": "7xzv2k",
+     "quote": "The speed limit is 25 mph, unless otherwise posted.",
+     "marks": [
+      "25 mph"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "no-smoking-with-minor",
+   "kind": "rule",
+   "text": "You must not smoke when a minor is in the vehicle; you can be fined.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "2r9css",
+     "quote": "Not smoke when a minor is in the vehicle. You can be fined."
+    }
+   ]
+  },
+  {
+   "id": "animal-abandonment",
+   "kind": "consequence",
+   "quantities": [
+    "$1,000",
+    "six months"
+   ],
+   "text": "Dumping or abandoning animals on a highway is a crime punishable by a fine of up to $1,000, six months in jail, or both.",
+   "cites": [
+    {
+     "block": "xz3qfv",
+     "quote": "Not dump or abandon animals on a highway. This crime is punishable by a fine of up to $1,000, six months in jail, or both.",
+     "marks": [
+      "$1,000",
+      "six months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "overloaded-vehicle",
+   "kind": "rule",
+   "text": "You must not drive a vehicle so overloaded that you cannot control it or see ahead or to the sides.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "fqtbdp",
+     "quote": "Not drive a vehicle so overloaded that you cannot control it, see ahead, or see to the sides of your vehicle."
+    }
+   ]
+  },
+  {
+   "id": "unsecured-load",
+   "kind": "rule",
+   "text": "You must not drive a vehicle with an unsecured load that is a safety hazard.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "bwwwpx",
+     "quote": "Not drive a vehicle with an unsecured load that is a safety hazard."
+    }
+   ]
+  },
+  {
+   "id": "load-beyond-fenders",
+   "kind": "rule",
+   "quantities": [
+    "6 inches"
+   ],
+   "text": "You must not carry anything in or on a passenger vehicle that extends beyond the left fenders or more than 6 inches beyond the right fenders.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "qhdras",
+     "quote": "Not carry anything in or on a passenger vehicle which extends beyond the fenders on the left side or more than 6-inches beyond the fenders on the right side.",
+     "marks": [
+      "6-inches"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cargo-rear-flag",
+   "kind": "rule",
+   "quantities": [
+    "4 feet",
+    "12-inch"
+   ],
+   "text": "Cargo extending more than 4 feet past the rear bumper must display a 12-inch red or fluorescent orange square flag.",
+   "cites": [
+    {
+     "block": "h786hv",
+     "quote": "Cargo that extends more than 4 feet from the back-rear bumper of the vehicle must display a 12-inch red or fluorescent orange square flag.",
+     "marks": [
+      "4 feet",
+      "12-inch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cargo-rear-night-lights",
+   "kind": "rule",
+   "quantities": [
+    "4 feet",
+    "two red lights"
+   ],
+   "text": "At night, cargo extending more than 4 feet past the rear bumper must be marked with two red lights.",
+   "cites": [
+    {
+     "block": "h786hv",
+     "quote": "Cargo that extends more than 4 feet from the back-rear bumper of the vehicle",
+     "marks": [
+      "4 feet"
+     ]
+    },
+    {
+     "block": "bqydmg",
+     "quote": "At night, this cargo must be marked with two red lights.",
+     "marks": [
+      "two red lights"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pickup-bed-passengers",
+   "kind": "rule",
+   "text": "You must not let a person ride in the back of a pickup or other truck unless it has secure seats and seat belts.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "prj5r6",
+     "quote": "Not allow a person to ride in the back of a pickup or other truck unless the vehicle has secure seats and seat (safety) belts."
+    }
+   ]
+  },
+  {
+   "id": "pickup-bed-animals",
+   "kind": "rule",
+   "text": "You must not transport animals in the back of a pickup or other truck unless they are properly secured so they cannot fall, jump, or be thrown out.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "5mu3mm",
+     "quote": "Not transport animals in the back of a pickup or other truck unless the animal is properly secured. This prevents the animal from falling, jumping, or being thrown from the vehicle."
+    }
+   ]
+  },
+  {
+   "id": "video-monitor-driver",
+   "kind": "rule",
+   "text": "You must not drive with a video monitor visible to the driver unless it only shows vehicle information, navigation, a media player, or radio.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "2c22pj",
+     "quote": "Not drive a vehicle equipped with a video monitor visible to the driver, unless it only displays vehicle information, navigation system, media player, or radio."
+    }
+   ]
+  },
+  {
+   "id": "no-throwing-cigarettes",
+   "kind": "rule",
+   "text": "You must not throw a cigarette, cigar, or other flaming or glowing substance from your vehicle.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "ywqwg6",
+     "quote": "Not throw a cigarette, cigar, or other flaming or glowing substance from your vehicle."
+    }
+   ]
+  },
+  {
+   "id": "windshield-obstructions",
+   "kind": "rule",
+   "text": "You must not put signs or objects on the front windshield or side rear windows that block your view, and must not hang objects on the mirror.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "txgx5t",
+     "quote": "Not put signs or other objects on the front windshield or side rear windows that block your view. Do not hang objects on the mirror."
+    }
+   ]
+  },
+  {
+   "id": "windshield-7-inch-square",
+   "kind": "rule",
+   "quantities": [
+    "7-inch square"
+   ],
+   "text": "Objects may be affixed in a 7-inch square on the lower corner of the passenger-side windshield or the lower corner of the rear window.",
+   "cites": [
+    {
+     "block": "txgx5t",
+     "quote": "Objects may only be affixed in these locations:"
+    },
+    {
+     "block": "bj57xs",
+     "quote": "A 7-inch square on the lower corner of the passenger’s side windshield or the lower corner of the rear window.",
+     "marks": [
+      "7-inch square"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "windshield-5-inch-driver-window",
+   "kind": "rule",
+   "quantities": [
+    "5-inch square"
+   ],
+   "text": "Objects may be affixed in a 5-inch square on the lower corner of the driver's side window.",
+   "cites": [
+    {
+     "block": "txgx5t",
+     "quote": "Objects may only be affixed in these locations:"
+    },
+    {
+     "block": "6dkbrr",
+     "quote": "A 5-inch square on the lower corner of the driver’s side window.",
+     "marks": [
+      "5-inch square"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "windshield-toll-device",
+   "kind": "rule",
+   "quantities": [
+    "5-inch square"
+   ],
+   "text": "An electronic toll payment device may be affixed in a 5-inch square at the center uppermost part of the windshield.",
+   "cites": [
+    {
+     "block": "txgx5t",
+     "quote": "Objects may only be affixed in these locations:"
+    },
+    {
+     "block": "w3b6vd",
+     "quote": "A 5-inch square located in the center uppermost portion of your windshield for an electronic toll payment device.",
+     "marks": [
+      "5-inch square"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "side-windows-behind-driver",
+   "kind": "rule",
+   "text": "Objects may be affixed on the side windows behind the driver.",
+   "cites": [
+    {
+     "block": "txgx5t",
+     "quote": "Objects may only be affixed in these locations:"
+    },
+    {
+     "block": "qhssdh",
+     "quote": "On the side windows behind the driver."
+    }
+   ]
+  },
+  {
+   "id": "funeral-procession",
+   "kind": "rule",
+   "text": "A funeral procession is led by a traffic officer and has the right-of-way; its vehicles have windshield markers and headlights on, and you can be ticketed for interrupting it.",
+   "cites": [
+    {
+     "block": "gupk6y",
+     "quote": "A funeral procession is led by a traffic officer and has the right-of-way. All vehicles taking part in the procession have windshield markers to identify them and have their headlights on. You can be ticketed if you interrupt a funeral procession."
+    }
+   ]
+  },
+  {
+   "id": "illegible-license-plate",
+   "kind": "rule",
+   "text": "You must not operate a vehicle with an illegible license plate.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "nu37dy",
+     "quote": "Not operate a vehicle with an illegible license plate."
+    }
+   ]
+  },
+  {
+   "id": "altering-license-plate",
+   "kind": "rule",
+   "text": "You must not alter a license plate in any way.",
+   "cites": [
+    {
+     "block": "rr8vct",
+     "quote": "You must:"
+    },
+    {
+     "block": "9wxkq8",
+     "quote": "Not alter a license plate in any way."
+    }
+   ]
+  },
+  {
+   "id": "evading-police-misdemeanor",
+   "kind": "consequence",
+   "quantities": [
+    "one year"
+   ],
+   "text": "Using a motor vehicle to flee or evade law enforcement is a misdemeanor punishable by up to one year in county jail.",
+   "cites": [
+    {
+     "block": "845xbz",
+     "quote": "It is a misdemeanor to use a motor vehicle to flee or attempt to evade law enforcement performing their duties. This is punishable by imprisonment in a county jail for one year or less.",
+     "marks": [
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evading-police-injury",
+   "kind": "consequence",
+   "quantities": [
+    "seven years",
+    "one year"
+   ],
+   "text": "Causing serious bodily injury during a law enforcement pursuit is punishable by up to seven years in state prison or up to one year in county jail.",
+   "cites": [
+    {
+     "block": "5eugeg",
+     "quote": "A person convicted of causing serious bodily injury during a law enforcement pursuit is subject to imprisonment in a state prison for up to seven years, or a county jail for one year or less.",
+     "marks": [
+      "seven years",
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evading-police-manslaughter",
+   "kind": "consequence",
+   "quantities": [
+    "4 to 10 years"
+   ],
+   "text": "Manslaughter resulting from evading law enforcement during a pursuit is punishable by a minimum of 4 to 10 years in state prison.",
+   "cites": [
+    {
+     "block": "3mehgh",
+     "quote": "A person convicted of manslaughter resulting from evading law enforcement during a pursuit is subject to imprisonment in a state prison for a minimum of 4 to 10 years.",
+     "marks": [
+      "4 to 10 years"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unlicensed-driver-impound",
+   "kind": "consequence",
+   "quantities": [
+    "30 days"
+   ],
+   "text": "If an unlicensed person is caught driving your vehicle, it may be impounded for 30 days.",
+   "cites": [
+    {
+     "block": "w9vmnz",
+     "quote": "If an unlicensed person is caught driving your vehicle, it may be impounded for 30 days.",
+     "marks": [
+      "30 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reckless-speed-contest-injury",
+   "kind": "consequence",
+   "text": "Reckless driving or a speed contest that injures another person is punishable by imprisonment, a fine, or both.",
+   "cites": [
+    {
+     "block": "8zdma2",
+     "quote": "A person convicted of reckless driving or engaging in a speed contest that causes injury to another person is subject to imprisonment, a fine, or both."
+    }
+   ]
+  },
+  {
+   "id": "ticket-promise-to-appear",
+   "kind": "rule",
+   "text": "When you sign a traffic ticket, you are promising to appear in traffic court.",
+   "cites": [
+    {
+     "block": "ddpv2y",
+     "quote": "you sign the ticket as a promise to appear in traffic court."
+    }
+   ]
+  },
+  {
+   "id": "failure-to-appear",
+   "kind": "consequence",
+   "text": "If you get a traffic ticket and fail to appear (FTA) in court, the DMV may suspend your driving privilege until you appear, and the FTA goes on your driver's record.",
+   "cites": [
+    {
+     "block": "ddpv2y",
+     "quote": "if you get a traffic ticket and fail to appear (FTA) in court, DMV may suspend your driving privilege until you appear. If you do not keep your promise to appear in court, the FTA goes on your driver’s record."
+    }
+   ]
+  },
+  {
+   "id": "convictions-reported-to-dmv",
+   "kind": "process",
+   "text": "Each moving traffic violation conviction is reported to the DMV by the court and placed on your driver's record, including convictions from other states and juvenile court.",
+   "cites": [
+    {
+     "block": "ebzz4j",
+     "quote": "Each time you are convicted of a moving traffic violation, the court notifies DMV. The conviction is placed on your driver’s record. Convictions reported by other states and juvenile court are also added to your driver’s record."
+    }
+   ]
+  },
+  {
+   "id": "convictions-36-months",
+   "kind": "process",
+   "quantities": [
+    "36 months"
+   ],
+   "text": "Traffic convictions and collisions stay on your driver's record for 36 months or longer, depending on the type of conviction.",
+   "cites": [
+    {
+     "block": "ebzz4j",
+     "quote": "Traffic convictions and collisions stay on your record for 36 months or longer, depending on the type of conviction.",
+     "marks": [
+      "36 months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "points-suspension-thresholds",
+   "kind": "consequence",
+   "quantities": [
+    "4 points",
+    "12 months",
+    "6 points",
+    "24 months",
+    "8 points",
+    "36 months"
+   ],
+   "text": "As an adult, your license may be suspended if your record shows 4 points in 12 months, 6 points in 24 months, or 8 points in 36 months.",
+   "cites": [
+    {
+     "block": "ebzz4j",
+     "quote": "As an adult, your license may be suspended if your driver’s record shows one of the following point totals:"
+    },
+    {
+     "block": "j35333",
+     "quote": "4 points in 12 months.",
+     "marks": [
+      "4 points",
+      "12 months"
+     ]
+    },
+    {
+     "block": "vb9bae",
+     "quote": "6 points in 24 months.",
+     "marks": [
+      "6 points",
+      "24 months"
+     ]
+    },
+    {
+     "block": "sbje3t",
+     "quote": "8 points in 36 months.",
+     "marks": [
+      "8 points",
+      "36 months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "traffic-violator-school",
+   "kind": "process",
+   "quantities": [
+    "one-point"
+   ],
+   "text": "For a one-point traffic violation, a judge may let you attend traffic violator school so the citation is not reported to your insurance company, though it stays on your driving record.",
+   "cites": [
+    {
+     "block": "2s8m3f",
+     "quote": "If you are given a one-point traffic violation, the judge may offer you the choice to attend a traffic violator school to have the citation not reported to your insurance company but remain on your driving record.",
+     "marks": [
+      "one-point"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "traffic-violator-school-18-months",
+   "kind": "process",
+   "quantities": [
+    "one-point",
+    "18-month"
+   ],
+   "text": "You can attend traffic violator school for a one-point violation only once in any 18-month period.",
+   "cites": [
+    {
+     "block": "2s8m3f",
+     "quote": "You can do this once in any 18-month period.",
+     "marks": [
+      "18-month"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "traffic-violator-school-completion",
+   "kind": "process",
+   "text": "The traffic violator school reports your course completion to the court, and you also get a completion receipt.",
+   "cites": [
+    {
+     "block": "2s8m3f",
+     "quote": "The school will report your course completion to the court. You will also get a completion receipt."
+    }
+   ]
+  },
+  {
+   "id": "negligent-driver",
+   "kind": "consequence",
+   "text": "If you have too many points on your record, you are considered a negligent driver, and the DMV will place you on probation or suspend or revoke your driving privilege.",
+   "cites": [
+    {
+     "block": "ja8jmk",
+     "quote": "If you have too many points on your driver’s record, you will be considered a negligent driver. DMV will place you on probation, suspend, or revoke your driving privilege."
+    }
+   ]
+  },
+  {
+   "id": "negligent-driver-hearing",
+   "kind": "process",
+   "text": "When the DMV acts against your driving privilege, it notifies you in writing and you have the right to a hearing.",
+   "cites": [
+    {
+     "block": "ja8jmk",
+     "quote": "When this happens, you have the right to a hearing. DMV will notify you in writing of any action taken against your driving privilege and inform you of your legal rights, including your right to a hearing."
+    }
+   ]
+  },
+  {
+   "id": "hit-and-run-revocation",
+   "kind": "consequence",
+   "text": "The DMV will revoke your driving privilege if you are convicted of hit-and-run or of reckless driving that caused injury.",
+   "cites": [
+    {
+     "block": "gqkan5",
+     "quote": "DMV will revoke your driving privilege if you are convicted of a hit-and-run or reckless driving that resulted in injury."
+    }
+   ]
+  },
+  {
+   "id": "courts-may-suspend",
+   "kind": "consequence",
+   "text": "Courts also have authority to suspend a person's driving privilege.",
+   "cites": [
+    {
+     "block": "gqkan5",
+     "quote": "Courts also have the authority to suspend a person’s driving privilege."
+    }
+   ]
+  },
+  {
+   "id": "after-suspension-sr22",
+   "kind": "process",
+   "text": "At the end of a suspension or revocation, you may apply for a replacement license but must show proof of financial responsibility (such as SR 22/SR 1P).",
+   "cites": [
+    {
+     "block": "9k2dce",
+     "quote": "At the end of your suspension or revocation, you may apply for a replacement driver’s license. You must show proof of financial responsibility (such as SR 22/SR 1P)."
+    }
+   ]
+  },
+  {
+   "id": "minor-first-12-months-action",
+   "kind": "consequence",
+   "quantities": [
+    "12 months"
+   ],
+   "text": "If a minor has collisions or traffic violations within the first 12 months of getting a license, the DMV may restrict or suspend their driving privilege.",
+   "cites": [
+    {
+     "block": "wp73nz",
+     "quote": "If you get into collisions or commit traffic violations within the first 12 months of obtaining your minor’s driver’s license, DMV may restrict or suspend your driving privilege.",
+     "marks": [
+      "12 months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "no-driving-while-suspended",
+   "kind": "rule",
+   "text": "You cannot drive if your driving privilege is suspended or revoked.",
+   "cites": [
+    {
+     "block": "wp73nz",
+     "quote": "You cannot drive if your driving privilege is suspended or revoked."
+    }
+   ]
+  },
+  {
+   "id": "at-fault-collision-definition",
+   "kind": "definition",
+   "text": "An at-fault collision means you were found responsible for it.",
+   "cites": [
+    {
+     "block": "v6hszt",
+     "quote": "An at fault collision means you were found responsible."
+    }
+   ]
+  },
+  {
+   "id": "minor-one-violation",
+   "kind": "consequence",
+   "quantities": [
+    "one at-fault collision"
+   ],
+   "text": "As a minor, the DMV may take action against your license after one at-fault collision or traffic violation conviction.",
+   "cites": [
+    {
+     "block": "7szq2n",
+     "quote": "As a minor, DMV may take action against your license if you have:"
+    },
+    {
+     "block": "v6hszt",
+     "quote": "One at fault collision or traffic violation conviction",
+     "marks": [
+      "One at fault collision"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "minor-two-violations",
+   "kind": "consequence",
+   "quantities": [
+    "two at-fault collisions",
+    "two traffic violation convictions",
+    "30 days",
+    "25 years old"
+   ],
+   "text": "A minor with two at-fault collisions, two traffic violation convictions, or one of each cannot drive for 30 days unless a licensed adult at least 25 years old rides along.",
+   "cites": [
+    {
+     "block": "7szq2n",
+     "quote": "As a minor, DMV may take action against your license if you have:"
+    },
+    {
+     "block": "uqdu72",
+     "quote": "Two at fault collisions, two traffic violation convictions, or one of each: You cannot drive for 30 days unless a licensed adult, at least 25 years old, rides with you.",
+     "marks": [
+      "Two at fault collisions",
+      "two traffic violation convictions",
+      "30 days",
+      "25 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "minor-three-violations",
+   "kind": "consequence",
+   "quantities": [
+    "three at-fault collisions",
+    "three traffic violation convictions",
+    "six months",
+    "one year"
+   ],
+   "text": "A minor with three at-fault collisions, three traffic violation convictions, or a combination will have their driving privilege suspended for six months and be on probation for one year.",
+   "cites": [
+    {
+     "block": "7szq2n",
+     "quote": "As a minor, DMV may take action against your license if you have:"
+    },
+    {
+     "block": "5qs5pp",
+     "quote": "Three at fault collisions, three traffic violation convictions, or a combination: Your driving privilege will be suspended for six months. You will be on probation for one year.",
+     "marks": [
+      "Three at fault collisions",
+      "three traffic violation convictions",
+      "six months",
+      "one year"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "minor-probation-more-violations",
+   "kind": "consequence",
+   "text": "A minor who has more at-fault collisions or traffic violation convictions while on probation will have their license suspended again.",
+   "cites": [
+    {
+     "block": "dynssd",
+     "quote": "If you have more at fault collisions or traffic violation convictions while on probation, your license will be suspended again."
+    }
+   ]
+  },
+  {
+   "id": "minor-alcohol-drug-conviction",
+   "kind": "consequence",
+   "quantities": [
+    "15 to 20 years old",
+    "one year"
+   ],
+   "text": "If you are 15 to 20 years old and convicted of using alcohol or a controlled substance, the court will order the DMV to suspend your driving privilege for one year or delay your eligibility to apply for a license.",
+   "cites": [
+    {
+     "block": "757x3d",
+     "quote": "A conviction of using alcohol or a controlled substance, or both and are 15-20 years old: The court will order DMV to suspend your driving privilege for one year or delay your eligibility to apply for a driver’s license.",
+     "marks": [
+      "one year",
+      "15-20 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "turning-18-restrictions-remain",
+   "kind": "consequence",
+   "quantities": [
+    "18"
+   ],
+   "text": "Turning 18 does not erase or end existing restrictions, suspensions, or probation.",
+   "cites": [
+    {
+     "block": "vzqr6x",
+     "quote": "Turning 18 years old does not erase or end existing restrictions, suspensions, or probation sentences.",
+     "marks": [
+      "18"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hearing-request-deadline",
+   "kind": "process",
+   "quantities": [
+    "10 days",
+    "14 days"
+   ],
+   "text": "If notified of a proposed action against your driving privilege, you must request a DMV hearing within 10 days of being served or 14 days from the date the notice was mailed, or lose the right to a hearing.",
+   "cites": [
+    {
+     "block": "wqpqvu",
+     "quote": "you must request a hearing within 10 days of being served or 14 days from the date the notice is mailed. If you do not make a timely request, your right to a hearing will be lost.",
+     "marks": [
+      "10 days",
+      "14 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hearing-court-independent",
+   "kind": "process",
+   "text": "Any action a court takes against your driving privilege is independent of action taken by the DMV.",
+   "cites": [
+    {
+     "block": "evuws6",
+     "quote": "Any action taken by the court is independent of the action taken by DMV."
+    }
+   ]
+  },
+  {
+   "id": "hearing-right-evidence-witnesses",
+   "kind": "process",
+   "text": "At a DMV administrative hearing, you may present relevant evidence and witnesses on your behalf.",
+   "cites": [
+    {
+     "block": "kdae6f",
+     "quote": "You have the right to:"
+    },
+    {
+     "block": "e566km",
+     "quote": "Present relevant evidence and witnesses on your behalf."
+    }
+   ]
+  },
+  {
+   "id": "hearing-attorney-not-required",
+   "kind": "process",
+   "text": "At a DMV hearing, you may testify for yourself or be represented by an attorney or other representative at your own expense; an attorney is not required.",
+   "cites": [
+    {
+     "block": "su665f",
+     "quote": "Testify on your behalf or be represented by an attorney or other representative at your expense. Representation by an attorney is not required."
+    }
+   ]
+  },
+  {
+   "id": "hearing-cross-examine",
+   "kind": "process",
+   "text": "At a DMV hearing, you may review the evidence and cross-examine witnesses; DMV bases its case only on written documents, and you must get a subpoena to question someone who prepared or is listed on a document.",
+   "cites": [
+    {
+     "block": "mkc5sc",
+     "quote": "Review the evidence and cross examine the testimony of any witness. DMV bases its case only on written documents. If you wish to question someone who prepared a document or is listed on a document used as evidence, it is your responsibility to acquire a subpoena."
+    }
+   ]
+  },
+  {
+   "id": "unsafe-driver-reexamination",
+   "kind": "process",
+   "text": "If you know someone who no longer drives safely, you may submit a Request for Driver Reexamination (DS 699) asking the DMV to review their driving qualifications.",
+   "cites": [
+    {
+     "block": "hzyh8k",
+     "quote": "If you know someone who no longer drives safely, you may submit a Request for Driver Reexamination (DS 699) to DMV to review their driving qualifications."
+    }
+   ]
+  },
+  {
+   "id": "driver-record-public",
+   "kind": "process",
+   "text": "Most information in your driver's record is public, except physical or mental conditions, address, and social security number.",
+   "cites": [
+    {
+     "block": "4td68p",
+     "quote": "Most information in your driver’s record is available to the public, except physical or mental conditions, address, and social security number."
+    }
+   ]
+  },
+  {
+   "id": "driver-record-copy",
+   "kind": "process",
+   "text": "You can get a copy of your driver's record online or at a kiosk.",
+   "cites": [
+    {
+     "block": "74ap6g",
+     "quote": "You can get a copy of your driver’s record online or at a kiosk."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "section": 1,
+ "questions": [
+  {
+   "id": "q-license-class",
+   "facts": [
+    "license-correct-class-for-vehicle"
+   ],
+   "prompt": "What kind of license must you have to drive a particular vehicle?",
+   "choices": [
+    "The right class for that vehicle.",
+    "Any valid California driver's license.",
+    "A Class C license, whatever the vehicle."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "You must have the correct class of license for the type of vehicle you drive. Class C covers most drivers, but motorcycles and commercial vehicles need other classes."
+  }
+ ]
+}

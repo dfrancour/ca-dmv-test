@@ -1,0 +1,1576 @@
+{
+ "section": 6,
+ "questions": [
+  {
+   "id": "q-yellow-center-line",
+   "facts": [
+    "single-solid-yellow-center"
+   ],
+   "prompt": "What does a single solid yellow line on a road mark?",
+   "choices": [
+    "Lanes going the same direction on a one-way road.",
+    "The center of a road with two-way traffic.",
+    "The edge of a lane that is about to end."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A single solid yellow line marks the center of a two-way road. Lanes going the same direction are separated by white lines."
+  },
+  {
+   "id": "q-solid-yellow-your-side",
+   "facts": [
+    "single-solid-yellow-no-passing"
+   ],
+   "prompt": "On a two-lane road, a solid yellow line runs on your side of the center. What does it tell you about passing?",
+   "choices": [
+    "You may not pass the car ahead.",
+    "You may pass if no one is coming.",
+    "You may pass a car below the limit."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "With only one lane in your direction, do not pass when a solid yellow line is on your side of the road, even if the way looks clear."
+  },
+  {
+   "id": "q-broken-yellow",
+   "facts": [
+    "broken-yellow-passing",
+    "double-yellow-no-passing"
+   ],
+   "prompt": "A broken yellow line runs next to your lane, with no solid line on your side. What does it mean?",
+   "choices": [
+    "You may never pass on this stretch.",
+    "Only oncoming traffic may pass here.",
+    "You may pass, but only when it is safe."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "A broken yellow line next to your lane means passing is allowed when it is safe. Double solid yellow lines mean no passing."
+  },
+  {
+   "id": "q-double-yellow-left-turn",
+   "facts": [
+    "double-yellow-exception-left-turn",
+    "u-turn-across-double-yellow"
+   ],
+   "prompt": "When may you turn left across a single set of double yellow lines?",
+   "choices": [
+    "Never; they form a barrier you can't cross.",
+    "Only where there is a marked opening.",
+    "To enter a driveway or make a U-turn."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "You may turn left across one set of double yellow lines into or out of a driveway or private road, or to make a U-turn. Only two sets two feet apart form a barrier."
+  },
+  {
+   "id": "q-double-yellow-construction",
+   "facts": [
+    "double-yellow-exception-construction"
+   ],
+   "prompt": "Construction signs tell you to use the other side of the road because your side is closed. What should you do?",
+   "choices": [
+    "Follow the signs, driving left of the double yellow lines.",
+    "Stay right of the double yellow lines and wait it out.",
+    "Turn around, since crossing double yellow is never allowed."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "When construction or other signs direct you to the other side because your side is closed, you may drive to the left of double yellow lines."
+  },
+  {
+   "id": "q-barrier-left-turn",
+   "facts": [
+    "double-double-yellow-barrier"
+   ],
+   "prompt": "Two sets of double yellow lines, two or more feet apart, separate you from a driveway on the left. May you turn left into it?",
+   "choices": [
+    "Yes, since it is a private driveway.",
+    "Only at a marked opening in the lines.",
+    "Yes, after yielding to oncoming traffic."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Two sets of double yellow lines two or more feet apart are a barrier. Don't drive over it or turn left across it except at a designated opening."
+  },
+  {
+   "id": "q-broken-white",
+   "facts": [
+    "broken-white-lines"
+   ],
+   "prompt": "Broken white lines separate the lanes on your road. What do they tell you?",
+   "choices": [
+    "They mark the center of a two-way road.",
+    "Traffic in both lanes goes the same way.",
+    "You may not change lanes across them."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Broken white lines separate lanes going in the same direction, and you may change lanes across them when safe. Yellow lines separate opposite directions."
+  },
+  {
+   "id": "q-double-white-carpool",
+   "facts": [
+    "double-solid-white-no-lane-change",
+    "double-solid-white-barrier",
+    "hov-enter-exit"
+   ],
+   "prompt": "Double solid white lines separate your lane from a carpool lane. When may you move into it?",
+   "choices": [
+    "Not until the lines change to a single broken line.",
+    "Whenever you have enough people in the car.",
+    "Whenever traffic is clear and you have signaled."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Never change lanes over double solid white lines. Enter or exit an HOV lane only at its designated openings, where the line is single and broken."
+  },
+  {
+   "id": "q-lane-ending",
+   "facts": [
+    "end-of-lane-markings"
+   ],
+   "prompt": "Your freeway lane is marked with large broken lines. What should you be ready for?",
+   "choices": [
+    "The lane may exit the freeway or end.",
+    "A carpool lane is about to begin on the left.",
+    "Passing is now allowed on both sides."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Large broken lines usually mark an ending lane. Be ready to exit or merge, and look for an exit or merge sign."
+  },
+  {
+   "id": "q-yield-line",
+   "facts": [
+    "yield-line"
+   ],
+   "prompt": "What do white triangles like these across your lane show?",
+   "figure": {
+    "block": "xt7jjz",
+    "alt": "A row of white triangles painted across a lane, pointing toward the cars approaching it."
+   },
+   "choices": [
+    "That a speed bump is ahead.",
+    "Where to yield or stop.",
+    "Where a bike lane crosses."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A yield line, a row of white triangles pointing toward you, shows where to yield or stop."
+  },
+  {
+   "id": "q-number-1-lane",
+   "facts": [
+    "lane-numbering"
+   ],
+   "prompt": "On a freeway, which lane is the Number 1 Lane?",
+   "choices": [
+    "The far-right lane.",
+    "The far-left, or fast, lane.",
+    "The lane nearest the on-ramp."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "The left (fast) lane is the Number 1 Lane; the lane to its right is Number 2, and so on."
+  },
+  {
+   "id": "q-leaving-curb-lane",
+   "facts": [
+    "right-lane-use"
+   ],
+   "prompt": "You are pulling away from the curb onto a street with several lanes. Which lane should you enter?",
+   "choices": [
+    "The left lane.",
+    "The center lane.",
+    "The right lane."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Use the right lane to enter or exit traffic or to pull out from a curb or shoulder. The left lane is for passing and left turns."
+  },
+  {
+   "id": "q-lane-change-look",
+   "facts": [
+    "lane-change-look-over-shoulder",
+    "lane-change-blind-spots"
+   ],
+   "prompt": "Before changing lanes, you have signaled and checked your mirrors. What else should you do?",
+   "choices": [
+    "Slow down to let the other lane pass you.",
+    "Look over your shoulder toward the new lane.",
+    "Change lanes; mirrors cover the lane beside you."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Look over your shoulder in the direction you are moving to check your blind spot. You don't need to slow down to change lanes."
+  },
+  {
+   "id": "q-lane-change-slow",
+   "facts": [
+    "lane-change-no-slowing"
+   ],
+   "prompt": "On a dry road, there is a big enough gap in the next lane. How much must you slow down to change lanes?",
+   "choices": [
+    "Not at all.",
+    "About 5 mph.",
+    "About 10 mph."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "If there is enough space in the next lane, you don't need to slow down to change lanes."
+  },
+  {
+   "id": "q-weaving",
+   "facts": [
+    "stay-in-one-lane"
+   ],
+   "prompt": "Traffic is heavy on a multilane road. What is the safest way to drive?",
+   "choices": [
+    "Switch to whichever lane is moving fastest.",
+    "Change lanes often to keep a steady speed.",
+    "Stay in one lane as much as you can."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Weaving and last-minute lane changes raise the risk of a collision. Stay in one lane as much as possible."
+  },
+  {
+   "id": "q-wrong-street-mid-turn",
+   "facts": [
+    "intersection-keep-going"
+   ],
+   "prompt": "Halfway through a turn, you realize it is the wrong street. What should you do?",
+   "choices": [
+    "Stop and back out of the turn.",
+    "Finish the turn and find another route.",
+    "Stop where you are and rethink."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Once you start through an intersection or a turn, follow through. Correct your route later."
+  },
+  {
+   "id": "q-missed-turn",
+   "facts": [
+    "missed-turn"
+   ],
+   "prompt": "You pass the street where you meant to turn. What should you do?",
+   "choices": [
+    "Stop and back up to the corner you missed.",
+    "Keep going until you can turn around safely.",
+    "Turn right away, even from the wrong lane."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "If you miss a turn, keep driving until you can safely and legally turn around."
+  },
+  {
+   "id": "q-hov-occupants",
+   "facts": [
+    "hov-minimum-occupants"
+   ],
+   "prompt": "How can you tell how many people you need to use an HOV lane?",
+   "choices": [
+    "It is always at least three people, by law.",
+    "It is listed on your registration card.",
+    "Signs at the on-ramp or along the road."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Signs at the on-ramp or along the road give the minimum number of people, and the hours HOV rules apply."
+  },
+  {
+   "id": "q-hov-motorcycle",
+   "facts": [
+    "hov-motorcycles"
+   ],
+   "prompt": "May a motorcyclist riding alone use an HOV lane?",
+   "choices": [
+    "No, only cars carrying passengers may.",
+    "Only with a special DMV decal.",
+    "Yes, unless a sign says otherwise."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Motorcycles may use HOV lanes unless otherwise posted."
+  },
+  {
+   "id": "q-hov-marking",
+   "facts": [
+    "hov-diamond-marking"
+   ],
+   "prompt": "How is the road surface of an HOV lane marked?",
+   "choices": [
+    "With a diamond and the words Carpool Lane.",
+    "With green paint and a bicycle symbol.",
+    "With a row of white triangles."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "HOV lanes are marked with a diamond symbol and the words Carpool Lane."
+  },
+  {
+   "id": "q-center-turn-markings",
+   "facts": [
+    "center-left-turn-lane-markings"
+   ],
+   "prompt": "How is a center left turn lane marked on each side?",
+   "choices": [
+    "A single solid yellow line on each side.",
+    "A broken inner line and a solid outer line.",
+    "Double solid yellow lines on both of its sides."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "A center left turn lane is bordered on each side by two lines: the inner one broken and the outer one solid."
+  },
+  {
+   "id": "q-center-turn-use",
+   "facts": [
+    "center-left-turn-lane-use"
+   ],
+   "prompt": "What may you use a center left turn lane for?",
+   "choices": [
+    "To pass slow traffic when it is clear.",
+    "Only to start a left turn or a U-turn.",
+    "As a regular lane when traffic is heavy."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A center left turn lane is only for preparing for and making left turns or U-turns. It is not a passing or travel lane."
+  },
+  {
+   "id": "q-center-turn-distance",
+   "facts": [
+    "center-left-turn-lane-200-feet",
+    "left-turn-center-lane-200-feet"
+   ],
+   "prompt": "What is the farthest you may drive in a center left turn lane?",
+   "choices": [
+    "100 feet.",
+    "200 feet.",
+    "500 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "You may drive no more than 200 feet in a center left turn lane, entering it within 200 feet of your turn."
+  },
+  {
+   "id": "q-turnout",
+   "facts": [
+    "turnouts-five-vehicles",
+    "turnouts-merge"
+   ],
+   "prompt": "You are driving slowly on a two-lane road where passing is unsafe. What is the fewest vehicles behind you that requires you to use a turnout?",
+   "choices": [
+    "Three.",
+    "Ten.",
+    "Five."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "If you are driving slowly and five or more vehicles are following, you must use a turnout area or lane to let them pass."
+  },
+  {
+   "id": "q-bike-lane-when",
+   "facts": [
+    "bike-lane-illegal-driving"
+   ],
+   "prompt": "When may you drive in a bicycle lane?",
+   "choices": [
+    "To enter or leave the road.",
+    "To pass slower traffic on the right side.",
+    "Whenever no bicyclists are in sight ahead."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Driving in a bike lane is illegal except to park where permitted, to enter or leave the road, or to turn within 200 feet of an intersection."
+  },
+  {
+   "id": "q-bike-lane-dashed",
+   "facts": [
+    "bike-lane-dashed-near-intersection"
+   ],
+   "prompt": "How does a bike lane's line usually change near an intersection?",
+   "choices": [
+    "The solid white line becomes dashed.",
+    "The solid white line becomes a double line.",
+    "The white line turns yellow."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "A bike lane's single solid white line typically turns into a dashed line near an intersection."
+  },
+  {
+   "id": "q-buffered-bike-lane",
+   "facts": [
+    "buffered-bike-lane"
+   ],
+   "prompt": "What do chevrons or diagonal stripes beside a bike lane do?",
+   "choices": [
+    "Mark a place to stop for loading.",
+    "Give more space from traffic and parked cars.",
+    "Mark an extra lane for turning cars."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A buffered bike lane uses chevrons or diagonal markings to put more space between bicyclists, traffic and parked cars."
+  },
+  {
+   "id": "q-sharrows",
+   "facts": [
+    "shared-roadway-markings"
+   ],
+   "prompt": "You see a bicycle symbol with arrows painted in your traffic lane. What does it mean?",
+   "choices": [
+    "Only bicycles may use this lane.",
+    "Bicycles must stay on the shoulder here.",
+    "Bicyclists may ride in the lane with you."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Shared roadway markings tell drivers that bicyclists can occupy the lane and help bicyclists keep a safe position."
+  },
+  {
+   "id": "q-bike-route",
+   "facts": [
+    "bike-route",
+    "separated-bikeway"
+   ],
+   "prompt": "What is a bike route?",
+   "choices": [
+    "A lane on which only bicycles may ride.",
+    "A preferred route on streets shared with cars.",
+    "A path separated from cars by a curb."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "A bike route is marked with signs and shared road markings on streets shared with traffic. A path physically separated from cars is a separated bikeway."
+  },
+  {
+   "id": "q-turn-signal-distance",
+   "facts": [
+    "right-turn-signal-100-feet",
+    "left-turn-signal-100-feet"
+   ],
+   "prompt": "How far before a turn should you start signaling?",
+   "choices": [
+    "About 100 feet.",
+    "About 50 feet.",
+    "About 25 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Start signaling about 100 feet before a right or left turn."
+  },
+  {
+   "id": "q-right-turn-curb-side",
+   "facts": [
+    "right-turn-watch-curb-side"
+   ],
+   "prompt": "As you turn right, where should you watch for bicyclists and pedestrians?",
+   "choices": [
+    "Between your vehicle and the curb.",
+    "Only in the crosswalk ahead of you.",
+    "In the lane to your left."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "When turning right, watch for pedestrians, bicyclists and motorcyclists between your vehicle and the curb."
+  },
+  {
+   "id": "q-turn-shoulder-speed",
+   "facts": [
+    "right-turn-shoulder-speed",
+    "left-turn-shoulder-speed"
+   ],
+   "prompt": "You have signaled for a turn at an intersection. What should you do as you approach it?",
+   "choices": [
+    "Speed up so you clear the turn quickly.",
+    "Look over your shoulder and slow down.",
+    "Rely on your mirrors without turning your head."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Look over your right shoulder and slow down before a right turn; for a left turn, look over your left shoulder."
+  },
+  {
+   "id": "q-limit-line",
+   "facts": [
+    "limit-line-definition"
+   ],
+   "prompt": "What is a limit line?",
+   "choices": [
+    "A wide white line showing where to stop.",
+    "A yellow line marking where passing ends.",
+    "A row of white triangles where you yield."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "A limit line is a wide white line that shows where to stop before an intersection or crosswalk. White triangles are a yield line."
+  },
+  {
+   "id": "q-stop-at-crosswalk",
+   "facts": [
+    "where-to-stop-no-limit-line"
+   ],
+   "prompt": "There is no limit line, but there is a crosswalk. Where should you stop?",
+   "choices": [
+    "On the crosswalk, short of the cross street.",
+    "Before the crosswalk.",
+    "Even with the STOP sign."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Stop behind the limit line; if there isn't one, stop before the crosswalk; if there is no crosswalk, stop before the intersection."
+  },
+  {
+   "id": "q-over-limit-line",
+   "facts": [
+    "braking-limit-line"
+   ],
+   "prompt": "You stop at a limit line. Where should the front of your vehicle be?",
+   "choices": [
+    "On top of the line.",
+    "Behind the line.",
+    "Just past the line."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "When stopping at a limit line, don't cross over it."
+  },
+  {
+   "id": "q-look-before-turn",
+   "facts": [
+    "turn-look-left-right-left"
+   ],
+   "prompt": "Before turning at an intersection, in what order should you look?",
+   "choices": [
+    "Left, right, then left again.",
+    "Right, left, then right again.",
+    "Left, then right."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Look left, right, and left again before turning, and turn when it is safe."
+  },
+  {
+   "id": "q-red-right-arrow",
+   "facts": [
+    "no-right-on-red-arrow",
+    "right-on-red",
+    "red-arrow"
+   ],
+   "prompt": "You are stopped at this signal. When may you turn right?",
+   "figure": {
+    "block": "4rdz8f",
+    "alt": "A red arrow pointing right."
+   },
+   "choices": [
+    "After a full stop, if it is clear.",
+    "After the red arrow turns green.",
+    "After yielding to pedestrians."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "You may turn right on a solid red light after stopping, but not on a red arrow. Wait for green."
+  },
+  {
+   "id": "q-bus-lane-stop",
+   "facts": [
+    "bus-lane-illegal"
+   ],
+   "prompt": "You want to drop off a passenger, and the only free curb is along a bus-only lane. What should you do?",
+   "choices": [
+    "Find somewhere else to stop.",
+    "Stop briefly with your hazards on.",
+    "Stop there if no bus is in sight."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "It is illegal to drive, stop, park or leave a vehicle in an area set aside for public transit buses, even briefly."
+  },
+  {
+   "id": "q-bus-lane-cross",
+   "facts": [
+    "bus-lane-cross-right-turn",
+    "bus-lane-illegal"
+   ],
+   "prompt": "When may you cross a bus-only lane?",
+   "choices": [
+    "To pass slow traffic.",
+    "To pick up a passenger.",
+    "To make a right turn."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "You may cross a public transit bus lane to make a right turn, but you may not otherwise drive, stop or park in it."
+  },
+  {
+   "id": "q-dedicated-right-lane",
+   "facts": [
+    "dedicated-right-turn-lane",
+    "dedicated-right-turn-lane-signal"
+   ],
+   "prompt": "Your right turn lane doesn't merge into another lane and has no light or sign on its curb. Through traffic has a red light. What may you do?",
+   "choices": [
+    "Stop fully first, as for any right turn on red.",
+    "Wait until the through traffic light turns green.",
+    "Turn without stopping."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "A dedicated right turn lane lets you turn without stopping even when through traffic has a red light, but you must obey any light or sign on its right curb."
+  },
+  {
+   "id": "q-left-turn-lane-entry",
+   "facts": [
+    "left-turn-position"
+   ],
+   "prompt": "A left turn lane begins ahead, bordered by a solid line. When should you enter it?",
+   "choices": [
+    "At its opening, without crossing the line.",
+    "As soon as there is room, crossing the line.",
+    "Only after your light has turned green."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Enter a designated left turn lane at its opening, without crossing any solid line."
+  },
+  {
+   "id": "q-wheels-straight",
+   "facts": [
+    "left-turn-wheels-straight"
+   ],
+   "prompt": "You are waiting to turn left while oncoming traffic passes. Which way should your front wheels point?",
+   "choices": [
+    "Straight ahead until you can turn.",
+    "To the left, ready to turn.",
+    "To the right, toward the curb."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Keep your wheels straight while you wait. If they are turned left and you're hit from behind, you could be pushed into oncoming traffic."
+  },
+  {
+   "id": "q-left-two-way-end",
+   "facts": [
+    "left-turn-two-way-to-two-way",
+    "left-turn-complete-left-lane"
+   ],
+   "prompt": "You turn left from a two-way street onto another two-way street. Which lane should you end in?",
+   "choices": [
+    "The right lane nearest the curb.",
+    "The left lane nearest the middle.",
+    "Any lane that is open."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Start in the left lane nearest the middle and end in the left lane nearest the middle of the street going your way."
+  },
+  {
+   "id": "q-left-on-red",
+   "facts": [
+    "left-on-red-one-way"
+   ],
+   "prompt": "When may you turn left on a red light, after stopping?",
+   "choices": [
+    "From one one-way street onto another.",
+    "From a two-way street onto a one-way street.",
+    "Never, under any condition."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "You may turn left on red from a one-way street onto a one-way street if no sign forbids it, after yielding to traffic and pedestrians with a green light."
+  },
+  {
+   "id": "q-u-turn-lane",
+   "facts": [
+    "u-turn-how"
+   ],
+   "prompt": "Which lane should you use to make a U-turn?",
+   "choices": [
+    "The far-right lane, to swing wide.",
+    "The left turn lane or the far-left lane.",
+    "Any lane, once you have signaled."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "To make a U-turn, signal and use the left turn lane or the far-left lane."
+  },
+  {
+   "id": "q-u-turn-residential",
+   "facts": [
+    "u-turn-residential-200-feet"
+   ],
+   "prompt": "When may you make a U-turn in a residential district?",
+   "choices": [
+    "Only at an intersection with a signal.",
+    "When no vehicles are coming within 200 feet.",
+    "When no vehicles are coming within 100 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "In a residential district you may make a U-turn if no vehicles are approaching within 200 feet."
+  },
+  {
+   "id": "q-u-turn-green",
+   "facts": [
+    "u-turn-green-light"
+   ],
+   "prompt": "May you make a U-turn at an intersection on a green light?",
+   "choices": [
+    "No, U-turns at traffic signals are illegal.",
+    "Yes, unless a NO U-TURN sign is posted.",
+    "Only if you are in a residential district."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "You may make a U-turn at an intersection on a green light or green arrow unless a NO U-TURN sign is posted."
+  },
+  {
+   "id": "q-u-turn-divided",
+   "facts": [
+    "u-turn-divided-highway-opening",
+    "no-u-turn-divided-highway-crossing"
+   ],
+   "prompt": "How may you make a U-turn on a divided highway?",
+   "choices": [
+    "Across the center strip, if it is flat.",
+    "Only through an opening in the center divider.",
+    "Across two sets of double yellow lines."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "On a divided highway, U-turn only where a divider opening is provided. Never cross a dividing section, curb, strip or two sets of double yellow lines."
+  },
+  {
+   "id": "q-u-turn-railroad",
+   "facts": [
+    "no-u-turn-railroad",
+    "u-turn-across-double-yellow"
+   ],
+   "prompt": "Where is it always illegal to make a U-turn?",
+   "choices": [
+    "Across a double yellow line.",
+    "On a railroad crossing.",
+    "On a quiet residential street."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Never make a U-turn at or on a railroad crossing. U-turns across a double yellow line, or in a residential district when no one is within 200 feet, can be legal."
+  },
+  {
+   "id": "q-u-turn-sight",
+   "facts": [
+    "no-u-turn-200-feet-visibility"
+   ],
+   "prompt": "What is the least distance you must be able to see clearly in each direction before making a U-turn?",
+   "choices": [
+    "200 feet.",
+    "100 feet.",
+    "500 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Never make a U-turn if you can't see clearly for 200 feet in each direction."
+  },
+  {
+   "id": "q-u-turn-fire-station",
+   "facts": [
+    "no-u-turn-fire-station",
+    "u-turn-divided-highway-opening"
+   ],
+   "prompt": "You need to turn around. Which of these is illegal?",
+   "choices": [
+    "Using a fire station driveway.",
+    "Using a divider opening on a divided highway.",
+    "Making a U-turn at a green arrow."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Never make a U-turn in front of a fire station or use its driveway to turn around."
+  },
+  {
+   "id": "q-u-turn-business",
+   "facts": [
+    "no-u-turn-business-district"
+   ],
+   "prompt": "Where may you make a U-turn in a business district?",
+   "choices": [
+    "Anywhere, if no one is within 200 feet.",
+    "Only in the middle of a block.",
+    "Only at an intersection or a divider opening."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "In a business district, U-turns are allowed only at intersections or at openings in a divided highway."
+  },
+  {
+   "id": "q-multi-lane-turns",
+   "facts": [
+    "turns-multiple-lanes-signs"
+   ],
+   "prompt": "When may you turn from, or into, more than one lane?",
+   "choices": [
+    "When signs or arrows show you may.",
+    "Whenever the lanes are empty.",
+    "Only when on one-way streets."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Signs or arrows show when you may turn from or end in more than one lane."
+  },
+  {
+   "id": "q-left-onto-one-way",
+   "facts": [
+    "left-turn-two-way-to-one-way"
+   ],
+   "prompt": "You turn left from a two-way street onto a one-way street with three lanes. Which lane may you end in?",
+   "choices": [
+    "Any open lane.",
+    "The far-left lane, as on any left turn.",
+    "The lane nearest the right curb."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Start in the lane nearest the middle. If there are three or more lanes in your direction, you may end in any open lane."
+  },
+  {
+   "id": "q-left-onto-two-way",
+   "facts": [
+    "left-turn-one-way-to-two-way"
+   ],
+   "prompt": "You turn left from a one-way street onto a two-way street. Where should you start and end?",
+   "choices": [
+    "Far-right lane, then the nearest open lane.",
+    "Far-left lane, then any open lane you like.",
+    "Far-left lane, then the left lane nearest the middle."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Start in the far-left lane and end in the left lane closest to the middle of the street going your direction."
+  },
+  {
+   "id": "q-bicyclist-left-lane",
+   "facts": [
+    "bicyclists-left-turn-lane"
+   ],
+   "prompt": "A bicyclist moves into the left turn lane ahead of you. Is this legal?",
+   "choices": [
+    "No, they must cross as pedestrians.",
+    "Only if no cars are waiting in it.",
+    "Yes, bicyclists may use it to turn left."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Bicyclists can legally use the left turn lane for their left turns."
+  },
+  {
+   "id": "q-smooth-braking",
+   "facts": [
+    "braking-smoothly"
+   ],
+   "prompt": "What is the smooth way to brake to a stop?",
+   "choices": [
+    "Keep on the gas, then brake firmly at the end.",
+    "Ease off the gas, then press the brake lightly.",
+    "Press the brake hard, then let up and repeat."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Take your foot off the accelerator, let the vehicle slow, then press the brake lightly, leaving enough space and time."
+  },
+  {
+   "id": "q-stop-behind-car",
+   "facts": [
+    "stopping-behind-vehicle-rear-wheels"
+   ],
+   "prompt": "You stop behind another vehicle. How much space should you leave?",
+   "choices": [
+    "About one foot from its bumper.",
+    "Enough to see its rear wheels.",
+    "At least three car lengths."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Leave enough space that you can see the rear wheels of the vehicle in front."
+  },
+  {
+   "id": "q-ramp-stop",
+   "facts": [
+    "merge-do-not-stop"
+   ],
+   "prompt": "When should you stop on a freeway on-ramp before merging?",
+   "choices": [
+    "Only if it is absolutely necessary.",
+    "Always, to check for a gap.",
+    "Whenever a car is in the right lane."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Merge when it is safe and don't stop unless absolutely necessary. Stopping makes it harder to reach the speed of traffic."
+  },
+  {
+   "id": "q-solid-lines-ramps",
+   "facts": [
+    "merge-no-solid-lines",
+    "exit-no-solid-lines"
+   ],
+   "prompt": "On a freeway ramp, a solid line separates your lane from the next one. When may you cross it?",
+   "choices": [
+    "Once the line ends or turns broken.",
+    "Once the next lane is clear.",
+    "Once you have signaled for five seconds."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Don't cross solid lines when merging onto or exiting a highway. Wait until the line ends, however clear the lane or long your signal."
+  },
+  {
+   "id": "q-cross-lanes",
+   "facts": [
+    "cross-lanes-one-at-a-time",
+    "exit-change-lanes-one-at-a-time"
+   ],
+   "prompt": "You need to cross three lanes to reach your exit. How should you do it?",
+   "choices": [
+    "All at once, while the lanes are clear.",
+    "One lane at a time, signaling each time.",
+    "Slow down in your lane until a gap opens."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Signal and cross lanes one at a time, checking your blind spots each time."
+  },
+  {
+   "id": "q-exit-signal-feet",
+   "facts": [
+    "exit-signal-five-seconds"
+   ],
+   "prompt": "Signaling five seconds before a freeway exit covers about how much distance?",
+   "choices": [
+    "About 100 feet.",
+    "About 400 feet.",
+    "About 1,000 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Five seconds of signaling before an exit is about 400 feet."
+  },
+  {
+   "id": "q-gap-city",
+   "facts": [
+    "gap-city-half-block"
+   ],
+   "prompt": "To merge into traffic on a city street, about how big a gap do you need?",
+   "choices": [
+    "About one car length.",
+    "About a full block.",
+    "About half a block."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "On city streets you need a gap of about half a block, around 150 feet. On the highway you need about a full block."
+  },
+  {
+   "id": "q-gap-highway",
+   "facts": [
+    "gap-highway-full-block"
+   ],
+   "prompt": "To merge onto the highway, about how big a gap do you need?",
+   "choices": [
+    "About a full block, or 300 feet.",
+    "About half a block, or 150 feet.",
+    "About two car lengths, or 30 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "On the highway you need a gap of about a full block, about 300 feet. Half a block is enough on city streets."
+  },
+  {
+   "id": "q-oncoming-right-signal",
+   "facts": [
+    "left-turn-oncoming-right-signal"
+   ],
+   "prompt": "You are waiting to turn left. An oncoming car has its right signal on. What should you do?",
+   "choices": [
+    "Turn now; it is about to turn right.",
+    "Wait until it actually starts to turn.",
+    "Flash your headlights, then turn."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Don't assume an oncoming car with its right signal on will turn before reaching you. Wait until it starts its turn."
+  },
+  {
+   "id": "q-hill-curve-distance",
+   "facts": [
+    "passing-one-third-mile"
+   ],
+   "prompt": "To pass safely, what is the least distance a hill or curve ahead should be?",
+   "choices": [
+    "100 feet.",
+    "One-tenth of a mile.",
+    "One-third of a mile."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "A hill or curve should be at least one-third of a mile away before you pass."
+  },
+  {
+   "id": "q-pass-blind-curve",
+   "facts": [
+    "no-passing-hill-curve"
+   ],
+   "prompt": "On a two-lane road you are nearing a curve and can't see around it. May you pass?",
+   "choices": [
+    "No, not until you can see ahead.",
+    "No, unless the car ahead is very slow.",
+    "Yes, if you pass quickly."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Don't pass near a hill or curve if you can't see whether traffic is coming, however slow the car ahead. It is especially dangerous on one- and two-lane roads."
+  },
+  {
+   "id": "q-pass-near-bridge",
+   "facts": [
+    "no-passing-100-feet-hazard"
+   ],
+   "prompt": "What is the closest to a bridge or railroad crossing you may pass another vehicle?",
+   "choices": [
+    "50 feet.",
+    "100 feet.",
+    "300 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Do not pass within 100 feet of an intersection, bridge, tunnel, railroad crossing or other hazardous area."
+  },
+  {
+   "id": "q-pass-crossroads",
+   "facts": [
+    "no-passing-crossroads-driveways",
+    "pass-right-multilane",
+    "pass-right-one-way"
+   ],
+   "prompt": "Where should you not pass another vehicle?",
+   "choices": [
+    "On a one-way street, on the right.",
+    "At crossroads and driveways.",
+    "On an open highway with two lanes your way."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Don't pass at crossroads and driveways. Passing on the right is allowed on a one-way street or an open highway with two or more lanes your way."
+  },
+  {
+   "id": "q-pass-left-turner",
+   "facts": [
+    "pass-right-left-turner",
+    "never-pass-left-signaling-left",
+    "never-pass-off-pavement"
+   ],
+   "prompt": "The driver ahead is signaling a left turn. How may you pass?",
+   "choices": [
+    "On the right, if it is safe.",
+    "On the left, quickly.",
+    "On the right shoulder, if it is clear."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "You may pass on the right of a driver turning left when it is safe. Never pass on the left of a left-turning driver, or off the main road."
+  },
+  {
+   "id": "q-being-passed",
+   "facts": [
+    "being-passed"
+   ],
+   "prompt": "A car behind you signals that it will pass you. What should you do?",
+   "choices": [
+    "Speed up so it can't cut in.",
+    "Keep your lane position and speed.",
+    "Pull onto the shoulder to let it by."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Let the vehicle pass, and keep your lane position and speed."
+  },
+  {
+   "id": "q-parallel-space",
+   "facts": [
+    "parallel-parking-space-size"
+   ],
+   "prompt": "To parallel park, what is the shortest space you should look for?",
+   "choices": [
+    "Three feet longer than your car.",
+    "Exactly as long as your car.",
+    "Ten feet longer than your car."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Look for a space at least three feet longer than your vehicle, and signal when you find one."
+  },
+  {
+   "id": "q-parallel-curb-distance",
+   "facts": [
+    "parallel-parking-18-inches"
+   ],
+   "prompt": "After parallel parking, what is the farthest from the curb your car should be?",
+   "choices": [
+    "18 inches.",
+    "3 feet.",
+    "6 inches."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "You should end up parallel to and within 18 inches of the curb."
+  },
+  {
+   "id": "q-park-downhill",
+   "facts": [
+    "hill-parking-downhill"
+   ],
+   "prompt": "You park headed downhill next to a curb. Which way should you turn your front wheels?",
+   "choices": [
+    "Away from the curb.",
+    "Into the curb.",
+    "Straight ahead."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Headed downhill, turn your front wheels into the curb so the car rolls into it, not into traffic."
+  },
+  {
+   "id": "q-park-uphill",
+   "facts": [
+    "hill-parking-uphill",
+    "hill-parking-downhill",
+    "hill-parking-no-curb"
+   ],
+   "prompt": "When you park on a hill, in which case do you turn your front wheels away from the curb or road edge?",
+   "choices": [
+    "Headed downhill, next to a curb.",
+    "Headed uphill, next to a curb.",
+    "Headed uphill, with no curb."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Only uphill with a curb do you turn the wheels away from it, letting the car roll back until a wheel touches the curb. Downhill, turn them into the curb; with no curb, turn them right, toward the edge."
+  },
+  {
+   "id": "q-park-hill-no-curb",
+   "facts": [
+    "hill-parking-no-curb"
+   ],
+   "prompt": "You park on a hill with no curb. Which way should you turn your front wheels?",
+   "choices": [
+    "To the left, toward the center.",
+    "Straight ahead.",
+    "To the right, toward the edge."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "With no curb, uphill or downhill, turn the wheels right so the car would roll away from the center of the road."
+  },
+  {
+   "id": "q-curb-white",
+   "facts": [
+    "curb-white"
+   ],
+   "prompt": "What does a white curb mean?",
+   "choices": [
+    "Park for the limited time shown on a sign.",
+    "Load or unload freight for the posted time.",
+    "Stop only to pick up or drop off passengers."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "White curbs are for picking up or dropping off passengers only. Green is limited-time parking; yellow is loading."
+  },
+  {
+   "id": "q-curb-green",
+   "facts": [
+    "curb-green"
+   ],
+   "prompt": "What may you do at a green curb?",
+   "choices": [
+    "Stop only to pick up passengers.",
+    "Park for the limited time posted.",
+    "Park with no time limit."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A green curb means limited-time parking, as posted on a sign or painted on the curb."
+  },
+  {
+   "id": "q-curb-yellow",
+   "facts": [
+    "curb-yellow",
+    "curb-yellow-noncommercial"
+   ],
+   "prompt": "You drive an ordinary passenger car. What may you do at a yellow curb?",
+   "choices": [
+    "Park there for the whole day if you like.",
+    "Nothing at all; you may never stop there.",
+    "Load or unload, usually staying with your car."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Yellow curbs are for loading and unloading passengers or freight for the posted time; noncommercial drivers usually must stay with the vehicle."
+  },
+  {
+   "id": "q-park-crosswalk",
+   "facts": [
+    "no-parking-crosswalk-20-feet",
+    "no-parking-crosswalk"
+   ],
+   "prompt": "What is usually the closest you may park to a crosswalk, marked or unmarked?",
+   "choices": [
+    "10 feet.",
+    "30 feet.",
+    "20 feet."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Never park on a crosswalk or within 20 feet of one, marked or unmarked (15 feet where there is a curb extension)."
+  },
+  {
+   "id": "q-park-hydrant",
+   "facts": [
+    "no-parking-fire-hydrant-15-feet"
+   ],
+   "prompt": "What is the closest you may park to a fire hydrant?",
+   "choices": [
+    "5 feet.",
+    "20 feet.",
+    "15 feet."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Never park within 15 feet of a fire hydrant or a fire station driveway."
+  },
+  {
+   "id": "q-park-ramp",
+   "facts": [
+    "no-parking-sidewalk-ramp",
+    "no-parking-wheelchair-curb"
+   ],
+   "prompt": "What is the closest you may park to a sidewalk ramp for disabled persons?",
+   "choices": [
+    "One foot.",
+    "Three feet.",
+    "15 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Never park within three feet of a sidewalk ramp for disabled persons, or in front of a curb that gives wheelchair access."
+  },
+  {
+   "id": "q-park-safety-zone",
+   "facts": [
+    "no-parking-safety-zone",
+    "no-parking-tunnel-bridge"
+   ],
+   "prompt": "Where is it illegal to park?",
+   "choices": [
+    "At a green curb, within its time limit.",
+    "On a bridge where signs permit it.",
+    "Between a safety zone and the curb."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Never park between a safety zone and the curb. Green curbs allow limited parking, and you may park on a bridge where signs allow it."
+  },
+  {
+   "id": "q-double-park",
+   "facts": [
+    "no-double-parking"
+   ],
+   "prompt": "You need to run into a shop for a minute, and no parking spaces are free. What should you do?",
+   "choices": [
+    "Keep looking for a legal space.",
+    "Stop in a red zone with your hazards on.",
+    "Double park if a passenger stays in."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Never park or leave your vehicle double parked, even for a minute, with the engine running or someone inside."
+  },
+  {
+   "id": "q-zev-space",
+   "facts": [
+    "no-parking-zev-space"
+   ],
+   "prompt": "When may you park in a space marked for zero-emission vehicles?",
+   "choices": [
+    "When no other spaces are open nearby.",
+    "For up to 15 minutes in any vehicle.",
+    "Only if you are driving such a vehicle."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Never park in a space for parking or fueling zero-emission vehicles unless you are driving one."
+  },
+  {
+   "id": "q-park-bridge",
+   "facts": [
+    "no-parking-tunnel-bridge"
+   ],
+   "prompt": "When may you park on a bridge?",
+   "choices": [
+    "Only where signs permit it.",
+    "Anywhere you leave room to pass.",
+    "Never, even if signs allow it."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Never park in a tunnel or on a bridge unless signs permit it."
+  },
+  {
+   "id": "q-park-on-sidewalk",
+   "facts": [
+    "no-parking-sidewalk-driveway"
+   ],
+   "prompt": "Which of these ways of parking is illegal?",
+   "choices": [
+    "With two wheels up on the sidewalk.",
+    "Twelve inches out from the curb.",
+    "Twenty feet from a fire hydrant."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Never park on a sidewalk or partly blocking one. Parking within 18 inches of the curb, and more than 15 feet from a hydrant, is legal."
+  },
+  {
+   "id": "q-freeway-breakdown",
+   "facts": [
+    "freeway-stop-off-pavement",
+    "no-parking-wrong-side-freeway"
+   ],
+   "prompt": "Your car breaks down on the freeway. What should you do?",
+   "choices": [
+    "Park fully off the pavement and stay inside.",
+    "Stop in the right lane with hazards flashing.",
+    "Walk to the nearest exit to get help."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "If you must stop on a freeway, park completely off the pavement and stay in your vehicle with the doors locked until help arrives."
+  },
+  {
+   "id": "q-freeway-removal",
+   "facts": [
+    "freeway-four-hours-removed"
+   ],
+   "prompt": "What is the shortest time a vehicle may be left standing on a freeway before it may be removed?",
+   "choices": [
+    "One hour.",
+    "Four hours.",
+    "24 hours."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "A vehicle stopped, parked or left on a freeway for more than four hours may be removed."
+  },
+  {
+   "id": "q-fuel-habits",
+   "facts": [
+    "driving-green-smooth-speed",
+    "driving-green-maintenance",
+    "driving-green-weight"
+   ],
+   "prompt": "Which habit helps you use less fuel?",
+   "choices": [
+    "Speeding up and slowing down smoothly.",
+    "Keeping your tires a little underinflated.",
+    "Carrying extra weight for better traction."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Smooth, steady driving, properly inflated tires and less weight in the vehicle all improve fuel efficiency."
+  },
+  {
+   "id": "q-police-signal",
+   "facts": [
+    "police-stop-right-signal"
+   ],
+   "prompt": "An officer signals you to pull over. How should you show that you have seen them?",
+   "choices": [
+    "Turn on your hazard lights and stop.",
+    "Turn on your right turn signal.",
+    "Wave out of your window."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Turn on your right turn signal to show the officer you see them, then pull over safely."
+  },
+  {
+   "id": "q-police-carpool-lane",
+   "facts": [
+    "police-stop-right-shoulder"
+   ],
+   "prompt": "You are in the carpool lane when an officer signals you to pull over. Where should you stop?",
+   "choices": [
+    "On the left shoulder, beside the carpool lane.",
+    "On the right shoulder.",
+    "In the carpool lane itself."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Move completely onto the right shoulder, even from the carpool lane, and stop in a well-lit area if possible."
+  },
+  {
+   "id": "q-police-stay-inside",
+   "facts": [
+    "police-stop-stay-inside"
+   ],
+   "prompt": "After pulling over for an officer, what should you do?",
+   "choices": [
+    "Stay in the car unless told to get out.",
+    "Get out and walk back to the officer.",
+    "Get out and wait beside your car."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Stay inside your vehicle unless the officer directs you to get out."
+  },
+  {
+   "id": "q-police-hands",
+   "facts": [
+    "police-stop-hands-visible"
+   ],
+   "prompt": "As the officer walks up to your car, where should your hands be?",
+   "choices": [
+    "In clear view, such as on the wheel.",
+    "Reaching for your papers in the glove box.",
+    "In your lap, below the window."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "The driver and all passengers should place their hands in clear view before the officer makes contact."
+  },
+  {
+   "id": "q-police-reason",
+   "facts": [
+    "police-must-state-reason"
+   ],
+   "prompt": "When must an officer tell you the reason for a traffic stop?",
+   "choices": [
+    "Before questioning, except in an imminent threat.",
+    "Only if you ask, once they have your license.",
+    "When the stop ends, as they write the ticket."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Officers must state the reason before questioning you, unless withholding it is needed to protect life or property from an imminent threat."
+  },
+  {
+   "id": "q-police-documents",
+   "facts": [
+    "police-stop-produce-documents"
+   ],
+   "prompt": "When stopped by police, what must the driver show?",
+   "choices": [
+    "Your driver's license, nothing more.",
+    "License, insurance, and registration.",
+    "Your license and your vehicle's title."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A stopped driver must produce a driver's license, proof of insurance and vehicle registration."
+  },
+  {
+   "id": "q-police-limited-search",
+   "facts": [
+    "police-limited-search-documents"
+   ],
+   "prompt": "You don't produce your license, insurance, and registration when stopped. What may officers do?",
+   "choices": [
+    "Nothing, until you find them yourself.",
+    "Do a limited search for them.",
+    "Impound your vehicle at once."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "If a driver doesn't produce these documents, officers may conduct a limited search for them."
+  },
+  {
+   "id": "q-police-passenger-exit",
+   "facts": [
+    "police-exit-or-stay"
+   ],
+   "prompt": "During a traffic stop, an officer tells your passenger to get out. Must they?",
+   "choices": [
+    "No, only the driver must.",
+    "Only if the officer gives a reason.",
+    "Yes, they must comply."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "An officer can legally require the driver and all passengers to exit or stay in the vehicle, and you must comply."
+  },
+  {
+   "id": "q-police-immigration",
+   "facts": [
+    "police-immigration-status"
+   ],
+   "prompt": "During a traffic stop in California, who may ask about your immigration status?",
+   "choices": [
+    "Only federal officers.",
+    "Any officer who stops you.",
+    "Local police, but not state officers."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Only federal law enforcement can ask about immigration status. State and local officers may not ask, and you can decline to answer."
+  },
+  {
+   "id": "q-police-recording-phone",
+   "facts": [
+    "police-recording-no-confiscation"
+   ],
+   "prompt": "You are recording a traffic stop without interfering. Which is true about your phone?",
+   "choices": [
+    "The officer can't take it for that alone.",
+    "The officer may delete what you recorded.",
+    "The officer may take it if you keep recording."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "If your recording doesn't interfere with the officer's duties, the officer can't confiscate your device, delete the recording or destroy the device just because you're recording."
+  },
+  {
+   "id": "q-police-recording-reach",
+   "facts": [
+    "police-recording-no-reaching"
+   ],
+   "prompt": "You want to record a stop, but your phone is in the glove box. What should you do?",
+   "choices": [
+    "Reach for it quickly before the officer arrives.",
+    "Get out and record from beside the car.",
+    "Ask before reaching for it."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Don't reach into concealed areas for your recording device without permission."
+  },
+  {
+   "id": "q-police-resist",
+   "facts": [
+    "police-no-physical-resistance"
+   ],
+   "prompt": "You believe an officer is violating your rights. What should you do?",
+   "choices": [
+    "Object out loud, but don't resist.",
+    "Physically block the officer.",
+    "Drive away and report it later."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Even if you think your rights are being violated, don't physically resist or use violence. You may voice your objection."
+  }
+ ]
+}

@@ -1,0 +1,1222 @@
+{
+ "section": 8,
+ "questions": [
+  {
+   "id": "q-scan-distance",
+   "facts": [
+    "scan-10-seconds-ahead"
+   ],
+   "prompt": "What is the least distance ahead of your vehicle you should scan the road?",
+   "choices": [
+    "3 seconds ahead.",
+    "10 seconds ahead.",
+    "30 seconds ahead."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Keep your eyes moving and scan at least 10 seconds ahead. Three seconds is the following distance, not how far to look."
+  },
+  {
+   "id": "q-merged-too-close",
+   "facts": [
+    "merge-too-close-ease-off"
+   ],
+   "prompt": "A car merges in too close in front of you. What should you do?",
+   "choices": [
+    "Brake hard right away to slow down.",
+    "Speed up and pass it on the left.",
+    "Take your foot off the gas to make space."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Ease off the accelerator to open up space again."
+  },
+  {
+   "id": "q-motorcycle-gravel",
+   "facts": [
+    "motorcycle-metal-gravel-space"
+   ],
+   "prompt": "When should you leave extra space in front of you behind a motorcycle?",
+   "choices": [
+    "When it rides on gravel or metal gratings.",
+    "When it is on smooth, dry pavement.",
+    "Only when it is carrying a passenger."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Leave more space behind motorcyclists on metal surfaces such as bridge gratings or railroad tracks, and on gravel."
+  },
+  {
+   "id": "q-alongside-cars",
+   "facts": [
+    "avoid-others-blind-spots"
+   ],
+   "prompt": "Where on the freeway should you avoid staying?",
+   "choices": [
+    "Three seconds behind the car ahead.",
+    "Alongside other cars, in their blind spots.",
+    "In the right lane at a steady speed."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Don't stay in another driver's blind spot, and avoid driving directly alongside other vehicles."
+  },
+  {
+   "id": "q-make-room-merging",
+   "facts": [
+    "make-space-freeway-entry"
+   ],
+   "prompt": "A car is entering the freeway from a ramp next to your lane. What should you do?",
+   "choices": [
+    "Hold your speed, since it must yield.",
+    "Speed up to get past the ramp first.",
+    "Make space for it to merge."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Make space for vehicles entering a freeway, even when you have the right-of-way."
+  },
+  {
+   "id": "q-cross-traffic-red",
+   "facts": [
+    "look-both-ways-red-light-cross-traffic"
+   ],
+   "prompt": "Your light is green and cross traffic has a red light. Should you still look both ways?",
+   "choices": [
+    "No, cross traffic must stop.",
+    "Only if a pedestrian is near.",
+    "Yes, look both ways anyway."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Look both ways even where cross traffic has a red light or STOP sign; someone may not stop."
+  },
+  {
+   "id": "q-blind-spot-check",
+   "facts": [
+    "blind-spot-how-to-check",
+    "blind-spot-definition"
+   ],
+   "prompt": "When you look over your shoulder to check a blind spot, what should you turn?",
+   "choices": [
+    "Only your head.",
+    "Your head and shoulders, with the wheel.",
+    "Your whole body, toward the back seat."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Check blind spots by looking over your shoulder out the side window, turning only your head, not your body or the steering wheel."
+  },
+  {
+   "id": "q-high-beams-when",
+   "facts": [
+    "night-high-beams-country",
+    "rain-low-beams",
+    "high-beams-dim-following-300"
+   ],
+   "prompt": "When should you use your high beams?",
+   "choices": [
+    "Close behind another car, to see past it.",
+    "On open country roads at night, where legal.",
+    "In rain at night, to light up the road."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Use high beams on open country roads or dark streets where legal. Use low beams in rain, and dim them within 300 feet of a car you are following."
+  },
+  {
+   "id": "q-night-speed",
+   "facts": [
+    "night-stop-within-headlights"
+   ],
+   "prompt": "At night, how fast should you drive?",
+   "choices": [
+    "At the posted limit, if the road is dry and clear.",
+    "Exactly 10 mph under the posted limit.",
+    "Slowly enough to stop within your headlights' reach."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "At night, make sure you can stop within the distance your headlights light up."
+  },
+  {
+   "id": "q-glaring-headlights",
+   "facts": [
+    "bright-oncoming-lights"
+   ],
+   "prompt": "An oncoming car's headlights are blinding you. Where should you look?",
+   "choices": [
+    "Straight at the lights to judge distance.",
+    "Toward the right edge of your lane.",
+    "Toward the center line of the road."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Don't look directly at bright lights. Look toward the right edge of your lane and watch the vehicle from the corner of your eye."
+  },
+  {
+   "id": "q-no-high-beam-retaliation",
+   "facts": [
+    "bright-lights-no-retaliation"
+   ],
+   "prompt": "An oncoming driver won't dim their high beams. What should you do?",
+   "choices": [
+    "Switch your high beams on in return.",
+    "Keep your low beams on.",
+    "Turn your headlights off for a moment."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Answering with your own high beams only makes it harder for both of you to see."
+  },
+  {
+   "id": "q-leaving-bright-place",
+   "facts": [
+    "night-eyes-adjust"
+   ],
+   "prompt": "You pull out of a brightly lit gas station onto a dark road. What should you do?",
+   "choices": [
+    "Drive slowly until your eyes adjust.",
+    "Speed up to match traffic right away.",
+    "Use your high beams until you can see."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "After leaving a bright place at night, drive slowly until your eyes adjust to the dark."
+  },
+  {
+   "id": "q-one-headlight",
+   "facts": [
+    "night-one-light-vehicle"
+   ],
+   "prompt": "At night, a vehicle with only one light is coming toward you. What should you do?",
+   "choices": [
+    "Drive as far right as you can.",
+    "Flash your high beams at it.",
+    "Move toward the center line to see it."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "It could be a bicycle, a motorcycle or a car missing a headlight. Drive as far to the right as possible."
+  },
+  {
+   "id": "q-sun-glare",
+   "facts": [
+    "sun-glare-windshield-sunglasses"
+   ],
+   "prompt": "Which of these helps you manage sun glare?",
+   "choices": [
+    "Speeding up to get out of the glare sooner.",
+    "Polarized sunglasses and a clean windshield.",
+    "Cleaning only the outside of the windshield."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Keep the windshield clean inside and out and wear polarized sunglasses."
+  },
+  {
+   "id": "q-glare-times",
+   "facts": [
+    "sun-glare-sunrise-sunset"
+   ],
+   "prompt": "To reduce problems with sun glare, when should you try not to drive?",
+   "choices": [
+    "At midday.",
+    "At sunrise and sunset.",
+    "On overcast days."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Glare is worst when the sun is low, so try to avoid driving at sunrise and sunset."
+  },
+  {
+   "id": "q-skid-what-to-do",
+   "facts": [
+    "skid-recovery",
+    "skid-definition"
+   ],
+   "prompt": "Your car starts to skid. What should you do?",
+   "choices": [
+    "Brake hard and steer the opposite way.",
+    "Ease off the gas and steer into the skid.",
+    "Keep on the gas and hold the wheel straight."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "In a skid, slowly take your foot off the gas, don't brake, and turn the wheel in the direction of the skid."
+  },
+  {
+   "id": "q-icy-curve",
+   "facts": [
+    "skid-prevent-curves",
+    "ice-snow-skids"
+   ],
+   "prompt": "On an icy road, when should you slow down for a sharp curve?",
+   "choices": [
+    "Before the curve and while going through it.",
+    "Once you are partway into the curve.",
+    "Before the curve, then speed up through it."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "On slippery roads, slow down as you approach curves, and for sharp curves keep it slow through them."
+  },
+  {
+   "id": "q-steep-slippery-hill",
+   "facts": [
+    "skid-prevent-low-gear"
+   ],
+   "prompt": "Before going down a steep, slippery hill, what should you do?",
+   "choices": [
+    "Shift into neutral and coast.",
+    "Shift into a low gear.",
+    "Rely on the brakes alone."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Shift to a low gear before going down a steep hill to help prevent skids."
+  },
+  {
+   "id": "q-locked-wheel-cause",
+   "facts": [
+    "locked-wheel-skid-cause"
+   ],
+   "prompt": "What usually causes a locked-wheel skid?",
+   "choices": [
+    "Turning the wheel too sharply.",
+    "Speeding up too quickly on a curve.",
+    "Braking too hard at too high a speed."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "A locked-wheel skid usually comes from braking too hard when going too fast. The car skids whichever way the wheel is turned."
+  },
+  {
+   "id": "q-four-wheel-abs",
+   "facts": [
+    "locked-wheel-four-wheel-abs"
+   ],
+   "prompt": "Your car has four-wheel ABS and goes into a locked-wheel skid. What should you do?",
+   "choices": [
+    "Pump the brakes quickly.",
+    "Press firmly on the brake pedal.",
+    "Take your foot off the brake."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "With four-wheel ABS, apply firm pressure to the brake pedal. Pumping is for cars without ABS."
+  },
+  {
+   "id": "q-no-abs-skid",
+   "facts": [
+    "no-abs-skid-pump"
+   ],
+   "prompt": "You are driving a car without ABS, and it starts to skid as you brake. What should you do?",
+   "choices": [
+    "Hold firm, steady pressure on the brake.",
+    "Pump the brakes until you reach a safe speed.",
+    "Shift into neutral and coast to a stop."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Without ABS, quickly pump the brakes until you reach a safe speed. Firm, steady pressure is the method for four-wheel ABS."
+  },
+  {
+   "id": "q-brake-pedal-floor",
+   "facts": [
+    "brake-pedal-sinks"
+   ],
+   "prompt": "You press the brake and the pedal sinks to the floor. What should you do first?",
+   "choices": [
+    "Hold the pedal down firmly.",
+    "Shift into neutral and coast.",
+    "Pump the brakes quickly."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "If the pedal sinks to the floor, quickly pump the brakes by gently applying and releasing pressure."
+  },
+  {
+   "id": "q-brakes-failed",
+   "facts": [
+    "brake-failure-downshift"
+   ],
+   "prompt": "Pumping your failed brakes doesn't help. What should you do next?",
+   "choices": [
+    "Downshift, then try the emergency brake.",
+    "Turn off the engine to slow down.",
+    "Shift into park to stop at once."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "If pumping doesn't work, shift into a lower or neutral gear to slow down, then try the emergency brake."
+  },
+  {
+   "id": "q-dry-brakes",
+   "facts": [
+    "wet-brakes-dry"
+   ],
+   "prompt": "After driving through deep water, how can you dry your brakes?",
+   "choices": [
+    "Press the gas and brake lightly at the same time.",
+    "Brake hard several times at high speed.",
+    "Park for a few minutes with the engine off."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Lightly press the accelerator and brake together, only until the brakes are dry."
+  },
+  {
+   "id": "q-wet-road-speed",
+   "facts": [
+    "wet-road-5-10-mph"
+   ],
+   "prompt": "On a wet road, how much should you reduce your speed?",
+   "choices": [
+    "By 5 to 10 mph.",
+    "By half.",
+    "To 5 mph."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Slow down by 5 to 10 mph on a wet road. Packed snow calls for half your speed, and ice for no more than 5 mph."
+  },
+  {
+   "id": "q-packed-snow-speed",
+   "facts": [
+    "packed-snow-half-speed"
+   ],
+   "prompt": "On packed snow, how much should you reduce your speed?",
+   "choices": [
+    "By 5 to 10 mph.",
+    "To no more than 5 mph.",
+    "By half."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "On packed snow, cut your speed by half. On a wet road it's 5 to 10 mph slower; on ice, no more than 5 mph."
+  },
+  {
+   "id": "q-ice-speed",
+   "facts": [
+    "ice-5-mph"
+   ],
+   "prompt": "On ice, what is the fastest you should drive?",
+   "choices": [
+    "15 mph.",
+    "25 mph.",
+    "5 mph."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "On ice, slow to no more than 5 mph."
+  },
+  {
+   "id": "q-icy-spots",
+   "facts": [
+    "bridges-freeze-first",
+    "shade-icy-spots"
+   ],
+   "prompt": "On a cold, wet day, where are icy spots most likely?",
+   "choices": [
+    "On bridges and in shady areas.",
+    "On sunny, open stretches of road.",
+    "On freshly paved, dark asphalt."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Bridges, overpasses and shaded areas freeze first and dry out last."
+  },
+  {
+   "id": "q-storm-visibility-speed",
+   "facts": [
+    "visibility-100-feet-30-mph"
+   ],
+   "prompt": "In a heavy storm you can't see farther than 100 feet. What is the fastest safe speed?",
+   "choices": [
+    "40 mph.",
+    "30 mph.",
+    "45 mph."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "When you can't see farther than 100 feet, it isn't safe to drive faster than 30 mph."
+  },
+  {
+   "id": "q-storm-visibility-distance",
+   "facts": [
+    "visibility-100-feet-30-mph"
+   ],
+   "prompt": "It isn't safe to drive faster than 30 mph when you can't see farther than:",
+   "choices": [
+    "100 feet.",
+    "300 feet.",
+    "500 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "If heavy rain or snow limits your view to 100 feet, keep below 30 mph."
+  },
+  {
+   "id": "q-hydroplaning-what",
+   "facts": [
+    "hydroplaning-definition"
+   ],
+   "prompt": "What is hydroplaning?",
+   "choices": [
+    "Brakes that stop working once they get wet.",
+    "Tires riding on water, not touching the road.",
+    "Spray from other cars blocking your view."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Hydroplaning is when the tires lose all contact with the road and ride on water. A small turn, brake or gust can then cause a skid."
+  },
+  {
+   "id": "q-hydroplaning-recover",
+   "facts": [
+    "hydroplaning-recovery"
+   ],
+   "prompt": "Your car starts to hydroplane. What should you do?",
+   "choices": [
+    "Brake firmly to get back in control fast.",
+    "Turn the wheel sharply toward dry road.",
+    "Slow down gradually, without braking."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Slow down gradually and don't use the brakes; sudden braking can make you lose control."
+  },
+  {
+   "id": "q-sloshing-tires",
+   "facts": [
+    "hydroplaning-avoid"
+   ],
+   "prompt": "On a wet road, you hear sloshing from your tires. What should you do?",
+   "choices": [
+    "Keep your speed and hold the wheel steady.",
+    "Slow down.",
+    "Change lanes quickly."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Sloshing is a sign of hydroplaning risk. Slow down, and slow down when changing lanes or direction too."
+  },
+  {
+   "id": "q-stuck-in-mud",
+   "facts": [
+    "stuck-snow-mud-low-gear",
+    "stuck-snow-mud-rock"
+   ],
+   "prompt": "Your car is stuck in mud. How should you try to drive out?",
+   "choices": [
+    "Plenty of gas, so the wheels spin free.",
+    "Low gear, wheels straight, gentle gas.",
+    "High gear, with the wheels turned sharply."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Shift into low gear, keep the front wheels straight and accelerate gently without spinning the wheels. Rocking slowly forward and back can help."
+  },
+  {
+   "id": "q-boards-under-tires",
+   "facts": [
+    "stuck-boards-under-tires"
+   ],
+   "prompt": "When may you put boards or branches under your tires to get unstuck?",
+   "choices": [
+    "While the wheels spin slowly.",
+    "While you rock the car forward.",
+    "Only while the car is stopped."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Put boards or branches under the tires only while the vehicle is stopped."
+  },
+  {
+   "id": "q-flood-depth",
+   "facts": [
+    "flood-depth-unknown"
+   ],
+   "prompt": "You reach a flooded road and can't tell how deep the water is. What should you do?",
+   "choices": [
+    "Drive through fast so you don't stall.",
+    "Find another route.",
+    "Follow the car ahead through it."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "You may not be able to judge a flood's depth by looking. If it might be deep, go another way."
+  },
+  {
+   "id": "q-after-flood",
+   "facts": [
+    "flood-drive-slowly-test-brakes"
+   ],
+   "prompt": "You had to drive slowly through a flooded road. What should you do once you are through?",
+   "choices": [
+    "Test your brakes.",
+    "Pump the brakes hard at speed to dry them.",
+    "Drive on; the brakes dry by themselves."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Test your brakes after driving through water."
+  },
+  {
+   "id": "q-wind-vehicles",
+   "facts": [
+    "high-winds-large-vehicles"
+   ],
+   "prompt": "Which vehicles are most at risk in high winds?",
+   "choices": [
+    "Trucks, campers, and cars with trailers.",
+    "Small, light compact cars.",
+    "Low sports cars that catch less air."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "High winds are especially hazardous for larger vehicles such as trucks, campers and vehicles with trailers."
+  },
+  {
+   "id": "q-wind-cruise",
+   "facts": [
+    "high-winds-no-cruise-control"
+   ],
+   "prompt": "Should you use cruise control in high winds?",
+   "choices": [
+    "Yes; it keeps your speed steady.",
+    "Only on long, straight roads.",
+    "No; you need full use of the gas pedal."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Don't use cruise control in high winds, so you keep full control of the accelerator."
+  },
+  {
+   "id": "q-wind-gusts",
+   "facts": [
+    "high-winds-reduce-speed",
+    "high-winds-firm-grip"
+   ],
+   "prompt": "Strong gusts are pushing your car around. What should you do?",
+   "choices": [
+    "Keep your speed so gusts can't push you.",
+    "Slow down and grip the wheel firmly.",
+    "Hold the wheel loosely and ride with them."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "In high winds, slow down for better control and keep a firm hold on the wheel."
+  },
+  {
+   "id": "q-fog-headlights",
+   "facts": [
+    "fog-low-beams",
+    "fog-no-parking-lights-only"
+   ],
+   "prompt": "Which lights should you use in heavy fog?",
+   "choices": [
+    "High-beam headlights.",
+    "Parking lights only.",
+    "Low-beam headlights."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Use low beams in fog. High beams reflect back as glare, and driving with only parking or fog lights is illegal."
+  },
+  {
+   "id": "q-fog-following",
+   "facts": [
+    "fog-following-distance"
+   ],
+   "prompt": "In fog, what should you do with your following distance?",
+   "choices": [
+    "Close it up to keep the taillights ahead in sight.",
+    "Keep it the same as usual.",
+    "Increase it."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Increase your following distance in fog or smoke."
+  },
+  {
+   "id": "q-fog-too-thick",
+   "facts": [
+    "fog-too-thick-pull-off"
+   ],
+   "prompt": "Fog becomes too thick to drive safely. What should you do?",
+   "choices": [
+    "Stop in your lane and turn on your flashers.",
+    "Follow the taillights ahead of you closely.",
+    "Pull off the road and use your flashers."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Consider pulling off the road, turning on your emergency flashers, and waiting for conditions to improve."
+  },
+  {
+   "id": "q-traffic-break-slow",
+   "facts": [
+    "traffic-break-definition",
+    "traffic-break-match-speed"
+   ],
+   "prompt": "A patrol car ahead turns on its emergency lights and slowly weaves across lanes. What should you do?",
+   "choices": [
+    "Brake hard and stop at once.",
+    "Pass the patrol car carefully.",
+    "Slow gradually to the officer's speed."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "This is a traffic break. Slow down smoothly to the officer's speed, avoid sudden braking, and keep a safe distance."
+  },
+  {
+   "id": "q-traffic-break-flashers",
+   "facts": [
+    "traffic-break-flashers"
+   ],
+   "prompt": "During a law enforcement traffic break, what should you turn on?",
+   "choices": [
+    "Your emergency flashers.",
+    "Your high beams.",
+    "Your left turn signal."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Turn on your emergency flashers to warn drivers behind you."
+  },
+  {
+   "id": "q-traffic-break-end",
+   "facts": [
+    "traffic-break-no-passing"
+   ],
+   "prompt": "When may you speed up after a traffic break?",
+   "choices": [
+    "When the officer's lights go off.",
+    "As soon as you see the hazard is gone.",
+    "Once you have passed the patrol car."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Don't pass the patrol vehicle or speed up until the officer turns off the emergency lights and traffic allows."
+  },
+  {
+   "id": "q-seat-belts-who",
+   "facts": [
+    "seat-belts-required"
+   ],
+   "prompt": "Who in your car must wear a seat belt?",
+   "choices": [
+    "You and anyone in the front seat.",
+    "You and every passenger.",
+    "Your passengers, but not you."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "You and all your passengers must wear seat belts, and you can be ticketed if you don't."
+  },
+  {
+   "id": "q-seat-belt-ticket",
+   "facts": [
+    "seat-belt-passenger-under-16"
+   ],
+   "prompt": "Your 15-year-old passenger isn't wearing a seat belt. Who can get the ticket?",
+   "choices": [
+    "The passenger.",
+    "You, the driver.",
+    "The passenger's parent."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "The driver can be ticketed if a passenger under 16 isn't wearing a seat belt."
+  },
+  {
+   "id": "q-shoulder-harness",
+   "facts": [
+    "shoulder-harness-position"
+   ],
+   "prompt": "How should you wear the shoulder harness?",
+   "choices": [
+    "Under your arm, so it is more comfortable.",
+    "Behind your back, with the lap belt fastened.",
+    "Across your chest, with little or no slack."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Wear it across your shoulder and chest with little or no slack, never under your arm or behind your back."
+  },
+  {
+   "id": "q-lap-belt",
+   "facts": [
+    "lap-belt-position"
+   ],
+   "prompt": "Where should your lap belt sit?",
+   "choices": [
+    "Across your stomach, above the hips.",
+    "Loose, so you can move freely.",
+    "Snug and low across your hips."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Keep the lap belt snug and low across your hips, or you could slide out of it in a crash."
+  },
+  {
+   "id": "q-pregnant-belt",
+   "facts": [
+    "seat-belt-pregnant"
+   ],
+   "prompt": "If you are pregnant, where should you wear the lap belt?",
+   "choices": [
+    "Across the middle of your abdomen.",
+    "Not at all; use the shoulder strap only.",
+    "As low as possible, under your abdomen."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Wear the lap belt as low as possible under your abdomen, with the shoulder strap between your breasts and to the side of your abdomen."
+  },
+  {
+   "id": "q-body-keeps-moving",
+   "facts": [
+    "collision-body-keeps-moving"
+   ],
+   "prompt": "In a crash, your car suddenly stops. Without a seat belt, what happens to you?",
+   "choices": [
+    "You stop at the same moment as the car.",
+    "You keep moving at the same speed.",
+    "You are pushed back into your seat."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Your car stops but you keep going at the same speed until you hit the dashboard or windshield."
+  },
+  {
+   "id": "q-rear-facing",
+   "facts": [
+    "child-rear-facing-under-2"
+   ],
+   "prompt": "A child is under 2 years old, under 40 pounds, and shorter than 3 feet 4 inches. How must the child ride?",
+   "choices": [
+    "In a rear-facing child seat.",
+    "In a forward-facing child seat.",
+    "In a booster seat with a lap belt."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Children under 2, under 40 pounds and under 3 feet 4 inches tall must ride in a rear-facing restraint."
+  },
+  {
+   "id": "q-rear-facing-airbag",
+   "facts": [
+    "rear-facing-no-front-airbag"
+   ],
+   "prompt": "Your car has front airbags. Where may a child in a rear-facing seat ride?",
+   "choices": [
+    "In a back seat, not the front.",
+    "In the front, once the child is 1.",
+    "In the front, if strapped in tightly."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "A child in a rear-facing restraint may not ride in the front seat of a vehicle with an airbag, whatever their age."
+  },
+  {
+   "id": "q-child-under-8",
+   "facts": [
+    "child-under-8-rear-seat"
+   ],
+   "prompt": "A 6-year-old who is 4 feet tall is riding with you. Where and how must the child ride?",
+   "choices": [
+    "In a child restraint in a back seat.",
+    "In a seat belt in any seat.",
+    "In a seat belt in the front seat."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Children under 8 or shorter than 4 feet 9 inches must be secured in a child restraint in a rear seat."
+  },
+  {
+   "id": "q-child-height",
+   "facts": [
+    "child-under-8-rear-seat",
+    "child-8-or-older-safety-belt"
+   ],
+   "prompt": "What is the shortest a 7-year-old may be to use a safety belt instead of a child seat?",
+   "choices": [
+    "4 feet 9 inches.",
+    "4 feet.",
+    "5 feet 2 inches."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Children 8 or older, or at least 4 feet 9 inches tall, may use a properly fitted safety belt."
+  },
+  {
+   "id": "q-child-age-belt",
+   "facts": [
+    "child-8-or-older-safety-belt"
+   ],
+   "prompt": "Whatever their height, at what age may children start using a safety belt instead of a child seat?",
+   "choices": [
+    "6 years old.",
+    "10 years old.",
+    "8 years old."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Children 8 or older, or at least 4 feet 9 inches tall, may use a safety belt that meets federal standards."
+  },
+  {
+   "id": "q-child-front-seat",
+   "facts": [
+    "child-under-8-front-seat-exceptions"
+   ],
+   "prompt": "When may a child under 8 ride in the front seat in a child restraint?",
+   "choices": [
+    "When the trip is only a short one.",
+    "When the vehicle has no rear seat.",
+    "When an adult is sitting in the back."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A child under 8 may ride in front in an approved restraint if there is no rear seat, the restraint can't be installed in back, rear seats are full of younger children, or for medical reasons."
+  },
+  {
+   "id": "q-child-alone",
+   "facts": [
+    "unattended-child-6-or-younger"
+   ],
+   "prompt": "You need to pop into a store for two minutes, and your 5-year-old would be left alone in the car. What should you do?",
+   "choices": [
+    "Bring the child along with you.",
+    "Lock the doors and leave them inside.",
+    "Leave them if the car stays in sight."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "It is illegal to leave a child six or younger unattended in a vehicle, for any length of time, even with the doors locked."
+  },
+  {
+   "id": "q-child-sitter-age",
+   "facts": [
+    "unattended-child-6-or-younger"
+   ],
+   "prompt": "Who is the youngest person you may leave in charge of a child six or younger in a vehicle?",
+   "choices": [
+    "12 years old.",
+    "10 years old.",
+    "16 years old."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "A child six or younger may not be left unattended in a vehicle, except with a person at least 12 years old."
+  },
+  {
+   "id": "q-hot-car",
+   "facts": [
+    "hot-vehicle-children-animals"
+   ],
+   "prompt": "It is a hot, sunny day. May you leave your dog in the parked car with a window slightly open?",
+   "choices": [
+    "No, not even with a window open.",
+    "No, not for more than ten minutes.",
+    "Yes; a cracked window keeps it cool."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "It is dangerous and illegal to leave children or animals in a hot vehicle. The temperature rises fast in the sun, even with a window open."
+  },
+  {
+   "id": "q-airbag-distance",
+   "facts": [
+    "air-bag-10-inches"
+   ],
+   "prompt": "What is the closest you should sit to the steering wheel air bag?",
+   "choices": [
+    "4 inches.",
+    "10 inches.",
+    "18 inches."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Sit at least 10 inches from the air bag cover, measured from the center of the wheel to your breastbone."
+  },
+  {
+   "id": "q-two-lane-limit",
+   "facts": [
+    "max-speed-55-two-lane-towing"
+   ],
+   "prompt": "Unless posted otherwise, what is the speed limit on a two-lane undivided highway?",
+   "choices": [
+    "65 mph.",
+    "55 mph.",
+    "45 mph."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "The limit is 55 mph on two-lane undivided highways and for vehicles towing trailers, unless otherwise posted."
+  },
+  {
+   "id": "q-towing-limit",
+   "facts": [
+    "max-speed-55-two-lane-towing"
+   ],
+   "prompt": "Unless posted otherwise, what is the speed limit for a vehicle towing a trailer?",
+   "choices": [
+    "55 mph.",
+    "65 mph.",
+    "50 mph."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Vehicles towing trailers are limited to 55 mph unless otherwise posted, even where cars may go 65."
+  },
+  {
+   "id": "q-car-and-bicyclist",
+   "facts": [
+    "one-hazard-at-a-time",
+    "choose-between-hazards"
+   ],
+   "prompt": "On a two-lane road, a car is coming toward you and a bicyclist is ahead on your right. What should you do?",
+   "choices": [
+    "Speed up to pass the bicyclist before the car arrives.",
+    "Slow down, let the car pass, then pass the bicyclist.",
+    "Pass between them, keeping to the middle of your lane."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Take one danger at a time: slow down and let the oncoming car pass, then move left to give the bicyclist at least three feet."
+  },
+  {
+   "id": "q-blowout",
+   "facts": [
+    "blowout-no-sudden-braking",
+    "blowout-steps"
+   ],
+   "prompt": "A front tire blows out at freeway speed. What should you do?",
+   "choices": [
+    "Brake hard right away to stop quickly.",
+    "Lift your foot off the gas all at once.",
+    "Hold the wheel firmly and ease off the gas."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Don't brake suddenly or jerk your foot off the gas. Hold the wheel, release the accelerator gradually, steady the car, then slow down and pull off."
+  },
+  {
+   "id": "q-wheels-off-pavement",
+   "facts": [
+    "off-pavement-recovery",
+    "off-pavement-no-jerk"
+   ],
+   "prompt": "Your right wheels drift off the pavement. What should you do?",
+   "choices": [
+    "Ease off the gas, then steer back carefully.",
+    "Jerk the wheel to get back on quickly.",
+    "Brake hard and swerve back at once."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Grip the wheel, take your foot off the gas, brake gently, check traffic, and steer back carefully. Turning too hard can send you into oncoming traffic."
+  },
+  {
+   "id": "q-engine-heat",
+   "facts": [
+    "extreme-heat"
+   ],
+   "prompt": "On a very hot day, your temperature gauge starts rising. What may help?",
+   "choices": [
+    "Turning the air conditioner up.",
+    "Turning off the air conditioner.",
+    "Driving faster to cool the engine."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "In extreme heat, watch the gauge, avoid long periods at high speed, and turn off the air conditioner."
+  },
+  {
+   "id": "q-disabled-get-out",
+   "facts": [
+    "freeway-disabled-right-shoulder"
+   ],
+   "prompt": "Your car stops working on the freeway and you must get out. Which side should you use?",
+   "choices": [
+    "The driver's side, to watch the lanes.",
+    "Whichever side is closest to you.",
+    "The right side, away from traffic."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Pull over to the right shoulder and, if you must get out, exit on the right side away from traffic."
+  },
+  {
+   "id": "q-stalled-train-coming",
+   "facts": [
+    "stalled-tracks-train-coming"
+   ],
+   "prompt": "Your car stalls on railroad tracks and a train is coming. Which way should you run?",
+   "choices": [
+    "Along the tracks, away from the train.",
+    "Away from the tracks, toward the train.",
+    "Away from the tracks, away from the train."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Get out right away and run diagonally away from the tracks in the direction the train is coming from, so you aren't hit by flying debris. Then call 911."
+  },
+  {
+   "id": "q-stalled-no-train",
+   "facts": [
+    "stalled-tracks-no-train"
+   ],
+   "prompt": "Your car stalls on railroad tracks and no train is in sight. What should you do after getting out?",
+   "choices": [
+    "Wait in the car for a tow truck.",
+    "Call the number posted at the crossing.",
+    "Wait beside the car for a train to pass."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Get out and call the number on the crossing posts or control box, giving the crossing number if posted. Then call 911."
+  },
+  {
+   "id": "q-texting",
+   "facts": [
+    "no-texting-driving"
+   ],
+   "prompt": "A text message arrives while you are behind the wheel. When may you read it?",
+   "choices": [
+    "When traffic is light.",
+    "Never while driving.",
+    "With one swipe on a mounted phone."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Do not send or read text messages or emails while driving."
+  },
+  {
+   "id": "q-phone-mount",
+   "facts": [
+    "phone-mount"
+   ],
+   "prompt": "Where may you mount your cell phone in the car?",
+   "choices": [
+    "In your lap, where it is easy to reach.",
+    "Where it doesn't block your view.",
+    "Anywhere, if you use only voice commands."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Mount it on the windshield, dashboard or center console where it doesn't block your view, and use only single swipe or touch features."
+  },
+  {
+   "id": "q-minor-phone",
+   "facts": [
+    "minor-no-cell-phone",
+    "minor-phone-emergency",
+    "adult-hands-free-only"
+   ],
+   "prompt": "A 17-year-old is driving. When may they use a cell phone?",
+   "choices": [
+    "Only to call for emergency help.",
+    "In hands-free mode, as adults may.",
+    "Only when stopped at a red light."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Minors may not use a cell phone or wireless device while driving, even hands-free, except to call for emergency help."
+  },
+  {
+   "id": "q-adult-phone",
+   "facts": [
+    "adult-hands-free-only",
+    "handheld-phone-illegal"
+   ],
+   "prompt": "As an adult, how should you use a cell phone while driving, if at all?",
+   "choices": [
+    "Handheld, as long as the call is brief.",
+    "Hands-free, and only when necessary.",
+    "Handheld, but only while stopped at a light."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Adult drivers should only use a cell phone in hands-free mode, and only when necessary."
+  },
+  {
+   "id": "q-main-distraction",
+   "facts": [
+    "cell-phones-main-distraction"
+   ],
+   "prompt": "What is the main source of distracted driving?",
+   "choices": [
+    "Cell phones.",
+    "Eating.",
+    "Passengers."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Cell phones are the main source of distracted driving."
+  },
+  {
+   "id": "q-carbon-monoxide",
+   "facts": [
+    "carbon-monoxide"
+   ],
+   "prompt": "Why is the carbon monoxide in exhaust so dangerous?",
+   "choices": [
+    "It forms thick smoke that blocks your view.",
+    "It builds up only in old diesel engines.",
+    "It is deadly and has no smell."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "All gas-powered vehicles produce carbon monoxide, a deadly gas you can't smell."
+  },
+  {
+   "id": "q-garage-warm-up",
+   "facts": [
+    "carbon-monoxide-garage"
+   ],
+   "prompt": "Before you start your car inside a garage, what should you do?",
+   "choices": [
+    "Open the garage door.",
+    "Switch on the garage's vent fan.",
+    "Roll down the car's windows."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Never start your vehicle in a garage with the door closed. Carbon monoxide builds up fast; a fan or open car windows don't make a closed garage safe."
+  },
+  {
+   "id": "q-co-symptoms",
+   "facts": [
+    "carbon-monoxide-symptoms"
+   ],
+   "prompt": "While driving, you start yawning, feel dizzy, and have a headache and ringing ears. What could be the cause?",
+   "choices": [
+    "Low air pressure in your tires.",
+    "Glare from the sun on the windshield.",
+    "Carbon monoxide from your exhaust."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "These are symptoms of carbon monoxide poisoning. Have your exhaust system checked."
+  },
+  {
+   "id": "q-adas",
+   "facts": [
+    "adas-vehicles-respond-differently"
+   ],
+   "prompt": "What should you keep in mind about self-driving cars and cars with driver assistance?",
+   "choices": [
+    "They always stop for other road users.",
+    "They may react differently than a person would.",
+    "They never need the driver to pay attention."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Self-driving vehicles and cars with advanced driver assistance may respond to road situations differently than a human driver."
+  }
+ ]
+}

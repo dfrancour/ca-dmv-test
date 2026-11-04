@@ -1,0 +1,109 @@
+{
+ "section": 14,
+ "facts": [
+  {
+   "id": "glossary-behind-the-wheel-test",
+   "kind": "definition",
+   "text": "A behind-the-wheel drive test is one where you control the vehicle while a DMV examiner evaluates your driving skills.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "A drive test where you have control of the vehicle and are accompanied by a DMV examiner who is evaluating your driving skills."
+    }
+   ]
+  },
+  {
+   "id": "glossary-bac-example",
+   "kind": "definition",
+   "quantities": [
+    "0.10%",
+    "0.10 grams",
+    "100 milliliters"
+   ],
+   "text": "A BAC of 0.10% means 0.10 grams of alcohol in 100 milliliters of blood.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "if your BAC is 0.10%, that means you have 0.10 grams of alcohol in 100 milliliters of blood.",
+     "marks": [
+      "0.10%",
+      "0.10 grams",
+      "100 milliliters"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glossary-dpe",
+   "kind": "definition",
+   "text": "The driving performance evaluation (DPE) is the part of the behind-the-wheel test when you drive with a DMV examiner who evaluates your driving skills.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "DPE is the portion of the behind-the-wheel drive test when you drive your car with a DMV examiner who evaluates your driving skills."
+    }
+   ]
+  },
+  {
+   "id": "glossary-right-of-way",
+   "kind": "definition",
+   "text": "Right-of-way rules determine who may go first when vehicles, pedestrians, and cyclists meet on the road.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "Helps determine who is allowed to go first in situations where vehicles, pedestrians, and cyclists meet on the road."
+    }
+   ]
+  },
+  {
+   "id": "three-second-rule-how",
+   "kind": "practice",
+   "quantities": [
+    "three seconds"
+   ],
+   "text": "To use the three-second rule, count three seconds after the vehicle ahead passes a fixed point such as a sign; if you pass that point before you finish counting, you are following too closely.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "When the vehicle in front of you passes a certain point, such as a sign, count three seconds. If you pass the same point before you finish counting, you are following too closely.",
+     "marks": [
+      "three seconds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glossary-traffic-citation",
+   "kind": "definition",
+   "text": "A traffic citation (ticket) is an official summons issued by law enforcement for violating a traffic law.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "Also known as a ticket, a traffic citation is an official summons issued by law enforcement for violating a traffic law."
+    }
+   ]
+  },
+  {
+   "id": "glossary-vulnerable-road-users",
+   "kind": "definition",
+   "text": "Vulnerable road users are non-motorized road users such as cyclists, pedestrians, and people with disabilities or reduced mobility using a wheelchair, tricycle, or quadricycle.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "VRUs are non-motorized road users, such as cyclists, pedestrians, and persons with disabilities or reduced mobility and orientation using a wheelchair, tricycle, or quadricycle."
+    }
+   ]
+  },
+  {
+   "id": "glossary-yield",
+   "kind": "definition",
+   "text": "To yield means to wait, slow down, and be ready to stop if necessary so that vehicles or pedestrians with the right-of-way can proceed.",
+   "cites": [
+    {
+     "block": "bsvkbr",
+     "quote": "Yield means to wait for, slow down, and be ready to stop (if necessary) to allow other vehicles or pedestrians who have right-of-way to proceed."
+    }
+   ]
+  }
+ ]
+}

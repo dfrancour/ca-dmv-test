@@ -1,0 +1,248 @@
+{
+ "section": 13,
+ "facts": [
+  {
+   "id": "unsafe-driver-warning-signs",
+   "kind": "practice",
+   "text": "Warning signs of an unsafe driver include getting lost in familiar places, dents and scrapes on the car or property, and frequent close calls or collisions.",
+   "cites": [
+    {
+     "block": "qs57cj",
+     "quote": "Here are some warning signs of an unsafe driver:"
+    },
+    {
+     "block": "ubfznk",
+     "quote": "Getting lost in familiar places."
+    },
+    {
+     "block": "d2e6qu",
+     "quote": "Dents and scrapes on the car, fences, mailbox, garage doors, etc."
+    },
+    {
+     "block": "22cjgk",
+     "quote": "Frequent close calls or collisions."
+    }
+   ]
+  },
+  {
+   "id": "senior-night-driving",
+   "kind": "practice",
+   "text": "Senior drivers may consider limiting or not driving at night, and choosing a well-lit route if night driving is necessary.",
+   "cites": [
+    {
+     "block": "xrwdmx",
+     "quote": "Senior drivers may consider:"
+    },
+    {
+     "block": "4y2ufq",
+     "quote": "Limiting or not driving at night."
+    },
+    {
+     "block": "eutc3e",
+     "quote": "If night driving is necessary, choose a well-lit route."
+    }
+   ]
+  },
+  {
+   "id": "senior-driving-adjustments",
+   "kind": "practice",
+   "text": "Senior drivers may consider driving when traffic is light, avoiding difficult intersections, driving short distances or only to essential places, avoiding freeways, and installing an additional right-side mirror.",
+   "cites": [
+    {
+     "block": "xrwdmx",
+     "quote": "Senior drivers may consider:"
+    },
+    {
+     "block": "p4trsn",
+     "quote": "Driving during the time of day when traffic is light."
+    },
+    {
+     "block": "bhwft8",
+     "quote": "Avoiding difficult intersections."
+    },
+    {
+     "block": "un8qj8",
+     "quote": "Driving for short distances or limiting driving to essential places."
+    },
+    {
+     "block": "yzcdyt",
+     "quote": "No freeway driving."
+    },
+    {
+     "block": "8upuxc",
+     "quote": "Installing an additional right-side mirror."
+    }
+   ]
+  },
+  {
+   "id": "renewal-70-in-person",
+   "kind": "process",
+   "quantities": [
+    "70"
+   ],
+   "text": "If you are 70 or older when your license expires, you must renew in person and pass a vision test; other exams may sometimes be required.",
+   "cites": [
+    {
+     "block": "y645nd",
+     "quote": "If you are 70 years old or older at the time your driver’s license expires, you are required to renew your driver’s license in person and pass a vision test. In some cases, other exams may be required.",
+     "marks": [
+      "70"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renewal-70-elearning",
+   "kind": "process",
+   "text": "If a knowledge test is required at renewal, you may be eligible to choose eLearning when applying online.",
+   "cites": [
+    {
+     "block": "y645nd",
+     "quote": "If a knowledge test is required, you may be eligible to select “eLearning” when completing your application online."
+    }
+   ]
+  },
+  {
+   "id": "renewal-notice-90-days",
+   "kind": "process",
+   "quantities": [
+    "90 days"
+   ],
+   "text": "The DMV sends a renewal notice to your address of record about 90 days before your license expires.",
+   "cites": [
+    {
+     "block": "y645nd",
+     "quote": "DMV sends a renewal notice to your address of record about 90 days before your driver’s license expires.",
+     "marks": [
+      "90 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renewal-no-notice",
+   "kind": "process",
+   "text": "If you do not receive a renewal notice, complete a Driver License or Identification Card Application online or at a DMV office.",
+   "cites": [
+    {
+     "block": "y645nd",
+     "quote": "If you do not receive a renewal notice, complete a Driver License or Identification Card Application"
+    }
+   ]
+  },
+  {
+   "id": "community-liaison",
+   "kind": "process",
+   "text": "The DMV Community Liaison represents public safety interests, focusing on senior and teen drivers, and helps ensure drivers are treated fairly, but cannot represent you in a DMV hearing or reexamination.",
+   "cites": [
+    {
+     "block": "3987sb",
+     "quote": "The Community Liaison’s primary function is to represent public safety interests for all Californians, with a focus in addressing the concerns of senior drivers and teens."
+    },
+    {
+     "block": "3987sb",
+     "quote": "While the Community Liaison cannot represent you in a DMV hearing or reexamination, they can provide you with useful tools and information."
+    }
+   ]
+  },
+  {
+   "id": "dementia-driving",
+   "kind": "practice",
+   "text": "Individuals with progressive dementia ultimately lose the ability to drive safely, and it is often up to caregivers, physicians, and law enforcement to stop them from driving.",
+   "cites": [
+    {
+     "block": "8rytbw",
+     "quote": "Individuals with progressive dementia ultimately lose their ability to drive safely. It is often up to caregivers, physicians, and law enforcement, to stop these seniors from driving and arrange alternative transportation."
+    }
+   ]
+  },
+  {
+   "id": "mature-driver-program",
+   "kind": "process",
+   "quantities": [
+    "eight-hour",
+    "55 years old"
+   ],
+   "text": "The Mature Driver Improvement Program is an eight-hour course for drivers 55 years old and older.",
+   "cites": [
+    {
+     "block": "52wkap",
+     "quote": "The Mature Driver Improvement Program is an eight-hour course for drivers 55 years old and older.",
+     "marks": [
+      "eight-hour",
+      "55 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mature-driver-insurance-discount",
+   "kind": "process",
+   "text": "Your insurance company may offer a discount if you complete the Mature Driver Improvement Program.",
+   "cites": [
+    {
+     "block": "cas68t",
+     "quote": "Your insurance company may offer discounts if you complete the program."
+    }
+   ]
+  },
+  {
+   "id": "mature-driver-certificate",
+   "kind": "process",
+   "quantities": [
+    "three years",
+    "four-hour"
+   ],
+   "text": "A Mature Driver Improvement Program certificate is valid for three years and can be renewed by completing another four-hour course.",
+   "cites": [
+    {
+     "block": "cas68t",
+     "quote": "Your certificate is valid for three years. You can renew it by completing another four-hour course.",
+     "marks": [
+      "three years",
+      "four-hour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mature-driver-providers",
+   "kind": "process",
+   "text": "The Mature Driver Improvement Program is taken through DMV-approved providers.",
+   "cites": [
+    {
+     "block": "2thwds",
+     "quote": "You can take the course through DMV-approved providers."
+    }
+   ]
+  },
+  {
+   "id": "senior-id-62",
+   "kind": "process",
+   "quantities": [
+    "62"
+   ],
+   "text": "If you are 62 or older, you are eligible for a no-fee Senior ID card.",
+   "cites": [
+    {
+     "block": "h686p6",
+     "quote": "If you are 62 years old or older, you are eligible for a no-fee Senior ID card.",
+     "marks": [
+      "62"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exchange-license-for-id",
+   "kind": "process",
+   "text": "Drivers of any age who cannot continue driving safely because of a physical or mental condition may be eligible to exchange their license for a no-fee ID card, which serves as identification only.",
+   "cites": [
+    {
+     "block": "h686p6",
+     "quote": "Drivers of any age who are unable to continue driving safely due to a physical or mental condition may be eligible to exchange their driver’s license for a no-fee ID card. The ID card serves as identification only."
+    }
+   ]
+  }
+ ]
+}

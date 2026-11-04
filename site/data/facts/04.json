@@ -1,0 +1,134 @@
+{
+ "section": 4,
+ "facts": [
+  {
+   "id": "address-change-ten-days",
+   "kind": "rule",
+   "quantities": [
+    "ten days"
+   ],
+   "text": "If you move, you must notify the DMV of your new address within ten days, online or by mail.",
+   "cites": [
+    {
+     "block": "44p48j",
+     "quote": "If you move, you must notify DMV of your new address within ten days. Submit a change of address online at dmv.ca.gov/addresschange or by mail.",
+     "marks": [
+      "ten days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "address-change-responsibility",
+   "kind": "rule",
+   "text": "It is your responsibility to make sure the DMV has your correct mailing address on record.",
+   "cites": [
+    {
+     "block": "44p48j",
+     "quote": "It is your responsibility to ensure DMV has your correct mailing address on record."
+    }
+   ]
+  },
+  {
+   "id": "address-change-no-new-license",
+   "kind": "process",
+   "text": "You do not automatically get a new driver's license when you change your address; you may request a replacement for a fee.",
+   "cites": [
+    {
+     "block": "9w2px7",
+     "quote": "You do not automatically get a new driver’s license when you change your address. You may request a replacement for a fee."
+    }
+   ]
+  },
+  {
+   "id": "expired-license-illegal",
+   "kind": "rule",
+   "text": "It is against the law to drive with an expired driver's license.",
+   "cites": [
+    {
+     "block": "7z7zv9",
+     "quote": "It is against the law to drive with an expired driver’s license."
+    }
+   ]
+  },
+  {
+   "id": "renew-in-office-if-ineligible-online",
+   "kind": "process",
+   "text": "If you are not eligible to renew your driver's license online, you must visit a DMV office.",
+   "cites": [
+    {
+     "block": "7z7zv9",
+     "quote": "If ineligible to renew online, visit a DMV office."
+    }
+   ]
+  },
+  {
+   "id": "renew-identity-document-expiring",
+   "kind": "process",
+   "text": "If your driver's license and identity document expire on the same date, you must provide a valid identity document before DMV can issue your license.",
+   "cites": [
+    {
+     "block": "dqafc8",
+     "quote": "Your driver’s license and identity document may expire on the same date. If so, you will be required to provide a valid identity document."
+    }
+   ]
+  },
+  {
+   "id": "renew-minor-parent-signature",
+   "kind": "process",
+   "text": "If you are a minor renewing or replacing a license, your parent or guardian must sign the application.",
+   "cites": [
+    {
+     "block": "dqafc8",
+     "quote": "If you are a minor, your parent or guardian must sign the application."
+    }
+   ]
+  },
+  {
+   "id": "replacement-old-card-invalid",
+   "kind": "process",
+   "text": "Once you receive a replacement driver's license, your old card is no longer valid; if you find it, destroy it.",
+   "cites": [
+    {
+     "block": "dqafc8",
+     "quote": "Once you receive your replacement card, your old card is no longer valid. If you find the old card, destroy it."
+    }
+   ]
+  },
+  {
+   "id": "license-extension-out-of-state",
+   "kind": "process",
+   "quantities": [
+    "one-year"
+   ],
+   "text": "If you are out of state and cannot renew, you may request a one-year extension of your driver's license, submitted before the license expires.",
+   "cites": [
+    {
+     "block": "8aknw5",
+     "quote": "If you are out-of-state and cannot renew, you may request a one year extension of your driver’s license.",
+     "marks": [
+      "one year"
+     ]
+    },
+    {
+     "block": "8aknw5",
+     "quote": "Before your driver’s license expires, submit a request"
+    }
+   ]
+  },
+  {
+   "id": "license-extension-not-limited-term",
+   "kind": "process",
+   "quantities": [
+    "one-year"
+   ],
+   "text": "Limited-term driver's licenses are not eligible for the one-year out-of-state extension.",
+   "cites": [
+    {
+     "block": "amxzm2",
+     "quote": "Limited-term driver’s licenses are not eligible for this extension."
+    }
+   ]
+  }
+ ]
+}

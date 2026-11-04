@@ -1,0 +1,407 @@
+{
+ "section": 5,
+ "questions": [
+  {
+   "id": "q-fatigue",
+   "facts": [
+    "fatigue-effects"
+   ],
+   "prompt": "How does being tired affect your driving?",
+   "choices": [
+    "It slows your reaction to hazards.",
+    "It sharpens your focus for a short while.",
+    "It matters only late at night."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Fatigue and drowsiness affect your vision and increase your reaction time to hazards."
+  },
+  {
+   "id": "q-push-pull-start",
+   "facts": [
+    "push-pull-hand-position"
+   ],
+   "prompt": "For push/pull steering, where should your hands start on the wheel?",
+   "choices": [
+    "At 10 and 2, or 11 and 1 o'clock.",
+    "At 9 and 3, or 8 and 4 o'clock.",
+    "Both hands at the top of the wheel."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "For hand-to-hand (push/pull) steering, start at 9 and 3 or 8 and 4 o'clock."
+  },
+  {
+   "id": "q-push-pull-cross",
+   "facts": [
+    "push-pull-no-crossing"
+   ],
+   "prompt": "When turning with push/pull steering, should your hands cross over the middle of the wheel?",
+   "choices": [
+    "No, they should never cross.",
+    "Yes, once for every full turn.",
+    "Only on sharp, slow turns."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "In push/pull steering your hands never cross the middle of the wheel, and they stay in position even when turning."
+  },
+  {
+   "id": "q-hand-over-hand",
+   "facts": [
+    "hand-over-hand-when"
+   ],
+   "prompt": "When should you use hand-over-hand steering?",
+   "choices": [
+    "When changing lanes at freeway speed.",
+    "When backing up and looking behind you.",
+    "When parking or turning at low speed."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Use hand-over-hand steering for low-speed turns, parking, or recovering from a skid. When turning while backing, steer with one hand at 12 o'clock."
+  },
+  {
+   "id": "q-backing-one-hand",
+   "facts": [
+    "one-hand-steering-backing"
+   ],
+   "prompt": "You are turning while backing up and looking behind you. Where may you place one hand on the wheel?",
+   "choices": [
+    "At 12 o'clock.",
+    "At 6 o'clock.",
+    "At 9 o'clock."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "When turning while backing, you may steer with one hand at the 12 o'clock position so you can look behind you."
+  },
+  {
+   "id": "q-one-hand-ok",
+   "facts": [
+    "one-hand-steering-controls",
+    "both-hands-on-wheel"
+   ],
+   "prompt": "When is it acceptable to steer with one hand while driving forward?",
+   "choices": [
+    "When you must work a vehicle control.",
+    "On long, straight stretches of freeway.",
+    "Whenever you are below 25 mph."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Keep both hands on the wheel whenever possible. One hand is acceptable while operating a control that needs a hand off the wheel."
+  },
+  {
+   "id": "q-signal-empty-road",
+   "facts": [
+    "signal-no-vehicles-around",
+    "signal-always"
+   ],
+   "prompt": "You are about to change lanes on an empty road. What should you do about signaling?",
+   "choices": [
+    "Signal anyway before you move over.",
+    "Skip it; no one is there to see.",
+    "Signal only if a car comes into view."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Always signal when you change lanes, even when you don't see other vehicles around you."
+  },
+  {
+   "id": "q-hand-signals",
+   "facts": [
+    "hand-signals-when"
+   ],
+   "prompt": "When should you use hand-and-arm signals in a car?",
+   "choices": [
+    "Only when you are riding a bicycle or motorcycle.",
+    "When your signal lights don't work or are hard to see.",
+    "At night, so drivers can see what you plan to do."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Use hand-and-arm signals if your signal lights aren't working or bright sunlight makes them hard to see."
+  },
+  {
+   "id": "q-hand-signal-left",
+   "facts": [
+    "hand-signal-left-turn",
+    "hand-signal-right-turn",
+    "hand-signal-slow-stop"
+   ],
+   "prompt": "The driver ahead holds an arm straight out of their window. What are they about to do?",
+   "choices": [
+    "Turn left.",
+    "Turn right.",
+    "Slow down or stop."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "An arm held straight out signals a left turn."
+  },
+  {
+   "id": "q-hand-signal-right",
+   "facts": [
+    "hand-signal-right-turn",
+    "hand-signal-left-turn",
+    "hand-signal-slow-stop"
+   ],
+   "prompt": "The driver ahead holds an arm out of their window, bent up at the elbow. What are they about to do?",
+   "choices": [
+    "Turn left.",
+    "Turn right.",
+    "Slow down or stop."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "An arm held out and bent up at the elbow signals a right turn."
+  },
+  {
+   "id": "q-hand-signal-stop",
+   "facts": [
+    "hand-signal-slow-stop",
+    "hand-signal-left-turn",
+    "hand-signal-right-turn"
+   ],
+   "prompt": "The driver ahead holds an arm out of their window, bent down at the elbow. What are they about to do?",
+   "choices": [
+    "Turn left.",
+    "Turn right.",
+    "Slow down or stop."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "An arm bent down at the elbow means the driver is slowing down or stopping."
+  },
+  {
+   "id": "q-bicyclist-arm-out",
+   "facts": [
+    "bicyclist-turn-signal"
+   ],
+   "prompt": "A bicyclist ahead holds one arm straight out to the side, pointing. What does it mean?",
+   "choices": [
+    "They want you to pass them.",
+    "They plan to turn that way.",
+    "They are slowing to stop."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Bicyclists may signal a turn by holding an arm straight out, pointing in the direction they plan to turn."
+  },
+  {
+   "id": "q-freeway-lane-change-signal",
+   "facts": [
+    "signal-five-seconds-freeway",
+    "signal-every-lane-change"
+   ],
+   "prompt": "On a freeway, what is the least time you should signal before changing lanes?",
+   "choices": [
+    "Five seconds.",
+    "Two seconds.",
+    "Ten seconds."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Signal before every lane change, and on a freeway signal at least five seconds before you move over."
+  },
+  {
+   "id": "q-signal-curb",
+   "facts": [
+    "signal-curb"
+   ],
+   "prompt": "Should you signal before pulling away from the curb?",
+   "choices": [
+    "Yes, before you pull out.",
+    "Only if a car is coming.",
+    "No, signals are only for turns."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Signal before pulling next to the curb or away from it."
+  },
+  {
+   "id": "q-signal-past-intersection",
+   "facts": [
+    "signal-turn-after-intersection"
+   ],
+   "prompt": "You plan to turn into a driveway just past an intersection. When should you signal?",
+   "choices": [
+    "When you are almost through the intersection.",
+    "Just before you enter the intersection.",
+    "Only once you start to turn into it."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Signal when you are almost through the intersection, so drivers don't think you are turning at it."
+  },
+  {
+   "id": "q-horn-mountain",
+   "facts": [
+    "horn-mountain-roads"
+   ],
+   "prompt": "On a narrow mountain road, below what sight distance ahead should you sound your horn?",
+   "choices": [
+    "500 feet.",
+    "200 feet.",
+    "100 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "On narrow mountain roads, use your horn to alert oncoming traffic when you can't see at least 200 feet ahead."
+  },
+  {
+   "id": "q-horn-use",
+   "facts": [
+    "horn-purpose",
+    "horn-avoid-collisions"
+   ],
+   "prompt": "When should you use your horn?",
+   "choices": [
+    "To tell a slow driver to hurry up.",
+    "To show another driver you are upset.",
+    "To warn others of a hazard."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Use your horn to let others know you are there, to warn of a hazard, or to avoid a collision."
+  },
+  {
+   "id": "q-high-beams-following",
+   "facts": [
+    "high-beams-dim-following-300"
+   ],
+   "prompt": "What is the closest you may follow another vehicle with your high beams on?",
+   "choices": [
+    "500 feet.",
+    "100 feet.",
+    "300 feet."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Dim your high beams within 300 feet of a vehicle you are following, and within 500 feet of an oncoming vehicle."
+  },
+  {
+   "id": "q-parking-lights",
+   "facts": [
+    "parking-lights-only-illegal"
+   ],
+   "prompt": "What is the rule for driving with only your parking lights on?",
+   "choices": [
+    "It is never allowed.",
+    "It is allowed until 30 minutes after sunset.",
+    "It is allowed in light rain."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Driving with only your parking lights on is illegal at any time. In rain, and from 30 minutes after sunset, use your headlights."
+  },
+  {
+   "id": "q-headlights-darkness",
+   "facts": [
+    "headlights-1000-feet"
+   ],
+   "prompt": "You must use your headlights when it is too dark to see how far ahead?",
+   "choices": [
+    "500 feet.",
+    "100 feet.",
+    "1,000 feet."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Turn on your headlights when it is too dark to see from 1,000 feet away."
+  },
+  {
+   "id": "q-headlights-after-sunset",
+   "facts": [
+    "headlights-sunset-sunrise"
+   ],
+   "prompt": "What is the latest after sunset you may turn on your headlights?",
+   "choices": [
+    "30 minutes.",
+    "15 minutes.",
+    "One hour."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Use headlights from 30 minutes after sunset until 30 minutes before sunrise."
+  },
+  {
+   "id": "q-wipers-headlights",
+   "facts": [
+    "headlights-wipers-low-beams"
+   ],
+   "prompt": "You turn on your wipers because of rain during the day. What else must you do?",
+   "choices": [
+    "Turn on your high-beam headlights.",
+    "Turn on your low-beam headlights.",
+    "Nothing more, since it is daytime."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "If you need your wipers because of fog, rain or snow, you must turn on your low-beam headlights."
+  },
+  {
+   "id": "q-headlights-sunny-day",
+   "facts": [
+    "headlights-mountain-tunnels"
+   ],
+   "prompt": "On a sunny day, where should you still use your headlights?",
+   "choices": [
+    "Only where a sign says headlights must be on.",
+    "In tunnels and on mountain roads.",
+    "Only when you need your wipers."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Use headlights on mountain roads and in tunnels, even on sunny days."
+  },
+  {
+   "id": "q-warn-crash-ahead",
+   "facts": [
+    "warn-hazard-tap-brakes",
+    "warn-hazard-flashers"
+   ],
+   "prompt": "You see a crash ahead and need to warn drivers behind you. What can you do?",
+   "choices": [
+    "Switch on your high beams.",
+    "Tap your brakes three or four times.",
+    "Brake hard so they notice your lights."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Warn drivers behind you by tapping your brakes three or four times, turning on your flashers, or using a hand signal as you slow."
+  },
+  {
+   "id": "q-breakdown-where",
+   "facts": [
+    "breakdown-not-over-hill-or-curve",
+    "breakdown-visible-from-behind"
+   ],
+   "prompt": "Your car is failing and you can't get it fully off the road. Where should you stop?",
+   "choices": [
+    "Where drivers behind can see you.",
+    "Just past the top of a hill.",
+    "Just around a curve, out of sight."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Stop where people behind you can see you. Never stop just over a hill or around a curve, where drivers may not see you in time."
+  },
+  {
+   "id": "q-breakdown-no-flashers",
+   "facts": [
+    "breakdown-flashers"
+   ],
+   "prompt": "You must stop for car trouble, and your car has no emergency flashers. How can you warn others?",
+   "choices": [
+    "Leave your high beams on.",
+    "Use your turn signals.",
+    "Turn on your interior light."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Turn on your emergency flashers, or your turn signals if the car doesn't have flashers."
+  }
+ ]
+}

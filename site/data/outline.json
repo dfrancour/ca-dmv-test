@@ -1,0 +1,548 @@
+{
+ "sections": [
+  {
+   "number": 1,
+   "slug": "drivers-license",
+   "units": [
+    {
+     "slug": "the-california-drivers-license",
+     "start": "emme7w",
+     "title": "The California Driver’s License",
+     "mode": "skim"
+    },
+    {
+     "slug": "card-designations",
+     "start": "uqapkp",
+     "mode": "skim"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "slug": "permits-and-licenses",
+   "units": [
+    {
+     "slug": "getting-an-instruction-permit-and",
+     "start": "nvmafr",
+     "title": "Getting an Instruction Permit and Driver’s License",
+     "mode": "skim"
+    },
+    {
+     "slug": "what-you-need",
+     "start": "3jane5",
+     "mode": "skim"
+    },
+    {
+     "slug": "register-to-vote",
+     "start": "pvwaew",
+     "title": "Register to Vote",
+     "mode": "skim"
+    },
+    {
+     "slug": "applying-for-an-instruction-permit",
+     "start": "s45fzp",
+     "title": "Applying for an Instruction Permit"
+    },
+    {
+     "slug": "driving-schools",
+     "start": "mm8rbp",
+     "mode": "skim"
+    },
+    {
+     "slug": "applying-for-a-drivers-license",
+     "start": "96jjuz",
+     "title": "Applying for a Driver’s License"
+    },
+    {
+     "slug": "minors-restrictions-and-exceptions",
+     "start": "vv7zpg"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "slug": "testing",
+   "units": [
+    {
+     "slug": "drivers-license-tests",
+     "start": "u2ytzj",
+     "mode": "skim"
+    },
+    {
+     "slug": "other-things-to-know-for-your-behind-the",
+     "start": "hcu8h2",
+     "mode": "skim"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "slug": "changing-replacing-renewing",
+   "units": [
+    {
+     "slug": "changes-to-your-license",
+     "start": "mpw2kk",
+     "mode": "skim"
+    },
+    {
+     "slug": "change-your-address",
+     "start": "9hh2zr"
+    },
+    {
+     "slug": "replace-or-renew-your-drivers-license",
+     "start": "aru6us",
+     "mode": "skim"
+    },
+    {
+     "slug": "extend-your-drivers-license",
+     "start": "j5ewvs",
+     "mode": "skim"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "slug": "introduction-to-driving",
+   "units": [
+    {
+     "slug": "an-introduction-to-driving",
+     "start": "dwugtq",
+     "title": "An Introduction to Driving"
+    },
+    {
+     "slug": "controlling-the-vehicle",
+     "start": "m6uxbc"
+    },
+    {
+     "slug": "signals-horns-and-headlights",
+     "start": "kqus2z",
+     "title": "Signals, Horns, and Headlights"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "slug": "navigating-the-roads",
+   "units": [
+    {
+     "slug": "traffic-lanes",
+     "start": "nbcfzb"
+    },
+    {
+     "slug": "choosing-a-lane",
+     "start": "9vnftm"
+    },
+    {
+     "slug": "changing-lanes",
+     "start": "nsb4nd"
+    },
+    {
+     "slug": "types-of-lanes",
+     "start": "ntga6w"
+    },
+    {
+     "slug": "turns",
+     "start": "gen84t"
+    },
+    {
+     "slug": "left-turns",
+     "start": "9hkaue"
+    },
+    {
+     "slug": "u-turn",
+     "start": "pv22n3",
+     "title": "U-Turn"
+    },
+    {
+     "slug": "examples-of-turns",
+     "start": "fcw6pk"
+    },
+    {
+     "slug": "braking",
+     "start": "w8v4nx"
+    },
+    {
+     "slug": "merging-and-exiting",
+     "start": "8x5q2s",
+     "title": "Merging and Exiting"
+    },
+    {
+     "slug": "passing",
+     "start": "8cfjrv"
+    },
+    {
+     "slug": "parking",
+     "start": "wjqbyu"
+    },
+    {
+     "slug": "driving-green",
+     "start": "2mu9sz"
+    },
+    {
+     "slug": "law-enforcement-stops",
+     "start": "mu3wcz"
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "slug": "rules-of-the-road",
+   "units": [
+    {
+     "slug": "traffic-control",
+     "start": "ubfjun"
+    },
+    {
+     "slug": "pedestrian-signals-and-signs",
+     "start": "qdfrrw"
+    },
+    {
+     "slug": "signs",
+     "start": "ztt6xq"
+    },
+    {
+     "slug": "right-of-way-rules-who-goes-first",
+     "start": "ksnzda"
+    },
+    {
+     "slug": "sharing-the-road",
+     "start": "54d79a"
+    },
+    {
+     "slug": "braking",
+     "start": "k6fbgq"
+    },
+    {
+     "slug": "turning",
+     "start": "3tmxpu"
+    },
+    {
+     "slug": "maneuvering",
+     "start": "vzbapf"
+    },
+    {
+     "slug": "buses-streetcars-trolleys",
+     "start": "raze92"
+    },
+    {
+     "slug": "light-rail-vehicles",
+     "start": "6mtaar"
+    },
+    {
+     "slug": "motorcycles",
+     "start": "fm5xam"
+    },
+    {
+     "slug": "emergency-vehicles",
+     "start": "9cu4bx"
+    },
+    {
+     "slug": "slow-moving-vehicles",
+     "start": "k2sajt"
+    },
+    {
+     "slug": "neighborhood-electric-vehicles-nev-and",
+     "start": "vf66gq"
+    },
+    {
+     "slug": "animal-drawn-vehicles",
+     "start": "w2n837"
+    },
+    {
+     "slug": "near-animals",
+     "start": "ce238h"
+    },
+    {
+     "slug": "bicycles",
+     "start": "aw5xjy"
+    },
+    {
+     "slug": "road-workers-and-work-zones",
+     "start": "9p2mky"
+    },
+    {
+     "slug": "vehicles-with-hazardous-loads",
+     "start": "6afv63"
+    },
+    {
+     "slug": "heavy-traffic-or-bad-weather",
+     "start": "nddmbw"
+    },
+    {
+     "slug": "towing",
+     "start": "t6zj35"
+    },
+    {
+     "slug": "around-children",
+     "start": "5ahmbu"
+    },
+    {
+     "slug": "blind-intersections",
+     "start": "6xfubp"
+    },
+    {
+     "slug": "alleys",
+     "start": "umk22v"
+    },
+    {
+     "slug": "near-railroad-or-light-rail-tracks",
+     "start": "zr92te"
+    },
+    {
+     "slug": "business-or-residential-districts",
+     "start": "wu9pts"
+    },
+    {
+     "slug": "other-important-roadway-information",
+     "start": "djddha"
+    },
+    {
+     "slug": "record-confidentiality",
+     "start": "ec7bru",
+     "mode": "skim"
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "slug": "safe-driving",
+   "units": [
+    {
+     "slug": "be-aware-of-your-surroundings",
+     "start": "zgj3ch"
+    },
+    {
+     "slug": "understand-the-road-conditions",
+     "start": "x3777p"
+    },
+    {
+     "slug": "sun-glare",
+     "start": "gthtdx"
+    },
+    {
+     "slug": "skids",
+     "start": "zc3tuw"
+    },
+    {
+     "slug": "slippery-roads",
+     "start": "k6gaas"
+    },
+    {
+     "slug": "hydroplaning",
+     "start": "yc57s9"
+    },
+    {
+     "slug": "stuck-in-snow-or-mud",
+     "start": "h3bt9a"
+    },
+    {
+     "slug": "flooded-roads",
+     "start": "gca5sh"
+    },
+    {
+     "slug": "high-winds",
+     "start": "fdhx7f"
+    },
+    {
+     "slug": "fog-or-heavy-smoke",
+     "start": "dkpsum"
+    },
+    {
+     "slug": "law-enforcement-traffic-breaks",
+     "start": "7bhme3"
+    },
+    {
+     "slug": "protect-yourself-and-your-passengers",
+     "start": "yb5bxu"
+    },
+    {
+     "slug": "manage-your-speed",
+     "start": "pwxy9v"
+    },
+    {
+     "slug": "choose-between-hazards",
+     "start": "qwevfn"
+    },
+    {
+     "slug": "know-how-to-handle-emergencies",
+     "start": "5hw6yx"
+    },
+    {
+     "slug": "do-not-drive-distracted",
+     "start": "b9arek"
+    },
+    {
+     "slug": "cell-phones-and-texting",
+     "start": "bwkmjm"
+    },
+    {
+     "slug": "minors-and-cell-phones",
+     "start": "emk9wd",
+     "title": "Minors and Cell Phones"
+    },
+    {
+     "slug": "be-familiar-with-new-technology",
+     "start": "zvs4hz"
+    },
+    {
+     "slug": "be-aware-of-carbon-monoxide",
+     "start": "9yexnk"
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "slug": "alcohol-and-drugs",
+   "units": [
+    {
+     "slug": "alcohol-and-drugs",
+     "start": "4he6vg",
+     "title": "Alcohol and Drugs"
+    },
+    {
+     "slug": "use-or-possession-of-alcohol-or-cannabis",
+     "start": "3bktw3"
+    },
+    {
+     "slug": "blood-alcohol-concentration-bac-limits",
+     "start": "28cn8p"
+    },
+    {
+     "slug": "dui-arrests",
+     "start": "2m88ze"
+    },
+    {
+     "slug": "dui-convictions",
+     "start": "cfcsfv"
+    },
+    {
+     "slug": "drivers-under-21",
+     "start": "syfutf"
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "slug": "insurance-and-collisions",
+   "units": [
+    {
+     "slug": "financial-responsibility-insurance",
+     "start": "2ftya7",
+     "title": "Financial Responsibility, Insurance Requirements, and Collisions"
+    },
+    {
+     "slug": "insurance-requirements",
+     "start": "jgd7gn"
+    },
+    {
+     "slug": "driving-without-insurance",
+     "start": "ruwwaz"
+    },
+    {
+     "slug": "low-cost-insurance",
+     "start": "cksprs",
+     "mode": "skim"
+    },
+    {
+     "slug": "collisions",
+     "start": "552bkn"
+    },
+    {
+     "slug": "collisions-on-your-drivers-record",
+     "start": "zzvphs",
+     "mode": "skim"
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "slug": "vehicle-registration",
+   "units": [
+    {
+     "slug": "vehicle-registration-requirements",
+     "start": "4rjdqy",
+     "title": "Vehicle Registration Requirements"
+    },
+    {
+     "slug": "buying-or-selling-a-vehicle",
+     "start": "qyymkm"
+    },
+    {
+     "slug": "out-of-state-vehicles",
+     "start": "8dzwk2"
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "slug": "driver-safety",
+   "units": [
+    {
+     "slug": "driver-safety",
+     "start": "xfmfyw",
+     "title": "Driver Safety"
+    },
+    {
+     "slug": "reexamination",
+     "start": "wchvpg",
+     "mode": "skim"
+    },
+    {
+     "slug": "priority-reexamination",
+     "start": "433h4q"
+    },
+    {
+     "slug": "drivers-license-restrictions",
+     "start": "89r4yv",
+     "mode": "skim"
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "slug": "seniors",
+   "units": [
+    {
+     "slug": "seniors-and-driving",
+     "start": "qs57cj",
+     "title": "Seniors and Driving"
+    },
+    {
+     "slug": "drivers-license-renewal",
+     "start": "8g4wnt",
+     "mode": "skim"
+    },
+    {
+     "slug": "dmvs-community-liaison-and-outreach",
+     "start": "2mmtys",
+     "mode": "skim"
+    },
+    {
+     "slug": "cognitive-impairment",
+     "start": "rbqbyk"
+    },
+    {
+     "slug": "mature-driver-program",
+     "start": "e46kma",
+     "mode": "skim"
+    },
+    {
+     "slug": "senior-id-cards",
+     "start": "dwenfa",
+     "mode": "skim"
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "slug": "glossary",
+   "units": [
+    {
+     "slug": "glossary",
+     "start": "bsvkbr",
+     "title": "Glossary"
+    }
+   ]
+  }
+ ]
+}

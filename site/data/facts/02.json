@@ -1,0 +1,584 @@
+{
+ "section": 2,
+ "facts": [
+  {
+   "id": "permit-before-drive-test",
+   "kind": "process",
+   "text": "If you do not have a driver's license from California or another state, you must apply for an instruction permit before taking the behind-the-wheel drive test.",
+   "cites": [
+    {
+     "block": "nvmafr",
+     "quote": "If you do not have a driver’s license from California or another state, you must apply for an instruction permit before taking the behind-the-wheel drive test"
+    }
+   ]
+  },
+  {
+   "id": "apply-proof-of-identity",
+   "kind": "process",
+   "text": "To apply for an instruction permit or driver's license, you must provide proof of identity.",
+   "cites": [
+    {
+     "block": "74kjjy",
+     "quote": "To apply for an instruction permit or driver’s license, you must provide:"
+    },
+    {
+     "block": "3swydu",
+     "quote": "Proof of identity: Proving who you are."
+    }
+   ]
+  },
+  {
+   "id": "apply-two-proofs-of-residency",
+   "kind": "process",
+   "quantities": [
+    "two proofs"
+   ],
+   "text": "To apply for an instruction permit or driver's license, you must provide two proofs of California residency (exceptions may apply).",
+   "cites": [
+    {
+     "block": "74kjjy",
+     "quote": "To apply for an instruction permit or driver’s license, you must provide:"
+    },
+    {
+     "block": "dd9jd8",
+     "quote": "Two proofs of residency: Proving you live in California. Exceptions may apply.",
+     "marks": [
+      "Two proofs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "apply-legal-full-name-document",
+   "kind": "process",
+   "text": "When applying for a permit or license, you must provide a legal full name document if the name on your identity document does not match the name on your application.",
+   "cites": [
+    {
+     "block": "74kjjy",
+     "quote": "To apply for an instruction permit or driver’s license, you must provide:"
+    },
+    {
+     "block": "fsn4wp",
+     "quote": "Legal full name document: Proving your current name if the name on your identity document and application do not match."
+    }
+   ]
+  },
+  {
+   "id": "apply-social-security-number",
+   "kind": "process",
+   "text": "To apply for an instruction permit or driver's license, you must provide your social security number (exceptions may apply).",
+   "cites": [
+    {
+     "block": "74kjjy",
+     "quote": "To apply for an instruction permit or driver’s license, you must provide:"
+    },
+    {
+     "block": "a8hqag",
+     "quote": "Social security number: Exceptions may apply."
+    }
+   ]
+  },
+  {
+   "id": "permit-application-form",
+   "kind": "process",
+   "text": "To apply for a Class C instruction permit, you must complete a Driver's License & ID Card Application and provide your documents.",
+   "cites": [
+    {
+     "block": "v8wsf2",
+     "quote": "To apply for a Class C instruction permit:"
+    },
+    {
+     "block": "m6vx3q",
+     "quote": "Complete a Driver’s License & ID Card Application."
+    },
+    {
+     "block": "95m2nd",
+     "quote": "Provide your documents."
+    }
+   ]
+  },
+  {
+   "id": "permit-fee-non-refundable",
+   "kind": "process",
+   "text": "The application fee for a Class C instruction permit is non-refundable.",
+   "cites": [
+    {
+     "block": "v8wsf2",
+     "quote": "To apply for a Class C instruction permit:"
+    },
+    {
+     "block": "xck534",
+     "quote": "Pay a non-refundable application fee."
+    }
+   ]
+  },
+  {
+   "id": "permit-knowledge-test",
+   "kind": "process",
+   "text": "To get a Class C instruction permit, you must pass the knowledge test(s).",
+   "cites": [
+    {
+     "block": "v8wsf2",
+     "quote": "To apply for a Class C instruction permit:"
+    },
+    {
+     "block": "dvekr8",
+     "quote": "Pass your knowledge test(s)."
+    }
+   ]
+  },
+  {
+   "id": "permit-vision-test",
+   "kind": "process",
+   "text": "To get a Class C instruction permit, you must pass a vision test.",
+   "cites": [
+    {
+     "block": "v8wsf2",
+     "quote": "To apply for a Class C instruction permit:"
+    },
+    {
+     "block": "7fyrat",
+     "quote": "Pass a vision test."
+    }
+   ]
+  },
+  {
+   "id": "permit-minor-minimum-age",
+   "kind": "process",
+   "quantities": [
+    "18",
+    "15½ years old"
+   ],
+   "text": "If you are under 18, you must be at least 15½ years old to apply for an instruction permit.",
+   "cites": [
+    {
+     "block": "xvt4b7",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "5k9ucg",
+     "quote": "Be at least 15½ years old.",
+     "marks": [
+      "15½ years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "permit-minor-driver-education",
+   "kind": "process",
+   "quantities": [
+    "18"
+   ],
+   "text": "If you are under 18, you must complete a driver education program to get an instruction permit.",
+   "cites": [
+    {
+     "block": "xvt4b7",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "akvfhp",
+     "quote": "Complete a driver education program."
+    }
+   ]
+  },
+  {
+   "id": "permit-minor-parent-signature",
+   "kind": "process",
+   "quantities": [
+    "18"
+   ],
+   "text": "If you are under 18, a parent or guardian must sign your permit application, approving it and accepting financial responsibility.",
+   "cites": [
+    {
+     "block": "xvt4b7",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "pz6836",
+     "quote": "Have a parent or guardian sign to approve the application and accept financial responsibility"
+    }
+   ]
+  },
+  {
+   "id": "permit-minor-joint-custody",
+   "kind": "process",
+   "text": "If your parents or guardians share joint custody of you, both must sign your application.",
+   "cites": [
+    {
+     "block": "pz6836",
+     "quote": "If your parents or guardians share joint custody of you, both must sign."
+    }
+   ]
+  },
+  {
+   "id": "permit-minor-wait-for-training",
+   "kind": "rule",
+   "quantities": [
+    "18"
+   ],
+   "text": "If you are under 18, you may not use your instruction permit until you start behind-the-wheel driver training with an instructor, who will validate the permit.",
+   "cites": [
+    {
+     "block": "xvt4b7",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "skys9p",
+     "quote": "Wait to use your instruction permit until you start behind-the-wheel driver training with an instructor who will validate the permit."
+    }
+   ]
+  },
+  {
+   "id": "driving-schools-where",
+   "kind": "process",
+   "text": "Driver education and driver training are offered at DMV-licensed driving schools and some high schools.",
+   "cites": [
+    {
+     "block": "m69krk",
+     "quote": "Driver education and driver training are offered at DMV-licensed driving schools and some high schools."
+    }
+   ]
+  },
+  {
+   "id": "driving-instructor-id-card",
+   "kind": "process",
+   "text": "Driving instructors must carry an instructor's ID card, and you may ask to see it.",
+   "cites": [
+    {
+     "block": "m69krk",
+     "quote": "Instructors must carry an instructor’s ID card. Ask to see it."
+    }
+   ]
+  },
+  {
+   "id": "permit-practice-supervisor-age",
+   "kind": "rule",
+   "quantities": [
+    "18 years old",
+    "25"
+   ],
+   "text": "When practicing with an instruction permit, you must drive with a California-licensed driver who is at least 18 years old, or at least 25 if you are a minor.",
+   "cites": [
+    {
+     "block": "gfu4hc",
+     "quote": "To get your driver’s license after you have your instruction permit, you need to:"
+    },
+    {
+     "block": "b4ay6c",
+     "quote": "Practice driving with a California-licensed driver who is at least 18 years old (25 for minors).",
+     "marks": [
+      "18 years old",
+      "25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "permit-supervisor-take-control",
+   "kind": "rule",
+   "text": "The licensed driver supervising a permit holder must sit close enough to take control of the vehicle if needed.",
+   "cites": [
+    {
+     "block": "b4ay6c",
+     "quote": "This person must sit close enough to take control of the vehicle if needed."
+    }
+   ]
+  },
+  {
+   "id": "license-pass-drive-test",
+   "kind": "process",
+   "text": "After getting your instruction permit, you must pass a behind-the-wheel drive test to get your driver's license.",
+   "cites": [
+    {
+     "block": "gfu4hc",
+     "quote": "To get your driver’s license after you have your instruction permit, you need to:"
+    },
+    {
+     "block": "cdeymh",
+     "quote": "Pass a behind-the-wheel drive test."
+    }
+   ]
+  },
+  {
+   "id": "license-minor-minimum-age",
+   "kind": "process",
+   "quantities": [
+    "18",
+    "16 years old"
+   ],
+   "text": "If you are under 18, you must be at least 16 years old to get a driver's license.",
+   "cites": [
+    {
+     "block": "z4hsck",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "9vcdts",
+     "quote": "Be at least 16 years old.",
+     "marks": [
+      "16 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "license-minor-permit-six-months",
+   "kind": "process",
+   "quantities": [
+    "18",
+    "6 months"
+   ],
+   "text": "If you are under 18, you must have held an instruction permit (from California or another state) for at least 6 months, or turn 18, before scheduling your behind-the-wheel drive test.",
+   "cites": [
+    {
+     "block": "z4hsck",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "exq42g",
+     "quote": "Have an instruction permit from California or another state for at least 6 months (or turn 18 years old) before scheduling your behind-the-wheel drive test.",
+     "marks": [
+      "18",
+      "6 months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "license-minor-prove-education-training",
+   "kind": "process",
+   "quantities": [
+    "18"
+   ],
+   "text": "If you are under 18, you must prove you completed both driver education and driver training to get a driver's license.",
+   "cites": [
+    {
+     "block": "z4hsck",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "jk4kpy",
+     "quote": "Prove that you completed both driver education and driver training."
+    }
+   ]
+  },
+  {
+   "id": "license-minor-50-hours-practice",
+   "kind": "process",
+   "quantities": [
+    "18",
+    "50 hours",
+    "25 years old"
+   ],
+   "text": "If you are under 18, you must practice driving for at least 50 hours with a California-licensed driver who is at least 25 years old before getting your license.",
+   "cites": [
+    {
+     "block": "z4hsck",
+     "quote": "If you are under 18 years old, you will also need to:",
+     "marks": [
+      "18"
+     ]
+    },
+    {
+     "block": "dgmxhj",
+     "quote": "Practice driving for at least 50 hours with a California-licensed driver who is at least 25 years old.",
+     "marks": [
+      "50 hours",
+      "25 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "license-minor-10-hours-night",
+   "kind": "process",
+   "quantities": [
+    "10",
+    "50"
+   ],
+   "text": "At least 10 of a minor's 50 required practice hours must be driven at night.",
+   "cites": [
+    {
+     "block": "dgmxhj",
+     "quote": "Ten hours must be at night.",
+     "marks": [
+      "Ten"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "provisional-license-under-18",
+   "kind": "process",
+   "quantities": [
+    "18"
+   ],
+   "text": "If you are under 18, your driver's license is a provisional license.",
+   "cites": [
+    {
+     "block": "p386wu",
+     "quote": "When you are under 18 years old, your driver’s license will have the word provisional.",
+     "marks": [
+      "18"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "provisional-no-night-driving",
+   "kind": "rule",
+   "quantities": [
+    "11 p.m.",
+    "5 a.m.",
+    "12 months"
+   ],
+   "text": "As a provisional driver, you cannot drive between 11 p.m. and 5 a.m. during the first 12 months you have your license.",
+   "cites": [
+    {
+     "block": "p386wu",
+     "quote": "As a provisional driver, you cannot drive:"
+    },
+    {
+     "block": "5brcbr",
+     "quote": "Between 11 p.m. and 5 a.m. during the first 12 months you have your license.",
+     "marks": [
+      "11 p.m.",
+      "5 a.m.",
+      "12 months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "provisional-no-passengers-under-20",
+   "kind": "rule",
+   "quantities": [
+    "20 years old",
+    "25 years old"
+   ],
+   "text": "As a provisional driver, you cannot drive with passengers under 20 years old unless your parent or guardian or another California-licensed driver at least 25 years old rides with you.",
+   "cites": [
+    {
+     "block": "p386wu",
+     "quote": "As a provisional driver, you cannot drive:"
+    },
+    {
+     "block": "ua9gka",
+     "quote": "With passengers under 20 years old, unless your parent or guardian or other California-licensed driver (at least 25 years old) rides with you.",
+     "marks": [
+      "20 years old",
+      "25 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "provisional-no-driving-for-pay",
+   "kind": "rule",
+   "text": "As a provisional driver, you cannot drive for pay or operate vehicles that require a commercial Class A, B, or C license.",
+   "cites": [
+    {
+     "block": "p386wu",
+     "quote": "As a provisional driver, you cannot drive:"
+    },
+    {
+     "block": "442tye",
+     "quote": "For pay or operate vehicles that require a commercial Class A, B, or C license."
+    }
+   ]
+  },
+  {
+   "id": "provisional-exception-medical",
+   "kind": "rule",
+   "text": "A provisional driver may be excused from the restrictions for a medical need, if there is no reasonable other way to travel, and must carry a physician-signed note giving the medical condition and expected recovery date.",
+   "cites": [
+    {
+     "block": "uuw9p9",
+     "quote": "There are exceptions to these restrictions if you:"
+    },
+    {
+     "block": "332j6m",
+     "quote": "Have a medical need and cannot reasonably find another way to travel. You must carry a note signed by your physician. The note must have your medical condition and date you are expected to recover."
+    }
+   ]
+  },
+  {
+   "id": "provisional-exception-school",
+   "kind": "rule",
+   "text": "A provisional driver may be excused from the restrictions to drive for schooling or a school activity, and must carry a note signed by the school principal, dean, or designee.",
+   "cites": [
+    {
+     "block": "uuw9p9",
+     "quote": "There are exceptions to these restrictions if you:"
+    },
+    {
+     "block": "2rdaqf",
+     "quote": "Drive for schooling or a school activity. You must carry a note signed by your school principal, dean, or designee."
+    }
+   ]
+  },
+  {
+   "id": "provisional-exception-work",
+   "kind": "rule",
+   "text": "A provisional driver may be excused from the restrictions to drive for work, and must carry a note signed by the employer confirming the employment.",
+   "cites": [
+    {
+     "block": "uuw9p9",
+     "quote": "There are exceptions to these restrictions if you:"
+    },
+    {
+     "block": "rs53bu",
+     "quote": "Must drive for work reasons. You must carry a note signed by your employer. The note must confirm your employment."
+    }
+   ]
+  },
+  {
+   "id": "provisional-exception-family",
+   "kind": "rule",
+   "text": "A provisional driver may be excused from the restrictions to drive an immediate family member, and must carry a note signed by a parent or legal guardian stating the reason, the family member, and when the need will end.",
+   "cites": [
+    {
+     "block": "uuw9p9",
+     "quote": "There are exceptions to these restrictions if you:"
+    },
+    {
+     "block": "hcmua7",
+     "quote": "Must drive an immediate family member. You must carry a note signed by your parent or legal guardian. The note must state the reason you need to drive, the family member, and date when the need will end."
+    }
+   ]
+  },
+  {
+   "id": "parent-may-cancel-teen-license",
+   "kind": "process",
+   "text": "A parent or guardian may cancel their teen's driver's license by completing a Request for Cancellation or Surrender of a Driver License or ID Card form.",
+   "cites": [
+    {
+     "block": "ykgm8j",
+     "quote": "A parent or guardian may cancel their teen’s license by completing a Request for Cancellation or Surrender of a Driver License or ID Card form."
+    }
+   ]
+  }
+ ]
+}

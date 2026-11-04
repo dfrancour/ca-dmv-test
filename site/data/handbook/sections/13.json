@@ -1,0 +1,150 @@
+{
+ "number": 13,
+ "title": "Seniors and Driving",
+ "pages": [
+  "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/seniors-and-driving/"
+ ],
+ "blocks": [
+  {
+   "id": "qs57cj",
+   "type": "paragraph",
+   "html": "Senior drivers often have unique needs and concerns about driving. Driving requires certain physical, visual, and mental abilities. We all want to continue driving as long as we can. However, the time may come when we must limit or stop driving temporarily or permanently. Here are some warning signs of an unsafe driver:"
+  },
+  {
+   "id": "b89kab",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "ubfznk",
+     "html": "Getting lost in familiar places."
+    },
+    {
+     "id": "d2e6qu",
+     "html": "Dents and scrapes on the car, fences, mailbox, garage doors, etc."
+    },
+    {
+     "id": "22cjgk",
+     "html": "Frequent close calls or collisions."
+    }
+   ]
+  },
+  {
+   "id": "xrwdmx",
+   "type": "paragraph",
+   "html": "Senior drivers may consider:"
+  },
+  {
+   "id": "6fpu8a",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "4y2ufq",
+     "html": "Limiting or not driving at night.",
+     "items": [
+      {
+       "id": "eutc3e",
+       "html": "If night driving is necessary, choose a well-lit route."
+      }
+     ]
+    },
+    {
+     "id": "p4trsn",
+     "html": "Driving during the time of day when traffic is light."
+    },
+    {
+     "id": "bhwft8",
+     "html": "Avoiding difficult intersections."
+    },
+    {
+     "id": "un8qj8",
+     "html": "Driving for short distances or limiting driving to essential places."
+    },
+    {
+     "id": "yzcdyt",
+     "html": "No freeway driving."
+    },
+    {
+     "id": "8upuxc",
+     "html": "Installing an additional right-side mirror."
+    }
+   ]
+  },
+  {
+   "id": "ncx977",
+   "type": "paragraph",
+   "html": "To get the Driver Skills Self-Assessment Questionnaire, visit <a href=\"https://www.dmv.ca.gov/portal/driver-skills-self-assessment-questionnaire/\">dmv.ca.gov/driver-skills</a>."
+  },
+  {
+   "id": "8g4wnt",
+   "type": "heading",
+   "level": 2,
+   "html": "Driver’s License Renewal"
+  },
+  {
+   "id": "y645nd",
+   "type": "paragraph",
+   "html": "If you are 70 years old or older at the time your driver’s license expires, you are required to renew your driver’s license in person and pass a vision test. In some cases, other exams may be required. If a knowledge test is required, you may be eligible to select “eLearning” when completing your application online. DMV sends a renewal notice to your address of record about 90 days before your driver’s license expires. If you do not receive a renewal notice, complete a Driver License or Identification Card Application at <a href=\"https://www.dmv.ca.gov/portal/driver-licenses-identification-cards\"><strong>dmv.ca.gov/dlservices</strong></a> or at a DMV office. Visit <a href=\"https://www.dmv.ca.gov/portal/driver-education-and-safety/\"><strong>dmv.ca.gov/driver-ed</strong></a> for more information and sample tests."
+  },
+  {
+   "id": "2mmtys",
+   "type": "heading",
+   "level": 2,
+   "html": "DMV’s Community Liaison and Outreach"
+  },
+  {
+   "id": "3987sb",
+   "type": "paragraph",
+   "html": "The Community Liaison’s primary function is to represent public safety interests for all Californians, with a focus in addressing the concerns of senior drivers and teens. The liaison can assist as a go-between to ensure drivers are treated fairly, consistently with laws and regulations, and with dignity and respect. While the Community Liaison cannot represent you in a DMV hearing or reexamination, they can provide you with useful tools and information."
+  },
+  {
+   "id": "bx77pb",
+   "type": "paragraph",
+   "html": "For information about outreach services in your area or to speak to a liaison, contact Community Liaison and Outreach at (833) 493-0675."
+  },
+  {
+   "id": "rbqbyk",
+   "type": "heading",
+   "level": 2,
+   "html": "Cognitive Impairment"
+  },
+  {
+   "id": "8rytbw",
+   "type": "paragraph",
+   "html": "Seniors suffering from dementia present a significant challenge to safe driving. Individuals with progressive dementia ultimately lose their ability to drive safely. It is often up to caregivers, physicians, and law enforcement, to stop these seniors from driving and arrange alternative transportation. For more information about the reexamination process, visit <a href=\"https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/deteriorated-driving-skill/\">dmv.ca.gov/reexamination</a>."
+  },
+  {
+   "id": "e46kma",
+   "type": "heading",
+   "level": 2,
+   "html": "Mature Driver Program"
+  },
+  {
+   "id": "52wkap",
+   "type": "paragraph",
+   "html": "The Mature Driver Improvement Program is an eight-hour course for drivers 55 years old and older. It covers a range of topics that are of special interest to mature drivers."
+  },
+  {
+   "id": "cas68t",
+   "type": "paragraph",
+   "html": "Your insurance company may offer discounts if you complete the program. Contact your insurance provider with a copy of your completion certificate. Your certificate is valid for three years. You can renew it by completing another four-hour course."
+  },
+  {
+   "id": "2thwds",
+   "type": "paragraph",
+   "html": "You can take the course through DMV-approved providers. Visit <a href=\"https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/senior-drivers/\">dmv.ca.gov/seniors</a> for more information, including locations near you."
+  },
+  {
+   "id": "dwenfa",
+   "type": "heading",
+   "level": 2,
+   "html": "Senior ID Cards"
+  },
+  {
+   "id": "h686p6",
+   "type": "paragraph",
+   "html": "If you are 62 years old or older, you are eligible for a no-fee Senior ID card. Drivers of any age who are unable to continue driving safely due to a physical or mental condition may be eligible to exchange their driver’s license for a no-fee ID card. The ID card serves as identification only. Details may be found at <a href=\"https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/\">dmv.ca.gov/id-cards</a>."
+  }
+ ]
+}

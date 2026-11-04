@@ -1,0 +1,46 @@
+{
+ "number": 11,
+ "title": "Vehicle Registration Requirements",
+ "pages": [
+  "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/vehicle-registration-requirements/"
+ ],
+ "blocks": [
+  {
+   "id": "4rjdqy",
+   "type": "paragraph",
+   "html": "You need to register your vehicle in California to use it in the state. For more information, visit <a href=\"https://www.dmv.ca.gov/portal/vehicle-registration/\">dmv.ca.gov/vrservices</a>."
+  },
+  {
+   "id": "qyymkm",
+   "type": "heading",
+   "level": 2,
+   "html": "Buying or Selling a Vehicle"
+  },
+  {
+   "id": "ze929f",
+   "type": "paragraph",
+   "html": "When you buy a vehicle, you have 10 days to transfer ownership to your name."
+  },
+  {
+   "id": "9uuzz9",
+   "type": "paragraph",
+   "html": "When you sell a vehicle, you must notify DMV within five days by completing a Notice of Transfer and Release of Liability at <a href=\"https://www.dmv.ca.gov/portal/vehicle-registration/titles/title-transfers-and-changes/notice-of-transfer-and-release-of-liability-nrl/\">dmv.ca.gov/nrl</a>."
+  },
+  {
+   "id": "8dzwk2",
+   "type": "heading",
+   "level": 2,
+   "html": "Out-of-State Vehicles"
+  },
+  {
+   "id": "ccu6jp",
+   "type": "paragraph",
+   "html": "You have 20 days to register your vehicle after you become a resident or get a job in California. For more information, visit <a href=\"https://www.dmv.ca.gov/portal/how-to-9-register-a-vehicle-from-out-of-state-nonresident-vehicle/\">dmv.ca.gov/outofstatevr</a>."
+  },
+  {
+   "id": "2hg8yf",
+   "type": "paragraph",
+   "html": "All vehicles registered in California are required to meet California requirements including vehicle emission controls in support of California’s clean air standards. DMV cannot register a vehicle if it does not qualify."
+  }
+ ]
+}

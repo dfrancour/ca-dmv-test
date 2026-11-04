@@ -1,0 +1,84 @@
+{
+  "title": "California Driver's Handbook",
+  "publisher": "California Department of Motor Vehicles",
+  "source": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/",
+  "fetched": "2026-11-03T20:39:37+00:00",
+  "license": {
+    "name": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "attribution": "California Driver’s Handbook, California Department of Motor Vehicles, licensed under CC BY-NC 4.0.",
+    "changes": "Reformatted for the web and divided into shorter parts; the handbook’s text is unchanged. The practice questions and explanations are ours, based on it."
+  },
+  "sections": [
+    {
+      "number": 1,
+      "title": "The California Driver’s License",
+      "file": "sections/01.json"
+    },
+    {
+      "number": 2,
+      "title": "Getting an Instruction Permit and Driver’s License",
+      "file": "sections/02.json"
+    },
+    {
+      "number": 3,
+      "title": "The Testing Process",
+      "file": "sections/03.json"
+    },
+    {
+      "number": 4,
+      "title": "Changing, Replacing, and Renewing Your Driver’s License",
+      "file": "sections/04.json"
+    },
+    {
+      "number": 5,
+      "title": "An Introduction to Driving",
+      "file": "sections/05.json"
+    },
+    {
+      "number": 6,
+      "title": "Navigating the Roads",
+      "file": "sections/06.json"
+    },
+    {
+      "number": 7,
+      "title": "Laws and Rules of the Road",
+      "file": "sections/07.json"
+    },
+    {
+      "number": 8,
+      "title": "Safe Driving",
+      "file": "sections/08.json"
+    },
+    {
+      "number": 9,
+      "title": "Alcohol and Drugs",
+      "file": "sections/09.json"
+    },
+    {
+      "number": 10,
+      "title": "Financial Responsibility, Insurance Requirements, and Collisions",
+      "file": "sections/10.json"
+    },
+    {
+      "number": 11,
+      "title": "Vehicle Registration Requirements",
+      "file": "sections/11.json"
+    },
+    {
+      "number": 12,
+      "title": "Driver Safety",
+      "file": "sections/12.json"
+    },
+    {
+      "number": 13,
+      "title": "Seniors and Driving",
+      "file": "sections/13.json"
+    },
+    {
+      "number": 14,
+      "title": "Glossary",
+      "file": "sections/14.json"
+    }
+  ]
+}

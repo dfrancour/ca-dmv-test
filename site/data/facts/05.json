@@ -1,0 +1,759 @@
+{
+ "section": 5,
+ "facts": [
+  {
+   "id": "health-vision-driving",
+   "kind": "practice",
+   "text": "To drive safely you must be able to see hazards in different lighting, judge distances, adjust to traffic speed, and read road signs.",
+   "cites": [
+    {
+     "block": "633y4v",
+     "quote": "You must be able to notice hazards in different types of lighting, judge distances, adjust to traffic speed, and read road signs."
+    }
+   ]
+  },
+  {
+   "id": "health-hearing-hazards",
+   "kind": "practice",
+   "text": "You must be able to hear horns, sirens, motorcycles, or screeching tires that may warn you of hazards.",
+   "cites": [
+    {
+     "block": "8hm25g",
+     "quote": "You must be able to hear horns, sirens, motorcycles, or screeching tires that may alert you of hazards."
+    }
+   ]
+  },
+  {
+   "id": "headset-earplugs-both-ears-illegal",
+   "kind": "rule",
+   "text": "It is illegal to wear a headset or earplugs in both ears while driving.",
+   "cites": [
+    {
+     "block": "8hm25g",
+     "quote": "It is illegal to wear a headset or earplugs in both ears while driving."
+    }
+   ]
+  },
+  {
+   "id": "fatigue-effects",
+   "kind": "practice",
+   "text": "Fatigue and drowsiness can affect your vision and increase your reaction time to hazards.",
+   "cites": [
+    {
+     "block": "7ubqum",
+     "quote": "Fatigue and Drowsiness – Can affect your vision and increase reaction time to hazards."
+    }
+   ]
+  },
+  {
+   "id": "alertness-required",
+   "kind": "practice",
+   "text": "You must be alert so you can quickly decide the correct action in any traffic situation, including unexpected ones.",
+   "cites": [
+    {
+     "block": "mmb3a8",
+     "quote": "You must be alert to quickly decide the correct course of action in any type of traffic situation, including unexpected ones."
+    }
+   ]
+  },
+  {
+   "id": "medications-unsafe",
+   "kind": "practice",
+   "text": "Both prescription and over-the-counter medications can make you an unsafe driver; some medicines can make you sleepy.",
+   "cites": [
+    {
+     "block": "pkcw37",
+     "quote": "Prescription and over-the-counter medications can make you an unsafe driver. Some medicines can make you sleepy."
+    }
+   ]
+  },
+  {
+   "id": "medications-know-effects",
+   "kind": "practice",
+   "text": "It is your responsibility to know the effects of the medications you take.",
+   "cites": [
+    {
+     "block": "pkcw37",
+     "quote": "It is your responsibility to know the effects of the medications you take."
+    }
+   ]
+  },
+  {
+   "id": "physicians-report-conditions",
+   "kind": "rule",
+   "quantities": [
+    "14 years old"
+   ],
+   "text": "Physicians are required to report patients at least 14 years old to the DMV for medical conditions, such as lapse of consciousness, that may affect safe driving.",
+   "cites": [
+    {
+     "block": "x3cyqn",
+     "quote": "Physicians are required to report patients, who are at least 14 years old, to DMV for medical conditions that may affect your ability to drive safely, such as lapse of consciousness.",
+     "marks": [
+      "14 years old"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "both-hands-on-wheel",
+   "kind": "practice",
+   "text": "To control your vehicle, keep both hands on the steering wheel whenever possible.",
+   "cites": [
+    {
+     "block": "vjxp3c",
+     "quote": "To control your vehicle, it is critical to keep both hands on the wheel whenever possible."
+    }
+   ]
+  },
+  {
+   "id": "push-pull-hand-position",
+   "kind": "practice",
+   "quantities": [
+    "9 and 3 o'clock",
+    "8 and 4 o'clock"
+   ],
+   "text": "For hand-to-hand (push/pull) steering, start with your hands at 9 and 3 o'clock or 8 and 4 o'clock.",
+   "cites": [
+    {
+     "block": "8kuzfn",
+     "quote": "To use this steering wheel method:"
+    },
+    {
+     "block": "mq86ej",
+     "quote": "Start with your hands at 9 and 3 o’clock or 8 and 4 o’clock.",
+     "marks": [
+      "9 and 3 o’clock",
+      "8 and 4 o’clock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "push-pull-no-crossing",
+   "kind": "practice",
+   "text": "In hand-to-hand (push/pull) steering, do not cross your hands over the middle of the steering wheel, and keep your hands in position even when turning.",
+   "cites": [
+    {
+     "block": "6nu28x",
+     "quote": "Do not cross your hands over the middle of the steering wheel."
+    },
+    {
+     "block": "d55wfg",
+     "quote": "Keep your hands in these positions, even when making turns."
+    }
+   ]
+  },
+  {
+   "id": "hand-over-hand-when",
+   "kind": "practice",
+   "text": "Use hand-over-hand steering when turning at low speeds, parking, or recovering from a skid.",
+   "cites": [
+    {
+     "block": "kw4xa8",
+     "quote": "Use this steering wheel method when you turn at low speeds, park, or need to recover from a skid."
+    }
+   ]
+  },
+  {
+   "id": "hand-over-hand-method",
+   "kind": "practice",
+   "quantities": [
+    "8 and 4 o'clock"
+   ],
+   "text": "For hand-over-hand steering, start with your hands at 8 and 4 o'clock, reach across the wheel to grasp the opposite side, let go with the other hand, then reach across the arm still holding the wheel, grip, and pull up.",
+   "cites": [
+    {
+     "block": "hs9qdv",
+     "quote": "Start with your hands at 8 and 4 o’clock.",
+     "marks": [
+      "8 and 4 o’clock"
+     ]
+    },
+    {
+     "block": "4q4wub",
+     "quote": "Reach across the steering wheel to grasp the opposite side."
+    },
+    {
+     "block": "rtq3z3",
+     "quote": "Let go of the steering wheel with your other hand."
+    },
+    {
+     "block": "46zt7d",
+     "quote": "Reach across the arm still holding the wheel, grip the wheel, and pull up."
+    }
+   ]
+  },
+  {
+   "id": "one-hand-steering-backing",
+   "kind": "practice",
+   "quantities": [
+    "12 o'clock"
+   ],
+   "text": "When turning while backing up, you may steer with one hand placed at the 12 o'clock position so you can look behind you.",
+   "cites": [
+    {
+     "block": "vy7mm4",
+     "quote": "There are only two situations that may require steering with one hand:"
+    },
+    {
+     "block": "p8njdq",
+     "quote": "When you are turning while backing up to see where you are going behind you. Place your hand at the 12 o’clock position on the steering wheel.",
+     "marks": [
+      "12 o’clock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "one-hand-steering-controls",
+   "kind": "practice",
+   "text": "Steering with one hand is acceptable when you are operating vehicle controls that require removing a hand from the wheel.",
+   "cites": [
+    {
+     "block": "vy7mm4",
+     "quote": "There are only two situations that may require steering with one hand:"
+    },
+    {
+     "block": "cqpupd",
+     "quote": "When you are operating vehicle controls that require you to remove a hand from the steering wheel."
+    }
+   ]
+  },
+  {
+   "id": "signal-always",
+   "kind": "practice",
+   "text": "Always signal when you turn, change lanes, slow down, or stop.",
+   "cites": [
+    {
+     "block": "qffcsg",
+     "quote": "Always signal when you turn, change lanes, slow down, or stop."
+    }
+   ]
+  },
+  {
+   "id": "hand-signals-when",
+   "kind": "practice",
+   "text": "Use hand-and-arm signals if your signal lights are not working or bright sunlight makes them hard to see.",
+   "cites": [
+    {
+     "block": "u8uqwz",
+     "quote": "If your signal lights are not functioning, or bright sunlight makes your signal lights hard to see, use the hand-and-arm signals"
+    }
+   ]
+  },
+  {
+   "id": "hand-signal-left-turn",
+   "kind": "meaning",
+   "text": "A driver's arm held straight out to the side signals a left turn.",
+   "cites": [
+    {
+     "block": "aduuh6",
+     "quote": "LEFT TURN"
+    }
+   ]
+  },
+  {
+   "id": "hand-signal-right-turn",
+   "kind": "meaning",
+   "text": "A driver's arm held out and bent up at the elbow signals a right turn.",
+   "cites": [
+    {
+     "block": "rzkq67",
+     "quote": "RIGHT TURN"
+    }
+   ]
+  },
+  {
+   "id": "hand-signal-slow-stop",
+   "kind": "meaning",
+   "text": "A driver's arm held out and bent down at the elbow signals slowing down or stopping.",
+   "cites": [
+    {
+     "block": "mwcg6p",
+     "quote": "SLOW OR STOP"
+    }
+   ]
+  },
+  {
+   "id": "bicyclist-turn-signal",
+   "kind": "meaning",
+   "text": "Bicyclists may signal a turn by holding their arm straight out, pointing in the direction they plan to turn.",
+   "cites": [
+    {
+     "block": "yer86e",
+     "quote": "Bicyclists may signal a turn with their arm held straight out, pointing in the direction they plan to turn."
+    }
+   ]
+  },
+  {
+   "id": "signal-100-feet-before-turn",
+   "kind": "practice",
+   "quantities": [
+    "100 feet"
+   ],
+   "text": "Signal at least 100 feet before you turn.",
+   "cites": [
+    {
+     "block": "u3c3q6",
+     "quote": "You should signal:"
+    },
+    {
+     "block": "d5aqyu",
+     "quote": "At least 100 feet before you turn.",
+     "marks": [
+      "100 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "signal-every-lane-change",
+   "kind": "practice",
+   "text": "Signal before every lane change.",
+   "cites": [
+    {
+     "block": "u3c3q6",
+     "quote": "You should signal:"
+    },
+    {
+     "block": "d2zgzh",
+     "quote": "Before every lane change."
+    }
+   ]
+  },
+  {
+   "id": "signal-five-seconds-freeway",
+   "kind": "practice",
+   "quantities": [
+    "five seconds"
+   ],
+   "text": "On a freeway, signal at least five seconds before you change lanes.",
+   "cites": [
+    {
+     "block": "u3c3q6",
+     "quote": "You should signal:"
+    },
+    {
+     "block": "y33f3t",
+     "quote": "At least five seconds before you change lanes on a freeway.",
+     "marks": [
+      "five seconds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "signal-curb",
+   "kind": "practice",
+   "text": "Signal before pulling next to the curb or away from the curb.",
+   "cites": [
+    {
+     "block": "u3c3q6",
+     "quote": "You should signal:"
+    },
+    {
+     "block": "hacdmx",
+     "quote": "Before pulling next to the curb or away from the curb."
+    }
+   ]
+  },
+  {
+   "id": "signal-no-vehicles-around",
+   "kind": "practice",
+   "text": "Signal even when you do not see other vehicles around you.",
+   "cites": [
+    {
+     "block": "u3c3q6",
+     "quote": "You should signal:"
+    },
+    {
+     "block": "pxkpbt",
+     "quote": "Even when you do not see other vehicles around you."
+    }
+   ]
+  },
+  {
+   "id": "signal-turn-after-intersection",
+   "kind": "practice",
+   "text": "If you plan to turn shortly after crossing an intersection, signal when you are almost through the intersection.",
+   "cites": [
+    {
+     "block": "u3c3q6",
+     "quote": "You should signal:"
+    },
+    {
+     "block": "9euuju",
+     "quote": "When you are almost through the intersection if you plan to turn shortly after crossing the intersection."
+    }
+   ]
+  },
+  {
+   "id": "signal-turn-off",
+   "kind": "practice",
+   "text": "Turn off your signal when you no longer need it.",
+   "cites": [
+    {
+     "block": "wzge89",
+     "quote": "Remember to turn off your signal when you no longer need it."
+    }
+   ]
+  },
+  {
+   "id": "horn-purpose",
+   "kind": "practice",
+   "text": "Use your horn to let other drivers know you are there or to warn others of a hazard.",
+   "cites": [
+    {
+     "block": "k5hvt3",
+     "quote": "Use your vehicle’s horn to let other drivers know you are there or warn others of a hazard."
+    }
+   ]
+  },
+  {
+   "id": "horn-avoid-collisions",
+   "kind": "practice",
+   "text": "Use your horn to avoid collisions.",
+   "cites": [
+    {
+     "block": "k5hvt3",
+     "quote": "Use your horn to:"
+    },
+    {
+     "block": "qkrbkq",
+     "quote": "Avoid collisions."
+    }
+   ]
+  },
+  {
+   "id": "horn-mountain-roads",
+   "kind": "practice",
+   "quantities": [
+    "200 feet"
+   ],
+   "text": "Use your horn to alert oncoming traffic on narrow mountain roads where you cannot see at least 200 feet ahead.",
+   "cites": [
+    {
+     "block": "k5hvt3",
+     "quote": "Use your horn to:"
+    },
+    {
+     "block": "4xnrae",
+     "quote": "Alert oncoming traffic on narrow mountain roads where you cannot see at least 200 feet ahead.",
+     "marks": [
+      "200 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "headlights-purpose",
+   "kind": "practice",
+   "text": "Headlights help you see what is in front of you and make it easier for other drivers to see your vehicle.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Your vehicle’s headlights help you see what is in front of you. They also make it easier for other drivers to see your vehicle."
+    }
+   ]
+  },
+  {
+   "id": "high-beams-dim-oncoming-500",
+   "kind": "rule",
+   "quantities": [
+    "500 feet"
+   ],
+   "text": "Dim your high beams to low beams within 500 feet of a vehicle coming toward you.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Dim your high-beam headlights to low beams within 500 feet of a vehicle coming toward you",
+     "marks": [
+      "500 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "high-beams-dim-following-300",
+   "kind": "rule",
+   "quantities": [
+    "300 feet"
+   ],
+   "text": "Dim your high beams to low beams within 300 feet of a vehicle you are following.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Dim your high-beam headlights to low beams"
+    },
+    {
+     "block": "ub3e57",
+     "quote": "within 300 feet of a vehicle you are following.",
+     "marks": [
+      "300 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "parking-lights-only-illegal",
+   "kind": "rule",
+   "text": "It is illegal to drive using only your parking lights.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "It is illegal to drive using only parking lights."
+    }
+   ]
+  },
+  {
+   "id": "headlights-1000-feet",
+   "kind": "rule",
+   "quantities": [
+    "1,000 feet"
+   ],
+   "text": "Use your headlights when it is too dark to see from 1,000 feet away.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Use your headlights:"
+    },
+    {
+     "block": "j9cswh",
+     "quote": "When it is too dark to see from 1,000 feet away.",
+     "marks": [
+      "1,000 feet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "headlights-sunset-sunrise",
+   "kind": "rule",
+   "quantities": [
+    "30 minutes"
+   ],
+   "text": "Use your headlights from 30 minutes after sunset until 30 minutes before sunrise.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Use your headlights:"
+    },
+    {
+     "block": "akny2e",
+     "quote": "Beginning 30 minutes after sunset.",
+     "marks": [
+      "30 minutes"
+     ]
+    },
+    {
+     "block": "sdz6en",
+     "quote": "Until 30 minutes before sunrise.",
+     "marks": [
+      "30 minutes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "headlights-adverse-weather",
+   "kind": "practice",
+   "text": "Use your headlights in adverse weather.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Use your headlights:"
+    },
+    {
+     "block": "x9j75e",
+     "quote": "In adverse weather."
+    }
+   ]
+  },
+  {
+   "id": "headlights-wipers-low-beams",
+   "kind": "rule",
+   "text": "If you need your windshield wipers because of fog, rain, or snow, you must turn on your low-beam headlights.",
+   "cites": [
+    {
+     "block": "x9j75e",
+     "quote": "If you need to use your windshield wipers due to fog, rain, or snow, you must turn on your low-beam headlights."
+    }
+   ]
+  },
+  {
+   "id": "headlights-low-visibility",
+   "kind": "practice",
+   "text": "Use your headlights when conditions such as clouds, dust, smoke, or fog keep you from seeing other vehicles.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Use your headlights:"
+    },
+    {
+     "block": "2ygurg",
+     "quote": "When conditions (such as clouds, dust, smoke, or fog) prevent you from seeing other vehicles."
+    }
+   ]
+  },
+  {
+   "id": "headlights-mountain-tunnels",
+   "kind": "practice",
+   "text": "Use your headlights on mountain roads and in tunnels, even on sunny days.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Use your headlights:"
+    },
+    {
+     "block": "4pdwnj",
+     "quote": "On mountain roads and tunnels (even on sunny days)."
+    }
+   ]
+  },
+  {
+   "id": "headlights-road-sign",
+   "kind": "rule",
+   "text": "Use your headlights when a road sign says headlights must be on.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Use your headlights:"
+    },
+    {
+     "block": "328cg2",
+     "quote": "When a road sign states that headlights must be on."
+    }
+   ]
+  },
+  {
+   "id": "headlights-low-sun",
+   "kind": "practice",
+   "text": "Use your headlights to help other drivers see you, especially when the sun is low on the horizon.",
+   "cites": [
+    {
+     "block": "ub3e57",
+     "quote": "Use your headlights:"
+    },
+    {
+     "block": "cpt78f",
+     "quote": "To help other drivers see your vehicle, especially when the sun is low on the horizon."
+    }
+   ]
+  },
+  {
+   "id": "warn-hazard-flashers",
+   "kind": "practice",
+   "text": "If you see a collision or hazard ahead, warn drivers behind you by turning on your emergency flashers.",
+   "cites": [
+    {
+     "block": "2ah2n4",
+     "quote": "If you can see a collision or hazard ahead, warn drivers behind you using these methods:"
+    },
+    {
+     "block": "jez94q",
+     "quote": "Turn on your emergency flashers."
+    }
+   ]
+  },
+  {
+   "id": "warn-hazard-tap-brakes",
+   "kind": "practice",
+   "quantities": [
+    "three or four times"
+   ],
+   "text": "If you see a collision or hazard ahead, warn drivers behind you by lightly tapping your brake pedal three or four times.",
+   "cites": [
+    {
+     "block": "2ah2n4",
+     "quote": "If you can see a collision or hazard ahead, warn drivers behind you using these methods:"
+    },
+    {
+     "block": "87h8zn",
+     "quote": "Lightly tap your brake pedal three or four times.",
+     "marks": [
+      "three or four times"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "warn-hazard-hand-signal",
+   "kind": "practice",
+   "text": "If you see a collision or hazard ahead, warn drivers behind you by using a hand signal when slowing and stopping.",
+   "cites": [
+    {
+     "block": "2ah2n4",
+     "quote": "If you can see a collision or hazard ahead, warn drivers behind you using these methods:"
+    },
+    {
+     "block": "cmcjt6",
+     "quote": "Use a hand signal when slowing and stopping."
+    }
+   ]
+  },
+  {
+   "id": "breakdown-flashers",
+   "kind": "practice",
+   "text": "If you must stop because of vehicle trouble, turn on your emergency flashers, or your turn signals if the vehicle has no flashers.",
+   "cites": [
+    {
+     "block": "yttfcv",
+     "quote": "If you need to stop because of vehicle trouble:"
+    },
+    {
+     "block": "bzfuqj",
+     "quote": "Turn on your emergency flashers. If your vehicle does not have emergency flashers, use your turn signals."
+    }
+   ]
+  },
+  {
+   "id": "breakdown-pull-off-road",
+   "kind": "practice",
+   "text": "If you must stop because of vehicle trouble, pull off the road away from all traffic if possible.",
+   "cites": [
+    {
+     "block": "yttfcv",
+     "quote": "If you need to stop because of vehicle trouble:"
+    },
+    {
+     "block": "r7fufj",
+     "quote": "If possible, pull off the road away from all traffic."
+    }
+   ]
+  },
+  {
+   "id": "breakdown-visible-from-behind",
+   "kind": "practice",
+   "text": "If your disabled vehicle cannot get completely off the road, stop where people behind you can see you and your vehicle.",
+   "cites": [
+    {
+     "block": "ndbf4b",
+     "quote": "If you cannot get completely off the road, stop where people can see you and your vehicle from behind."
+    }
+   ]
+  },
+  {
+   "id": "breakdown-not-over-hill-or-curve",
+   "kind": "practice",
+   "text": "Do not stop a disabled vehicle just over a hill or just around a curve, because other drivers may not see it in time to avoid a collision.",
+   "cites": [
+    {
+     "block": "ujqk7b",
+     "quote": "Do not stop just over a hill or just around a curve. Other drivers may not see your vehicle in time to avoid a collision."
+    }
+   ]
+  },
+  {
+   "id": "breakdown-stay-in-vehicle",
+   "kind": "practice",
+   "text": "After stopping for vehicle trouble, call for emergency roadside assistance and stay in your vehicle until help arrives.",
+   "cites": [
+    {
+     "block": "rdhugd",
+     "quote": "Call for emergency roadside assistance and stay in your vehicle until help arrives."
+    }
+   ]
+  }
+ ]
+}

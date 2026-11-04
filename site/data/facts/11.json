@@ -1,0 +1,78 @@
+{
+ "section": 11,
+ "facts": [
+  {
+   "id": "registration-required",
+   "kind": "rule",
+   "text": "You must register your vehicle in California to use it in the state.",
+   "cites": [
+    {
+     "block": "4rjdqy",
+     "quote": "You need to register your vehicle in California to use it in the state."
+    }
+   ]
+  },
+  {
+   "id": "buy-vehicle-transfer-10-days",
+   "kind": "rule",
+   "quantities": [
+    "10 days"
+   ],
+   "text": "When you buy a vehicle, you have 10 days to transfer ownership to your name.",
+   "cites": [
+    {
+     "block": "ze929f",
+     "quote": "When you buy a vehicle, you have 10 days to transfer ownership to your name.",
+     "marks": [
+      "10 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sell-vehicle-notify-5-days",
+   "kind": "rule",
+   "quantities": [
+    "five days"
+   ],
+   "text": "When you sell a vehicle, you must notify the DMV within five days by completing a Notice of Transfer and Release of Liability.",
+   "cites": [
+    {
+     "block": "9uuzz9",
+     "quote": "When you sell a vehicle, you must notify DMV within five days by completing a Notice of Transfer and Release of Liability",
+     "marks": [
+      "five days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "out-of-state-register-20-days",
+   "kind": "rule",
+   "quantities": [
+    "20 days"
+   ],
+   "text": "You have 20 days to register an out-of-state vehicle after you become a California resident or get a job in California.",
+   "cites": [
+    {
+     "block": "ccu6jp",
+     "quote": "You have 20 days to register your vehicle after you become a resident or get a job in California.",
+     "marks": [
+      "20 days"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "registration-emission-requirements",
+   "kind": "process",
+   "text": "All vehicles registered in California must meet California requirements, including emission controls, and the DMV cannot register a vehicle that does not qualify.",
+   "cites": [
+    {
+     "block": "2hg8yf",
+     "quote": "All vehicles registered in California are required to meet California requirements including vehicle emission controls in support of California’s clean air standards. DMV cannot register a vehicle if it does not qualify."
+    }
+   ]
+  }
+ ]
+}

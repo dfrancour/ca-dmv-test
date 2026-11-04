@@ -1,0 +1,277 @@
+{
+ "number": 2,
+ "title": "Getting an Instruction Permit and Driver’s License",
+ "pages": [
+  "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/getting-an-instruction-permit-and-drivers-license/"
+ ],
+ "blocks": [
+  {
+   "id": "nvmafr",
+   "type": "paragraph",
+   "html": "If you do not have a driver’s license from California or another state, you must apply for an instruction permit before taking the behind-the-wheel drive test to get your driver’s license."
+  },
+  {
+   "id": "3jane5",
+   "type": "heading",
+   "level": 2,
+   "html": "What You Need"
+  },
+  {
+   "id": "74kjjy",
+   "type": "paragraph",
+   "html": "To apply for an instruction permit or driver’s license, you must provide:"
+  },
+  {
+   "id": "22cv93",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "3swydu",
+     "html": "<strong>Proof of identity:</strong> Proving who you are."
+    },
+    {
+     "id": "dd9jd8",
+     "html": "<strong>Two proofs of residency:</strong> Proving you live in California. Exceptions may apply."
+    },
+    {
+     "id": "fsn4wp",
+     "html": "<strong>Legal full name document:</strong> Proving your current name if the name on your identity document and application do not match."
+    },
+    {
+     "id": "a8hqag",
+     "html": "<strong>Social security number:</strong> Exceptions may apply."
+    }
+   ]
+  },
+  {
+   "id": "gg4yc6",
+   "type": "paragraph",
+   "html": "For REAL ID requirements, current acceptable documents, and eligibility, visit <a href=\"https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/\">dmv.ca.gov/realid</a>."
+  },
+  {
+   "id": "pvwaew",
+   "type": "heading",
+   "level": 2,
+   "html": "Register To Vote"
+  },
+  {
+   "id": "s8h2hp",
+   "type": "paragraph",
+   "html": "For information on registering to vote, visit California Secretary of State at <a href=\"http://sos.ca.gov\">sos.ca.gov</a>."
+  },
+  {
+   "id": "s45fzp",
+   "type": "heading",
+   "level": 2,
+   "html": "Applying For An Instruction Permit"
+  },
+  {
+   "id": "v8wsf2",
+   "type": "paragraph",
+   "html": "To apply for a Class C instruction permit:"
+  },
+  {
+   "id": "gtt3kb",
+   "type": "list",
+   "ordered": true,
+   "items": [
+    {
+     "id": "m6vx3q",
+     "html": "Complete a Driver’s License &amp; ID Card Application."
+    },
+    {
+     "id": "95m2nd",
+     "html": "Provide your documents."
+    },
+    {
+     "id": "xck534",
+     "html": "Pay a non-refundable application fee."
+    },
+    {
+     "id": "dvekr8",
+     "html": "Pass your knowledge test(s)."
+    },
+    {
+     "id": "7fyrat",
+     "html": "Pass a vision test."
+    }
+   ]
+  },
+  {
+   "id": "8myeba",
+   "type": "paragraph",
+   "html": "For more information, visit <a href=\"https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/instruction-permits/\">dmv.ca.gov/instructionpermit</a> for a complete list of application steps and requirements."
+  },
+  {
+   "id": "xvt4b7",
+   "type": "heading",
+   "level": 3,
+   "html": "If you are under 18 years old, you will also need to:"
+  },
+  {
+   "id": "a6g7v3",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "5k9ucg",
+     "html": "Be at least 15½ years old."
+    },
+    {
+     "id": "akvfhp",
+     "html": "Complete a driver education program."
+    },
+    {
+     "id": "pz6836",
+     "html": "Have a parent or guardian sign to approve the application and accept financial responsibility (see Section 10). If your parents or guardians share joint custody of you, both must sign."
+    },
+    {
+     "id": "skys9p",
+     "html": "Wait to use your instruction permit until you start behind-the-wheel driver training with an instructor who will validate the permit."
+    }
+   ]
+  },
+  {
+   "id": "mm8rbp",
+   "type": "heading",
+   "level": 2,
+   "html": "Driving Schools"
+  },
+  {
+   "id": "m69krk",
+   "type": "paragraph",
+   "html": "Driver education and driver training are offered at DMV-licensed driving schools and some high schools. Instructors must carry an instructor’s ID card. Ask to see it."
+  },
+  {
+   "id": "vw87v4",
+   "type": "paragraph",
+   "html": "See the Driver Training Schools page at <a href=\"https://www.dmv.ca.gov/portal/driver-education-and-safety/\">dmv.ca.gov/driver-ed</a> for more information about selecting a driving school."
+  },
+  {
+   "id": "96jjuz",
+   "type": "heading",
+   "level": 2,
+   "html": "Applying For A Driver’s License"
+  },
+  {
+   "id": "gfu4hc",
+   "type": "heading",
+   "level": 3,
+   "html": "To get your driver’s license after you have your instruction permit, you need to:"
+  },
+  {
+   "id": "e7fpdx",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "b4ay6c",
+     "html": "Practice driving with a California-licensed driver who is at least 18 years old (25 for minors). This person must sit close enough to take control of the vehicle if needed."
+    },
+    {
+     "id": "cdeymh",
+     "html": "Pass a behind-the-wheel drive test."
+    }
+   ]
+  },
+  {
+   "id": "z4hsck",
+   "type": "heading",
+   "level": 3,
+   "html": "If you are under 18 years old, you will also need to:"
+  },
+  {
+   "id": "r587sy",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "9vcdts",
+     "html": "Be at least 16 years old."
+    },
+    {
+     "id": "exq42g",
+     "html": "Have an instruction permit from California or another state for at least 6 months (or turn 18 years old) before scheduling your behind-the-wheel drive test."
+    },
+    {
+     "id": "jk4kpy",
+     "html": "Prove that you completed <strong>both</strong> driver education and driver training."
+    },
+    {
+     "id": "dgmxhj",
+     "html": "Practice driving for at least 50 hours with a California-licensed driver who is at least 25 years old. Ten hours must be at night."
+    }
+   ]
+  },
+  {
+   "id": "3t2q5g",
+   "type": "paragraph",
+   "html": "See the Driver’s Licenses page at <strong><a href=\"http://dmv.ca.gov/teendriver\">dmv.ca.gov/teendriver</a></strong> for the complete list of application steps, requirements, the Parent Teen Driving Contract, and Driving Performance Evaluation (DPE) Score Sheet."
+  },
+  {
+   "id": "vv7zpg",
+   "type": "heading",
+   "level": 2,
+   "html": "Minor’s Restrictions and Exceptions"
+  },
+  {
+   "id": "p386wu",
+   "type": "paragraph",
+   "html": "When you are under 18 years old, your driver’s license will have the word provisional. As a provisional driver, you <strong>cannot</strong> drive:"
+  },
+  {
+   "id": "qk7xhf",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "5brcbr",
+     "html": "Between 11 p.m. and 5 a.m. during the first 12 months you have your license."
+    },
+    {
+     "id": "ua9gka",
+     "html": "With passengers under 20 years old, unless your parent or guardian or other California-licensed driver (at least 25 years old) rides with you."
+    },
+    {
+     "id": "442tye",
+     "html": "For pay or operate vehicles that require a commercial Class A, B, or C license."
+    }
+   ]
+  },
+  {
+   "id": "uuw9p9",
+   "type": "paragraph",
+   "html": "There are exceptions to these restrictions if you:"
+  },
+  {
+   "id": "nfypjp",
+   "type": "list",
+   "ordered": false,
+   "items": [
+    {
+     "id": "332j6m",
+     "html": "Have a medical need and cannot reasonably find another way to travel. You must carry a note signed by your physician. The note must have your medical condition and date you are expected to recover."
+    },
+    {
+     "id": "2rdaqf",
+     "html": "Drive for schooling or a school activity. You must carry a note signed by your school principal, dean, or designee."
+    },
+    {
+     "id": "rs53bu",
+     "html": "Must drive for work reasons. You must carry a note signed by your employer. The note must confirm your employment."
+    },
+    {
+     "id": "hcmua7",
+     "html": "Must drive an immediate family member. You must carry a note signed by your parent or legal guardian. The note must state the reason you need to drive, the family member, and date when the need will end."
+    }
+   ]
+  },
+  {
+   "id": "ykgm8j",
+   "type": "note",
+   "kind": "note",
+   "html": "A parent or guardian may cancel their teen’s license by completing a Request for Cancellation or Surrender of a Driver License or ID Card form."
+  }
+ ]
+}

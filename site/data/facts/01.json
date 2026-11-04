@@ -1,0 +1,167 @@
+{
+ "section": 1,
+ "facts": [
+  {
+   "id": "license-allows-public-roads",
+   "kind": "process",
+   "text": "A California driver's license allows you to drive on public roads.",
+   "cites": [
+    {
+     "block": "emme7w",
+     "quote": "A California driver’s license allows you to drive on public roads."
+    }
+   ]
+  },
+  {
+   "id": "license-tests-required",
+   "kind": "process",
+   "text": "To get a California driver's license you must pass both a knowledge test and a behind-the-wheel drive test.",
+   "cites": [
+    {
+     "block": "yjq8gz",
+     "quote": "you are required to pass the knowledge and behind-the-wheel drive tests"
+    }
+   ]
+  },
+  {
+   "id": "license-correct-class-for-vehicle",
+   "kind": "rule",
+   "text": "You must have the correct class of license for the type of vehicle you drive.",
+   "cites": [
+    {
+     "block": "x9vzc7",
+     "quote": "You must have the correct license to drive your vehicle type."
+    }
+   ]
+  },
+  {
+   "id": "license-class-c-most-drivers",
+   "kind": "process",
+   "text": "Most people need a noncommercial Class C driver's license.",
+   "cites": [
+    {
+     "block": "x9vzc7",
+     "quote": "Most people need a noncommercial Class C driver’s license."
+    }
+   ]
+  },
+  {
+   "id": "license-other-classes",
+   "kind": "process",
+   "text": "Driving commercial vehicles, motorcycles, and other types of vehicles requires a different class of license than Class C.",
+   "cites": [
+    {
+     "block": "x9vzc7",
+     "quote": "To operate commercial vehicles, motorcycles, and other types of vehicles, you must have a different class of license."
+    }
+   ]
+  },
+  {
+   "id": "real-id-domestic-flights",
+   "kind": "process",
+   "quantities": [
+    "May 2025"
+   ],
+   "text": "Beginning May 2025, your driver's license or ID card must be REAL ID compliant if you use it to board an airplane for domestic flights.",
+   "cites": [
+    {
+     "block": "naxnv9",
+     "quote": "Beginning May 2025, your driver’s license or identification (ID) card must be REAL ID compliant if you use it to:",
+     "marks": [
+      "May 2025"
+     ]
+    },
+    {
+     "block": "8vu9pz",
+     "quote": "Board an airplane for domestic flights."
+    }
+   ]
+  },
+  {
+   "id": "real-id-military-bases",
+   "kind": "process",
+   "quantities": [
+    "May 2025"
+   ],
+   "text": "Beginning May 2025, your driver's license or ID card must be REAL ID compliant if you use it to enter military bases.",
+   "cites": [
+    {
+     "block": "naxnv9",
+     "quote": "Beginning May 2025, your driver’s license or identification (ID) card must be REAL ID compliant if you use it to:",
+     "marks": [
+      "May 2025"
+     ]
+    },
+    {
+     "block": "ksrtku",
+     "quote": "Enter military bases."
+    }
+   ]
+  },
+  {
+   "id": "real-id-federal-facilities",
+   "kind": "process",
+   "quantities": [
+    "May 2025"
+   ],
+   "text": "Beginning May 2025, your driver's license or ID card must be REAL ID compliant if you use it to enter most federal facilities.",
+   "cites": [
+    {
+     "block": "naxnv9",
+     "quote": "Beginning May 2025, your driver’s license or identification (ID) card must be REAL ID compliant if you use it to:",
+     "marks": [
+      "May 2025"
+     ]
+    },
+    {
+     "block": "ejw7k3",
+     "quote": "Enter most federal facilities."
+    }
+   ]
+  },
+  {
+   "id": "license-regardless-of-immigration-status",
+   "kind": "process",
+   "text": "California offers driver's licenses to all residents regardless of immigration status.",
+   "cites": [
+    {
+     "block": "98quee",
+     "quote": "California offers driver’s licenses for all residents regardless of immigration status."
+    }
+   ]
+  },
+  {
+   "id": "id-card-any-age",
+   "kind": "process",
+   "text": "ID cards are issued for identification to eligible persons of any age.",
+   "cites": [
+    {
+     "block": "rurt56",
+     "quote": "ID cards are issued for identification purposes to eligible persons of any age."
+    }
+   ]
+  },
+  {
+   "id": "id-card-not-for-driving",
+   "kind": "process",
+   "text": "An ID card does not permit you to drive.",
+   "cites": [
+    {
+     "block": "rurt56",
+     "quote": "They do not permit you to drive."
+    }
+   ]
+  },
+  {
+   "id": "id-card-documents",
+   "kind": "process",
+   "text": "To get an ID card, you must provide your identity document, residency documents, and social security number.",
+   "cites": [
+    {
+     "block": "rurt56",
+     "quote": "To get an ID, you must provide your identity document, residency documents, and social security number."
+    }
+   ]
+  }
+ ]
+}

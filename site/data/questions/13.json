@@ -1,0 +1,65 @@
+{
+ "section": 13,
+ "questions": [
+  {
+   "id": "q-unsafe-signs",
+   "facts": [
+    "unsafe-driver-warning-signs"
+   ],
+   "prompt": "Which of these is a warning sign of an unsafe driver?",
+   "choices": [
+    "Adding a mirror on the right side.",
+    "Getting lost in familiar places.",
+    "One close call in several years."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Warning signs include getting lost in familiar places, new dents and scrapes, and frequent close calls or collisions."
+  },
+  {
+   "id": "q-senior-night",
+   "facts": [
+    "senior-night-driving"
+   ],
+   "prompt": "An older driver who sees poorly at night must drive after dark. What does the handbook suggest?",
+   "choices": [
+    "Choose a well-lit route.",
+    "Use high beams the whole way.",
+    "Drive faster to shorten the trip."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Seniors may limit night driving and, when they must drive at night, choose a well-lit route."
+  },
+  {
+   "id": "q-senior-adjustments",
+   "facts": [
+    "senior-driving-adjustments"
+   ],
+   "prompt": "Which of these changes can help an older driver stay safe?",
+   "choices": [
+    "Using freeways to avoid intersections.",
+    "Driving when traffic is light.",
+    "Driving at rush hour, when others are alert."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Seniors may drive when traffic is light, avoid difficult intersections and freeways, keep trips short, and add a right-side mirror."
+  },
+  {
+   "id": "q-dementia",
+   "facts": [
+    "dementia-driving"
+   ],
+   "prompt": "What happens to the driving ability of a person with progressive dementia?",
+   "choices": [
+    "In time, they can no longer drive safely.",
+    "It stays steady if they keep driving often.",
+    "It returns once they start taking medicine."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "People with progressive dementia ultimately lose the ability to drive safely, and caregivers, doctors or police often must stop them."
+  }
+ ]
+}

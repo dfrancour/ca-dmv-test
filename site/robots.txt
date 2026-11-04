@@ -1,0 +1,5 @@
+# Search engines and AI crawlers are all welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://ca-dmv-test.dfrancour.dev/sitemap.xml

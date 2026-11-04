@@ -1,0 +1,2595 @@
+{
+ "section": 7,
+ "questions": [
+  {
+   "id": "q-signals-yield",
+   "facts": [
+    "signals-yield-right-of-way"
+   ],
+   "prompt": "As you approach a traffic signal or sign, whom should you be ready to yield to?",
+   "choices": [
+    "Anyone who may have the right-of-way.",
+    "No one, once your light has turned green.",
+    "Pedestrians in marked crosswalks, and no others."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "At or near signals and signs, yield to pedestrians, bicyclists and other vehicles that may have the right-of-way, not just one group."
+  },
+  {
+   "id": "q-red-light-right-turn",
+   "facts": [
+    "red-light-right-turn-conditions",
+    "solid-red-light"
+   ],
+   "prompt": "No sign forbids it. What must you do before turning right at a solid red light?",
+   "choices": [
+    "Stop at the limit line and yield to pedestrians.",
+    "Slow down and yield, without needing to stop.",
+    "Wait for a green arrow pointing to the right."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "A right turn on red is allowed unless a sign forbids it, but only after a full stop at the limit line and yielding to pedestrians."
+  },
+  {
+   "id": "q-flashing-red",
+   "facts": [
+    "flashing-red-light"
+   ],
+   "prompt": "The traffic light ahead is flashing like this. What should you do?",
+   "figure": {
+    "block": "m6qk8g"
+   },
+   "choices": [
+    "Slow down and go ahead with caution.",
+    "Stop and wait for the light to turn green.",
+    "Stop, then go when it is safe."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "A flashing red light works like a STOP sign: stop, then proceed when it is safe. Slowing without stopping is the rule for a flashing yellow light."
+  },
+  {
+   "id": "q-solid-yellow",
+   "facts": [
+    "solid-yellow-light"
+   ],
+   "prompt": "The light changes to this as you near the intersection. What should you do?",
+   "figure": {
+    "block": "fre3fr"
+   },
+   "choices": [
+    "Speed up to clear the intersection before red.",
+    "Stop at once, even if it means braking hard.",
+    "Stop if you can do so safely."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "A yellow light warns that red is coming. Stop if you can do so safely; if you can't, cross the intersection with caution."
+  },
+  {
+   "id": "q-yellow-arrow",
+   "facts": [
+    "yellow-arrow"
+   ],
+   "prompt": "You are turning left on a green arrow, already in the intersection, when the arrow changes to this. What should you do?",
+   "figure": {
+    "block": "75va34",
+    "alt": "A yellow arrow pointing left."
+   },
+   "choices": [
+    "Stop where you are and wait for the next arrow.",
+    "Complete your turn with caution.",
+    "Speed up to beat the red light."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A yellow arrow means the protected turn is ending. If you are already in the intersection or can't stop safely, finish the turn carefully."
+  },
+  {
+   "id": "q-flashing-yellow-arrow",
+   "facts": [
+    "flashing-yellow-arrow",
+    "green-arrow"
+   ],
+   "prompt": "You want to turn left, and this arrow is flashing. What should you do?",
+   "figure": {
+    "block": "cxxhrk",
+    "alt": "A flashing yellow arrow pointing left."
+   },
+   "choices": [
+    "Turn; oncoming traffic is stopped for you.",
+    "Turn after yielding to oncoming traffic.",
+    "Stop and wait for a solid green arrow."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A flashing yellow arrow allows the turn but does not protect it, so yield to oncoming traffic first. Only a green arrow means oncoming traffic is stopped."
+  },
+  {
+   "id": "q-green-arrow",
+   "facts": [
+    "green-arrow",
+    "flashing-yellow-arrow"
+   ],
+   "prompt": "You are in a left-turn lane and the signal shows this. What does it tell you?",
+   "figure": {
+    "block": "9c7tdf",
+    "alt": "A green arrow pointing left."
+   },
+   "choices": [
+    "You may turn; oncoming traffic is stopped.",
+    "You may turn after yielding to oncoming cars.",
+    "You may go straight or turn left."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "A green arrow is a protected turn in the direction of the arrow: oncoming traffic has a red light. Yielding to oncoming cars is the rule for a flashing yellow arrow."
+  },
+  {
+   "id": "q-signal-not-working",
+   "facts": [
+    "traffic-light-not-working"
+   ],
+   "prompt": "You reach an intersection where the traffic lights are not working. What should you do?",
+   "choices": [
+    "Slow down and yield, as at a YIELD sign.",
+    "Go through if the main road looks clear.",
+    "Stop, as you would at an all-way STOP."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Treat a dark signal as if there were STOP signs in all directions: stop, then go when it is safe."
+  },
+  {
+   "id": "q-flashing-dont-walk",
+   "facts": [
+    "flashing-dont-walk"
+   ],
+   "prompt": "A pedestrian signal shows a flashing raised hand. What does it tell pedestrians?",
+   "choices": [
+    "Start crossing now; the walk signal is next.",
+    "Start crossing only if no cars are turning.",
+    "Do not start crossing; the light is about to change."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "A flashing Don't Walk or raised hand warns that the light is about to change, so pedestrians should not start to cross."
+  },
+  {
+   "id": "q-steady-dont-walk",
+   "facts": [
+    "dont-walk-signal"
+   ],
+   "prompt": "A pedestrian signal shows a steady raised hand. What does it mean?",
+   "choices": [
+    "Pedestrians may cross only within the crosswalk.",
+    "Pedestrians may not cross the street.",
+    "Pedestrians may cross if they hurry."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A steady Don't Walk or raised hand means pedestrians may not cross."
+  },
+  {
+   "id": "q-push-button",
+   "facts": [
+    "pedestrian-push-button",
+    "walk-signal"
+   ],
+   "prompt": "What does pressing a pedestrian push button at a crossing do?",
+   "choices": [
+    "It turns every traffic light red at once.",
+    "It brings up the WALK signal.",
+    "It lets you cross against a red light."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "The push button activates the WALK or walking-person signal, which tells pedestrians they may cross."
+  },
+  {
+   "id": "q-countdown",
+   "facts": [
+    "pedestrian-countdown"
+   ],
+   "prompt": "What do the numbers on a pedestrian signal count down?",
+   "choices": [
+    "The seconds until the walk signal comes on.",
+    "The seconds until cars may turn right on red.",
+    "The seconds left to cross the street."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Countdown numbers show pedestrians how many seconds they have left to cross."
+  },
+  {
+   "id": "q-diagonal-crosswalk",
+   "facts": [
+    "diagonal-crossing"
+   ],
+   "prompt": "When may pedestrians cross on a diagonal (crisscross) crosswalk?",
+   "choices": [
+    "Whenever no cars are in the intersection.",
+    "Only when the walk signal allows it.",
+    "Only when the vehicle lights are green."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Diagonal crosswalks let pedestrians cross in any direction at once, but only when the walk signal allows it."
+  },
+  {
+   "id": "q-crossing-sounds",
+   "facts": [
+    "pedestrian-signal-sounds"
+   ],
+   "prompt": "What are beeping or chirping sounds at a crossing for?",
+   "choices": [
+    "To warn drivers the light will change.",
+    "To help blind pedestrians cross.",
+    "To tell pedestrians their time is ending."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Beeps, chirps and spoken messages help blind or visually impaired pedestrians cross the street."
+  },
+  {
+   "id": "q-no-ped-signals",
+   "facts": [
+    "no-pedestrian-signals"
+   ],
+   "prompt": "At an intersection with no pedestrian signals, what do pedestrians obey?",
+   "choices": [
+    "The traffic signals for vehicles.",
+    "Their own sense of gaps in traffic.",
+    "Only STOP signs, where there are any."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Where there are no pedestrian signals, pedestrians follow the vehicle traffic signals."
+  },
+  {
+   "id": "q-warning-signs-obey",
+   "facts": [
+    "obey-warning-signs"
+   ],
+   "prompt": "A sign warns of a hazard ahead, but it isn't diamond-shaped. How should you treat it?",
+   "choices": [
+    "Obey it; any warning sign must be obeyed.",
+    "Treat it as advice; warning signs aren't laws.",
+    "Obey it only if it is yellow."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "You must obey every warning sign, whatever its shape or color, not just diamond-shaped ones."
+  },
+  {
+   "id": "q-stop-sign-full",
+   "facts": [
+    "stop-sign"
+   ],
+   "prompt": "You reach this sign and the roads look empty. What must you do?",
+   "figure": {
+    "block": "5brm48"
+   },
+   "choices": [
+    "Slow down and roll through if it is safe.",
+    "Slow to a crawl and look both ways.",
+    "Stop fully and check every direction."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "A STOP sign always requires a full stop and a check of traffic in all directions, even when the road looks empty."
+  },
+  {
+   "id": "q-yield-sign",
+   "facts": [
+    "yield-sign"
+   ],
+   "prompt": "What should you do at this sign?",
+   "figure": {
+    "block": "bsbkr9"
+   },
+   "choices": [
+    "Slow down and be ready to stop.",
+    "Come to a full stop every time.",
+    "Slow down and yield only to cars."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "A YIELD sign means slow down and be ready to stop to let vehicles, bicyclists or pedestrians pass first."
+  },
+  {
+   "id": "q-wrong-way",
+   "facts": [
+    "wrong-way-sign"
+   ],
+   "prompt": "Just after turning onto a road, you see this sign facing you. What should you do?",
+   "figure": {
+    "block": "arvwqu"
+   },
+   "choices": [
+    "Keep going carefully to the next exit.",
+    "Stop in your lane and wait for help.",
+    "Back out or turn around when it is safe."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "WRONG WAY signs mean you are against traffic. When it is safe, back out or turn around."
+  },
+  {
+   "id": "q-red-reflectors",
+   "facts": [
+    "wrong-way-red-reflectors"
+   ],
+   "prompt": "Driving at night, you see the road reflectors shining red in your headlights. What does this mean?",
+   "choices": [
+    "You are going the wrong way.",
+    "A railroad crossing is just ahead.",
+    "A work zone is just ahead."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Reflectors that shine red back at you mean you are driving the wrong way on the road."
+  },
+  {
+   "id": "q-red-circle-line",
+   "facts": [
+    "red-circle-line-sign"
+   ],
+   "prompt": "What does a sign like this one mean?",
+   "figure": {
+    "block": "muem8k",
+    "alt": "A U-turn arrow inside a red circle, with a red line through it."
+   },
+   "choices": [
+    "Do what the picture shows, with caution.",
+    "What the picture shows is just ahead.",
+    "You may not do what the picture shows."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "A red circle with a slash means the action in the picture is not allowed."
+  },
+  {
+   "id": "q-railroad-round-sign",
+   "facts": [
+    "railroad-crossing-sign"
+   ],
+   "prompt": "You see this sign ahead. What should you do?",
+   "figure": {
+    "block": "5pfcdt",
+    "alt": "A round yellow sign with a black X and the letters R R."
+   },
+   "choices": [
+    "Look, listen, slow down, and be ready to stop.",
+    "Stop at the sign, then go if no gate is down.",
+    "Keep your speed unless lights are flashing."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "This sign warns of a railroad crossing ahead. Look and listen, slow down, prepare to stop, and let any trains pass."
+  },
+  {
+   "id": "q-railroad-blue-sign",
+   "facts": [
+    "railroad-blue-emergency-sign"
+   ],
+   "prompt": "At many railroad crossings, what does a blue and white sign tell you?",
+   "choices": [
+    "How far away the next train is.",
+    "What to do in an emergency at the tracks.",
+    "The speed limit for crossing the tracks."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "The blue and white sign tells you what to do if there is an emergency on or near the tracks, or if your vehicle stalls on them."
+  },
+  {
+   "id": "q-five-sided-sign",
+   "facts": [
+    "five-sided-school-sign"
+   ],
+   "prompt": "You see a five-sided sign ahead. What does it tell you?",
+   "choices": [
+    "A railroad crossing is ahead.",
+    "You are near a school.",
+    "A no-passing zone begins."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A five-sided sign means a school is near: drive slowly and stop for children in the crosswalk."
+  },
+  {
+   "id": "q-diamond-sign",
+   "facts": [
+    "diamond-sign"
+   ],
+   "prompt": "What does a diamond-shaped sign warn you about?",
+   "choices": [
+    "Rules you must obey, such as speed limits.",
+    "Services such as gas and food ahead.",
+    "Specific road conditions and dangers ahead."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Diamond-shaped signs warn of road conditions and dangers ahead. Rules you must obey are on white rectangular signs."
+  },
+  {
+   "id": "q-white-rectangle-sign",
+   "facts": [
+    "white-rectangular-sign"
+   ],
+   "prompt": "What does a white rectangular sign tell you?",
+   "choices": [
+    "A danger on the road ahead.",
+    "A rule you must obey.",
+    "Services such as gas and food."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "White rectangular signs state rules you must obey. Diamond signs warn of dangers, and five-sided signs mark schools."
+  },
+  {
+   "id": "q-first-to-arrive",
+   "facts": [
+    "right-of-way-first-arrival"
+   ],
+   "prompt": "Two vehicles approach an intersection. Which one generally has the right-of-way?",
+   "choices": [
+    "The one on the wider road.",
+    "The one that arrives first.",
+    "The one going straight."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "The vehicle that arrives at an intersection first has the right-of-way, and others must wait for it."
+  },
+  {
+   "id": "q-never-assume-row",
+   "facts": [
+    "right-of-way-never-assume"
+   ],
+   "prompt": "A driver who should yield to you doesn't seem to be slowing down. What should you do?",
+   "choices": [
+    "Give up your right-of-way to avoid a crash.",
+    "Keep going, since the right-of-way is yours.",
+    "Sound your horn and hold your speed."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Never assume others will yield. Giving up your right-of-way to prevent a collision is the safe choice."
+  },
+  {
+   "id": "q-uncontrolled-meaning",
+   "facts": [
+    "controlled-uncontrolled-intersections"
+   ],
+   "prompt": "What makes an intersection uncontrolled?",
+   "choices": [
+    "It has STOP signs on only two corners.",
+    "It has no signs or traffic lights.",
+    "It has no marked crosswalks."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Controlled intersections have signs or traffic lights; uncontrolled ones have neither."
+  },
+  {
+   "id": "q-uncontrolled-same-time",
+   "facts": [
+    "uncontrolled-intersection-yield-right"
+   ],
+   "prompt": "At an intersection with no STOP or YIELD signs, a bicyclist on your right arrives at the same time as you. Who goes first?",
+   "choices": [
+    "The bicyclist.",
+    "You, because you are in a motor vehicle.",
+    "Whoever signals first."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "At an uncontrolled intersection, when you arrive together, give the right-of-way to the vehicle, bicyclist or pedestrian on your right."
+  },
+  {
+   "id": "q-t-intersection",
+   "facts": [
+    "t-intersection-through-road"
+   ],
+   "prompt": "You are on the road that ends at a T intersection with no STOP or YIELD sign. Who has the right-of-way?",
+   "choices": [
+    "You, if you arrived first.",
+    "Whoever is on the right.",
+    "Traffic on the through road."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "At a T intersection without signs, vehicles, bicyclists and pedestrians on the through road have the right-of-way."
+  },
+  {
+   "id": "q-entering-traffic",
+   "facts": [
+    "entering-traffic-yield"
+   ],
+   "prompt": "You are pulling out of a parking lot onto a busy street. Who has the right-of-way?",
+   "choices": [
+    "You, once your turn signal is on.",
+    "You, if you are turning right.",
+    "Traffic already on the street."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "When entering traffic, yield to vehicles already in the lanes and go only when it is safe."
+  },
+  {
+   "id": "q-ped-follow-rules",
+   "facts": [
+    "pedestrians-follow-rules",
+    "pedestrians-always-right-of-way"
+   ],
+   "prompt": "Pedestrians have the right-of-way at intersections. Do they also have to follow the rules of the road?",
+   "choices": [
+    "No, only drivers must follow them.",
+    "Only when they are outside a crosswalk.",
+    "Yes, they must follow them too."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Pedestrians always have the right-of-way at intersections, but they must also follow the rules of the road."
+  },
+  {
+   "id": "q-crosswalk-row",
+   "facts": [
+    "crosswalk-right-of-way"
+   ],
+   "prompt": "A pedestrian starts across at a corner where the crosswalk has no painted lines. Who has the right-of-way?",
+   "choices": [
+    "You, because the crosswalk is unmarked.",
+    "Whoever reaches the spot first.",
+    "The pedestrian."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Pedestrians have the right-of-way in marked and unmarked crosswalks alike."
+  },
+  {
+   "id": "q-roundabout-direction",
+   "facts": [
+    "roundabout-one-direction",
+    "roundabout-counter-clockwise"
+   ],
+   "prompt": "In which direction do you travel in a roundabout?",
+   "choices": [
+    "Clockwise, around the center island.",
+    "Either way, by the shortest route.",
+    "Counter-clockwise, around the center island."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Traffic in a roundabout moves in one direction, counter-clockwise, around a central island."
+  },
+  {
+   "id": "q-roundabout-no-passing",
+   "facts": [
+    "roundabout-counter-clockwise",
+    "roundabout-missed-exit",
+    "roundabout-signal"
+   ],
+   "prompt": "Which of these is illegal inside a roundabout?",
+   "choices": [
+    "Changing lanes with a signal.",
+    "Going around more than once.",
+    "Passing another vehicle."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "You may not stop or pass in a roundabout. Signaling a lane change is expected, and going around again is how you return to a missed exit."
+  },
+  {
+   "id": "q-roundabout-yield",
+   "facts": [
+    "roundabout-slow-yield"
+   ],
+   "prompt": "As you approach a roundabout, whom must you yield to?",
+   "choices": [
+    "All traffic already in the circle.",
+    "Only traffic entering from your right.",
+    "No one; traffic in the circle yields to you."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Slow down as you approach a roundabout and yield to all traffic already in it."
+  },
+  {
+   "id": "q-roundabout-enter",
+   "facts": [
+    "roundabout-enter-right"
+   ],
+   "prompt": "How do you enter a roundabout?",
+   "choices": [
+    "Turn right into it when there is a safe gap.",
+    "Turn left into it to take the shortest path.",
+    "Drive in and stop until the circle is clear."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Enter heading to the right, when there is a big enough gap to merge safely."
+  },
+  {
+   "id": "q-roundabout-signal",
+   "facts": [
+    "roundabout-signal"
+   ],
+   "prompt": "When should you use your turn signal in a roundabout?",
+   "choices": [
+    "Only as you enter it.",
+    "Never; signals confuse others there.",
+    "When changing lanes or exiting."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Signal when you change lanes or exit a roundabout."
+  },
+  {
+   "id": "q-roundabout-missed-exit",
+   "facts": [
+    "roundabout-missed-exit"
+   ],
+   "prompt": "You miss your exit in a roundabout. What should you do?",
+   "choices": [
+    "Stop and back up to the exit.",
+    "Stop and wait for a gap to cut across.",
+    "Keep going around until you reach it again."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "If you miss your exit, continue around the roundabout until you come back to it. Never stop or back up."
+  },
+  {
+   "id": "q-roundabout-right-turn",
+   "facts": [
+    "roundabout-turn-right"
+   ],
+   "prompt": "In a two-lane roundabout, which lanes should you use to turn right?",
+   "choices": [
+    "Enter in the left lane and exit right.",
+    "Either lane, then exit in the right lane.",
+    "Enter and exit in the right lane."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "To turn right in a multilane roundabout, choose the right lane to enter and exit in the right lane."
+  },
+  {
+   "id": "q-roundabout-straight",
+   "facts": [
+    "roundabout-go-straight"
+   ],
+   "prompt": "To go straight through a two-lane roundabout, which lane may you use?",
+   "choices": [
+    "Only the left lane, moving right to exit.",
+    "Either lane, moving to the right lane to exit.",
+    "Either lane, exiting in the lane you entered."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "To go straight you may use either lane, and you exit in the same lane you entered."
+  },
+  {
+   "id": "q-who-is-pedestrian",
+   "facts": [
+    "pedestrian-definition"
+   ],
+   "prompt": "Which of these people counts as a pedestrian?",
+   "choices": [
+    "A person riding a bicycle.",
+    "A person driving a golf cart.",
+    "A person on a skateboard."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Pedestrians include people walking and people on things other than vehicles or bicycles, such as skateboards or roller skates."
+  },
+  {
+   "id": "q-stopped-at-crosswalk",
+   "facts": [
+    "no-passing-stopped-at-crosswalk"
+   ],
+   "prompt": "A car in the lane next to you is stopped at a crosswalk. What should you do?",
+   "choices": [
+    "Pass slowly while ready to stop.",
+    "Do not pass it; someone may be crossing.",
+    "Pass it if your light is green."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Never pass a vehicle stopped at a crosswalk. It may hide a pedestrian who is crossing."
+  },
+  {
+   "id": "q-ped-eye-contact",
+   "facts": [
+    "pedestrian-eye-contact"
+   ],
+   "prompt": "A pedestrian waiting at the curb makes eye contact with you. What does it usually mean?",
+   "choices": [
+    "They are waving you through first.",
+    "They are ready to cross; yield to them.",
+    "They have seen you and will wait."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Eye contact usually means a pedestrian is ready to cross, so yield to them."
+  },
+  {
+   "id": "q-crosswalk-lights-off",
+   "facts": [
+    "crosswalk-flashing-lights"
+   ],
+   "prompt": "You approach a crosswalk with flashing lights, but the lights are not flashing. What should you do?",
+   "choices": [
+    "Keep going, since no one is crossing.",
+    "Stop and wait for the lights to flash.",
+    "Look for pedestrians and be ready to stop."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Whether or not the lights are flashing, look for pedestrians and be prepared to stop."
+  },
+  {
+   "id": "q-white-cane-row",
+   "facts": [
+    "blind-pedestrian-right-of-way"
+   ],
+   "prompt": "A pedestrian with a white cane starts across the street against your green light. Who has the right-of-way?",
+   "choices": [
+    "You, because your light is green.",
+    "The pedestrian, but only in a crosswalk.",
+    "The pedestrian, at all times."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Pedestrians using guide dogs or white canes are partly or fully blind and have the right-of-way at all times."
+  },
+  {
+   "id": "q-blind-ped-quiet-car",
+   "facts": [
+    "blind-pedestrian-quiet-vehicles"
+   ],
+   "prompt": "Why take extra care when backing up near a blind pedestrian in a hybrid or electric car?",
+   "choices": [
+    "They rely on sound, and it is quiet.",
+    "Its headlights are harder for them to see.",
+    "It speeds up faster than a gas car."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Blind pedestrians rely on sound to know a vehicle is near, and hybrid and electric vehicles make little noise."
+  },
+  {
+   "id": "q-blind-ped-horn",
+   "facts": [
+    "blind-pedestrian-no-horn"
+   ],
+   "prompt": "A blind pedestrian is slow to finish crossing in front of you. What should you do?",
+   "choices": [
+    "Tap your horn so they know you are there.",
+    "Drive slowly around them.",
+    "Wait quietly without using your horn."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Never honk at a blind person; it can confuse them. Wait until they have crossed."
+  },
+  {
+   "id": "q-blind-ped-cane",
+   "facts": [
+    "blind-pedestrian-cane-pulled-in"
+   ],
+   "prompt": "At an intersection, a blind pedestrian pulls in their cane and steps back from the curb. What does this usually mean?",
+   "choices": [
+    "They are about to cross.",
+    "They need help crossing.",
+    "You may go."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "When a blind person pulls in their cane and steps away from the intersection, it usually means you may go."
+  },
+  {
+   "id": "q-mountain-road",
+   "facts": [
+    "mountain-road-uphill-right-of-way",
+    "mountain-road-downhill-control"
+   ],
+   "prompt": "On a steep, narrow road you meet another car and neither can pass. You are facing downhill. What should you do?",
+   "choices": [
+    "Wait for the other driver to back down.",
+    "Hold your place; downhill traffic goes first.",
+    "Back up until the other car can pass."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "The vehicle facing uphill has the right-of-way. The downhill vehicle backs up, since it has more control backing up the hill."
+  },
+  {
+   "id": "q-truck-mirrors",
+   "facts": [
+    "truck-side-mirrors"
+   ],
+   "prompt": "How can you tell that a truck driver probably can't see you?",
+   "choices": [
+    "You are more than a lane away from it.",
+    "You can't see its side mirrors.",
+    "You can see the driver's face in its mirror."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "If you cannot see a truck's side mirrors, the driver cannot see you."
+  },
+  {
+   "id": "q-car-stop-55",
+   "facts": [
+    "stopping-distance-55-mph"
+   ],
+   "prompt": "At 55 mph, about how far does an average passenger vehicle need to stop?",
+   "choices": [
+    "About 100 feet.",
+    "About 300 feet.",
+    "About 400 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "At 55 mph a passenger vehicle can stop within about 300 feet. A large vehicle can take up to 400 feet."
+  },
+  {
+   "id": "q-truck-stop-55",
+   "facts": [
+    "stopping-distance-55-mph",
+    "trucks-longer-stopping"
+   ],
+   "prompt": "At 55 mph, how far can it take a large truck to stop?",
+   "choices": [
+    "Up to 400 feet.",
+    "Up to 300 feet.",
+    "Up to 200 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Large vehicles take longer to stop than cars at the same speed: up to 400 feet at 55 mph, against about 300 feet for a car."
+  },
+  {
+   "id": "q-loaded-truck",
+   "facts": [
+    "truck-heavier-faster-longer-stop"
+   ],
+   "prompt": "Which of these trucks would take longest to stop?",
+   "choices": [
+    "An empty truck going fast.",
+    "A loaded truck going slowly.",
+    "A loaded truck going fast."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "The heavier a vehicle is and the faster it goes, the longer it takes to stop."
+  },
+  {
+   "id": "q-truck-cut-in",
+   "facts": [
+    "truck-no-lane-change-in-front",
+    "truck-do-not-cut-in"
+   ],
+   "prompt": "Your exit is coming up and a large truck is in the lane to your right. What should you do?",
+   "choices": [
+    "Move over behind it, not just ahead of it.",
+    "Cut in just ahead of it, then brake for the exit.",
+    "Stay beside it until the exit, then move over."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Don't change lanes right in front of a large vehicle to reach an exit; it can't stop fast enough if you slow down."
+  },
+  {
+   "id": "q-truck-wide-turn",
+   "facts": [
+    "truck-wide-turns",
+    "truck-check-turn-signals"
+   ],
+   "prompt": "A truck ahead with its right signal on swings left before reaching the corner. Why?",
+   "choices": [
+    "It needs room to make a wide right turn.",
+    "It has changed its mind and is turning left.",
+    "It is moving over to let you pass."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "A truck's rear wheels follow a shorter path than its front wheels, so it may swing wide the other way to turn. Check its signals before passing."
+  },
+  {
+   "id": "q-trucks-lanes",
+   "facts": [
+    "trucks-right-two-lanes"
+   ],
+   "prompt": "On a divided highway with four or more lanes in each direction, where may large trucks drive?",
+   "choices": [
+    "In any lane, at the speed of traffic.",
+    "In the three lanes farthest right.",
+    "In the two lanes farthest right."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "On a divided highway with four or more lanes in one direction, large vehicles and trucks may use the two lanes farthest to the right."
+  },
+  {
+   "id": "q-pass-truck",
+   "facts": [
+    "truck-pass-on-left"
+   ],
+   "prompt": "How should you pass a large truck?",
+   "choices": [
+    "On the right, where the driver can see you.",
+    "On the left, then move ahead of it.",
+    "Slowly, staying beside it so the driver sees you."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Pass large vehicles on the left and move ahead of them. Don't stay beside one longer than you need to."
+  },
+  {
+   "id": "q-truck-speed",
+   "facts": [
+    "truck-size-speed",
+    "trucks-longer-stopping"
+   ],
+   "prompt": "A large truck is coming as you prepare to pull out. What should you keep in mind?",
+   "choices": [
+    "Its size makes its speed easy to judge.",
+    "It can stop as quickly as a car can.",
+    "It is probably faster than it looks."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Large vehicles often seem slower than they are, and they need longer to stop than cars."
+  },
+  {
+   "id": "q-safety-zone",
+   "facts": [
+    "safety-zone-definition",
+    "safety-zone-no-driving"
+   ],
+   "prompt": "When may you drive through a safety zone marked with raised buttons for bus riders?",
+   "choices": [
+    "When no one is waiting in it.",
+    "When passing a stopped bus at 10 mph.",
+    "Never, under any condition."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Safety zones are set aside for people waiting for buses, streetcars and trolleys. Never drive through one."
+  },
+  {
+   "id": "q-pass-trolley",
+   "facts": [
+    "pass-stopped-bus-10-mph"
+   ],
+   "prompt": "A trolley is stopped at a safety zone. How fast may you pass it?",
+   "choices": [
+    "No more than 15 mph.",
+    "No more than 10 mph.",
+    "No more than 25 mph."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "You may pass a bus, streetcar or trolley stopped at a safety zone or traffic light at no more than 10 mph."
+  },
+  {
+   "id": "q-streetcar-left",
+   "facts": [
+    "streetcar-no-passing-left"
+   ],
+   "prompt": "When may you pass a streetcar on the left?",
+   "choices": [
+    "Whenever the streetcar is stopped.",
+    "When you are on a one-way street.",
+    "Whenever it is moving slowly."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Don't pass a streetcar or light rail vehicle on the left, moving or standing, unless you're on a one-way street, the tracks are too close to the right, or an officer directs you."
+  },
+  {
+   "id": "q-light-rail-rights",
+   "facts": [
+    "light-rail-same-rights"
+   ],
+   "prompt": "On public roads, what rights do light rail vehicles have?",
+   "choices": [
+    "The right-of-way at all times.",
+    "Fewer than cars, since they use tracks.",
+    "The same as other vehicles."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "On public roads, light rail vehicles have the same rights and responsibilities as other vehicles."
+  },
+  {
+   "id": "q-light-rail-turn",
+   "facts": [
+    "light-rail-no-turn-in-front",
+    "light-rail-turn-across-tracks"
+   ],
+   "prompt": "You are waiting to turn across light rail tracks, and a train is approaching. What should you do?",
+   "choices": [
+    "Turn quickly while there is a gap.",
+    "Wait; never turn in front of it.",
+    "Turn, since the train must stop for you."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Never turn in front of an approaching light rail vehicle. Check for trains and turn only when the signal allows."
+  },
+  {
+   "id": "q-motorcycle-rights",
+   "facts": [
+    "motorcyclists-same-rights"
+   ],
+   "prompt": "Which is true about motorcyclists on the road?",
+   "choices": [
+    "They have the same rights and duties as drivers.",
+    "They must always yield to cars and trucks.",
+    "They must ride on the right shoulder."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Motorcyclists have the same rights and responsibilities as other drivers."
+  },
+  {
+   "id": "q-motorcycle-following",
+   "facts": [
+    "motorcycle-three-second-following"
+   ],
+   "prompt": "How much following distance should you leave behind a motorcycle?",
+   "choices": [
+    "At least one car length.",
+    "At least two seconds.",
+    "At least three seconds."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Leave at least three seconds so you can avoid the rider if they brake suddenly or fall."
+  },
+  {
+   "id": "q-motorcycle-pass",
+   "facts": [
+    "motorcycle-no-same-lane-pass",
+    "motorcycle-full-lane"
+   ],
+   "prompt": "You want to pass a motorcycle. How should you do it?",
+   "choices": [
+    "Use the next lane; never share its lane.",
+    "Squeeze past within its lane if it is wide.",
+    "Pass on the shoulder to give it room."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Give a motorcycle the full lane and never pass it in the same lane."
+  },
+  {
+   "id": "q-lane-splitting",
+   "facts": [
+    "lane-splitting-legal"
+   ],
+   "prompt": "A motorcycle rides between lanes of slow traffic. Is this legal in California?",
+   "choices": [
+    "No; it is never legal.",
+    "Only on roads posted to allow it.",
+    "Yes; this is called lane splitting."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "It is legal in California for motorcycles to share lanes with other vehicles. This is called lane splitting."
+  },
+  {
+   "id": "q-motorcycle-door",
+   "facts": [
+    "motorcycle-door-check"
+   ],
+   "prompt": "You have parked next to traffic. What should you do before opening your door?",
+   "choices": [
+    "Open it slowly so riders will notice it.",
+    "Check for motorcyclists and other traffic.",
+    "Open it quickly and get out fast."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Check for motorcyclists before opening a door next to traffic; a rider may have no room to avoid it."
+  },
+  {
+   "id": "q-motorcycle-make-room",
+   "facts": [
+    "motorcycle-move-aside"
+   ],
+   "prompt": "A motorcycle behind you wants to pass. How can you help?",
+   "choices": [
+    "Move to one side of your lane.",
+    "Speed up so it can merge in behind you.",
+    "Brake sharply to let it by sooner."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "When possible, move to one side of your lane to give a motorcyclist more room to pass."
+  },
+  {
+   "id": "q-siren-behind",
+   "facts": [
+    "emergency-vehicle-yield"
+   ],
+   "prompt": "An ambulance using its siren and red lights comes up behind you. What should you do?",
+   "choices": [
+    "Speed up to stay ahead of it.",
+    "Stop right where you are in your lane.",
+    "Drive to the right edge and stop."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Give emergency vehicles the right-of-way by pulling to the right edge of the road and stopping until they pass."
+  },
+  {
+   "id": "q-siren-in-intersection",
+   "facts": [
+    "emergency-vehicle-in-intersection"
+   ],
+   "prompt": "You are in an intersection when you hear a siren behind you. What should you do?",
+   "choices": [
+    "Stop at once inside the intersection.",
+    "Back up out of the intersection.",
+    "Go through, then pull over and stop."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "If you are already in an intersection, continue through it, then pull to the right as soon as it is safe and stop."
+  },
+  {
+   "id": "q-move-over-who",
+   "facts": [
+    "stationary-emergency-move-over",
+    "move-over-emergency-tow",
+    "move-over-road-work"
+   ],
+   "prompt": "For which stopped vehicles with flashing lights must you move over and slow down?",
+   "choices": [
+    "Emergency vehicles, but not tow trucks or road crews.",
+    "Emergency vehicles, tow trucks, and road work vehicles.",
+    "Police and fire vehicles, but not ambulances."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "The move-over law covers stopped emergency vehicles, tow trucks with amber lights, and road work vehicles with flashing or amber lights."
+  },
+  {
+   "id": "q-officer-directs",
+   "facts": [
+    "obey-officer-firefighter"
+   ],
+   "prompt": "A police officer directing traffic waves you through a red light. What should you do?",
+   "choices": [
+    "Drive through as directed.",
+    "Wait for the light to turn green.",
+    "Go only if the cross street is empty."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Obey an officer's or firefighter's directions, even when they conflict with signs, signals or other laws."
+  },
+  {
+   "id": "q-follow-fire-engine",
+   "facts": [
+    "emergency-vehicle-300-feet"
+   ],
+   "prompt": "What is the closest you may legally follow a fire engine that has its siren on?",
+   "choices": [
+    "100 feet.",
+    "300 feet.",
+    "500 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "It is illegal to follow within 300 feet of an emergency vehicle using its siren or flashing lights."
+  },
+  {
+   "id": "q-disaster-scene",
+   "facts": [
+    "disaster-scene-arrest"
+   ],
+   "prompt": "You drive toward a nearby fire to see what is happening. What could happen?",
+   "choices": [
+    "You could be arrested for getting in the way.",
+    "You could be ticketed only if you park in red.",
+    "Nothing; the road is open to everyone."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Driving to the scene of a fire, collision or other disaster can get you arrested, because you get in the way of emergency crews."
+  },
+  {
+   "id": "q-slow-triangle",
+   "facts": [
+    "slow-moving-vehicle-triangle"
+   ],
+   "prompt": "A vehicle ahead has an orange and red triangle on its back. What does it tell you?",
+   "choices": [
+    "It carries a dangerous load such as gas.",
+    "It is slow-moving, usually 25 mph or less.",
+    "It is towing another vehicle behind it."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "The orange and red triangle marks slow-moving vehicles, which usually travel at 25 mph or less. Dangerous loads are marked with diamond placards."
+  },
+  {
+   "id": "q-nev-sign",
+   "facts": [
+    "nev-signs"
+   ],
+   "prompt": "You see a NEV ROUTE sign. What should you watch for?",
+   "choices": [
+    "Small, slow-moving electric vehicles.",
+    "Electric vehicle charging stations.",
+    "Roads closed to gas-powered cars."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "NEV signs and markings mean neighborhood electric vehicles use the road, so watch for slow-moving vehicles."
+  },
+  {
+   "id": "q-lsv-roads",
+   "facts": [
+    "nev-lsv-speed"
+   ],
+   "prompt": "What is the highest speed limit on a road that a low-speed vehicle may use?",
+   "choices": [
+    "35 mph.",
+    "25 mph.",
+    "45 mph."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "NEVs and LSVs top out at 25 mph and are kept off roads with speed limits over 35 mph."
+  },
+  {
+   "id": "q-nev-top-speed",
+   "facts": [
+    "nev-lsv-speed"
+   ],
+   "prompt": "What is the top speed of a neighborhood electric vehicle (NEV)?",
+   "choices": [
+    "15 mph.",
+    "35 mph.",
+    "25 mph."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "NEVs and LSVs reach at most 25 mph. They may not use roads posted above 35 mph."
+  },
+  {
+   "id": "q-scare-horse",
+   "facts": [
+    "scaring-horses-illegal",
+    "horses-share-road"
+   ],
+   "prompt": "You come up behind a person riding a horse on a country road. Which statement is true?",
+   "choices": [
+    "Horses may not be ridden on roads open to cars.",
+    "The rider must leave the road to let you pass.",
+    "It is illegal to scare the animal on purpose."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "It is against the law to scare horses or livestock on purpose."
+  },
+  {
+   "id": "q-animal-sign",
+   "facts": [
+    "animal-crossing-sign"
+   ],
+   "prompt": "You see a sign with a picture of a deer. What should you do?",
+   "choices": [
+    "Watch for animals on or near the road.",
+    "Speed up to get through the area quickly.",
+    "Watch for animals only after dark."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "A sign showing an animal warns you to watch for animals on or near the road."
+  },
+  {
+   "id": "q-livestock",
+   "facts": [
+    "animals-near-road"
+   ],
+   "prompt": "Cattle are being moved near the road, and the herder signals to you. What should you do?",
+   "choices": [
+    "Keep your speed; the animals must yield.",
+    "Slow or stop, and follow their directions.",
+    "Drive around the animals quickly."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Near animals or livestock, slow down or stop, go only when safe, and follow the directions of the person in charge."
+  },
+  {
+   "id": "q-bicyclist-rights",
+   "facts": [
+    "bicyclists-same-rights"
+   ],
+   "prompt": "Which is true of bicyclists on the road?",
+   "choices": [
+    "They have the right-of-way over cars at all times.",
+    "They have the same rights and duties as drivers.",
+    "They should ride on the sidewalk when they can."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Bicyclists have the same rights and responsibilities as other drivers."
+  },
+  {
+   "id": "q-bicyclist-freeway",
+   "facts": [
+    "bicyclists-freeways"
+   ],
+   "prompt": "May bicyclists ever ride on a freeway?",
+   "choices": [
+    "No, never under any condition.",
+    "Yes, anywhere, if they keep to the shoulder.",
+    "On some sections with no other route."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Bicyclists may legally ride on certain sections of freeway where there is no alternate route and bicycling isn't forbidden."
+  },
+  {
+   "id": "q-bicyclist-moves-left",
+   "facts": [
+    "bicyclists-move-left-hazards"
+   ],
+   "prompt": "A bicyclist ahead moves left, away from the curb, to get around trash in the road. Is this allowed?",
+   "choices": [
+    "No, bicyclists must stay at the right edge.",
+    "Yes, bicyclists may move left to avoid hazards.",
+    "Only if the bicyclist is turning left."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Bicyclists may move left to avoid hazards such as parked vehicles, animals or trash."
+  },
+  {
+   "id": "q-bicyclist-one-way",
+   "facts": [
+    "bicyclists-left-curb-one-way",
+    "slow-bicyclist-exception-one-way"
+   ],
+   "prompt": "On a one-way street with two lanes, where may a bicyclist ride?",
+   "choices": [
+    "Near the right curb, as on any road.",
+    "In the middle of the left lane.",
+    "Near either the left or right curb."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "On a one-way road with two or more lanes, a bicyclist may ride near the left curb as well as the right."
+  },
+  {
+   "id": "q-bicyclist-crosswalk",
+   "facts": [
+    "bicyclists-use-crosswalks"
+   ],
+   "prompt": "May a bicyclist use a crosswalk?",
+   "choices": [
+    "Yes, by stopping and crossing as a pedestrian.",
+    "Yes, by riding across at walking speed.",
+    "No, crosswalks are only for people walking."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Bicyclists may choose to use crosswalks by stopping and crossing as pedestrians."
+  },
+  {
+   "id": "q-bicyclist-signals",
+   "facts": [
+    "bicyclist-obey-signs"
+   ],
+   "prompt": "Must bicyclists obey STOP signs and traffic lights?",
+   "choices": [
+    "Only when cars are nearby.",
+    "No, only right-of-way rules.",
+    "Yes, as all drivers must."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Bicyclists must obey all traffic signs, signal lights and basic right-of-way rules."
+  },
+  {
+   "id": "q-bicyclist-direction",
+   "facts": [
+    "bicyclist-ride-with-traffic"
+   ],
+   "prompt": "In which direction must a bicyclist ride?",
+   "choices": [
+    "Against traffic, to see oncoming cars.",
+    "The same direction as traffic.",
+    "Either way, if they keep to the edge."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Bicyclists must ride in the same direction as traffic."
+  },
+  {
+   "id": "q-bicyclist-shoulder",
+   "facts": [
+    "bicyclist-look-over-shoulder"
+   ],
+   "prompt": "What must a bicyclist do before changing lanes or turning?",
+   "choices": [
+    "Look over their shoulder.",
+    "Ring a bell to warn drivers.",
+    "Move onto the sidewalk."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Bicyclists must always look over their shoulder to make sure the lane is clear before turning or changing lanes."
+  },
+  {
+   "id": "q-bicyclist-yields",
+   "facts": [
+    "bicyclist-yield-pedestrians"
+   ],
+   "prompt": "A bicyclist and a pedestrian meet at a crosswalk. Who must yield?",
+   "choices": [
+    "The pedestrian.",
+    "Whoever arrived second.",
+    "The bicyclist."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Bicyclists must yield to pedestrians."
+  },
+  {
+   "id": "q-bike-helmet",
+   "facts": [
+    "bicyclist-helmet-under-18"
+   ],
+   "prompt": "Until what age must bicyclists wear a helmet?",
+   "choices": [
+    "Until they turn 16.",
+    "Until they turn 18.",
+    "At every age, for life."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Bicyclists under 18 must wear a helmet."
+  },
+  {
+   "id": "q-bicyclist-weaving",
+   "facts": [
+    "bicyclist-stay-visible"
+   ],
+   "prompt": "Why must a bicyclist not weave in and out between parked cars?",
+   "choices": [
+    "They must ride against traffic there.",
+    "They must use the sidewalk instead.",
+    "They must stay visible to drivers."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Bicyclists must stay visible, and weaving between parked vehicles hides them from drivers."
+  },
+  {
+   "id": "q-slow-bicyclist-where",
+   "facts": [
+    "slow-bicyclist-ride-right",
+    "bicyclist-ride-near-right"
+   ],
+   "prompt": "A bicyclist is riding slower than traffic. Where must they generally ride?",
+   "choices": [
+    "In the center of the lane.",
+    "As close as possible to the right edge.",
+    "On the left edge, facing traffic."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A bicyclist slower than traffic must ride as close as possible to the right curb or edge, with some exceptions."
+  },
+  {
+   "id": "q-narrow-lane-bicyclist",
+   "facts": [
+    "slow-bicyclist-exception-narrow-lane",
+    "bicyclist-no-sidewalk"
+   ],
+   "prompt": "A lane is too narrow for a car and a bicycle to travel side by side. Where may a slow bicyclist ride?",
+   "choices": [
+    "Only at the right edge of the lane.",
+    "Away from the right edge, in the lane.",
+    "On the sidewalk, wherever there is one."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "When a lane is too narrow to share safely, a bicyclist need not keep to the right edge. Riding on sidewalks is allowed only where the city permits it."
+  },
+  {
+   "id": "q-bicyclist-sidewalk",
+   "facts": [
+    "bicyclist-no-sidewalk"
+   ],
+   "prompt": "When may a bicyclist ride on the sidewalk?",
+   "choices": [
+    "Whenever traffic is heavy.",
+    "Anywhere, if they ride slowly.",
+    "Only where the city allows."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Bicyclists must not ride on the sidewalk unless the city allows it."
+  },
+  {
+   "id": "q-bicyclist-bike-lane",
+   "facts": [
+    "bicyclist-use-bike-lane"
+   ],
+   "prompt": "There is a usable bike lane on the road. Where must a bicyclist ride?",
+   "choices": [
+    "In the bike lane.",
+    "In any lane they choose.",
+    "On the sidewalk next to it."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Bicyclists must use a bike lane whenever possible, or else a through traffic lane."
+  },
+  {
+   "id": "q-bike-front-lamp",
+   "facts": [
+    "bicycle-night-front-lamp"
+   ],
+   "prompt": "At night, from at least how far away must a bicycle's white front lamp be visible?",
+   "choices": [
+    "200 feet.",
+    "300 feet.",
+    "500 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "A bicycle's front lamp must show white light visible from 300 feet. The rear red reflector or light must be visible from 500 feet, and pedal reflectors from 200 feet."
+  },
+  {
+   "id": "q-bike-rear-red",
+   "facts": [
+    "bicycle-night-rear-red"
+   ],
+   "prompt": "At night, from at least how far away must a bicycle's rear red reflector or light be visible?",
+   "choices": [
+    "500 feet.",
+    "200 feet.",
+    "300 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "The rear red reflector or light must be visible from 500 feet. The front lamp is 300 feet and pedal reflectors 200 feet."
+  },
+  {
+   "id": "q-bike-pedal-reflectors",
+   "facts": [
+    "bicycle-night-pedal-reflectors"
+   ],
+   "prompt": "At night, from at least how far away must a bicyclist's pedal, shoe, or ankle reflectors be visible?",
+   "choices": [
+    "300 feet.",
+    "200 feet.",
+    "500 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Pedal, shoe or ankle reflectors must be white or yellow and visible from 200 feet."
+  },
+  {
+   "id": "q-bike-wheel-reflectors",
+   "facts": [
+    "bicycle-night-wheel-reflectors"
+   ],
+   "prompt": "Without reflective tires, what wheel reflectors must a bicycle have at night?",
+   "choices": [
+    "Red in front, white or yellow at the rear.",
+    "Red on both the front and the rear wheel.",
+    "White or yellow in front, white or red at the rear."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "The front wheel needs a white or yellow reflector and the rear wheel a white or red one, unless the tires are reflectorized."
+  },
+  {
+   "id": "q-pass-bicyclist-space",
+   "facts": [
+    "passing-bicyclist-three-feet"
+   ],
+   "prompt": "You can't change lanes to pass a bicyclist. What is the least space you must leave when passing?",
+   "choices": [
+    "Three feet.",
+    "Two feet.",
+    "Six feet."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "If you can't change lanes, pass with at least three feet between your vehicle and the bicyclist."
+  },
+  {
+   "id": "q-pass-bicyclist-no-room",
+   "facts": [
+    "passing-bicyclist-three-feet"
+   ],
+   "prompt": "You can't change lanes, and there isn't enough room to pass a bicyclist with the required space. What should you do?",
+   "choices": [
+    "Pass slowly, as close as you need to.",
+    "Follow closely so the bicyclist pulls over.",
+    "Stay behind until you can pass safely."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "If you can't leave three feet, don't pass until you can."
+  },
+  {
+   "id": "q-bike-lane-distance",
+   "facts": [
+    "bike-lane-enter-200-feet-before-turn"
+   ],
+   "prompt": "You plan to turn right across a bike lane. How far before the turn may you enter the bike lane?",
+   "choices": [
+    "No more than 100 feet.",
+    "No more than 500 feet.",
+    "No more than 200 feet."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Enter a bike lane no more than 200 feet before starting your turn."
+  },
+  {
+   "id": "q-work-zone-driving",
+   "facts": [
+    "work-zone-how-to-drive",
+    "work-zone-warning-signs"
+   ],
+   "prompt": "Message boards warn of a work zone ahead. How should you drive through it?",
+   "choices": [
+    "Keep your speed so you clear it quickly.",
+    "Follow closely so others can't cut in.",
+    "Slow down and leave extra space ahead."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "In a work zone, slow down, allow extra space, expect sudden stops and avoid distractions."
+  },
+  {
+   "id": "q-work-zone-merge",
+   "facts": [
+    "work-zone-cones"
+   ],
+   "prompt": "Cones in a work zone show that your lane is closing ahead. What should you do?",
+   "choices": [
+    "Stay in your lane until the last cone.",
+    "Cross the cones to pass slow traffic.",
+    "Merge as soon as it is safe."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Merge as soon as it is safe, without crossing the cones or drums."
+  },
+  {
+   "id": "q-flagger",
+   "facts": [
+    "work-zone-flaggers"
+   ],
+   "prompt": "A flagger in a work zone signals you to stop. What should you do?",
+   "choices": [
+    "Go on if the road ahead looks clear.",
+    "Stop and wait until you are waved on.",
+    "Obey only if police are present."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "In a work zone, obey special signs and instructions from workers such as flaggers."
+  },
+  {
+   "id": "q-work-zone-fine",
+   "facts": [
+    "work-zone-fines"
+   ],
+   "prompt": "How much can a fine for a traffic violation in a work zone be?",
+   "choices": [
+    "$1,000 or more.",
+    "Up to $250.",
+    "Up to $500."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Fines for traffic violations in a work zone can be $1,000 or more."
+  },
+  {
+   "id": "q-highway-worker-assault",
+   "facts": [
+    "assault-highway-worker"
+   ],
+   "prompt": "Assaulting a highway worker can be punished by:",
+   "choices": [
+    "Up to $2,000 and one year in jail.",
+    "Up to $1,000 and six months in jail.",
+    "A $500 fine, with no jail time."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Assaulting a highway worker can bring a fine of up to $2,000 and up to one year of imprisonment."
+  },
+  {
+   "id": "q-double-fines",
+   "facts": [
+    "construction-zone-double-fines",
+    "double-fine-zones"
+   ],
+   "prompt": "When are traffic fines doubled in a highway construction zone?",
+   "choices": [
+    "When workers are present.",
+    "Only at night.",
+    "At all times, with or without workers."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Fines double in construction or maintenance zones when workers are present, and in posted Safety Enhanced-Double Fine Zones."
+  },
+  {
+   "id": "q-hazmat-railroad",
+   "facts": [
+    "hazardous-load-placard",
+    "railroad-vehicles-must-stop"
+   ],
+   "prompt": "A truck ahead with a placard like one of these is nearing railroad tracks. What should you expect?",
+   "figure": {
+    "block": "wcfthk"
+   },
+   "choices": [
+    "It will cross without slowing down.",
+    "It will stop before crossing the tracks.",
+    "It will stop only if a train is coming."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "A diamond placard means a possibly dangerous load, and such vehicles must stop before crossing railroad tracks."
+  },
+  {
+   "id": "q-bad-weather-speed",
+   "facts": [
+    "heavy-traffic-bad-weather-slower",
+    "cited-faster-or-slower"
+   ],
+   "prompt": "It is raining hard on the freeway. What speed does the law expect?",
+   "choices": [
+    "The posted limit, so traffic keeps flowing.",
+    "Slower, but not so slow you block traffic.",
+    "As slow as you like; you can't be cited for it."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "You must drive slower in bad weather or heavy traffic, but not so slowly that you block traffic. You can be cited for driving too slow as well as too fast."
+  },
+  {
+   "id": "q-slow-right-lane",
+   "facts": [
+    "slower-drive-right-lane"
+   ],
+   "prompt": "You choose to drive slower than other traffic on a multilane road. Which lane should you use?",
+   "choices": [
+    "The left lane.",
+    "The right lane.",
+    "Any lane, if you keep within the limit."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "If you drive slower than other traffic, use the right lane."
+  },
+  {
+   "id": "q-towing-lane",
+   "facts": [
+    "towing-right-lane"
+   ],
+   "prompt": "You are towing a trailer on the highway. Which lane must you use?",
+   "choices": [
+    "Any lane except the far-left one.",
+    "The center lane, away from merging traffic.",
+    "The far-right lane or a slow-vehicle lane."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "When towing, or driving a truck with three or more axles, use the far-right lane or a lane marked for slower vehicles."
+  },
+  {
+   "id": "q-towing-four-lanes",
+   "facts": [
+    "towing-two-right-lanes"
+   ],
+   "prompt": "You are towing a trailer. There are four unmarked lanes in your direction. Where may you drive?",
+   "choices": [
+    "Only in the far-right lane.",
+    "Only in the two right lanes.",
+    "In any of the three right lanes."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "When towing, if no lanes are marked and there are four or more in your direction, you may drive only in the two lanes closest to the right edge."
+  },
+  {
+   "id": "q-school-zone-speed",
+   "facts": [
+    "school-zone-25-mph"
+   ],
+   "prompt": "Unless a lower limit is posted, what is the speed limit near a school while children are outside?",
+   "choices": [
+    "15 mph.",
+    "35 mph.",
+    "25 mph."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "The limit is 25 mph within 500 feet of a school while children are outside or crossing. Some school zones are posted as low as 15 mph."
+  },
+  {
+   "id": "q-school-zone-distance",
+   "facts": [
+    "school-zone-25-mph"
+   ],
+   "prompt": "Children are outside a school. How close to the school does the 25 mph limit apply?",
+   "choices": [
+    "Within 500 feet.",
+    "Within 100 feet.",
+    "Within 1,000 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "The 25 mph school-zone limit applies within 500 feet of a school while children are outside or crossing the street."
+  },
+  {
+   "id": "q-school-zone-lowest",
+   "facts": [
+    "school-zone-15-mph"
+   ],
+   "prompt": "Some school zones have limits lower than usual. How low can they be?",
+   "choices": [
+    "10 mph.",
+    "20 mph.",
+    "15 mph."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Some school zones may have speed limits as low as 15 mph."
+  },
+  {
+   "id": "q-school-bus-red-when-go",
+   "facts": [
+    "school-bus-flashing-red"
+   ],
+   "prompt": "You are stopped behind a school bus flashing red lights. When may you go?",
+   "choices": [
+    "As soon as the children are off the road.",
+    "When no children are near your lane.",
+    "When children are across and the lights stop."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Stay stopped until the children are safely across and the red lights stop flashing."
+  },
+  {
+   "id": "q-school-bus-oncoming",
+   "facts": [
+    "school-bus-flashing-red",
+    "school-buses-all-stop"
+   ],
+   "prompt": "On a two-lane road, a school bus coming toward you stops and flashes its red lights. What must you do?",
+   "choices": [
+    "Slow down and pass it with care.",
+    "Keep going; only traffic behind it stops.",
+    "Stop until the lights stop flashing."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "When a school bus flashes red lights, traffic from either direction must stop, unless the bus is across a divided or multilane highway."
+  },
+  {
+   "id": "q-school-bus-penalty",
+   "facts": [
+    "school-bus-penalty"
+   ],
+   "prompt": "Failing to stop for a school bus flashing red lights can lead to:",
+   "choices": [
+    "A $1,000 fine and a one-year suspension.",
+    "A $500 fine and a six-month suspension.",
+    "A $100 fine and a warning letter."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "You can be fined up to $1,000 and have your driving privilege suspended for one year."
+  },
+  {
+   "id": "q-school-bus-divided",
+   "facts": [
+    "school-bus-divided-highway"
+   ],
+   "prompt": "On a divided highway with two lanes each way, a school bus on the other side flashes red lights. What must you do?",
+   "choices": [
+    "Stop until the lights stop flashing.",
+    "Slow to 25 mph as you pass.",
+    "You do not need to stop."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "You need not stop for a school bus on the other side of a divided or multilane highway with two or more lanes each way."
+  },
+  {
+   "id": "q-blind-intersection-speed",
+   "facts": [
+    "blind-intersection-15-mph"
+   ],
+   "prompt": "What is the speed limit at a blind intersection?",
+   "choices": [
+    "10 mph.",
+    "25 mph.",
+    "15 mph."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "The speed limit for a blind intersection is 15 mph."
+  },
+  {
+   "id": "q-blind-intersection-view",
+   "facts": [
+    "blind-intersection-15-mph"
+   ],
+   "prompt": "Buildings block your view of cross traffic at a blind intersection. What should you do?",
+   "choices": [
+    "Move forward slowly until you can see.",
+    "Honk, then drive through at 15 mph.",
+    "Stop and wait for another driver to wave."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "If your view is blocked, edge forward slowly until you can see, keeping to the 15 mph limit."
+  },
+  {
+   "id": "q-alley-speed",
+   "facts": [
+    "alley-15-mph"
+   ],
+   "prompt": "What is the speed limit in an alley?",
+   "choices": [
+    "25 mph.",
+    "15 mph.",
+    "10 mph."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "The speed limit in an alley is 15 mph."
+  },
+  {
+   "id": "q-alley-width",
+   "facts": [
+    "alley-definition"
+   ],
+   "prompt": "An alley is a road used to reach the backs or sides of buildings that is no wider than:",
+   "choices": [
+    "25 feet.",
+    "15 feet.",
+    "40 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "An alley is any road no wider than 25 feet used to reach rear or side entrances."
+  },
+  {
+   "id": "q-cross-sidewalk",
+   "facts": [
+    "sidewalk-crossing-driveway"
+   ],
+   "prompt": "When may you drive across a sidewalk?",
+   "choices": [
+    "To get around a stopped vehicle.",
+    "When no one is walking on it.",
+    "To enter or leave a driveway or alley."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "You may drive on or cross a sidewalk only to enter or exit a driveway or alley."
+  },
+  {
+   "id": "q-railroad-lights-gate-up",
+   "facts": [
+    "railroad-flashing-red"
+   ],
+   "prompt": "At a railroad crossing, the gate has gone up but the red lights are still flashing. What should you do?",
+   "choices": [
+    "Wait until the lights stop flashing.",
+    "Cross, since the gate is up.",
+    "Cross if you see no train."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Flashing red lights at a crossing mean stop and wait. Don't cross until they stop, even if the gate rises."
+  },
+  {
+   "id": "q-railroad-stop-distance",
+   "facts": [
+    "railroad-stop-15-feet"
+   ],
+   "prompt": "Signals at a crossing warn that a train is coming. What is the closest you may stop to the nearest track?",
+   "choices": [
+    "10 feet.",
+    "15 feet.",
+    "50 feet."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "When warning devices or a person signal a train, stop at least 15 feet from the nearest track."
+  },
+  {
+   "id": "q-railroad-gates-lowering",
+   "facts": [
+    "railroad-gates"
+   ],
+   "prompt": "The gates are coming down as you reach a railroad crossing. What should you do?",
+   "choices": [
+    "Speed up to get under before it closes.",
+    "Drive around it if no train is in sight.",
+    "Stop and wait behind the gate."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "Never drive under lowering gates or around lowered ones."
+  },
+  {
+   "id": "q-railroad-gates-no-train",
+   "facts": [
+    "railroad-gates-no-train"
+   ],
+   "prompt": "The gates at a crossing are down, but no train comes after a long wait. What should you do?",
+   "choices": [
+    "Drive slowly around the lowered gates.",
+    "Honk to get the gate operator's attention.",
+    "Call the posted emergency number or 911."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "If gates are down with no train approaching, call the railroad's posted emergency number or 911. Never go around the gates."
+  },
+  {
+   "id": "q-railroad-multiple-tracks",
+   "facts": [
+    "railroad-stop-look-listen",
+    "railroad-expect-train"
+   ],
+   "prompt": "A train has just passed at a crossing with several tracks. What should you do before crossing?",
+   "choices": [
+    "Go at once; trains run one at a time.",
+    "Look both ways for another train.",
+    "Go as soon as the gate starts to rise."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Expect a train on any track, at any time, from either direction. Look both ways and cross only when it is safe."
+  },
+  {
+   "id": "q-residential-speed",
+   "facts": [
+    "business-residential-25-mph"
+   ],
+   "prompt": "Unless a sign says otherwise, what is the speed limit in a residential district?",
+   "choices": [
+    "25 mph.",
+    "15 mph.",
+    "35 mph."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "The speed limit in business or residential districts is 25 mph unless otherwise posted."
+  },
+  {
+   "id": "q-smoking-minor",
+   "facts": [
+    "no-smoking-with-minor"
+   ],
+   "prompt": "When is it illegal to smoke in your vehicle?",
+   "choices": [
+    "When all the windows are rolled up.",
+    "When a minor is in the vehicle.",
+    "When you are on a freeway."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "You must not smoke when a minor is in the vehicle, and you can be fined."
+  },
+  {
+   "id": "q-animal-dumping",
+   "facts": [
+    "animal-abandonment"
+   ],
+   "prompt": "Abandoning an animal on a highway can be punished by:",
+   "choices": [
+    "Up to $2,000 and one year in prison.",
+    "Up to $1,000, six months in jail, or both.",
+    "A warning, then a $100 fine."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Dumping or abandoning an animal on a highway is a crime: up to $1,000, six months in jail, or both."
+  },
+  {
+   "id": "q-overloaded",
+   "facts": [
+    "overloaded-vehicle"
+   ],
+   "prompt": "Your car is packed so full that you can't see out the side windows. What must you do before driving?",
+   "choices": [
+    "Unload until your view is clear.",
+    "Adjust your side mirrors and go.",
+    "Drive below the speed limit."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "You must not drive a vehicle so loaded that you cannot control it or see ahead and to the sides. Mirrors and a lower speed don't make up for it."
+  },
+  {
+   "id": "q-load-right-fender",
+   "facts": [
+    "load-beyond-fenders"
+   ],
+   "prompt": "In a passenger vehicle, how far may a load stick out beyond the right fenders?",
+   "choices": [
+    "No more than 6 inches.",
+    "No more than 12 inches.",
+    "No more than 4 feet."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Nothing may extend beyond the left fenders or more than 6 inches beyond the right fenders of a passenger vehicle."
+  },
+  {
+   "id": "q-load-left-fender",
+   "facts": [
+    "load-beyond-fenders"
+   ],
+   "prompt": "In a passenger vehicle, how far may a load stick out beyond the left fenders?",
+   "choices": [
+    "Up to 6 inches.",
+    "Not at all.",
+    "Up to 12 inches."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Nothing may extend beyond the left fenders. Up to 6 inches is allowed only on the right."
+  },
+  {
+   "id": "q-cargo-flag",
+   "facts": [
+    "cargo-rear-flag"
+   ],
+   "prompt": "In daylight, cargo sticks out 5 feet past your rear bumper. What must it display?",
+   "choices": [
+    "Two red lights on the end.",
+    "A 12-inch red or orange square flag.",
+    "A 6-inch yellow square flag."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Cargo extending more than 4 feet past the rear bumper must display a 12-inch red or fluorescent orange square flag. At night it needs two red lights."
+  },
+  {
+   "id": "q-cargo-night",
+   "facts": [
+    "cargo-rear-night-lights"
+   ],
+   "prompt": "At night, cargo sticks out more than 4 feet past your rear bumper. What must mark it?",
+   "choices": [
+    "One amber light.",
+    "Two red lights.",
+    "A white reflector."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "At night, cargo extending more than 4 feet behind the rear bumper must be marked with two red lights."
+  },
+  {
+   "id": "q-cargo-flag-distance",
+   "facts": [
+    "cargo-rear-flag"
+   ],
+   "prompt": "Cargo must carry a flag once it sticks out past the rear bumper by more than:",
+   "choices": [
+    "2 feet.",
+    "6 feet.",
+    "4 feet."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "A 12-inch red or orange flag is required when cargo extends more than 4 feet past the rear bumper."
+  },
+  {
+   "id": "q-pickup-passengers",
+   "facts": [
+    "pickup-bed-passengers"
+   ],
+   "prompt": "When may a person ride in the back of a pickup truck?",
+   "choices": [
+    "When the tailgate is closed and locked.",
+    "Only if it has secure seats and seat belts.",
+    "On roads with limits under 35 mph."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "No one may ride in the back of a pickup or other truck unless it has secure seats and seat belts."
+  },
+  {
+   "id": "q-pickup-dog",
+   "facts": [
+    "pickup-bed-animals"
+   ],
+   "prompt": "You want to carry your dog in the back of your pickup. What does the law require?",
+   "choices": [
+    "It must be secured so it can't fall or jump out.",
+    "The tailgate must be closed during the trip.",
+    "Nothing, as long as you drive slowly."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Animals in the back of a pickup must be properly secured so they cannot fall, jump or be thrown out."
+  },
+  {
+   "id": "q-video-screen",
+   "facts": [
+    "video-monitor-driver"
+   ],
+   "prompt": "Which video screen may be visible to the driver while driving?",
+   "choices": [
+    "A movie for the passengers.",
+    "A navigation map.",
+    "A video call with a friend."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A video monitor visible to the driver may only show vehicle information, navigation, a media player or radio."
+  },
+  {
+   "id": "q-mirror-hanging",
+   "facts": [
+    "windshield-obstructions",
+    "side-windows-behind-driver",
+    "windshield-7-inch-square"
+   ],
+   "prompt": "Which of these is illegal in your vehicle?",
+   "choices": [
+    "A small sticker on a side window behind you.",
+    "A small decal in the lower corner of the rear window.",
+    "An air freshener hanging from the mirror."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "You must not hang objects on the mirror or block your view through the windshield. Small items are allowed on the side windows behind the driver and in the lower corner of the rear window."
+  },
+  {
+   "id": "q-windshield-sticker",
+   "facts": [
+    "windshield-7-inch-square"
+   ],
+   "prompt": "Where may you put a small sticker on your front windshield?",
+   "choices": [
+    "In a 7-inch square at the lower driver-side corner.",
+    "In a 7-inch square at the lower passenger-side corner.",
+    "Anywhere, if it is smaller than 7 inches across."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Objects may go in a 7-inch square on the lower corner of the passenger side of the windshield (or of the rear window)."
+  },
+  {
+   "id": "q-driver-window-square",
+   "facts": [
+    "windshield-5-inch-driver-window"
+   ],
+   "prompt": "How large an area may you use for objects at the lower corner of the driver's side window?",
+   "choices": [
+    "A 7-inch square.",
+    "A 5-inch square.",
+    "A 3-inch square."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Objects may be affixed in a 5-inch square on the lower corner of the driver's side window. The 7-inch square is for the passenger-side windshield and rear window."
+  },
+  {
+   "id": "q-toll-device",
+   "facts": [
+    "windshield-toll-device"
+   ],
+   "prompt": "Where may you mount an electronic toll device on the windshield?",
+   "choices": [
+    "In a 5-inch square at the top center.",
+    "In a 7-inch square at the bottom center.",
+    "Hanging from the rearview mirror."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "A toll payment device may go in a 5-inch square at the center of the top of the windshield."
+  },
+  {
+   "id": "q-funeral",
+   "facts": [
+    "funeral-procession"
+   ],
+   "prompt": "A funeral procession led by a traffic officer is crossing in front of you. What should you do?",
+   "choices": [
+    "Go when your light turns green.",
+    "Join the line to get across sooner.",
+    "Wait until all of its vehicles have passed."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "A funeral procession led by an officer has the right-of-way, and you can be ticketed for interrupting it."
+  },
+  {
+   "id": "q-dirty-plate",
+   "facts": [
+    "illegible-license-plate"
+   ],
+   "prompt": "Your license plate is so dirty that no one can read the number. When may you drive the vehicle?",
+   "choices": [
+    "After you clean the plate.",
+    "Only on the way to a car wash.",
+    "Any time your registration is current."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "You must not drive with an illegible license plate, whatever the trip and however current your registration."
+  },
+  {
+   "id": "q-evading-no-injury",
+   "facts": [
+    "evading-police-misdemeanor"
+   ],
+   "prompt": "Using a vehicle to flee the police, with no one hurt, can be punished by:",
+   "choices": [
+    "Up to seven years in state prison.",
+    "A fine and points, with no jail.",
+    "Up to one year in county jail."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Fleeing law enforcement in a vehicle is a misdemeanor punishable by up to a year in county jail. Seven years in prison applies when someone is seriously injured."
+  },
+  {
+   "id": "q-evading-manslaughter",
+   "facts": [
+    "evading-police-manslaughter"
+   ],
+   "prompt": "Manslaughter caused while fleeing the police is punishable by:",
+   "choices": [
+    "Up to one year in county jail.",
+    "Up to seven years in state prison.",
+    "4 to 10 years in state prison."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Manslaughter resulting from evading police carries a minimum of 4 to 10 years in state prison."
+  },
+  {
+   "id": "q-unlicensed-impound",
+   "facts": [
+    "unlicensed-driver-impound"
+   ],
+   "prompt": "If an unlicensed person is caught driving your car, how long may it be impounded?",
+   "choices": [
+    "10 days.",
+    "6 months.",
+    "30 days."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Your vehicle may be impounded for 30 days if an unlicensed person is caught driving it."
+  },
+  {
+   "id": "q-speed-contest",
+   "facts": [
+    "reckless-speed-contest-injury"
+   ],
+   "prompt": "A speed contest injures another person. What can the driver face?",
+   "choices": [
+    "Prison, a fine, or both.",
+    "A fine only.",
+    "Points only, with no fine."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "Reckless driving or a speed contest that injures someone is punishable by imprisonment, a fine, or both."
+  },
+  {
+   "id": "q-sign-ticket",
+   "facts": [
+    "ticket-promise-to-appear"
+   ],
+   "prompt": "What does signing a traffic ticket mean?",
+   "choices": [
+    "You admit that you are guilty.",
+    "You promise to appear in court.",
+    "You agree to pay the fine."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Signing a ticket is a promise to appear in traffic court, not an admission of guilt."
+  },
+  {
+   "id": "q-miss-court",
+   "facts": [
+    "failure-to-appear"
+   ],
+   "prompt": "You got a traffic ticket and missed your court date. What may the DMV do?",
+   "choices": [
+    "Nothing; only the court can act.",
+    "Double the fine and close the case.",
+    "Suspend your license until you appear."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "If you fail to appear, the DMV may suspend your driving privilege until you do, and the FTA goes on your record."
+  },
+  {
+   "id": "q-points-12-months",
+   "facts": [
+    "points-suspension-thresholds"
+   ],
+   "prompt": "As an adult, what is the fewest points in 12 months that can get your license suspended?",
+   "choices": [
+    "4 points.",
+    "6 points.",
+    "8 points."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Suspension can follow 4 points in 12 months, 6 points in 24 months, or 8 points in 36 months."
+  },
+  {
+   "id": "q-traffic-school-how-often",
+   "facts": [
+    "traffic-violator-school-18-months",
+    "traffic-violator-school"
+   ],
+   "prompt": "How often may you attend traffic violator school for a one-point violation?",
+   "choices": [
+    "Once in any 18-month period.",
+    "Once in any 12-month period.",
+    "Once in any 36-month period."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Traffic violator school for a one-point violation is allowed once in any 18-month period."
+  },
+  {
+   "id": "q-negligent-driver",
+   "facts": [
+    "negligent-driver"
+   ],
+   "prompt": "What can the DMV do if you have too many points on your record?",
+   "choices": [
+    "Raise your insurance rates, nothing more.",
+    "Require a written retest, nothing more.",
+    "Probation, suspension, or revocation."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "With too many points you are a negligent driver, and the DMV can place you on probation or suspend or revoke your driving privilege."
+  },
+  {
+   "id": "q-hit-and-run",
+   "facts": [
+    "hit-and-run-revocation"
+   ],
+   "prompt": "What will the DMV do if you are convicted of hit-and-run?",
+   "choices": [
+    "Add one point to your record.",
+    "Revoke your driving privilege.",
+    "Send you a warning letter."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "The DMV will revoke your driving privilege for a hit-and-run conviction or reckless driving that caused injury."
+  },
+  {
+   "id": "q-minor-one",
+   "facts": [
+    "minor-one-violation",
+    "minor-first-12-months-action"
+   ],
+   "prompt": "As a minor, what is the fewest at-fault collisions or convictions after which the DMV may act against your license?",
+   "choices": [
+    "One.",
+    "Two.",
+    "Three."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "The DMV may take action after just one at-fault collision or traffic conviction, especially in your first 12 months."
+  },
+  {
+   "id": "q-minor-two",
+   "facts": [
+    "minor-two-violations"
+   ],
+   "prompt": "A 17-year-old driver has two at-fault collisions. What happens?",
+   "choices": [
+    "A six-month suspension and a year of probation.",
+    "30 days of driving only with an adult 25 or older.",
+    "A warning letter, with no limits on driving."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Two at-fault collisions or convictions means 30 days without driving unless a licensed adult 25 or older is along. Six months' suspension is for three."
+  },
+  {
+   "id": "q-minor-three",
+   "facts": [
+    "minor-three-violations"
+   ],
+   "prompt": "A minor gets a third traffic violation conviction. What happens?",
+   "choices": [
+    "Six months' suspension and a year of probation.",
+    "30 days of driving only with an adult along.",
+    "A one-year suspension and a fine."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Three at-fault collisions or convictions, or a mix, means a six-month suspension and one year of probation."
+  },
+  {
+   "id": "q-minor-alcohol",
+   "facts": [
+    "minor-alcohol-drug-conviction"
+   ],
+   "prompt": "A 17-year-old is convicted of using alcohol. What happens to their driving privilege?",
+   "choices": [
+    "Suspended for 30 days, then restored.",
+    "Nothing, if they weren't driving.",
+    "Suspended for one year, or eligibility delayed."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "If you are 15 to 20 and convicted of using alcohol or a controlled substance, the court orders a one-year suspension or a delay in eligibility for a license."
+  },
+  {
+   "id": "q-turning-18",
+   "facts": [
+    "turning-18-restrictions-remain"
+   ],
+   "prompt": "You are on probation as a minor driver and turn 18. What happens to the probation?",
+   "choices": [
+    "It ends on your 18th birthday.",
+    "It continues; turning 18 doesn't end it.",
+    "It becomes a note on your record only."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Turning 18 does not erase or end existing restrictions, suspensions or probation."
+  },
+  {
+   "id": "q-hearing-deadline",
+   "facts": [
+    "hearing-request-deadline"
+   ],
+   "prompt": "You are handed a notice of a proposed DMV action against your license. What is your deadline to request a hearing?",
+   "choices": [
+    "3 days after being served.",
+    "30 days after being served.",
+    "10 days after being served."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "You must request a hearing within 10 days of being served, or 14 days from when a notice was mailed, or you lose the right to one."
+  }
+ ]
+}

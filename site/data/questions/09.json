@@ -1,0 +1,521 @@
+{
+ "section": 9,
+ "questions": [
+  {
+   "id": "q-dui-prescription",
+   "facts": [
+    "dui-prescription-same-as-illegal",
+    "dui-any-impairing-drug",
+    "dui-alcohol-and-drugs"
+   ],
+   "prompt": "Do California's DUI laws apply to medicine prescribed by your doctor?",
+   "choices": [
+    "No, only to alcohol and illegal drugs.",
+    "Yes, if it affects your ability to drive.",
+    "Only if you take more than the prescribed dose."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "DUI law makes no distinction between illegal drugs and medicines from a doctor or pharmacy. Any drug that impairs your driving counts."
+  },
+  {
+   "id": "q-cough-syrup",
+   "facts": [
+    "dui-excessive-alcohol-any-form"
+   ],
+   "prompt": "Is it illegal to drive after taking a large amount of cough syrup that contains alcohol?",
+   "choices": [
+    "Yes; alcohol in any form counts.",
+    "No; medicines are exempt from DUI law.",
+    "Only if it was not prescribed to you."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "At any age it is illegal to drive after drinking excessive alcohol in any form, including medicines like cough syrup."
+  },
+  {
+   "id": "q-drug-alcohol-combo",
+   "facts": [
+    "dui-combination"
+   ],
+   "prompt": "You had one beer and took an allergy pill. Together they make you drowsy. May you drive?",
+   "choices": [
+    "No; their combined effect is what counts.",
+    "No; you may never drive after taking any medicine.",
+    "Yes; each alone is within safe limits."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "It is illegal to drive after using any combination of alcohol or drugs that reduces your ability to drive safely. Medicine alone is a problem only if it affects your driving."
+  },
+  {
+   "id": "q-tolerance-age",
+   "facts": [
+    "alcohol-tolerance-age"
+   ],
+   "prompt": "How does your tolerance to alcohol change as you get older?",
+   "choices": [
+    "It decreases.",
+    "It increases.",
+    "It stays the same."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Tolerance to alcohol decreases with age, which raises the risk of alcohol-related driving problems."
+  },
+  {
+   "id": "q-refuse-blood-test",
+   "facts": [
+    "dui-test-refusal-one-year",
+    "chemical-test-refusal"
+   ],
+   "prompt": "An officer who suspects DUI asks you to take a blood test, and you refuse. What happens?",
+   "choices": [
+    "A one-year suspension or revocation.",
+    "Nothing, because the test is voluntary.",
+    "You get a warning noted on your record."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "If you refuse a required chemical test, the DMV will suspend or revoke your driving privilege for one year."
+  },
+  {
+   "id": "q-bicycle-dui",
+   "facts": [
+    "bicycle-dui-minor"
+   ],
+   "prompt": "A 15-year-old is convicted of riding a bicycle under the influence. What can happen?",
+   "choices": [
+    "Nothing; DUI laws don't cover bicycles.",
+    "A fine only, with no effect on driving.",
+    "A one-year delay in getting a license."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "If you are 13 to 20 and convicted of bicycling under the influence, your driving privilege may be suspended or delayed for one year once you are eligible."
+  },
+  {
+   "id": "q-passenger-drinking",
+   "facts": [
+    "no-drinking-cannabis-in-vehicle"
+   ],
+   "prompt": "You are driving your own car. May your passenger drink a beer or eat a cannabis edible?",
+   "choices": [
+    "No; the rule covers everyone in the car.",
+    "No; no alcohol may be in the car at all.",
+    "Yes, if the driver is sober."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "It is illegal to drink alcohol or smoke or eat cannabis while driving or riding as a passenger in a private car. Sealed, unopened containers may be carried."
+  },
+  {
+   "id": "q-open-container-taxi",
+   "facts": [
+    "open-container-exemption"
+   ],
+   "prompt": "In which of these may a passenger have an open container of alcohol?",
+   "choices": [
+    "In the back seat of a car.",
+    "In the cab of a pickup.",
+    "In a taxi."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "The open-container rules don't apply to passengers in a bus, taxi, camper or motorhome."
+  },
+  {
+   "id": "q-bac-what",
+   "facts": [
+    "bac-definition"
+   ],
+   "prompt": "What does BAC (blood alcohol concentration) measure?",
+   "choices": [
+    "How many drinks you have had.",
+    "The alcohol in your bloodstream.",
+    "How long since your last drink."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "BAC measures how much alcohol is in your bloodstream."
+  },
+  {
+   "id": "q-bac-over-21",
+   "facts": [
+    "bac-limit-21-and-over"
+   ],
+   "prompt": "You are 25. What is the lowest BAC at which it is illegal for you to drive?",
+   "choices": [
+    "0.05%.",
+    "0.10%.",
+    "0.08%."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Drivers over 21 may not drive with a BAC of 0.08% or higher."
+  },
+  {
+   "id": "q-bac-under-21",
+   "facts": [
+    "bac-limit-under-21"
+   ],
+   "prompt": "You are 19. What is the lowest BAC at which it is illegal for you to drive?",
+   "choices": [
+    "0.05%.",
+    "0.08%.",
+    "0.01%."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Drivers under 21 may not drive with a BAC of 0.01% or higher."
+  },
+  {
+   "id": "q-bac-dui-probation",
+   "facts": [
+    "bac-limit-dui-probation"
+   ],
+   "prompt": "A 35-year-old is on DUI probation. What is the lowest BAC at which it is illegal for them to drive?",
+   "choices": [
+    "0.01%.",
+    "0.04%.",
+    "0.08%."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "At any age, if you are on DUI probation, it is illegal to drive with a BAC of 0.01% or higher."
+  },
+  {
+   "id": "q-bac-for-hire",
+   "facts": [
+    "bac-limit-passenger-for-hire",
+    "bac-limit-commercial"
+   ],
+   "prompt": "When you drive a passenger for hire, what is the lowest BAC at which driving is illegal?",
+   "choices": [
+    "0.08%.",
+    "0.01%.",
+    "0.04%."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "It is illegal to drive with a BAC of 0.04% or higher when driving a passenger for hire or a vehicle that needs a commercial license."
+  },
+  {
+   "id": "q-below-limit",
+   "facts": [
+    "below-limit-not-safe"
+   ],
+   "prompt": "Your BAC is below the legal limit. Is it safe to drive?",
+   "choices": [
+    "Not necessarily; alcohol affects you below it.",
+    "Yes; the limit is set at the safe level for all.",
+    "Yes, as long as you feel completely fine."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "A BAC below the limit doesn't mean it's safe. Almost everyone feels effects of alcohol even below the limit."
+  },
+  {
+   "id": "q-dui-no-bac",
+   "facts": [
+    "dui-without-bac"
+   ],
+   "prompt": "Can you be convicted of DUI without a BAC measurement?",
+   "choices": [
+    "Yes, depending on how impaired you are.",
+    "No, a BAC reading is always required.",
+    "Only if you refused to be tested."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "You can be arrested and convicted of DUI based on how impaired you are, even without a BAC measurement."
+  },
+  {
+   "id": "q-bac-factors",
+   "facts": [
+    "bac-factors"
+   ],
+   "prompt": "Which of these affects how high your BAC rises from drinking?",
+   "choices": [
+    "How long you have been driving.",
+    "The time of day you drink.",
+    "Your body weight and gender."
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "explanation": "BAC depends on how many drinks you have, your gender and your body weight."
+  },
+  {
+   "id": "q-one-drink",
+   "facts": [
+    "bac-factors"
+   ],
+   "prompt": "What is the fewest drinks that can affect your ability to drive safely?",
+   "choices": [
+    "Three.",
+    "One.",
+    "Enough to reach 0.08%."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Even one drink can affect your ability to drive safely."
+  },
+  {
+   "id": "q-jet-ski",
+   "facts": [
+    "boating-under-influence"
+   ],
+   "prompt": "You are about to ride a jet ski on a lake. What does the law say about drinking alcohol?",
+   "choices": [
+    "You may not drink while you operate it.",
+    "You may drink, since you're off the road.",
+    "You may drink if you stay under 0.08%."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "It is illegal to drink alcohol or take drugs while operating a boat, jet ski, water skis or similar vessel."
+  },
+  {
+   "id": "q-implied-consent",
+   "facts": [
+    "implied-consent"
+   ],
+   "prompt": "By driving in California, what have you agreed to?",
+   "choices": [
+    "A search of your car at any traffic stop.",
+    "A breath test at any traffic stop at all.",
+    "A chemical test if suspected of DUI."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "By driving in California you consent to a breath, blood or urine test if an officer suspects DUI."
+  },
+  {
+   "id": "q-blood-after-breath",
+   "facts": [
+    "pas-then-blood-urine"
+   ],
+   "prompt": "You took a breath test after being stopped for DUI. May you still be required to take a blood or urine test?",
+   "choices": [
+    "No, one test is the limit.",
+    "Yes, to check for drugs.",
+    "Only if your breath test was over 0.08%."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Even after a preliminary screening or breath test, you may have to take a blood or urine test to detect drugs."
+  },
+  {
+   "id": "q-admin-per-se",
+   "facts": [
+    "admin-per-se"
+   ],
+   "prompt": "Under the Administrative Per Se law, what happens when you are arrested for DUI?",
+   "choices": [
+    "Nothing, until a court convicts you.",
+    "You get a warning letter from the DMV.",
+    "The DMV suspends your driving privilege."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Administrative Per Se requires the DMV to suspend your driving privilege when you are arrested for DUI, separate from any court case."
+  },
+  {
+   "id": "q-temp-license",
+   "facts": [
+    "dui-arrest-temporary-license"
+   ],
+   "prompt": "After a DUI arrest, the officer takes your license. What may you be given?",
+   "choices": [
+    "A 30-day temporary license.",
+    "A 10-day temporary license.",
+    "A 6-month restricted license."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "The officer may take your license and give you a 30-day temporary driver's license."
+  },
+  {
+   "id": "q-dui-hearing",
+   "facts": [
+    "dui-arrest-hearing-10-days"
+   ],
+   "prompt": "After a DUI arrest, how long do you have to request a DMV administrative hearing?",
+   "choices": [
+    "10 days from the arrest.",
+    "30 days from the arrest.",
+    "5 days from the arrest."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "You may request a DMV hearing within 10 days of the date of your arrest."
+  },
+  {
+   "id": "q-dui-program",
+   "facts": [
+    "dui-conviction-program"
+   ],
+   "prompt": "If you are convicted of DUI, what must you complete?",
+   "choices": [
+    "A traffic violator school course.",
+    "A DUI program.",
+    "A new behind-the-wheel test."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A DUI conviction requires you to complete a DUI program."
+  },
+  {
+   "id": "q-dui-sr22",
+   "facts": [
+    "dui-conviction-sr22",
+    "dui-conviction-suspension"
+   ],
+   "prompt": "After a DUI conviction, which form must you file with the DMV?",
+   "choices": [
+    "An SR-1 traffic collision report.",
+    "A DS 699 driver reexamination request.",
+    "An SR 22 insurance proof certificate."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "After a DUI conviction you must file a California Insurance Proof Certificate (SR 22/SR 1P), and the DMV will suspend or revoke your license."
+  },
+  {
+   "id": "q-dui-iid",
+   "facts": [
+    "dui-conviction-iid"
+   ],
+   "prompt": "After a DUI conviction, what may you be required to install on your vehicle?",
+   "choices": [
+    "A speed-limiting device.",
+    "An ignition interlock device.",
+    "A dashboard camera."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "A DUI conviction may require you to install an ignition interlock device (IID)."
+  },
+  {
+   "id": "q-dui-jail",
+   "facts": [
+    "dui-jail-six-months"
+   ],
+   "prompt": "A DUI conviction can bring a jail sentence of up to:",
+   "choices": [
+    "Six months.",
+    "30 days.",
+    "Two years."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "A DUI conviction can mean up to six months in jail, along with fines and other penalties."
+  },
+  {
+   "id": "q-dui-record",
+   "facts": [
+    "dui-record-10-years"
+   ],
+   "prompt": "How long does a DUI conviction stay on your driver's record?",
+   "choices": [
+    "36 months.",
+    "Five years.",
+    "10 years."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "DUI convictions stay on your record for 10 years, and another DUI in that time can bring added penalties."
+  },
+  {
+   "id": "q-under-21-carry",
+   "facts": [
+    "under-21-carry-alcohol",
+    "under-21-alcohol-work-exception"
+   ],
+   "prompt": "You are 19 and not working. When may you carry alcohol in your car?",
+   "choices": [
+    "Any time the container is sealed and unopened.",
+    "Only when it is locked in the trunk.",
+    "Only with someone 21 or older, sealed."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Under 21, you may carry alcohol only with someone 21 or older present, and it must be sealed, or kept in the trunk if opened."
+  },
+  {
+   "id": "q-under-21-impound",
+   "facts": [
+    "under-21-alcohol-impound"
+   ],
+   "prompt": "A driver under 21 is caught with alcohol in the car. How long can the car be impounded?",
+   "choices": [
+    "Up to 10 days.",
+    "Up to 30 days.",
+    "Up to one year."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Law enforcement can impound the vehicle for up to 30 days."
+  },
+  {
+   "id": "q-under-21-suspension",
+   "facts": [
+    "under-21-alcohol-suspension"
+   ],
+   "prompt": "A driver under 21 caught with alcohol in the car may have their license suspended for:",
+   "choices": [
+    "30 days.",
+    "Six months.",
+    "One year."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "The court may fine the driver and suspend their license for one year, or delay a first license by up to a year."
+  },
+  {
+   "id": "q-under-21-test",
+   "facts": [
+    "under-21-breath-test"
+   ],
+   "prompt": "An officer suspects a 19-year-old driver has been drinking. What can the officer require?",
+   "choices": [
+    "A breath test or other chemical test.",
+    "Nothing, without proof of a 0.08% BAC.",
+    "A field walking test, but no breath test."
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "explanation": "If an officer suspects a driver under 21 has been drinking, they can require a hand-held breath test, PAS, or other chemical test."
+  },
+  {
+   "id": "q-under-21-005",
+   "facts": [
+    "under-21-005-dui-arrest"
+   ],
+   "prompt": "A later test shows a 19-year-old driver's BAC is 0.05%. What may happen?",
+   "choices": [
+    "Arrest for DUI and license suspension.",
+    "Nothing, since it is under 0.08%.",
+    "A warning, since it is a first stop."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "A driver under 21 whose BAC tests at 0.05% or higher may be arrested for DUI and have their driving privilege suspended."
+  },
+  {
+   "id": "q-under-21-dui-conviction",
+   "facts": [
+    "under-21-dui-001-revocation"
+   ],
+   "prompt": "A driver under 21 is convicted of DUI with a BAC of 0.01% or more. What may happen?",
+   "choices": [
+    "A 30-day suspension and no DUI program.",
+    "A fine only, since it's under 0.08%.",
+    "One-year revocation and a DUI program."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "The DMV may revoke the driving privilege for one year, and the driver must complete a licensed DUI program."
+  }
+ ]
+}

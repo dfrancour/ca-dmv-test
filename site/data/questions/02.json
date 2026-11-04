@@ -1,0 +1,322 @@
+{
+ "section": 2,
+ "questions": [
+  {
+   "id": "q-permit-age",
+   "facts": [
+    "permit-minor-minimum-age"
+   ],
+   "prompt": "If you are under 18, what is the youngest age at which you may apply for an instruction permit?",
+   "choices": [
+    "15½.",
+    "15.",
+    "16."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "Minors must be at least 15½ years old to apply for an instruction permit, and at least 16 to get a license."
+  },
+  {
+   "id": "q-permit-driver-ed",
+   "facts": [
+    "permit-minor-driver-education"
+   ],
+   "prompt": "As a minor, what must you complete before you can get an instruction permit?",
+   "choices": [
+    "50 hours of supervised practice.",
+    "A behind-the-wheel drive test.",
+    "A driver education program."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "Minors must complete driver education to get a permit. The 50 hours of practice and the drive test come later, before the license."
+  },
+  {
+   "id": "q-permit-tests",
+   "facts": [
+    "permit-knowledge-test",
+    "permit-vision-test"
+   ],
+   "prompt": "To get a Class C instruction permit, which tests must you pass?",
+   "choices": [
+    "A behind-the-wheel drive test.",
+    "The knowledge test, and no others.",
+    "The knowledge and vision tests."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "You must pass the knowledge test and a vision test to get a permit. The drive test comes later, for your license."
+  },
+  {
+   "id": "q-joint-custody",
+   "facts": [
+    "permit-minor-joint-custody"
+   ],
+   "prompt": "Your parents share joint custody of you. Who must sign your permit application?",
+   "choices": [
+    "Either parent.",
+    "Both parents.",
+    "The parent you live with most."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "If parents or guardians share joint custody, both must sign the application."
+  },
+  {
+   "id": "q-parent-signature",
+   "facts": [
+    "permit-minor-parent-signature"
+   ],
+   "prompt": "By signing a minor's permit application, what does the parent or guardian accept?",
+   "choices": [
+    "A duty to ride along on every single drive.",
+    "Financial responsibility for the minor.",
+    "The cost of driver training lessons."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "A parent or guardian signing the application approves it and accepts financial responsibility for the minor."
+  },
+  {
+   "id": "q-permit-when-use",
+   "facts": [
+    "permit-minor-wait-for-training"
+   ],
+   "prompt": "You are 15½ and just got your instruction permit. When may you start using it?",
+   "choices": [
+    "Right away, with any licensed adult.",
+    "Once instructor training begins.",
+    "Once your driver education class ends."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Minors may not use a permit until they start behind-the-wheel training with an instructor, who validates it."
+  },
+  {
+   "id": "q-supervisor-minor",
+   "facts": [
+    "permit-practice-supervisor-age",
+    "license-minor-50-hours-practice"
+   ],
+   "prompt": "As a minor with an instruction permit, who may supervise your practice driving?",
+   "choices": [
+    "A California-licensed driver 25 or older.",
+    "Any California-licensed driver 18 or older.",
+    "Any adult 21 or older, licensed or not."
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "explanation": "Minors with a permit must practice with a California-licensed driver at least 25 years old."
+  },
+  {
+   "id": "q-supervisor-adult",
+   "facts": [
+    "permit-practice-supervisor-age"
+   ],
+   "prompt": "You are 20 and have an instruction permit. What is the youngest the licensed driver with you may be?",
+   "choices": [
+    "21 years old.",
+    "18 years old.",
+    "25 years old."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Adults with a permit must drive with a California-licensed driver at least 18. The 25-year minimum applies to minors."
+  },
+  {
+   "id": "q-supervisor-seat",
+   "facts": [
+    "permit-supervisor-take-control"
+   ],
+   "prompt": "Where must the licensed driver supervising a permit holder sit?",
+   "choices": [
+    "Anywhere in the car, front or back.",
+    "Close enough to take control.",
+    "In the back seat, to watch the road."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "The supervising driver must sit close enough to take control of the vehicle if needed."
+  },
+  {
+   "id": "q-license-age",
+   "facts": [
+    "license-minor-minimum-age"
+   ],
+   "prompt": "If you are under 18, what is the youngest age at which you may get a driver's license?",
+   "choices": [
+    "15½.",
+    "16.",
+    "17."
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "explanation": "Minors must be at least 16 to get a driver's license."
+  },
+  {
+   "id": "q-permit-six-months",
+   "facts": [
+    "license-minor-permit-six-months"
+   ],
+   "prompt": "As a minor, what is the shortest time you must have held your instruction permit before scheduling the drive test?",
+   "choices": [
+    "3 months.",
+    "6 months.",
+    "12 months."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Minors must hold a permit for at least 6 months, or turn 18, before scheduling the behind-the-wheel test."
+  },
+  {
+   "id": "q-practice-hours",
+   "facts": [
+    "license-minor-50-hours-practice"
+   ],
+   "prompt": "What is the least supervised practice a minor must complete before getting a license?",
+   "choices": [
+    "30 hours.",
+    "100 hours.",
+    "50 hours."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Minors must practice at least 50 hours with a California-licensed driver 25 or older, including 10 hours at night."
+  },
+  {
+   "id": "q-night-hours",
+   "facts": [
+    "license-minor-10-hours-night"
+   ],
+   "prompt": "Of a minor's 50 required practice hours, what is the least that must be at night?",
+   "choices": [
+    "5 hours.",
+    "20 hours.",
+    "10 hours."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "At least 10 of the 50 practice hours must be driven at night."
+  },
+  {
+   "id": "q-prove-ed-training",
+   "facts": [
+    "license-minor-prove-education-training"
+   ],
+   "prompt": "As a minor, what must you prove to get your driver's license?",
+   "choices": [
+    "Driver education, but not driver training.",
+    "Driver education and driver training.",
+    "Driver training and your own insurance policy."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "Minors must prove they completed both driver education and driver training."
+  },
+  {
+   "id": "q-provisional-night-months",
+   "facts": [
+    "provisional-no-night-driving"
+   ],
+   "prompt": "As a provisional driver, how long are you barred from driving between 11 p.m. and 5 a.m.?",
+   "choices": [
+    "For the first 6 months.",
+    "For the first 12 months.",
+    "Until your 18th birthday."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "Provisional drivers can't drive between 11 p.m. and 5 a.m. during their first 12 months with a license, unless an exception applies."
+  },
+  {
+   "id": "q-provisional-friend",
+   "facts": [
+    "provisional-no-passengers-under-20"
+   ],
+   "prompt": "You are 17 with a provisional license. May you drive your 19-year-old friend to the mall?",
+   "choices": [
+    "Yes, since your friend is over 18.",
+    "Yes, as long as it is during the day.",
+    "Only with a parent or a driver 25+ along."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "Provisional drivers can't carry passengers under 20 unless a parent or guardian, or another licensed driver at least 25, is with them."
+  },
+  {
+   "id": "q-provisional-work",
+   "facts": [
+    "provisional-exception-work"
+   ],
+   "prompt": "In your first year with a provisional license, you must drive home from work after 11 p.m. What must you carry?",
+   "choices": [
+    "A note signed by your parent.",
+    "Nothing; work trips are always allowed.",
+    "A note signed by your employer."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "To be excused for work, a provisional driver must carry a note signed by the employer confirming the job."
+  },
+  {
+   "id": "q-provisional-school",
+   "facts": [
+    "provisional-exception-school"
+   ],
+   "prompt": "To drive for a school activity under the exception, a provisional driver needs a note signed by:",
+   "choices": [
+    "The parent of each passenger.",
+    "The principal, dean, or designee.",
+    "A DMV examiner at your local office."
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "explanation": "For schooling or a school activity, carry a note signed by the school principal, dean or designee."
+  },
+  {
+   "id": "q-provisional-medical",
+   "facts": [
+    "provisional-exception-medical"
+   ],
+   "prompt": "A provisional driver must drive for a medical need with no other way to travel. What must they carry?",
+   "choices": [
+    "A note signed by a parent.",
+    "Nothing, if the need is truly urgent.",
+    "A note signed by a physician."
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "explanation": "For a medical need, carry a physician-signed note giving the condition and the expected recovery date."
+  },
+  {
+   "id": "q-provisional-family",
+   "facts": [
+    "provisional-exception-family"
+   ],
+   "prompt": "To drive an immediate family member under the exception, a provisional driver needs a note signed by:",
+   "choices": [
+    "A parent or legal guardian.",
+    "The family member's doctor.",
+    "The principal of your school."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "To drive an immediate family member, carry a note signed by a parent or legal guardian stating the reason, the family member, and when the need ends."
+  },
+  {
+   "id": "q-parent-cancel",
+   "facts": [
+    "parent-may-cancel-teen-license"
+   ],
+   "prompt": "Can a parent or guardian cancel their teen's driver's license?",
+   "choices": [
+    "Yes, by filing a cancellation form.",
+    "No, only the DMV can cancel a license.",
+    "Only after the teen gets a ticket."
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "explanation": "A parent or guardian may cancel a teen's license by completing a Request for Cancellation or Surrender of a Driver License or ID Card."
+  }
+ ]
+}

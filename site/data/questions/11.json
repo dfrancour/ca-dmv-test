@@ -1,0 +1,35 @@
+{
+ "section": 11,
+ "questions": [
+  {
+   "id": "q-buy-transfer",
+   "facts": [
+    "buy-vehicle-transfer-10-days"
+   ],
+   "prompt": "You just bought a used car. How long do you have to transfer ownership into your name?",
+   "choices": [
+    "5 days.",
+    "10 days.",
+    "20 days."
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "explanation": "When you buy a vehicle, you have 10 days to transfer ownership. A seller has five days to notify the DMV."
+  },
+  {
+   "id": "q-out-of-state-car",
+   "facts": [
+    "out-of-state-register-20-days"
+   ],
+   "prompt": "You move to California with a car registered in another state. How long do you have to register it here?",
+   "choices": [
+    "10 days.",
+    "30 days.",
+    "20 days."
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "explanation": "You have 20 days to register an out-of-state vehicle after becoming a resident or taking a job in California."
+  }
+ ]
+}
